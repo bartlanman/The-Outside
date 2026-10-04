@@ -519,3 +519,40 @@ Primary return anchors:
 The world now has enough independent life to move to the next layer:
 
 **Keeper Office Definition — before character.**
+
+
+## Orchard Keeper Office
+
+The orchard world now has an office before it has a protagonist.
+
+Core files:
+- `Synthesis/ORCHARD_KEEPER_OFFICE.md`
+- `Synthesis/ORCHARD_KEEPER_OFFICE_PLATE.md`
+
+The Keeper's responsibility is:
+
+> **MAKE PRESENT DECISIONS THAT PRESERVE THE ORCHARD'S CAPACITY FOR A FUTURE THEY CANNOT FULLY SPECIFY.**
+
+The office therefore includes both intervention and restraint.
+
+It may legitimately:
+- cut;
+- thin;
+- graft;
+- remove;
+- replant;
+- abandon;
+- wait.
+
+But its authority is bounded.
+
+Key law:
+
+> **THE KEEPER MAY DECIDE HOW TO CARE FOR THE ORCHARD, BUT MAY NOT UNILATERALLY DECIDE WHAT THE ORCHARD FINALLY IS.**
+
+The Keeper's deepest question is:
+
+> **WHAT AM I ENTITLED TO CHANGE IN ORDER TO PRESERVE A FUTURE I DO NOT OWN?**
+
+Next edge:
+**Keeper character candidates — several people inhabiting the same office differently before any protagonist is chosen.**
