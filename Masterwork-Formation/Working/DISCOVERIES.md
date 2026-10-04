@@ -252,3 +252,44 @@ Origin: Hesse.
 *The Glass Bead Game* preserves both the cultural system and the argument against the system's claim to sufficiency.
 
 Origin: Hesse.
+
+
+## 045 — World depth is not lore quantity
+A world feels larger than the participant when histories, agents, places, and consequences retain standing beyond the participant's current path.
+
+Origin: Tolkien.
+
+## 046 — The participant need not be the world's reason for existing
+A protagonist can matter decisively without functioning as the ontological center of the authored world.
+
+Origin: Tolkien / Frodo inside Middle-earth.
+
+## 047 — Self-imposed constraints can push back on the maker
+Maps, language histories, chronologies, and prior legendarium can become authored conditions that later restrict arbitrary narrative convenience.
+
+Origin: Tolkien.
+
+## 048 — Return is a new encounter between changed terms
+The traveler returns changed, but the home has also changed independently.
+
+Origin: Tolkien / "The Scouring of the Shire."
+
+## 049 — Transformation is not optimization
+Frodo's return preserves wounds and loss; a successful crossing can increase capacity while also producing irreversible cost.
+
+Origin: Tolkien.
+
+## 050 — World-scale encounter can return as local stewardship
+Sam's post-quest life translates world-historical participation into planting, family, civic life, and repair.
+
+Origin: Tolkien.
+
+## 051 — Story closure need not imply world closure
+A work can end while preserving the felt continuation of the world beyond the final narrated event.
+
+Origin: Tolkien.
+
+## 052 — Sub-creation contains a possession risk
+The world-maker may confuse responsibility for conditions with ownership of every meaning and will inside the creation.
+
+Origin: Tolkien's sub-creation theory and 1951 Waldman letter.
