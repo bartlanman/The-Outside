@@ -11,7 +11,9 @@
 8. Shakespeare — release of dramatic voice / embodied realization — complete
 9. Whitman — permeability of the authorial I — complete
 10. Proust — retrospective recognition already completed in pilot and available to authorship spine
-11. Next new case: Eliot — curation of inheritance
+11. Eliot — curation of inheritance — complete
+12. Borges — destabilized authorship already completed in pilot and available to authorship spine
+13. Next new case: Calvino — design of reader participation
 
 ## Major research threads
 - authorship genealogy
