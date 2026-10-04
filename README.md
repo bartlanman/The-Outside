@@ -218,3 +218,20 @@ The next edge is not yet story or subject.
 It is:
 
 > **What must the fixed core do before we decide what it is about?**
+
+
+## Core design edge
+
+The fixed core is now specified before subject matter.
+
+Central law:
+
+> **The core must contain enough of the pieces for the first reading to be warranted, while leaving at least one consequential relation unsettled.**
+
+Compression:
+
+**COHERE → INVEST → LEAVE RELATION OPEN → PRESERVE → RETURN → DEEPEN**
+
+The next question is finally approaching content:
+
+> **What subject matter can carry this architecture without collapsing into a puzzle, thesis novel, or AI demonstration?**
