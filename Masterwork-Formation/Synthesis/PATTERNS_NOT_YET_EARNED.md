@@ -253,3 +253,49 @@ Eliot's impersonality theory considered against the actual selection and hierarc
 
 Status:
 PROJECT HYPOTHESIS.
+
+
+## Candidate pattern 026
+PARTICIPATION IS GENUINE TO THE DEGREE THAT THE PARTICIPANT RETAINS STANDING OUTSIDE THE DESIGNER'S MODEL.
+
+Origin:
+Calvino's split between actual reader and fictional Reader.
+
+Status:
+STRONG PROJECT HYPOTHESIS; directly relevant to IA and interactive AI.
+
+## Candidate pattern 027
+A RECEIVER CAN COMPLETE THE OPERATION OF A WORK WITHOUT BECOMING ITS COAUTHOR.
+
+Origin:
+Calvino, with support from Shakespearean performance and earlier receiver-operation findings.
+
+Status:
+PROMISING CROSS-MEDIUM PRINCIPLE.
+
+## Candidate pattern 028
+GENERATION PRODUCES POSSIBILITY; MEANING REQUIRES CONSEQUENCE IN ENCOUNTER.
+
+Origin:
+Calvino's combinatorial theory.
+
+Status:
+STRONG PROJECT HYPOTHESIS; compare with Borges, Homeric recomposition, and generative AI.
+
+## Candidate pattern 029
+A WORK CAN DEPOSIT STRUCTURED ABSENCE AS WELL AS FINISHED CONTENT.
+
+Origin:
+Calvino's ten deliberately unfinished novels.
+
+Status:
+PROMISING; compare with Beckett, Kafka, fragments, and unresolved masterworks.
+
+## Candidate pattern 030
+THE MAKER MAY USE FORMAL DIFFICULTY TO TRANSFORM THEIR OWN CAPACITY.
+
+Origin:
+Calvino's account of writing books he initially felt unable to write.
+
+Status:
+UNTESTED ACROSS ENOUGH DOSSIERS; compare with Proust, Dante, Le Guin.
