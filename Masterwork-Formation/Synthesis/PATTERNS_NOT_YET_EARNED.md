@@ -191,3 +191,31 @@ Shakespearean drama, with retrospective support from Homeric performance.
 
 Status:
 PROMISING CROSS-MEDIUM DISTINCTION.
+
+
+## Candidate pattern 020
+CONTACT BECOMES RELATIONAL ONLY WHEN IT CAN ALTER THE CENTRAL SELF'S RIGHT TO SPEAK.
+
+Origin:
+Whitman, especially the contrast between early expansive identification and wartime particularity.
+
+Status:
+STRONG PROJECT HYPOTHESIS; compare with Le Guin, Proust, and actual participant encounters.
+
+## Candidate pattern 021
+SYMBOLIC INCLUSION CAN MASK THE ERASURE OF INDEPENDENT STANDING.
+
+Origin:
+Whitman's racial / imperial contradictions and expansive poetic "I."
+
+Status:
+STRONG CASE FINDING; highly relevant to AI systems that ingest many voices.
+
+## Candidate pattern 022
+THE AUTHOR'S PREFERRED FINAL DEPOSIT DOES NOT CONTROL SUCCESSION.
+
+Origin:
+Whitman's final-edition preference versus later recovery of earlier *Leaves* editions.
+
+Status:
+PROMISING; compare with Shakespeare editorial history, Proust posthumous text, and canon formation.
