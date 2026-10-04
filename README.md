@@ -136,11 +136,19 @@ Compression:
 
 The work becomes coherent enough to matter, then reaches a jurisdictional seam where it must yield to something it does not own.
 
-The current edge is now:
+The independent-standing problem is now governed by:
 
-> **What forms of independent standing can enter that handoff ethically and materially, without becoming props for the work?**
+> **The handoff must pass to a jurisdiction that exists for reasons other than completing the work.**
 
-See `Masterwork-Formation/Synthesis/FORMAL_OPERATION_CANDIDATES.md` and `IRREDUCIBLE_HANDOFF_AUDIT.md`.
+And ethically:
+
+> **Use the least coercive form of independent standing sufficient to make the seam real.**
+
+The current edge is now prototyping:
+
+> **What is the minimum low-risk prototype that can test the Irreducible Handoff using documentary, institutional, data, or material standing before human vulnerability is introduced?**
+
+See `Masterwork-Formation/Synthesis/INDEPENDENT_STANDING_TAXONOMY.md`, `HANDOFF_ETHICS.md`, and `INDEPENDENT_STANDING_ADMISSIBILITY_MATRIX.md`.
 
 ---
 
