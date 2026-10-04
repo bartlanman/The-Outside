@@ -349,3 +349,33 @@ Human compression:
 
 Next edge:
 **Generate several possible keepers before choosing a protagonist.**
+
+
+## Literary Mastery Correction
+
+The Masterwork Formation research has made a significant correction.
+
+The project had become increasingly capable of designing a work that could pass its own constitutional tests.
+
+That is not the same as making a masterful piece of literature.
+
+A second-pass audit of the masterwork set now asks:
+
+> **WHY IS THIS MAGNIFICENT TO READ?**
+
+The result is a new dual requirement:
+
+> **THE FUTURE MASTERWORK MUST BE BOTH ALIVE AND ANSWERABLE.**
+
+Formal architecture must become literary life:
+**voice, rhythm, scene, character, desire, image, particularity, humor, grief, surprise, and memorable language.**
+
+The architecture may govern the work.
+
+It cannot be the only reason the reader turns the page.
+
+The Orchard has therefore been demoted from lead story-world to **candidate material field**.
+
+The next edge is prior to plot:
+
+> **What human story, voice, desire, or relationship would be worth reading even if the project architecture did not exist?**
