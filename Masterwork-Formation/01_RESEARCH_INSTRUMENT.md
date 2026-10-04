@@ -1,4 +1,4 @@
-# Research Instrument — Version 6
+# Research Instrument — Version 7
 
 Use this instrument for every Masterwork Formation dossier.
 
@@ -368,7 +368,32 @@ Question:
 IS THE SELF BECOMING MORE RELATIONAL,
 OR MERELY LARGER?
 
-## 19. Failure mode
+## 19. Editorial exposure / curation test
+If editors, collaborators, curators, or external readers materially participate, ask:
+- Who could say no?
+- Which cuts or alterations were accepted?
+- Did intervention change the work's identity?
+- Is the contributor an editor, collaborator, coauthor, or something else?
+- Does the final work conceal the intervention that produced it?
+
+For inherited or allusive material ask:
+- Who selected the source?
+- What was excluded?
+- Was the source preserved, transformed, translated, or tokenized?
+- Does the selected corpus masquerade as "the tradition"?
+
+## 20. Provenance / interpretation distinction
+For quoted, cited, translated, inherited, or retrieved material ask:
+- What is the provenance?
+- What happens to it in the new context?
+- What relation does placement create?
+- What does the receiver have to reconstruct?
+
+Question:
+HAVE WE IDENTIFIED THE SOURCE,
+OR EXPLAINED THE OPERATION?
+
+## 21. Failure mode
 Ask:
 
 WHAT DOES THE WORK'S SUCCESSFUL TECHNIQUE BECOME WHEN IT EXCEEDS ITS WARRANT?
@@ -376,7 +401,7 @@ WHAT DOES THE WORK'S SUCCESSFUL TECHNIQUE BECOME WHEN IT EXCEEDS ITS WARRANT?
 For corpora also ask:
 WHAT DOES RELATION BECOME WHEN IT ERASES DIFFERENCE OR REMAINDER?
 
-## 20. Outside / independent standing
+## 22. Outside / independent standing
 Do not force an Outside.
 
 Ask:
@@ -385,7 +410,7 @@ Ask:
 - What evidence, audience, person, institution, history, material condition, event, body, inherited form, competing version, or excluded work had independent standing?
 - Did the work absorb the encounter, resist it, or change because of it?
 
-## 21. Authorial office
+## 23. Authorial office
 Assign only after the preceding sections.
 
 Possible offices may include:
@@ -405,7 +430,7 @@ Possible offices may include:
 
 Do not force a fit.
 
-## 22. Work-specific vs author/tradition-specific
+## 24. Work-specific vs author/tradition-specific
 Ask:
 - What recurs across the maker's oeuvre?
 - What recurs across the tradition?
@@ -414,7 +439,7 @@ Ask:
 - What is a response to this pressure?
 - What belongs only to collection or canon context?
 
-## 23. Reception / continued formation
+## 25. Reception / continued formation
 Reconstruct:
 - expected receiver
 - genre expectation
@@ -432,7 +457,7 @@ Then ask:
 DID RECEPTION OCCUR AFTER FORMATION,
 OR DID RECEPTION PARTICIPATE IN FORMATION OR STATUS CHANGE?
 
-## 24. Deposit / succession
+## 26. Deposit / succession
 Ask:
 - What was actually deposited?
 - Was deposit singular or iterative?
@@ -448,7 +473,7 @@ WHAT A MAKER OR TRADITION ATTEMPTED TO CARRY
 from
 WHAT LATER RECEIVERS FOUND.
 
-## 25. Surviving operation
+## 27. Surviving operation
 Remove period furniture.
 
 State:
@@ -457,7 +482,7 @@ State:
 - what can disappear
 - the operation's failure mode
 
-## 26. THEN -> NOW
+## 28. THEN -> NOW
 Only after historical reconstruction.
 
 Ask:
@@ -471,7 +496,7 @@ SURFACE
 -> FUNCTION
 -> HISTORICAL-EQUIVALENT CREATION.
 
-## 27. Contemporary question
+## 29. Contemporary question
 End with one earned question.
 
 Do not end with a prescription unless the dossier has actually earned one.
@@ -493,6 +518,8 @@ UNIT / ARCHIVE CONDITION
 -> AUTHORSHIP LOCUS / REALIZATION LOCUS
 -> LOCAL STANDING
 -> PERMEABILITY / IDENTIFICATION TEST
+-> EDITORIAL / CURATORIAL TEST
+-> PROVENANCE / INTERPRETATION
 -> AUTHORIAL OFFICE
 -> OUTSIDE / REFUSAL
 -> FAILURE MODE
