@@ -306,3 +306,26 @@ This produced a stronger stewardship law:
 
 Next edge:
 **Deepen the Orchard as a world before plotting it.**
+
+
+## Orchard world deepening
+
+The lead world is now materially grounded as a working mixed-generation apple orchard rather than a metaphorical "heritage orchard."
+
+Its strongest first-pass truth is:
+
+> **The keeper already knows that preservation requires change.**
+
+Pruning, thinning, grafting, replanting, disease control, and harvest are normal acts of stewardship.
+
+So the open question becomes:
+
+> **CONTINUITY OF WHAT?**
+
+The orchard itself is relational:
+
+**ROOTSTOCK + SCION + POLLINATION + SOIL + WEATHER + CARE + TIME**
+
+Next edge:
+
+> **Define the keeper as an office before inventing the keeper as a character.**
