@@ -1,4 +1,4 @@
-# Method — Version 5
+# Method — Version 6
 
 ## Constitutional rule
 
@@ -309,6 +309,32 @@ USE
 -> CHANGED STANDING.
 
 This must be demonstrated, not generalized automatically.
+
+## Permeability / identification discipline
+
+When a speaker, author, system, or persona claims to identify with another, do not treat inclusion as relation automatically.
+
+Ask:
+
+WHAT REMAINS THAT THE CENTRAL SELF CANNOT TRUTHFULLY CLAIM AS ITSELF?
+
+And:
+
+DID CONTACT CHANGE THE CENTRAL SELF'S RIGHT TO SPEAK, OR DID THE OTHER MERELY BECOME MATERIAL FOR THE SELF'S UNIVERSAL CLAIM?
+
+Distinguish:
+
+PERMEABILITY
+from
+ABSORPTION.
+
+Possible warning signs of absorption:
+- the other loses local specificity;
+- symbolic inclusion substitutes for political or relational equality;
+- the central voice can speak as everyone but no one can answer back;
+- catalogue becomes inventory;
+- empathy becomes possession;
+- the future is imagined so completely that succession loses its independence.
 
 ## Failure mode
 
