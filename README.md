@@ -30,7 +30,9 @@ The thesis sequence is stored in `Theses/`:
 5. **Great Works: From Volume to Traverse** — uses Job, the Bible, Proust, Calvino, Borges, Hesse, and alternatives to assay the stages rather than merely decorate them.
 6. **Great Works Beyond Traverse** — extends the comparison toward Field, World, Return, Stewardship, and Operating System.
 7. **The Outside** — asks what independent standing, refusal, embodiment, consequence, and actual otherness mean in a milieu of increasingly abundant synthetic coherence.
-8. **The Participating Author** — develops authorship after the crossing: Maker → Architect → Participant → Witness → Steward → Depositor → Author Absent.
+8. **The Participating Author** — records the pre-dossier AUTHOR₀ thesis: Maker → Architect → Participant → Witness → Steward → Depositor → Author Absent.
+
+The later Masterwork Formation research does not overwrite that thesis. The completed authorship-spine audit revises it through preserved developmental trace: Participating Authorship is now understood more precisely as **bounded authorial jurisdiction under conditions of answerability**.
 
 ## Current trajectory
 
@@ -99,6 +101,16 @@ And the associated authorial problem:
 > **Can authorship shape conditions while remaining answerable to what those conditions allow to arrive from outside the author?**
 
 The working name for that practice is **participating authorship**.
+
+After the full authorship-spine audit, the current working definition is:
+
+> **Participating Authorship is the disciplined exercise of bounded authorial jurisdiction: strong authorship that remains answerable, correctable, and unable to claim ownership of what exceeds its jurisdiction.**
+
+The present research edge is now:
+
+> **What conditions would a work made now need to satisfy to deserve deposit under bounded authorial jurisdiction?**
+
+See `Masterwork-Formation/Synthesis/AUTHORSHIP_SPINE_AUDIT.md` and `Masterwork-Formation/Synthesis/PARTICIPATING_AUTHORSHIP_AFTER_AUDIT.md`.
 
 ---
 
