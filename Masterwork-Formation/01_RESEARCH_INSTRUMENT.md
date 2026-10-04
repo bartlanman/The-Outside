@@ -1,4 +1,4 @@
-# Research Instrument — Version 10
+# Research Instrument — Version 11
 
 Use this instrument for every Masterwork Formation dossier.
 
@@ -482,7 +482,44 @@ Question:
 DOES THE MAKER BUILD A WORLD,
 OR A PRIVATE WILL WITH SCENERY?
 
-## 28. Failure mode
+## 28. Revision / erasure test
+If a work, world, corpus, or system changes across time, ask:
+- Is the earlier state still visible?
+- What changed in the author / system?
+- What changed in the world / corpus?
+- What new position or evidence made revision possible?
+- Does the later work change the standing of the earlier work without deleting it?
+- Can the system state what it used to believe or assume?
+- Does the version history remain part of the meaning?
+
+Question:
+CAN THE WORK LEARN
+WITHOUT FALSIFYING ITS OWN PAST?
+
+## 29. Deeper-history / retcon test
+When later work changes an established rule or worldview, ask:
+- Is the change explained through deeper history, genealogy, suppressed evidence, or new position?
+- Was the earlier claim locally warranted even if incomplete?
+- Does the new account preserve continuity?
+- Is the change merely authorial preference dressed as discovery?
+
+Question:
+IS THIS RE-VISION,
+OR SOVEREIGN OVERWRITE?
+
+## 30. Author-as-inheritor test
+For return to prior work ask:
+- What does the later author inherit from the earlier author?
+- Which prior commitments now constrain revision?
+- What must be preserved as evidence?
+- What can legitimately change?
+- How do readers function as custodians of prior versions?
+
+Question:
+CAN AUTHOR_1 RECEIVE AUTHOR_0
+AS AN INHERITANCE RATHER THAN A MISTAKE TO DELETE?
+
+## 31. Failure mode
 Ask:
 
 WHAT DOES THE WORK'S SUCCESSFUL TECHNIQUE BECOME WHEN IT EXCEEDS ITS WARRANT?
@@ -490,7 +527,7 @@ WHAT DOES THE WORK'S SUCCESSFUL TECHNIQUE BECOME WHEN IT EXCEEDS ITS WARRANT?
 For corpora also ask:
 WHAT DOES RELATION BECOME WHEN IT ERASES DIFFERENCE OR REMAINDER?
 
-## 29. Outside / independent standing
+## 32. Outside / independent standing
 Do not force an Outside.
 
 Ask:
@@ -499,7 +536,7 @@ Ask:
 - What evidence, audience, person, institution, history, material condition, event, body, inherited form, competing version, or excluded work had independent standing?
 - Did the work absorb the encounter, resist it, or change because of it?
 
-## 30. Authorial office
+## 33. Authorial office
 Assign only after the preceding sections.
 
 Possible offices may include:
@@ -519,7 +556,7 @@ Possible offices may include:
 
 Do not force a fit.
 
-## 31. Work-specific vs author/tradition-specific
+## 34. Work-specific vs author/tradition-specific
 Ask:
 - What recurs across the maker's oeuvre?
 - What recurs across the tradition?
@@ -528,7 +565,7 @@ Ask:
 - What is a response to this pressure?
 - What belongs only to collection or canon context?
 
-## 32. Reception / continued formation
+## 35. Reception / continued formation
 Reconstruct:
 - expected receiver
 - genre expectation
@@ -546,7 +583,7 @@ Then ask:
 DID RECEPTION OCCUR AFTER FORMATION,
 OR DID RECEPTION PARTICIPATE IN FORMATION OR STATUS CHANGE?
 
-## 33. Deposit / succession
+## 36. Deposit / succession
 Ask:
 - What was actually deposited?
 - Was deposit singular or iterative?
@@ -562,7 +599,7 @@ WHAT A MAKER OR TRADITION ATTEMPTED TO CARRY
 from
 WHAT LATER RECEIVERS FOUND.
 
-## 34. Surviving operation
+## 37. Surviving operation
 Remove period furniture.
 
 State:
@@ -571,7 +608,7 @@ State:
 - what can disappear
 - the operation's failure mode
 
-## 35. THEN -> NOW
+## 38. THEN -> NOW
 Only after historical reconstruction.
 
 Ask:
@@ -585,7 +622,7 @@ SURFACE
 -> FUNCTION
 -> HISTORICAL-EQUIVALENT CREATION.
 
-## 36. Contemporary question
+## 39. Contemporary question
 End with one earned question.
 
 Do not end with a prescription unless the dossier has actually earned one.
@@ -616,6 +653,9 @@ UNIT / ARCHIVE CONDITION
 -> WORLD INDEPENDENCE
 -> RETURN / NON-RESTORATION
 -> SUB-CREATION / POSSESSION
+-> REVISION / ERASURE
+-> DEEPER HISTORY / RETCON
+-> AUTHOR-AS-INHERITOR
 -> AUTHORIAL OFFICE
 -> OUTSIDE / REFUSAL
 -> FAILURE MODE
