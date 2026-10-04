@@ -284,3 +284,25 @@ It should reveal that:
 > **What made them a good keeper may no longer be sufficient.**
 
 The next step is to stress-test these four before choosing any story-world.
+
+
+## Lead story-world
+
+After stress-testing the four strongest seeds, the current lead is:
+
+> **THE ORCHARD**
+
+Not yet as plot.
+
+Not yet as final story.
+
+It leads because the world itself is already answerable to conditions the keeper does not control:
+
+**WEATHER / SOIL / DISEASE / LINEAGE / SEASON / SUCCESSION**
+
+This produced a stronger stewardship law:
+
+> **LIVING CUSTODY MEANS PRESERVING THE CAPACITY TO CONTINUE, NOT MERELY PRESERVING THE CURRENT FORM.**
+
+Next edge:
+**Deepen the Orchard as a world before plotting it.**
