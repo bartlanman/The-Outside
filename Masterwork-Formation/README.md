@@ -483,3 +483,39 @@ A new working distinction emerges:
 **LIVING CUSTODY — preserve the capacity to continue.**
 
 The next edge is a World Deepening Pass on the Orchard before any plot is designed.
+
+
+## Orchard World Deepening
+
+The lead story-world has now been grounded materially before plot.
+
+Core documents:
+- `Synthesis/ORCHARD_WORLD_DEEPENING.md`
+- `Synthesis/ORCHARD_WORLD_SOURCES.md`
+- `Synthesis/ORCHARD_WORLD_PLATE.md`
+
+The provisional reference world is a mixed-generation working apple orchard in the Virginia Shenandoah / Blue Ridge fruit belt.
+
+The most important refinement is:
+
+> **THE KEEPER ALREADY KNOWS THAT PRESERVATION REQUIRES CHANGE.**
+
+They already prune, thin, graft, remove disease, replant, and adapt.
+
+Therefore the unsettled relation is not whether change is necessary.
+
+It is:
+
+> **CONTINUITY OF WHAT?**
+
+The orchard's identity is materially composite:
+**ROOTSTOCK + SCION + POLLINATION + SOIL + WEATHER + CARE + TIME**
+
+Primary return anchors:
+- graft scar;
+- pruning tool;
+- repeated row through different seasons.
+
+The world now has enough independent life to move to the next layer:
+
+**Keeper Office Definition — before character.**
