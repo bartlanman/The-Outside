@@ -95,3 +95,31 @@ The following cross-pilot findings have been promoted into `EARNED_FORMATION_PRI
 - there is no single masterwork formation mode.
 
 The numbered candidates above remain unpromoted unless explicitly duplicated in the earned-principles file.
+
+
+## Candidate pattern 010
+MASTERWORK IDENTITY MAY SURVIVE WITHOUT VERBATIM FIXITY.
+
+Origin:
+Homeric oral-traditional formation.
+
+Status:
+STRONG HOMERIC FINDING; NOT YET CROSS-AUTHOR PRINCIPLE.
+
+## Candidate pattern 011
+DISTRIBUTED AUTHORSHIP REQUIRES MORE PRECISE RESPONSIBILITY, NOT LESS.
+
+Origin:
+Homeric tradition considered against Participating Authorship.
+
+Status:
+PROJECT HYPOTHESIS.
+
+## Candidate pattern 012
+DEPOSIT MAY BE A RECURRING OPERATION RATHER THAN A SINGLE TERMINAL ACT.
+
+Origin:
+Homeric tradition.
+
+Status:
+PROMISING; compare with Biblical redaction, Shakespearean performance/text, serialized modern works, and digital versioning.
