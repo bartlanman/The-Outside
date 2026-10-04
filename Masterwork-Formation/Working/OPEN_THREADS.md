@@ -52,13 +52,28 @@ Ethical corollary:
 
 > **USE THE LEAST COERCIVE FORM OF INDEPENDENT STANDING SUFFICIENT TO MAKE THE SEAM REAL.**
 
-The next step is prototype design, but still not story design.
+The low-risk prototype stage is now active.
 
-Working question:
+Prototype record:
+- `Prototypes/01_Blind_Documentary_Handoff/` — BLOCKED before reveal; proved that contact cannot be commanded.
+- `Prototypes/02_Blind_SEC_Handoff/` — TECHNICAL PASS; proved that a coherent model can be mostly right while compressing the distinction that matters.
+- `Prototypes/03_Receiver_Reliance_Handoff/` — DESIGNED, not yet run.
 
-> **WHAT IS THE MINIMUM LOW-RISK PROTOTYPE THAT CAN TEST THE IRREDUCIBLE HANDOFF USING DOCUMENTARY, INSTITUTIONAL, DATA, OR MATERIAL STANDING BEFORE HUMAN VULNERABILITY IS INTRODUCED?**
+Prototype 02's key finding:
 
-Do not select intimate human material for the first prototype.
+> **THE MODEL CAN BE USEFUL, COHERENT, AND MOSTLY RIGHT WHILE REMOVING THE DISTINCTION THAT LATER BECOMES DECISIVE.**
+
+This sharpens the contemporary danger from simple falsehood to:
+
+**PREMATURE SUFFICIENCY.**
+
+The next prototype question is:
+
+> **CAN A LOST DISTINCTION BECOME FELT AS CONSEQUENCE RATHER THAN MERELY OBSERVED AS CORRECTION?**
+
+Prototype 03 adds a reversible receiver commitment before documentary handoff.
+
+No intimate or vulnerable human material is required.
 
 ## Major research threads
 - poetics of deposit
