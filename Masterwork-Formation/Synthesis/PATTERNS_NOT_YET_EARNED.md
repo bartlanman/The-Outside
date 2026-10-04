@@ -123,3 +123,40 @@ Homeric tradition.
 
 Status:
 PROMISING; compare with Biblical redaction, Shakespearean performance/text, serialized modern works, and digital versioning.
+
+
+## Candidate pattern 013
+TO PLACE INHERITED WORKS IN DURABLE RELATION CAN ITSELF BE AN AUTHORIAL ACT.
+
+Origin:
+Biblical redaction / collection / canon.
+
+Status:
+STRONG CORPUS FINDING; compare later with Eliot, anthology, editing, and digital knowledge systems.
+
+## Candidate pattern 014
+A WORK CAN REMAIN LOCALLY ITSELF WHILE BECOMING DIFFERENT THROUGH CORPUS RELATION.
+
+Origin:
+Biblical corpus.
+
+Status:
+PROMISING. Compare with Proustian sequence, Borges's "Pierre Menard," and later multi-volume / collected works.
+
+## Candidate pattern 015
+CORPUS REQUIRES BOUNDARY, AND BOUNDARY PRODUCES REMAINDER.
+
+Origin:
+Biblical canon formation.
+
+Status:
+PROJECT HYPOTHESIS WITH STRONG HISTORICAL SUPPORT IN THIS CASE.
+
+## Candidate pattern 016
+RECEPTION CAN CHANGE THE STANDING OF A WORK, NOT ONLY ITS INTERPRETATION.
+
+Origin:
+Biblical canon formation.
+
+Status:
+PROMISING. Compare with Homeric performance reception, later literary canon formation, and institutional art worlds.
