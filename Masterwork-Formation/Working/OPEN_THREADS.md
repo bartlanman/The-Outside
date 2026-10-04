@@ -15,7 +15,8 @@
 12. Borges — destabilized authorship already completed in pilot and available to authorship spine
 13. Calvino — design of reader participation — complete
 14. Hesse — playable inheritance and hermetic risk — complete
-15. Next new case: Tolkien — world exceeding participant and return
+15. Tolkien — world exceeding participant and return — complete
+16. Next new case: Le Guin — author changed by her own world / revision without erasure
 
 ## Major research threads
 - authorship genealogy
