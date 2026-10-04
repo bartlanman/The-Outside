@@ -1,4 +1,4 @@
-# Method — Version 9
+# Method — Version 10
 
 ## Constitutional rule
 
@@ -463,6 +463,82 @@ INITIATION
 -> RESPONSIBILITY / RELINQUISHMENT.
 
 Do not promote this into a universal law without cross-case support.
+
+## World-independence discipline
+
+For authored worlds, simulations, environments, or experiential fields, ask:
+
+WHAT WOULD STILL EXIST, CHANGE, AND MATTER IF THE PARTICIPANT NEVER ARRIVED?
+
+A world is not deep merely because it contains large amounts of lore.
+
+Look for:
+- histories not centered on the participant;
+- agents with unrelated aims;
+- places never visited;
+- events that continue offstage;
+- inherited constraints;
+- consequences that persist after attention moves elsewhere;
+- temporal depth before and after the participant.
+
+Distinguish:
+
+WORLD DEPTH
+from
+LORE QUANTITY.
+
+And:
+
+PARTICIPANT IMPORTANCE
+from
+PARTICIPANT CENTRALITY.
+
+## Return / non-restoration discipline
+
+When a work includes return, do not assume return means restoration.
+
+Ask:
+
+WHAT CHANGED IN THE TRAVELER?
+WHAT CHANGED IN THE PLACE RETURNED TO?
+WHAT CAN NO LONGER BE RESTORED?
+
+Use:
+
+TRAVELER_1
+MEETS
+HOME_1,
+
+not automatically
+HOME_0.
+
+Return may produce:
+- stewardship,
+- departure,
+- grief,
+- local action,
+- altered belonging,
+- renewed responsibility.
+
+## Sub-creation / possession discipline
+
+For world-making ask:
+
+DOES THE MAKER CREATE CONDITIONS FOR A WORLD,
+OR TREAT THE WORLD AS AN EXTENSION OF PRIVATE WILL?
+
+Distinguish:
+
+SUB-CREATION
+from
+POSSESSIVE CREATION.
+
+Warning signs of possessive creation:
+- every mystery is explained;
+- every agent exists for the protagonist;
+- every event waits for participant attention;
+- world history is decorative rather than constraining;
+- care becomes justification for control.
 
 ## Failure mode
 
