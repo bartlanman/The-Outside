@@ -1,10 +1,11 @@
 # Open Threads
 
 ## Pilot sequence
-1. Dante — active
-2. Proust — next
-3. Borges — after Proust
-4. Audit instrument after three pilots
+1. Dante — complete pilot
+2. Proust — complete pilot
+3. Borges — complete pilot
+4. Three-pilot method audit — complete
+5. Authorship spine begins with Homer / Homeric tradition
 
 ## Major research threads
 - authorship genealogy
