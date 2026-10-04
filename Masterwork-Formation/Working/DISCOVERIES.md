@@ -45,3 +45,19 @@ Origin: Proust / World War I.
 
 Possible relevance:
 A strong work may survive the Outside not by resisting change, but by revising without losing identity.
+
+
+## 007 — Formal authority can precede warranted authority
+A text can create the experience of credibility through documentary forms — citation, bibliography, scholarly tone, proper names, editions — before the underlying authority has been independently earned.
+
+Origin: Borges pilot.
+
+## 008 — Historical pressure can become formal pressure
+A work need not represent history directly in order to be altered by it. Political totalization, nationalism, war, and propaganda can be translated into formal problems such as false archives, total systems, and unstable authorship.
+
+Origin: Borges pilot.
+
+## 009 — Apparent inevitability may be the surface of severe revision
+Borges's compact, crystalline fictions emerge from manuscripts containing alternatives, deletions, insertions, and post-publication changes.
+
+Origin: Borges pilot.
