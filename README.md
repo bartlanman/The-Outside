@@ -118,7 +118,19 @@ The current edge has moved again:
 
 > **What is the present historical pressure to which a masterwork made now would have to become formally adequate?**
 
-See `Masterwork-Formation/Synthesis/AUTHORSHIP_SPINE_AUDIT.md`, `PARTICIPATING_AUTHORSHIP_AFTER_AUDIT.md`, and `MASTERWORK_FORMATION_CONDITIONS.md`.
+The 2026 pressure map now answers:
+
+> **The experience of relation can now be generated more easily than independent relation can be verified.**
+
+Or more compactly:
+
+**SYNTHETIC COHERENCE IS ABUNDANT. INDEPENDENT STANDING IS SCARCE.**
+
+The current edge is therefore formal:
+
+> **What form could make the difference between coherence and contact become consequential to a receiver without pre-solving the encounter?**
+
+See `Masterwork-Formation/Synthesis/CONTEMPORARY_PRESSURE_MAP_2026.md`.
 
 ---
 
