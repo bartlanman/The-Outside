@@ -191,3 +191,30 @@ The receiver then returns through the same material and discovers changed standi
 The next edge is medium:
 
 > **What medium can make return real enough that the receiver re-encounters the same material rather than simply being told to reinterpret it?**
+
+
+## Medium architecture
+
+The Relational Return now has a leading medium architecture:
+
+> **FIXED CORE / LIVE SEAM**
+
+or:
+
+> **DEPOSIT BODY ⇄ ENCOUNTER BODY**
+
+The deposit body remains stable enough to return to.
+
+The encounter body remains live enough to receive independent correction.
+
+The receiver moves:
+
+**CORE → ENCOUNTER → CORE AGAIN**
+
+This preserves the same material while allowing the receiver's standing toward it to change.
+
+The next edge is not yet story or subject.
+
+It is:
+
+> **What must the fixed core do before we decide what it is about?**
