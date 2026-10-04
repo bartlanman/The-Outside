@@ -25,3 +25,31 @@ GREAT AUTHORSHIP MAY INVOLVE A CHANGE OF OFFICE BETWEEN EXPERIENCE AND COMPOSITI
 Origin: Dante traveler / later poet distinction.
 
 Status: UNTESTED.
+
+
+## Candidate pattern 004
+THE WORK MAY DISCOVER ITS FINAL FORM BY OUTGROWING ITS INTENDED FORM.
+
+Origin:
+Proust pilot: *Contre Sainte-Beuve* -> novel; shorter planned architecture -> expanded *Recherche*.
+
+Status:
+UNTESTED ACROSS DOSSIERS.
+
+## Candidate pattern 005
+A MASTERWORK MAY RETAIN IDENTITY WHILE AN EXTERNAL EVENT FORCES ITS ARCHITECTURE TO CHANGE.
+
+Origin:
+Proust / World War I.
+
+Status:
+PROMISING, NOT EARNED.
+
+## Candidate pattern 006
+RETROSPECTIVE FORM MUST PRESERVE ACCIDENT OR IT BECOMES DESTINY.
+
+Origin:
+Proust pilot.
+
+Status:
+PROJECT HYPOTHESIS.
