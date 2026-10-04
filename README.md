@@ -126,11 +126,21 @@ Or more compactly:
 
 **SYNTHETIC COHERENCE IS ABUNDANT. INDEPENDENT STANDING IS SCARCE.**
 
-The current edge is therefore formal:
+The first formal-operation search now points to:
 
-> **What form could make the difference between coherence and contact become consequential to a receiver without pre-solving the encounter?**
+> **THE IRREDUCIBLE HANDOFF**
 
-See `Masterwork-Formation/Synthesis/CONTEMPORARY_PRESSURE_MAP_2026.md`.
+Compression:
+
+**MODEL → INVESTMENT → LIMIT → HANDOFF → RETURN → TRACE**
+
+The work becomes coherent enough to matter, then reaches a jurisdictional seam where it must yield to something it does not own.
+
+The current edge is now:
+
+> **What forms of independent standing can enter that handoff ethically and materially, without becoming props for the work?**
+
+See `Masterwork-Formation/Synthesis/FORMAL_OPERATION_CANDIDATES.md` and `IRREDUCIBLE_HANDOFF_AUDIT.md`.
 
 ---
 
