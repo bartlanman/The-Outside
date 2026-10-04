@@ -272,3 +272,34 @@ And:
 This returns the prototype research to a foundational project concern: relation is not decorative adjacency. It can determine what the receiver is entitled to believe.
 
 The next edge is artistic embodiment rather than seam mechanics.
+
+
+## Artistic Embodiment Search
+
+Prototype 03 established that relational compression can reverse a receiver's judgment.
+
+The first artistic-embodiment search now identifies a leading operation:
+
+> **THE RELATIONAL RETURN**
+
+Compression:
+
+**SEE → TRUST → MEET → CHANGE → RETURN → SEE AGAIN**
+
+The form requires:
+- a first reading that is locally warranted;
+- a genuine jurisdictional seam;
+- contact with independent standing;
+- a changed relation;
+- return through the same earlier material;
+- a second seeing that is more warranted but not final;
+- preserved remainder.
+
+Core files:
+- `Synthesis/ARTISTIC_EMBODIMENT_CANDIDATES.md`
+- `Synthesis/RELATIONAL_RETURN_AUDIT.md`
+- `Synthesis/RELATIONAL_RETURN_PLATE.md`
+
+The next research edge is medium selection based on one criterion:
+
+**WHICH MEDIUM CAN ACTUALLY PERFORM RETURN?**
