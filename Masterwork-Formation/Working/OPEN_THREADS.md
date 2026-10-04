@@ -442,3 +442,74 @@ Only after literary necessity appears should we ask whether the Orchard is the r
 Do not fill future stages merely because symmetry suggests a term.
 
 Let comparison and encounter earn the next structure.
+
+
+## Milieu / Signal Axis — Current Edge
+
+A third audit axis is now active.
+
+Core documents:
+- `Synthesis/CULTURAL_SELF_PERCEPTION_THRESHOLD.md`
+- `Synthesis/MASTERWORK_MILIEU_TRAJECTORY.md`
+- `Synthesis/MASTERWORK_MILIEU_MATRIX.md`
+
+The governing hypothesis is:
+
+> **A CULTURE MAY CROSS INTO A NEW CAPACITY WHEN ONE OF THE CONDITIONS THROUGH WHICH IT PERCEIVES BECOMES AVAILABLE TO THE CULTURE AS AN OBJECT OF PERCEPTION.**
+
+This sharpens the poet-as-antenna idea.
+
+A masterwork need not predict the future literally.
+
+It may become historically precocious when:
+1. a cultural pressure already exists;
+2. inherited language still treats the prior condition as sufficient;
+3. the artist senses the mismatch;
+4. the work makes the previously invisible condition perceptible;
+5. later culture acquires new capacity partly because the condition can now be seen.
+
+Working sequence:
+
+**CULTURAL FORM → PRESSURE → SELF-PERCEPTION THRESHOLD → FORMAL MUTATION → NEW CAPACITY**
+
+The historical trajectory currently reads:
+
+**PERFORMED MEMORY
+→ CURATED MEMORY
+→ VERNACULAR SELF IN UNIVERSAL ORDER
+→ PERFORMED PERSONHOOD
+→ DEMOCRATIC SOCIAL BODY
+→ TEMPORAL / PSYCHOLOGICAL SELF
+→ FRAGMENTED INHERITANCE
+→ TEXTUAL AUTHORITY AS CONSTRUCTION
+→ CULTURE AS SYSTEM
+→ WORLD AS DEEP INHERITANCE
+→ CANONICAL POSITION AS HISTORICAL
+→ CULTURE AS COMPUTATIONAL SELF-MODEL**
+
+The contemporary threshold is provisionally:
+
+> **CULTURE CAN NOW CONVERSE WITH A MODEL OF CULTURE.**
+
+This is a new reflexive capacity.
+
+It is also a danger because:
+
+> **THE MODEL OF CULTURE CAN BE MISTAKEN FOR THE OUTSIDE OF CULTURE.**
+
+The future masterwork now has three required coordinates:
+
+### FORMAL
+What operation can make the contemporary distinction consequential?
+
+### LITERARY
+What work would be magnificent to read even without the theory?
+
+### HISTORICAL / MILIEU
+What condition is culture currently living through before it has fully learned how to perceive and speak about it?
+
+The Orchard remains frozen as a candidate material field until this three-axis alignment is clearer.
+
+### Current research question
+
+> **WHAT, EXACTLY, IS THE PRESENT CULTURE BEGINNING TO PERCEIVE ABOUT ITSELF THROUGH GENERATIVE / RESPONSIVE MEDIA THAT IT COULD NOT PREVIOUSLY PERCEIVE — AND WHAT NEW CAPACITY MIGHT OPEN IF THAT CONDITION BECOMES LEGIBLE?**
