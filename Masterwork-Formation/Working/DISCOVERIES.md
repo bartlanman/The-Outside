@@ -61,3 +61,33 @@ Origin: Borges pilot.
 Borges's compact, crystalline fictions emerge from manuscripts containing alternatives, deletions, insertions, and post-publication changes.
 
 Origin: Borges pilot.
+
+
+## 010 — Authorship locus must be separated from authorial office
+A work may have distributed creative and custodial agency even when later culture assigns it to one authorial name.
+
+Origin: Homeric tradition.
+
+Question added:
+WHERE IS AUTHORIAL AGENCY ACTUALLY LOCATED?
+
+## 011 — Reception can participate in formation
+In oral-traditional composition, reception can happen during performance and may affect continued recomposition and transmission.
+
+Origin: Homeric tradition.
+
+Caution:
+Do not generalize this automatically to all media.
+
+## 012 — Deposit can be iterative
+A work may enter the future through repeated deposits rather than one final authorial release.
+
+Origin: Homeric tradition.
+
+Examples:
+performance -> reperformance -> textualization -> variant witness -> edited text -> manuscript.
+
+## 013 — Tradition can be a generative medium, not merely a source
+An inheritance may supply not just content but the grammar through which new making is possible.
+
+Origin: Homeric tradition.
