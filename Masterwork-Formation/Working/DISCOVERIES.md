@@ -159,3 +159,29 @@ Origin: Whitman / Civil War.
 An author may designate a final version, yet later receivers can return to earlier editions and assign them renewed standing.
 
 Origin: Whitman's lifetime editions and modern return to 1855 / 1860 forms.
+
+
+## 027 — Editorial exposure can be an authorial discipline
+A primary author can remain primary while giving another person enough standing to cut, refuse, or materially alter the work.
+
+Origin: Eliot / Pound / Vivien formation record.
+
+## 028 — Curation is a form of composition
+Selection, exclusion, placement, and juxtaposition can carry authorial force even when much of the material is inherited.
+
+Origin: Eliot / *The Waste Land*.
+
+## 029 — Provenance is not interpretation
+Identifying a source does not explain what the source does after recontextualization.
+
+Origin: Eliot's allusive method and later source-hunting reception.
+
+## 030 — A new work can reweight an inherited corpus
+Eliot's explicit theory of tradition proposes that a genuinely new work changes the relational order through which earlier works are perceived.
+
+Origin: "Tradition and the Individual Talent."
+
+## 031 — The future may inherit the exclusions of formation
+Publication of drafts can reopen rejected material and make the work's hidden selection history part of later reception.
+
+Origin: 1971 publication of *The Waste Land* drafts.
