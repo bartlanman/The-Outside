@@ -1,4 +1,4 @@
-# Research Instrument — Version 9
+# Research Instrument — Version 10
 
 Use this instrument for every Masterwork Formation dossier.
 
@@ -444,7 +444,45 @@ Question:
 IS MASTERY THE END STATE,
 OR A THRESHOLD TO A DIFFERENT RESPONSIBILITY?
 
-## 25. Failure mode
+## 25. World-independence test
+If the work constructs a world, environment, simulation, or experiential field, ask:
+- What would still exist if the participant never arrived?
+- What histories predate the protagonist?
+- What agents pursue goals unrelated to the participant?
+- What continues offstage?
+- What places remain unvisited?
+- What constraints push back against narrative convenience?
+- Does the world change while the participant is elsewhere?
+
+Question:
+IS THIS A WORLD,
+OR SCENERY ORCHESTRATED AROUND THE PARTICIPANT?
+
+## 26. Return / non-restoration test
+If the participant returns, ask:
+- Is the traveler the same?
+- Is home the same?
+- What wounds or capacities remain?
+- Does the return require local action?
+- Does the return become stewardship, departure, grief, or renewed obligation?
+
+Question:
+DOES RETURN MEAN RESTORATION,
+OR A NEW ENCOUNTER BETWEEN CHANGED TERMS?
+
+## 27. Sub-creation / possession test
+For world-making ask:
+- What remains beyond the maker's explanation?
+- What constraints does the maker voluntarily submit to?
+- Can the world resist protagonist convenience?
+- Does care become domination?
+- Is the world being stewarded or possessed?
+
+Question:
+DOES THE MAKER BUILD A WORLD,
+OR A PRIVATE WILL WITH SCENERY?
+
+## 28. Failure mode
 Ask:
 
 WHAT DOES THE WORK'S SUCCESSFUL TECHNIQUE BECOME WHEN IT EXCEEDS ITS WARRANT?
@@ -452,7 +490,7 @@ WHAT DOES THE WORK'S SUCCESSFUL TECHNIQUE BECOME WHEN IT EXCEEDS ITS WARRANT?
 For corpora also ask:
 WHAT DOES RELATION BECOME WHEN IT ERASES DIFFERENCE OR REMAINDER?
 
-## 26. Outside / independent standing
+## 29. Outside / independent standing
 Do not force an Outside.
 
 Ask:
@@ -461,7 +499,7 @@ Ask:
 - What evidence, audience, person, institution, history, material condition, event, body, inherited form, competing version, or excluded work had independent standing?
 - Did the work absorb the encounter, resist it, or change because of it?
 
-## 27. Authorial office
+## 30. Authorial office
 Assign only after the preceding sections.
 
 Possible offices may include:
@@ -481,7 +519,7 @@ Possible offices may include:
 
 Do not force a fit.
 
-## 28. Work-specific vs author/tradition-specific
+## 31. Work-specific vs author/tradition-specific
 Ask:
 - What recurs across the maker's oeuvre?
 - What recurs across the tradition?
@@ -490,7 +528,7 @@ Ask:
 - What is a response to this pressure?
 - What belongs only to collection or canon context?
 
-## 29. Reception / continued formation
+## 32. Reception / continued formation
 Reconstruct:
 - expected receiver
 - genre expectation
@@ -508,7 +546,7 @@ Then ask:
 DID RECEPTION OCCUR AFTER FORMATION,
 OR DID RECEPTION PARTICIPATE IN FORMATION OR STATUS CHANGE?
 
-## 30. Deposit / succession
+## 33. Deposit / succession
 Ask:
 - What was actually deposited?
 - Was deposit singular or iterative?
@@ -524,7 +562,7 @@ WHAT A MAKER OR TRADITION ATTEMPTED TO CARRY
 from
 WHAT LATER RECEIVERS FOUND.
 
-## 31. Surviving operation
+## 34. Surviving operation
 Remove period furniture.
 
 State:
@@ -533,7 +571,7 @@ State:
 - what can disappear
 - the operation's failure mode
 
-## 32. THEN -> NOW
+## 35. THEN -> NOW
 Only after historical reconstruction.
 
 Ask:
@@ -547,7 +585,7 @@ SURFACE
 -> FUNCTION
 -> HISTORICAL-EQUIVALENT CREATION.
 
-## 33. Contemporary question
+## 36. Contemporary question
 End with one earned question.
 
 Do not end with a prescription unless the dossier has actually earned one.
@@ -575,6 +613,9 @@ UNIT / ARCHIVE CONDITION
 -> GENERATION / MEANING
 -> HERMETICITY / EXIT
 -> MASTERY / RELINQUISHMENT
+-> WORLD INDEPENDENCE
+-> RETURN / NON-RESTORATION
+-> SUB-CREATION / POSSESSION
 -> AUTHORIAL OFFICE
 -> OUTSIDE / REFUSAL
 -> FAILURE MODE
