@@ -170,3 +170,37 @@ The author must not predetermine:
 - the future receiver's final account.
 
 The next research edge is to identify what kinds of independent standing can ethically enter that handoff.
+
+
+## Independent Standing / Handoff Ethics
+
+The handoff seam is now governed by a taxonomy and ethics protocol.
+
+Core documents:
+- `Synthesis/INDEPENDENT_STANDING_TAXONOMY.md`
+- `Synthesis/HANDOFF_ETHICS.md`
+- `Synthesis/INDEPENDENT_STANDING_PLATE.md`
+- `Synthesis/INDEPENDENT_STANDING_SOURCES.md`
+- `Synthesis/INDEPENDENT_STANDING_ADMISSIBILITY_MATRIX.md`
+
+Key distinction:
+
+**UNPREDICTABLE ≠ INDEPENDENT.**
+
+Randomness, a rival AI model, or a generated persona may surprise the work without possessing independent standing.
+
+Governing rule:
+
+> **THE HANDOFF MUST PASS TO A JURISDICTION THAT EXISTS FOR REASONS OTHER THAN COMPLETING THE WORK.**
+
+Ethical rule:
+
+> **USE THE LEAST COERCIVE FORM OF INDEPENDENT STANDING SUFFICIENT TO MAKE THE SEAM REAL.**
+
+For the first prototype, prefer:
+- independently custodied source;
+- external institution;
+- independently maintained data;
+- low-risk material condition;
+
+before involving intimate human testimony or vulnerable participants.
