@@ -5,7 +5,8 @@
 2. Proust — complete pilot
 3. Borges — complete pilot
 4. Three-pilot method audit — complete
-5. Authorship spine begins with Homer / Homeric tradition
+5. Homer / Homeric tradition — first authorship-spine case complete
+6. Next: Biblical authorship / redaction / canon as layered custody
 
 ## Major research threads
 - authorship genealogy
