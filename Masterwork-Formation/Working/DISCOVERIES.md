@@ -185,3 +185,34 @@ Origin: "Tradition and the Individual Talent."
 Publication of drafts can reopen rejected material and make the work's hidden selection history part of later reception.
 
 Origin: 1971 publication of *The Waste Land* drafts.
+
+
+## 032 — Participation can be constitutive without being coauthorship
+A receiver may have to perform essential interpretive or experiential work for the work to function while still not authoring the fixed textual material.
+
+Origin: Calvino / *If on a winter's night a traveler*.
+
+## 033 — A designed participant is not the actual participant
+Second-person address can create a reader-position while the actual reader remains irreducible to the fictional or system-defined model.
+
+Origin: Calvino.
+
+## 034 — Interruption can be a positive compositional force
+Withholding completion can generate desire, memory, re-entry, and relational labor rather than simply frustrate narrative.
+
+Origin: Calvino.
+
+## 035 — Generation is not the final site of meaning
+Combinatorial possibility acquires significance in encounter with a historically situated receiver rather than through permutation alone.
+
+Origin: Calvino's "Cybernetics and Ghosts."
+
+## 036 — Writing can be used to transform the writer's capacity
+Calvino describes attempting books beyond his existing capacities and treating the effort as a way of changing himself, not merely producing an object.
+
+Origin: Calvino's "The Written and the Unwritten Word."
+
+## 037 — The actual receiver can function as Outside
+A work may script a receiver-position without being able to author the real receiver's response, refusal, reinterpretation, or abandonment.
+
+Origin: Calvino.
