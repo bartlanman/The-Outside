@@ -388,3 +388,28 @@ Compression:
 **COHERE → INVEST → LEAVE RELATION OPEN → PRESERVE → RETURN → DEEPEN**
 
 The next edge is subject-matter admissibility.
+
+
+## Subject-Matter Admissibility
+
+The architecture has now moved close enough to content to identify admissible subject fields.
+
+Core files:
+- `Synthesis/SUBJECT_MATTER_ADMISSIBILITY.md`
+- `Synthesis/SUBJECT_MATTER_ADMISSIBILITY_PLATE.md`
+
+The strongest current field is:
+
+> **CUSTODY / STEWARDSHIP / INHERITANCE UNDER CHANGED STANDING**
+
+The first pass establishes competent, meaningful care.
+
+The handoff reveals that another person, source, institution, history, place, or material condition also has standing.
+
+The return therefore changes not merely what the receiver knows, but what care requires.
+
+Compression:
+
+**CARE → CONTACT → CHANGED STANDING → CHANGED OBLIGATION → RETURN**
+
+The next edge is to generate story-world seeds without yet selecting plot, twist, or ending.
