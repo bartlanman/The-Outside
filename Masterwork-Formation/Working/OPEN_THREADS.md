@@ -331,11 +331,102 @@ Office compression:
 
 **RECEIVE → OBSERVE → JUDGE → INTERVENE / RESTRAIN → ACCEPT CONSEQUENCE → RECORD → REVISE → PRESERVE FUTURE CAPACITY → HAND OFF**
 
-Next:
+Previous next step (now frozen):
 
-> **GENERATE MULTIPLE KEEPER CHARACTER CANDIDATES WHO INHABIT THE SAME OFFICE DIFFERENTLY.**
+~~GENERATE MULTIPLE KEEPER CHARACTER CANDIDATES WHO INHABIT THE SAME OFFICE DIFFERENTLY.~~
 
-Do not choose a protagonist until the candidates are compared.
+## Literary Mastery Correction — Current Edge
+
+The architectural sequence was interrupted by a necessary second-pass question:
+
+> **ARE WE BUILDING A WARRANTED STRUCTURE WITHOUT YET BUILDING GREAT LITERATURE?**
+
+Core documents:
+- `Synthesis/LITERARY_MASTERY_INSTRUMENT.md`
+- `Synthesis/LITERARY_MASTERY_AUDIT.md`
+- `Synthesis/LITERARY_MASTERY_MATRIX.md`
+- `Synthesis/LITERARY_MASTERY_SOURCES.md`
+- `Synthesis/MASTERWORK_DUAL_REQUIREMENT.md`
+
+The audit re-read the masterwork field through:
+- voice;
+- sentence / line / breath;
+- scene;
+- character;
+- desire;
+- sensory particularity;
+- image;
+- emotional modulation;
+- surprise;
+- human consequence;
+- world excess;
+- memorability;
+- re-readability;
+- architectural metabolism.
+
+Two control works were added specifically because they were not selected for fit with the architecture:
+- Tolstoy, `Anna Karenina`;
+- Melville, `Moby-Dick`.
+
+Central correction:
+
+> **MASTERWORK ARCHITECTURE IS NOT MASTERFUL LITERATURE.**
+
+New dual requirement:
+
+> **THE FUTURE MASTERWORK MUST BE BOTH ALIVE AND ANSWERABLE.**
+
+Working protection:
+
+**CANDIDATE MASTERWORK
+= LITERARY LIFE
+× FORMAL NECESSITY
+× ANSWERABILITY
+× SUCCESSION CAPACITY**
+
+This is not a numerical score. It protects against compensating for dead literature with sophisticated architecture.
+
+New laws:
+- the architecture may govern the work, but it cannot be the only reason the reader turns the page;
+- the formal operation must become literary life;
+- a character must be allowed to embarrass the theory;
+- a world must contain life the thesis did not need;
+- the reader must want something before the form can consequentially withhold, alter, or return it.
+
+### Orchard status correction
+
+The Orchard is **not rejected**.
+
+It is demoted from:
+**LEAD STORY-WORLD**
+
+to:
+**CANDIDATE MATERIAL FIELD**.
+
+Freeze:
+- Keeper character candidates;
+- protagonist selection;
+- plot design;
+- canonical handoff.
+
+The orchard already has strong constitutional fit.
+
+What has not yet been discovered:
+- voice;
+- indispensable human desire;
+- central human relationship;
+- reader hunger;
+- humor;
+- private history;
+- sentence music;
+- unforgettable image;
+- literary necessity.
+
+The current edge is now:
+
+> **WHAT HUMAN STORY, VOICE, DESIRE, OR RELATIONSHIP WOULD BE WORTH READING EVEN IF THE OUTSIDE AND THE ORCHARD ARCHITECTURE HAD NEVER EXISTED?**
+
+Only after literary necessity appears should we ask whether the Orchard is the right world to carry it.
 
 ## Major research threads
 - poetics of deposit
