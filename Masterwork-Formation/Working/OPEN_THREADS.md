@@ -242,21 +242,42 @@ Contact later reveals that:
 
 This preserves first-pass dignity and avoids twist capture.
 
-The next step is:
+The four leading story-world seeds have now been stress-tested.
 
-> **STRESS TEST THE FOUR STRONGEST SEEDS BEFORE SELECTING A STORY-WORLD.**
+Core documents:
+- `Synthesis/SEED_STRESS_TEST.md`
+- `Synthesis/SEED_STRESS_TEST_PLATE.md`
 
-Do not choose a winner before testing:
-- first-pass independence;
-- genuine external standing;
-- returnable anchors;
-- changed obligation;
-- non-final second sight;
-- survival without interface;
-- allegory risk;
-- receiver investment;
-- plural deltas;
-- world life after encounter.
+Heuristic results:
+- Repair Shop — 47/50
+- Orchard — 50/50
+- Family Business Ledger — 48/50
+- Unfinished Score — 41/50
+
+The scores are not measures of artistic quality. They reveal where each seed fights the architecture.
+
+The Orchard is now the **lead story-world for development**.
+
+Key reason:
+
+> **THE ORCHARD DOES NOT NEED THE THEORY TO HAVE AN OUTSIDE.**
+
+Weather, soil, disease, genetic lineage, season, and succession already possess standing outside the keeper.
+
+New finding:
+
+> **THE STRONGEST STORY-WORLD MAY BE ONE IN WHICH INDEPENDENT STANDING IS NOT AN EVENT ADDED TO THE WORLD, BUT A CONDITION OF THE WORLD'S CONTINUED LIFE.**
+
+A second finding emerged:
+
+> **LIVING CUSTODY = PRESERVE THE CAPACITY TO CONTINUE, NOT MERELY THE CURRENT FORM.**
+
+The Orchard is not yet selected as plot or final story.
+
+Next:
+**World Deepening Pass — Orchard.**
+
+Do not plot until the orchard is materially and socially deep enough to resist becoming a parable.
 
 ## Major research threads
 - poetics of deposit
