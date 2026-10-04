@@ -1,4 +1,4 @@
-# Method — Version 6
+# Method — Version 7
 
 ## Constitutional rule
 
@@ -335,6 +335,47 @@ Possible warning signs of absorption:
 - catalogue becomes inventory;
 - empathy becomes possession;
 - the future is imagined so completely that succession loses its independence.
+
+## Editorial exposure / curatorial responsibility
+
+When an editor, collaborator, curator, or external reader materially changes a work, ask:
+
+DID THE PRIMARY MAKER GIVE ANOTHER PERSON ENOUGH STANDING TO REFUSE, CUT, OR ALTER THE WORK?
+
+Distinguish:
+- validation,
+- proofreading,
+- editorial suggestion,
+- material intervention,
+- coauthorship.
+
+A primary author can remain primary while surrendering some sovereignty over the form.
+
+For curated or allusive works also ask:
+
+WHO SELECTED THE INHERITANCE?
+WHAT WAS EXCLUDED?
+WHAT RELATION WAS CREATED BY THE SELECTION?
+
+Do not let "impersonality" or "tradition" hide curatorial power.
+
+## Provenance is not interpretation
+
+Knowing where a fragment, quotation, source, or datum came from does not by itself explain what the new work makes it do.
+
+Use:
+
+PROVENANCE
++
+NEW CONTEXT
++
+RELATION
++
+RECEIVER
+
+before claiming meaning.
+
+This is especially important in citation-rich and AI-mediated work.
 
 ## Failure mode
 
