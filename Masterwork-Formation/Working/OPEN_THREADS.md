@@ -13,7 +13,8 @@
 10. Proust — retrospective recognition already completed in pilot and available to authorship spine
 11. Eliot — curation of inheritance — complete
 12. Borges — destabilized authorship already completed in pilot and available to authorship spine
-13. Next new case: Calvino — design of reader participation
+13. Calvino — design of reader participation — complete
+14. Next new case: Hesse — playable inheritance and hermetic risk
 
 ## Major research threads
 - authorship genealogy
