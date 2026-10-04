@@ -303,3 +303,47 @@ Core files:
 The next research edge is medium selection based on one criterion:
 
 **WHICH MEDIUM CAN ACTUALLY PERFORM RETURN?**
+
+
+## Medium Selection
+
+The Relational Return has now been translated into medium architecture.
+
+Core documents:
+- `Synthesis/MEDIUM_CANDIDATES.md`
+- `Synthesis/FIXED_CORE_LIVE_SEAM_AUDIT.md`
+- `Synthesis/FIXED_CORE_LIVE_SEAM_PLATE.md`
+
+The leading medium architecture is:
+
+> **FIXED CORE / LIVE SEAM**
+
+or:
+
+> **DEPOSIT BODY / ENCOUNTER BODY**
+
+No single conventional medium cleanly supplies both:
+- a stable body the receiver can literally return to;
+- a live seam capable of genuine independent handoff.
+
+The hybrid architecture assigns those jurisdictions separately.
+
+### Deposit Body
+Stable, returnable, durable, inheritable.
+
+### Encounter Body
+Stateful, present, correctable, replaceable.
+
+Receiver path:
+
+**CORE → TRUST → SEAM → CONTACT → CHANGE → CORE AGAIN**
+
+AI may mediate the encounter body, but cannot itself count as the independent standing that makes the handoff real.
+
+The current interface is not sacred.
+
+The protocol for re-realizing the encounter body should be part of the deposit so future technologies can perform it differently without rewriting the core.
+
+Next edge:
+
+**CORE DESIGN SPECIFICATION — what the fixed core must do before subject matter is chosen.**
