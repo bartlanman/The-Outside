@@ -216,3 +216,39 @@ Origin: Calvino's "The Written and the Unwritten Word."
 A work may script a receiver-position without being able to author the real receiver's response, refusal, reinterpretation, or abandonment.
 
 Origin: Calvino.
+
+
+## 038 — Hermeticity is not falsehood but insufficient answerability
+A system may remain internally coherent and genuinely valuable while becoming hermetic because nothing outside it retains enough standing to alter its course.
+
+Origin: Hesse / Castalia.
+
+## 039 — Representability does not equal containment
+A system's ability to model or relate another tradition does not mean it has exhausted, possessed, or incorporated that tradition.
+
+Origin: Hesse / Elder Brother / Glass Bead Game.
+
+## 040 — Preservation can become self-preservation
+An institution created to protect value can begin protecting its own continuation rather than the value that justified it.
+
+Origin: Hesse / Castalia.
+
+## 041 — Mastery can reveal insufficiency
+Knecht's movement matters because the limit of Castalia becomes decisive after he achieves mastery, not because he fails to enter the system.
+
+Origin: Hesse / Joseph Knecht.
+
+## 042 — Universal relation may need to cash out as particular responsibility
+The movement from Magister Ludi to teaching one student reduces scale without abandoning inherited value.
+
+Origin: Hesse / Knecht and Tito.
+
+## 043 — Return does not guarantee mastery of the Outside
+Knecht's death prevents exit from becoming a new doctrine of guaranteed authentic life.
+
+Origin: Hesse.
+
+## 044 — A masterwork can deposit its own critique
+*The Glass Bead Game* preserves both the cultural system and the argument against the system's claim to sufficiency.
+
+Origin: Hesse.
