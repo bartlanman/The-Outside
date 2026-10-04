@@ -359,3 +359,58 @@ Origin:
 
 Status:
 PROMISING; compare with Borges, Dostoevsky, Le Guin, and reflexive masterworks.
+
+
+## Candidate pattern 037
+A WORLD HAS STRONGER INDEPENDENT STANDING WHEN THE PARTICIPANT IS NOT ITS REASON FOR EXISTING.
+
+Origin:
+Tolkien.
+
+Status:
+STRONG WORLD-DESIGN HYPOTHESIS; directly relevant to IA worlds.
+
+## Candidate pattern 038
+RETURN IS A NEW ENCOUNTER BETWEEN TRAVELER_1 AND HOME_1, NOT A RESET TO HOME_0.
+
+Origin:
+Tolkien / Scouring of the Shire.
+
+Status:
+STRONG PROJECT HYPOTHESIS with support from Homeric return and existing Meaning Field return architecture.
+
+## Candidate pattern 039
+TRANSFORMATION CAN INCREASE CAPACITY WITHOUT RESTORING WHOLENESS.
+
+Origin:
+Frodo's return.
+
+Status:
+PROMISING; compare with trauma, Proustian change, Le Guin, and other return cases.
+
+## Candidate pattern 040
+WORLD-SCALE EXPERIENCE MAY FIND ITS MOST WARRANTED RETURN IN LOCAL STEWARDSHIP.
+
+Origin:
+Samwise after the quest.
+
+Status:
+PROMISING; independent support from Hesse's shift from universal Game to one student.
+
+## Candidate pattern 041
+THE AUTHOR CAN CREATE CONSTRAINTS THAT LATER CONSTRAIN THE AUTHOR.
+
+Origin:
+Tolkien's maps, languages, chronologies, and prior legendarium.
+
+Status:
+PROMISING CROSS-DOMAIN DESIGN PRINCIPLE.
+
+## Candidate pattern 042
+STORY CLOSURE DOES NOT REQUIRE WORLD CLOSURE.
+
+Origin:
+Tolkien's succession beyond the Ring quest.
+
+Status:
+STRONG CASE FINDING; compare with Le Guin, Biblical corpus, and open-world systems.
