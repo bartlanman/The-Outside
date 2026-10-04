@@ -111,3 +111,25 @@ RECEIVE
 These conditions do not certify greatness.
 
 They test whether a work has become answerable enough to deserve deposit.
+
+
+## Contemporary Pressure Map — 2026
+
+The current external pressure field is now documented in:
+- `Synthesis/CONTEMPORARY_PRESSURE_EVIDENCE_2026.md`
+- `Synthesis/CONTEMPORARY_PRESSURE_MAP_2026.md`
+- `Synthesis/CONTEMPORARY_PRESSURE_PLATE_2026.md`
+
+Deep pressure compression:
+
+> **THE EXPERIENCE OF RELATION CAN NOW BE GENERATED MORE EASILY THAN INDEPENDENT RELATION CAN BE VERIFIED.**
+
+Equivalent compression:
+
+**SYNTHETIC COHERENCE IS ABUNDANT. INDEPENDENT STANDING IS SCARCE.**
+
+The current formal problem is:
+
+> **How can a work make the difference between coherence/contact, response/otherness, memory/model, participation/script, and representation/independent standing become consequential to the receiver without pre-solving the encounter?**
+
+The form is not yet earned.
