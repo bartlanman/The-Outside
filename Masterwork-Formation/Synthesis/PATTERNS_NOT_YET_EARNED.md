@@ -81,3 +81,17 @@ Borges manuscripts.
 
 Status:
 UNTESTED.
+
+
+## Audit note after Dante / Proust / Borges
+
+The following cross-pilot findings have been promoted into `EARNED_FORMATION_PRINCIPLES.md` as working principles:
+
+- form can do epistemic work;
+- the reader can be part of the formal machinery;
+- originality can be studied as transformation of inheritance;
+- historical pressure may become formal pressure, case by case;
+- surface style is downstream of function;
+- there is no single masterwork formation mode.
+
+The numbered candidates above remain unpromoted unless explicitly duplicated in the earned-principles file.
