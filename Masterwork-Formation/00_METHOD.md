@@ -1,4 +1,4 @@
-# Method — Version 3
+# Method — Version 4
 
 ## Constitutional rule
 
@@ -12,10 +12,12 @@ WHAT DID THE WORK OR TRADITION RECEIVE?
 WHAT PRESSURED IT?
 WHAT PROBLEM CHANGED WHILE IT WAS BEING MADE?
 HOW DID THE WORK BECOME ITS FORM?
+WHAT CHANGED WHEN IT ENTERED RELATION WITH OTHER WORKS?
 WHERE WAS AUTHORIAL AGENCY ACTUALLY LOCATED?
 WHAT DID THAT FORM MAKE ITS RECEIVER DO?
 WHAT COULD REFUSE OR ALTER THE WORK?
 HOW AND WHEN WAS IT DEPOSITED?
+WHAT BOUNDARY MADE THE CORPUS LEGIBLE, AND WHAT DID THAT BOUNDARY LEAVE OUT?
 
 Only then ask:
 
@@ -31,7 +33,7 @@ Tag major claims as:
 
 A beautiful correspondence is not evidence.
 A recurring pattern is not automatically a law.
-A later autobiographical explanation does not automatically outrank manuscripts, letters, drafts, contemporary evidence, performance history, or transmission evidence.
+A later autobiographical explanation does not automatically outrank manuscripts, letters, drafts, contemporary evidence, performance history, textual witnesses, or transmission evidence.
 
 ## Archive condition comes first
 
@@ -42,17 +44,19 @@ HOW MUCH OF THE MAKING CAN ACTUALLY BE KNOWN?
 Possible archives differ radically.
 
 A work may survive through:
-- authorial manuscripts,
-- notebooks,
-- proofs,
-- letters,
-- recordings,
-- performance traditions,
-- papyri,
-- scribal copies,
-- editorial traditions,
-- later manuscripts,
-- oral evidence reconstructed comparatively.
+- authorial manuscripts
+- notebooks
+- proofs
+- letters
+- recordings
+- performance traditions
+- papyri
+- scribal copies
+- translations
+- editorial traditions
+- canon lists
+- later manuscripts
+- comparative oral evidence
 
 More surviving evidence does not necessarily produce one clearer intention.
 It may reveal greater instability.
@@ -66,32 +70,34 @@ Do not assume the unit is always:
 ONE AUTHOR + ONE BOOK.
 
 Possible units include:
-- individual author,
-- single work,
-- cycle,
-- corpus,
-- collaborative work,
-- oral tradition,
-- editorial tradition,
-- evolving textual system.
+- individual author
+- single work
+- cycle
+- corpus
+- collaborative work
+- oral tradition
+- editorial tradition
+- evolving textual system
+- canon
 
-Homer requires the unit:
-HOMERIC TRADITION + ILIAD / ODYSSEY AS CRYSTALLIZED WORKS.
+When the unit is a corpus, ask what operation makes many works function in relation without erasing local difference.
 
 ## Pressure must connect to form
 
 Biography is not explanation.
 
 A biographical or historical fact enters the formation chain only when there is evidence or a disciplined inference connecting it to:
-- the problem,
-- the decision,
-- the material,
-- the structure,
-- the scale,
-- the voice,
-- the revision,
-- the performance,
-- the transmission,
+- the problem
+- the decision
+- the material
+- the structure
+- the scale
+- the voice
+- the revision
+- the performance
+- the transmission
+- the collection
+- the boundary
 - or the conditions of reception.
 
 Use:
@@ -113,6 +119,10 @@ For traditions without recoverable private intention, ask instead:
 
 WHAT PROBLEM MUST THIS FORM OR TRADITION SOLVE IN ORDER TO CONTINUE EXISTING?
 
+For corpora, also ask:
+
+WHAT PROBLEM MUST MANY DISTINCT WRITINGS SOLVE TO BECOME A DURABLE RELATIONAL WHOLE?
+
 ## Formation dynamics
 
 Do not assume all masterworks are made the same way.
@@ -122,9 +132,39 @@ Examples now include:
 - Proust: recursive expansion and return
 - Borges: proliferation, selection, compression, counter-architecture
 - Homeric tradition: distributed composition, performance, recomposition, diffusion, textualization, stabilization
+- Biblical corpus: composition, supplementation, redaction, translation, collection, recognition, canonization, succession
 
 The instrument detects formation mode.
 It does not prescribe one.
+
+## Relational assembly / corpus effect
+
+A work can change function without changing wording.
+
+When works are placed into durable relation, ask:
+- Does adjacency create new meaning?
+- Does order matter?
+- Does standing change?
+- Does one text become interpretable through another?
+- Does collection generate a whole no local work could state alone?
+- What boundary makes the collection visible as a corpus?
+
+This is the CORPUS EFFECT.
+
+Do not confuse it with ordinary later reception.
+
+## Boundary discipline
+
+Every corpus has an inside and an outside.
+
+Ask:
+- Who or what draws the boundary?
+- Was the boundary contested?
+- Did different communities preserve different boundaries?
+- What was excluded?
+- Does the surviving archive preserve evidence that the final boundary was not inevitable?
+
+Inclusion does not erase remainder.
 
 ## Authorship locus
 
@@ -138,10 +178,14 @@ Possible loci:
 - collaborator
 - performer
 - audience
+- scribe
+- redactor
+- translator
+- collector
 - editor
 - publisher
-- scribe
 - institution
+- community
 - technological system
 - later transmitter
 
@@ -172,6 +216,7 @@ Examples:
 - infer
 - recognize
 - compare
+- cross-read
 - misread
 - revise
 - doubt
@@ -187,14 +232,21 @@ MAKE
 -> PUBLISH
 -> RECEIVE.
 
-In oral or iterative traditions, reception may feed back into continued formation.
+In oral, textual, communal, or canonical traditions, reception may feed back into formation.
 
-Possible relation:
+Possible relations:
 
 RECEIVE
 -> MAKE
 -> RECEIVE
--> REMAKE.
+-> REMAKE
+
+or
+
+USE
+-> RECOGNITION
+-> COLLECTION
+-> CHANGED STANDING.
 
 This must be demonstrated, not generalized automatically.
 
@@ -217,16 +269,18 @@ Possible examples:
 - body
 - audience
 - evidence
+- inherited text
 - traditional form
 - material limits
 - institutional constraints
 - competing versions
+- excluded writings
 - reception
 - another person
 
 If the evidence does not support such an encounter, say so.
 
-## Deposit may be iterative
+## Deposit may be iterative and relational
 
 Do not assume deposit is one final act.
 
@@ -234,10 +288,12 @@ Possible deposits include:
 - performance
 - reperformance
 - manuscript
+- translation
+- collection
+- canon membership
 - printed edition
 - revised edition
 - oral transmission
-- digital version
 - commentary tradition
 - archival stabilization
 
@@ -245,7 +301,9 @@ Ask:
 
 WHEN DOES THE WORK BECOME AVAILABLE TO A FUTURE THAT THE MAKER CANNOT CONTROL?
 
-That moment may happen more than once.
+And for corpora:
+
+WHEN DOES A LOCAL WORK ACQUIRE A NEW RELATIONAL IDENTITY BY ENTERING A LARGER DEPOSIT?
 
 ## Replication principle
 
@@ -273,4 +331,8 @@ A MASTERWORK MAY NOT MERELY STATE ITS CENTRAL PROBLEM.
 
 ITS FORM MAY PLACE THE RECEIVER INSIDE AN OPERATION WHERE THE PROBLEM BECOMES EXPERIENCED.
 
-This remains a working principle, not a universal law.
+A CORPUS MAY ADD A SECOND OPERATION:
+
+IT CAN MAKE DISTINCT WORKS MUTUALLY INTERPRETIVE WITHOUT MAKING THEM IDENTICAL.
+
+Both remain working principles, not universal laws.
