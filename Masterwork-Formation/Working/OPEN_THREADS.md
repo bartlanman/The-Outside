@@ -291,11 +291,51 @@ Primary returnable anchors:
 - pruning knife / saw;
 - a repeated row crossed through seasons.
 
-The next step is now:
+The Orchard Keeper Office is now defined.
 
-> **DEFINE THE KEEPER AS AN OFFICE BEFORE CREATING THE CHARACTER.**
+Core documents:
+- `Synthesis/ORCHARD_KEEPER_OFFICE.md`
+- `Synthesis/ORCHARD_KEEPER_OFFICE_PLATE.md`
 
-Do not write a protagonist yet.
+Central office definition:
+
+> **THE KEEPER IS RESPONSIBLE FOR MAKING PRESENT DECISIONS THAT PRESERVE THE ORCHARD'S CAPACITY FOR A FUTURE THEY CANNOT FULLY SPECIFY.**
+
+Jurisdictional edge:
+
+> **THE KEEPER MAY DECIDE HOW TO CARE FOR THE ORCHARD, BUT MAY NOT UNILATERALLY DECIDE WHAT THE ORCHARD FINALLY IS.**
+
+The office has real authority:
+- prune;
+- thin;
+- graft;
+- remove;
+- replant;
+- abandon;
+- rebuild;
+- wait.
+
+But it may not:
+- own the past;
+- reduce other people to the keeper's account;
+- command living processes;
+- define present yield as total value;
+- spend future capacity merely to save the present;
+- bind succession to one final definition of the orchard.
+
+Deep question:
+
+> **WHAT AM I ENTITLED TO CHANGE IN ORDER TO PRESERVE A FUTURE I DO NOT OWN?**
+
+Office compression:
+
+**RECEIVE → OBSERVE → JUDGE → INTERVENE / RESTRAIN → ACCEPT CONSEQUENCE → RECORD → REVISE → PRESERVE FUTURE CAPACITY → HAND OFF**
+
+Next:
+
+> **GENERATE MULTIPLE KEEPER CHARACTER CANDIDATES WHO INHABIT THE SAME OFFICE DIFFERENTLY.**
+
+Do not choose a protagonist until the candidates are compared.
 
 ## Major research threads
 - poetics of deposit
