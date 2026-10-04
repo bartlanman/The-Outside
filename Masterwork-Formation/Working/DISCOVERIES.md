@@ -293,3 +293,49 @@ Origin: Tolkien.
 The world-maker may confuse responsibility for conditions with ownership of every meaning and will inside the creation.
 
 Origin: Tolkien's sub-creation theory and 1951 Waldman letter.
+
+
+## 053 — The author can become an inheritor of their own prior work
+A later author may return to a published world that now functions as an inherited condition rather than raw material available for arbitrary replacement.
+
+Origin: Le Guin / Earthsea.
+
+## 054 — Revision without erasure preserves developmental truth
+Later work can change the standing of earlier work while leaving the earlier state visible as evidence of what the author and world previously allowed to be seen.
+
+Origin: Le Guin / early and late Earthsea.
+
+## 055 — New position can reveal new world without requiring a new world
+Changing who is centered can make the same fictional world disclose different structures of power, vulnerability, labor, and value.
+
+Origin: Le Guin / *Tehanu*.
+
+## 056 — Revision can proceed through institutional archaeology
+A rule that appears timeless can lose inevitability when later work reconstructs the history through which the institution acquired it.
+
+Origin: Le Guin / *Tales from Earthsea* and Roke.
+
+## 057 — Metaphysical claims may later become historical claims
+Later Earthsea revises structures earlier characters treated as natural or metaphysical by revealing their relation to historical choices.
+
+Origin: Le Guin / *The Other Wind*.
+
+## 058 — Authorial fallibility can strengthen continued authorship
+Admitting that an earlier work saw partially can enlarge the corpus more credibly than preserving an image of timeless authorial certainty.
+
+Origin: Le Guin.
+
+## 059 — Changed capacity changes available meaning
+Le Guin's feminist development appears to alter not just her opinions but what she could notice, ask, and formally center in Earthsea.
+
+Origin: Le Guin.
+
+## 060 — Loss of office can reveal person beyond office
+Ged after the loss of magical power becomes a test of identity beyond institutional state and prestige.
+
+Origin: Le Guin / *Tehanu*.
+
+## 061 — Developmental trace must remain visible
+A living work that silently overwrites earlier states destroys evidence of actual transformation.
+
+Origin: Le Guin considered against digital / AI revision.
