@@ -244,3 +244,31 @@ Its purpose is to make the lost distinction consequential to a receiver through 
 Compression:
 
 **MODEL → RELIANCE → HANDOFF → DISTINCTION → REVISION → TRACE**
+
+
+### Prototype 03 — Receiver Reliance Handoff
+**STRONG PASS.**
+
+The receiver committed before source reveal:
+
+A 10 / B 90.
+
+After the SEC filing body revealed that a $1.20 billion seller note financed part of the acquisition purchase price at closing, the receiver changed to:
+
+A 100 / B 0.
+
+The important formal discovery is:
+
+> **A MODEL CAN SUPPLY THE RIGHT PIECES AND STILL MISLEAD BY FAILING TO PRESERVE THE RIGHT RELATION AMONG THEM.**
+
+Therefore:
+
+**INFORMATION LOSS CAN BE RELATIONAL, NOT MERELY FACTUAL.**
+
+And:
+
+**RELATIONAL COMPRESSION CAN CHANGE WARRANT.**
+
+This returns the prototype research to a foundational project concern: relation is not decorative adjacency. It can determine what the receiver is entitled to believe.
+
+The next edge is artistic embodiment rather than seam mechanics.
