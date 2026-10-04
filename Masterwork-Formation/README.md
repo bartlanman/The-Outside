@@ -605,3 +605,38 @@ If the reader must understand the architecture before the work becomes alive, th
 The Orchard is therefore retained only as a **candidate material field**.
 
 Keeper-character and plot development are frozen until literary necessity is independently discovered.
+
+
+## Milieu / Signal Axis
+
+The project now has a third independent audit axis.
+
+The first asked: **What does the masterwork formally do?**
+
+The second asked: **Why is it magnificent to read?**
+
+The third now asks: **What cultural condition was becoming perceptible through the work before the culture had fully stabilized a language for it?**
+
+Core files:
+- `Synthesis/CULTURAL_SELF_PERCEPTION_THRESHOLD.md`
+- `Synthesis/MASTERWORK_MILIEU_TRAJECTORY.md`
+- `Synthesis/MASTERWORK_MILIEU_MATRIX.md`
+
+Central hypothesis:
+
+> **A CULTURE MAY CROSS INTO A NEW CAPACITY WHEN ONE OF THE CONDITIONS THROUGH WHICH IT PERCEIVES BECOMES AVAILABLE TO THE CULTURE AS AN OBJECT OF PERCEPTION.**
+
+This reframes artistic precocity. A masterwork need not predict the future. It may act as a reflexive instrument through which a culture becomes able to see what it is already beginning to live through.
+
+The contemporary threshold is provisionally:
+
+> **CULTURE CAN NOW CONVERSE WITH A MODEL OF CULTURE.**
+
+The danger is:
+
+> **THE MODEL OF CULTURE CAN BE MISTAKEN FOR THE OUTSIDE OF CULTURE.**
+
+A future masterwork must now align three independent strengths:
+- formal / constitutional adequacy;
+- literary life;
+- historical / milieu adequacy.
