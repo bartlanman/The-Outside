@@ -329,3 +329,23 @@ The orchard itself is relational:
 Next edge:
 
 > **Define the keeper as an office before inventing the keeper as a character.**
+
+
+## Keeper office
+
+The Orchard now has an office before it has a character.
+
+The Keeper's job is:
+
+> **to make present decisions that preserve the orchard's capacity for a future they cannot fully specify.**
+
+The central boundary is:
+
+> **The keeper may decide how to care for the orchard, but may not unilaterally decide what the orchard finally is.**
+
+Human compression:
+
+> **Care for what is here without spending the future as if it belongs to you.**
+
+Next edge:
+**Generate several possible keepers before choosing a protagonist.**
