@@ -556,3 +556,52 @@ The Keeper's deepest question is:
 
 Next edge:
 **Keeper character candidates — several people inhabiting the same office differently before any protagonist is chosen.**
+
+
+## Literary Mastery Correction
+
+A second-pass audit revealed a missing dimension in the formation research.
+
+The historical dossiers were strong at asking:
+- what formal operation a work performed;
+- what authorial office it revealed;
+- what constitutional warning it carried.
+
+They were not yet sufficient to answer:
+
+> **WHY IS THIS MAGNIFICENT TO READ?**
+
+Core documents:
+- `Synthesis/LITERARY_MASTERY_INSTRUMENT.md`
+- `Synthesis/LITERARY_MASTERY_AUDIT.md`
+- `Synthesis/LITERARY_MASTERY_MATRIX.md`
+- `Synthesis/LITERARY_MASTERY_SOURCES.md`
+- `Synthesis/MASTERWORK_DUAL_REQUIREMENT.md`
+
+The second audit re-reads Homer, Job, Dante, Shakespeare, Whitman, Proust, Eliot, Borges, Calvino, Hesse, Tolkien, and Le Guin at the level of literary life, with Tolstoy and Melville added as independent control cases.
+
+Primary dimensions:
+**VOICE / RHYTHM / SCENE / CHARACTER / DESIRE / SENSORY PARTICULARITY / IMAGE / EMOTIONAL MODULATION / SURPRISE / HUMAN CONSEQUENCE / WORLD EXCESS / MEMORABILITY / RE-READABILITY**
+
+Central correction:
+
+> **MASTERWORK ARCHITECTURE IS NOT MASTERFUL LITERATURE.**
+
+The new requirement is:
+
+> **THE FUTURE MASTERWORK MUST BE BOTH ALIVE AND ANSWERABLE.**
+
+The architecture must be metabolized into:
+- voice;
+- desire;
+- scene;
+- image;
+- consequence;
+- rhythm;
+- character.
+
+If the reader must understand the architecture before the work becomes alive, the architecture has not yet become literature.
+
+The Orchard is therefore retained only as a **candidate material field**.
+
+Keeper-character and plot development are frozen until literary necessity is independently discovered.
