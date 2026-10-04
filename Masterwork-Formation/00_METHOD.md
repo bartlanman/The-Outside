@@ -1,4 +1,4 @@
-# Method — Version 8
+# Method — Version 9
 
 ## Constitutional rule
 
@@ -421,6 +421,48 @@ Do not infer literary or relational meaning from generation alone.
 Ask:
 
 WHAT HAPPENS WHEN THE GENERATED FORM ENCOUNTERS A HISTORICALLY SITUATED RECEIVER OR AN EXTERNAL WORLD IT CANNOT EXHAUST?
+
+## Hermeticity / exit discipline
+
+A system can remain internally coherent, beautiful, and even genuinely valuable while becoming insufficiently answerable to what lies outside it.
+
+Use:
+
+HERMETICITY
+=
+INTERNAL COHERENCE
+WITHOUT SUFFICIENT EXTERNAL ANSWERABILITY.
+
+Ask:
+- What external pressure can contradict the system?
+- What historical position does the system occupy?
+- What particular person or consequence prevents universal relation from remaining abstract?
+- Can the system revise its own purpose?
+- Is there a legitimate route of exit?
+- Does leaving the system mean rejecting it, or carrying its value into another field?
+
+Do not confuse:
+
+VALUE OF THE SYSTEM
+with
+SUFFICIENCY OF THE SYSTEM.
+
+## Mastery as threshold
+
+When a work depicts or depends on mastery, ask:
+
+DOES MASTERY FUNCTION AS A TERMINAL IDENTITY,
+OR DOES MASTERY MAKE THE LIMIT OF THE SYSTEM VISIBLE?
+
+Possible sequence:
+
+INITIATION
+-> COMPETENCE
+-> MASTERY
+-> LIMIT VISIBLE
+-> RESPONSIBILITY / RELINQUISHMENT.
+
+Do not promote this into a universal law without cross-case support.
 
 ## Failure mode
 
