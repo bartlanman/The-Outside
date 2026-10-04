@@ -4,23 +4,86 @@ This research area reconstructs the conditions under which major works were made
 
 It is not a canon of works recruited to prove The Outside.
 
-The governing research sequence is:
+## Governing discipline
 
-BEFORE THE WORK -> PRESSURE -> PROBLEM -> INHERITANCE -> CONSTRAINT -> DECISION -> REFUSAL -> VOICE -> FORM -> ENCOUNTER -> DEPOSIT -> RECEPTION -> SUCCESSION -> REMAINDER
-
-Each dossier must distinguish:
-
-1. documented evidence,
-2. scholarly inference,
+Each dossier distinguishes:
+1. documented evidence;
+2. scholarly inference;
 3. project interpretation.
 
 The aim is not surface imitation. The aim is to identify what formal operation a work performed under its historical pressure, what part of that operation survived its moment, and what contemporary pressure might require an analogous but non-imitative response.
 
-Initial pilot sequence:
+## Research trajectory
 
-DANTE -> PROUST -> BORGES -> METHOD AUDIT
+Initial pilots:
 
-Core folders:
-- Dossiers/ — evidence and analysis by author/work
-- Synthesis/ — patterns only after multiple dossiers warrant them
-- Working/ — unresolved questions and provisional discoveries
+DANTE
+-> PROUST
+-> BORGES
+-> METHOD AUDIT
+
+Authorship spine:
+
+HOMER
+-> BIBLICAL CORPUS
+-> DANTE
+-> SHAKESPEARE
+-> WHITMAN
+-> PROUST
+-> ELIOT
+-> BORGES
+-> CALVINO
+-> HESSE
+-> TOLKIEN
+-> LE GUIN
+
+Then:
+
+AUTHORSHIP-SPINE SYNTHESIS AUDIT
+
+The synthesis produced a major correction:
+
+Participating Authorship is not a ladder toward diminished sovereignty.
+
+It is **bounded authorial jurisdiction under conditions of answerability**.
+
+## Current compression
+
+RECEIVE
+-> LOCATE JURISDICTION
+-> RELATE
+-> SHAPE CONDITIONS
+-> RELEASE LOCAL STANDING
+-> ENTER CONSEQUENCE
+-> ACCEPT COUNTERPRESSURE
+-> RETURN
+-> REVISE WITHOUT ERASURE
+-> STEWARD
+-> DEPOSIT
+-> WITHDRAW
+-> SUCCESSION
+
+## Key synthesis documents
+
+- `Synthesis/EARNED_FORMATION_PRINCIPLES.md`
+- `Synthesis/AUTHORSHIP_SPINE_AUDIT.md`
+- `Synthesis/PARTICIPATING_AUTHORSHIP_AFTER_AUDIT.md`
+- `Synthesis/PATTERNS_NOT_YET_EARNED.md`
+
+## Core folders
+
+- `Dossiers/` — evidence and analysis by author/work
+- `Synthesis/` — patterns only after multiple dossiers warrant them
+- `Working/` — unresolved questions and provisional discoveries
+
+## Present edge
+
+The research has moved from:
+
+WHAT KIND OF AUTHOR COULD MAKE THE MASTERWORK?
+
+to:
+
+> **WHAT CONDITIONS WOULD A WORK MADE NOW NEED TO SATISFY TO DESERVE DEPOSIT UNDER BOUNDED AUTHORIAL JURISDICTION?**
+
+The next work should derive those conditions without turning the historical findings into a prescriptive formula.
