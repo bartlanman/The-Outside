@@ -1,4 +1,4 @@
-# Method — Version 10
+# Method — Version 11
 
 ## Constitutional rule
 
@@ -539,6 +539,75 @@ Warning signs of possessive creation:
 - every event waits for participant attention;
 - world history is decorative rather than constraining;
 - care becomes justification for control.
+
+## Revision / erasure discipline
+
+For works, systems, or worlds that change across time, distinguish:
+
+REVISION
+from
+ERASURE.
+
+Ask:
+- Does the prior state remain inspectable?
+- Can a later version admit that an earlier version saw differently?
+- Does revision change the standing of prior material without pretending the prior state never existed?
+- Is the change earned through new evidence, new position, deeper history, or changed capacity?
+- Is the author correcting, enlarging, or merely overwriting?
+
+Use:
+
+WORLD_0 / WORK_0
+-> TIME / ENCOUNTER
+-> AUTHOR_1 / SYSTEM_1
+-> RETURN
+-> REVISION
+WITH TRACE PRESERVED.
+
+A living system must be able to say:
+
+"I SEE THIS DIFFERENTLY NOW"
+
+without falsely implying:
+
+"I ALWAYS KNEW."
+
+## Deeper-history / retcon discipline
+
+When later work changes the apparent rules of an established world or corpus, ask:
+
+DID THE LATER WORK DISCOVER A HISTORY THAT MAKES THE CHANGE LEGIBLE,
+OR SIMPLY ASSERT A NEW RULE BY SOVEREIGN PREFERENCE?
+
+Strong revision may:
+- reveal institutional history;
+- distinguish cultural belief from metaphysical fact;
+- expose suppressed or forgotten conditions;
+- preserve earlier local truth while changing larger standing.
+
+Warning signs of arbitrary retcon:
+- no continuity pressure;
+- no preserved earlier trace;
+- later preference automatically becomes timeless truth;
+- contradiction is erased rather than interpreted.
+
+## Author-as-inheritor discipline
+
+An author returning to prior work may become a receiver of their own deposit.
+
+Ask:
+
+WHAT DOES AUTHOR_1 OWE TO AUTHOR_0?
+
+The later maker inherits:
+- published constraints;
+- reader memory;
+- character histories;
+- prior rules;
+- earlier omissions;
+- consequences of earlier choices.
+
+Prior authorship can become a condition of later authorship.
 
 ## Failure mode
 
