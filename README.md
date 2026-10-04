@@ -235,3 +235,28 @@ Compression:
 The next question is finally approaching content:
 
 > **What subject matter can carry this architecture without collapsing into a puzzle, thesis novel, or AI demonstration?**
+
+
+## Subject-matter edge
+
+The subject-matter search now points toward:
+
+> **CUSTODY / STEWARDSHIP / INHERITANCE UNDER CHANGED STANDING**
+
+The first reading should establish care that is genuinely warranted.
+
+Then contact reveals that another person, history, source, place, institution, or condition has standing.
+
+The result is not merely new knowledge.
+
+It is a changed obligation.
+
+Current compression:
+
+**I AM CARING FOR THIS
+→ SOMETHING ELSE GAINS STANDING
+→ CARE MUST CHANGE
+→ I RETURN
+→ THE SAME THING NOW ASKS SOMETHING DIFFERENT OF ME**
+
+The next step is story-world seeds, not plots.
