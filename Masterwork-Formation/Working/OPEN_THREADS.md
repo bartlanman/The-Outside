@@ -175,9 +175,59 @@ The second reading must:
 - avoid becoming a single correct answer;
 - preserve remainder.
 
-The next task is now a subject-matter admissibility search:
+The subject-matter admissibility search is now complete.
 
-> **WHAT KINDS OF SUBJECT MATTER CAN CARRY THIS ARCHITECTURE WITHOUT COLLAPSING INTO A MYSTERY, A THESIS NOVEL, OR AN AI DEMONSTRATION?**
+Core documents:
+- `Synthesis/SUBJECT_MATTER_ADMISSIBILITY.md`
+- `Synthesis/SUBJECT_MATTER_ADMISSIBILITY_PLATE.md`
+
+The strongest subject field is:
+
+> **CUSTODY / STEWARDSHIP / INHERITANCE UNDER CHANGED STANDING**
+
+Working compression:
+
+**I AM CARING FOR THIS
+→ I LEARN WHO / WHAT ELSE HAS STANDING
+→ CARE MUST CHANGE
+→ I RETURN TO THE SAME THING
+→ IT NOW ASKS SOMETHING DIFFERENT OF ME.**
+
+The strongest subject families include:
+- place;
+- inheritance / legacy;
+- stewardship;
+- work / craft;
+- institution / person;
+- promise / agreement;
+- care / responsibility;
+- memory / record.
+
+The common requirement is that contact change:
+- obligation;
+- trust;
+- custody;
+- permission;
+- authority;
+- belonging;
+- succession;
+
+rather than merely reveal a hidden fact.
+
+The next step is:
+
+> **GENERATE STORY-WORLD SEEDS, NOT PLOTS.**
+
+Each seed should identify:
+- what is being cared for;
+- who currently holds custody;
+- why the first account is warranted;
+- what independent standing could later enter;
+- what obligation might change;
+- what three anchors can survive both readings;
+- what remainder stays open.
+
+Do not design twists, endings, or full character arcs yet.
 
 ## Major research threads
 - poetics of deposit
