@@ -18,35 +18,30 @@
 
 ## Current edge
 
-The **Contemporary Pressure Map — 2026** is now complete.
+The formal-operation search is now complete at first pass.
 
-It is preserved in:
-- `Synthesis/CONTEMPORARY_PRESSURE_EVIDENCE_2026.md`
-- `Synthesis/CONTEMPORARY_PRESSURE_MAP_2026.md`
-- `Synthesis/CONTEMPORARY_PRESSURE_PLATE_2026.md`
+Candidate operations are preserved in:
+- `Synthesis/FORMAL_OPERATION_CANDIDATES.md`
+- `Synthesis/IRREDUCIBLE_HANDOFF_AUDIT.md`
+- `Synthesis/IRREDUCIBLE_HANDOFF_PLATE.md`
 
-Deep pressure:
+The leading operation is:
 
-> **THE EXPERIENCE OF RELATION CAN NOW BE GENERATED MORE EASILY THAN INDEPENDENT RELATION CAN BE VERIFIED.**
+> **THE IRREDUCIBLE HANDOFF**
 
 Compression:
 
-**SYNTHETIC COHERENCE IS ABUNDANT. INDEPENDENT STANDING IS SCARCE.**
+**MODEL → INVESTMENT → LIMIT → HANDOFF → RETURN → TRACE**
 
-The next task is now formal.
+The key requirement is that the work reach a jurisdictional seam where it can no longer legitimately generate the next answer itself.
 
-Working question:
+The next question is:
 
-> **WHAT FORM COULD MAKE THE DIFFERENCE BETWEEN COHERENCE AND CONTACT BECOME CONSEQUENTIAL TO A RECEIVER WITHOUT PRE-SOLVING THE ENCOUNTER?**
+> **WHAT FORMS OF INDEPENDENT STANDING CAN ENTER THE HANDOFF ETHICALLY AND MATERIALLY, WITHOUT BECOMING PROPS FOR THE WORK?**
 
-Candidate forms must be generated as operations, not genres, and subjected to:
-- the Masterwork Formation Conditions;
-- the Masterwork Deposit Test;
-- the Outside / Actual Other test;
-- the anti-hermetic test.
+Do not choose medium yet.
 
-Do not choose a form because it resembles a historical masterwork.
-Let the contemporary pressure earn the form.
+First identify what kinds of Actual Other can participate without being instrumentalized, simulated, or pre-authored.
 
 ## Major research threads
 - poetics of deposit
