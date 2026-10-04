@@ -204,3 +204,43 @@ For the first prototype, prefer:
 - low-risk material condition;
 
 before involving intimate human testimony or vulnerable participants.
+
+
+## Live Prototype Findings
+
+A new `Prototypes/` folder now records live tests.
+
+### Prototype 01 — Blind Documentary Handoff
+**BLOCKED.**
+
+The Library of Congress source could not be revealed through the current interface.
+
+Finding:
+
+**CONTACT CANNOT BE COMMANDED.**
+
+The unavailable source was not replaced with a generated substitute.
+
+### Prototype 02 — Blind SEC Handoff
+**TECHNICAL PASS.**
+
+A pre-handoff model inferred a material debt agreement from an SEC index.
+
+The filing body later revealed that Trimble had established a $500 million **unsecured delayed-draw term facility with no loans borrowed yet**, rather than simply "taking on $500 million of debt."
+
+Finding:
+
+> **THE MODEL CAN BE USEFUL, COHERENT, AND MOSTLY RIGHT WHILE REMOVING THE DISTINCTION THAT LATER BECOMES DECISIVE.**
+
+This identifies a deeper danger than hallucination:
+
+**PREMATURE SUFFICIENCY.**
+
+### Prototype 03 — Receiver Reliance Handoff
+Designed, not yet run.
+
+Its purpose is to make the lost distinction consequential to a receiver through a bounded, reversible pre-contact commitment.
+
+Compression:
+
+**MODEL → RELIANCE → HANDOFF → DISTINCTION → REVISION → TRACE**
