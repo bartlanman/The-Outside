@@ -110,7 +110,15 @@ The present research edge is now:
 
 > **What conditions would a work made now need to satisfy to deserve deposit under bounded authorial jurisdiction?**
 
-See `Masterwork-Formation/Synthesis/AUTHORSHIP_SPINE_AUDIT.md` and `Masterwork-Formation/Synthesis/PARTICIPATING_AUTHORSHIP_AFTER_AUDIT.md`.
+Those conditions are now derived in `Masterwork-Formation/Synthesis/MASTERWORK_FORMATION_CONDITIONS.md` and compressed as:
+
+**RECEIVE → BOUND → FORM → MEET → ANSWER → REMEMBER → RELEASE**
+
+The current edge has moved again:
+
+> **What is the present historical pressure to which a masterwork made now would have to become formally adequate?**
+
+See `Masterwork-Formation/Synthesis/AUTHORSHIP_SPINE_AUDIT.md`, `PARTICIPATING_AUTHORSHIP_AFTER_AUDIT.md`, and `MASTERWORK_FORMATION_CONDITIONS.md`.
 
 ---
 
