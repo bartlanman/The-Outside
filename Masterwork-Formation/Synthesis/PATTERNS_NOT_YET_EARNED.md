@@ -473,3 +473,39 @@ Le Guin.
 
 Status:
 PROMISING FAR-SIDE AUTHORSHIP PRINCIPLE.
+
+
+---
+
+# Authorship-Spine Audit — Promotion Record
+
+The following candidates have now been promoted into `EARNED_FORMATION_PRINCIPLES.md` after the full authorship-spine audit.
+
+They remain above in this file intentionally as provenance; their earlier provisional status is part of the developmental trace.
+
+Promoted or absorbed into broader earned principles:
+- 011 — distributed authorship requires more precise responsibility;
+- 012 — deposit may be recurring rather than terminal;
+- 013 — placing inherited material in consequential relation can be an authorial act;
+- 017 — strong formal control can coexist with limited interpretive sovereignty;
+- 019 — authorship and realization may be different offices;
+- 020 — contact becomes relational when it can alter the central author's claim;
+- 026 — participation requires standing outside the designer's model;
+- 027 — receiver completion does not automatically equal coauthorship;
+- 034 — large-scale relation must retain a route to particular responsibility;
+- 041 — authored conditions can later constrain the author;
+- 043 — revision can change standing without erasing the prior state;
+- 046 — preserving developmental trace is required to distinguish learning from retroactive self-justification.
+
+Still explicitly unpromoted after the audit:
+- 009 — apparent inevitability from prior proliferation and selection;
+- 015 — every corpus boundary produces meaningful remainder;
+- 029 — structured absence as a general deposit principle;
+- 033 — mastery generally reveals system limit;
+- 035 — exit never equals mastery of the Outside;
+- 037 — world independence as a general masterwork law;
+- 039 — transformation can increase capacity without restoring wholeness.
+
+The synthesis audit itself is recorded in:
+- `Synthesis/AUTHORSHIP_SPINE_AUDIT.md`
+- `Synthesis/PARTICIPATING_AUTHORSHIP_AFTER_AUDIT.md`
