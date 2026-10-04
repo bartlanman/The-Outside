@@ -14,7 +14,8 @@
 11. Eliot — curation of inheritance — complete
 12. Borges — destabilized authorship already completed in pilot and available to authorship spine
 13. Calvino — design of reader participation — complete
-14. Next new case: Hesse — playable inheritance and hermetic risk
+14. Hesse — playable inheritance and hermetic risk — complete
+15. Next new case: Tolkien — world exceeding participant and return
 
 ## Major research threads
 - authorship genealogy
