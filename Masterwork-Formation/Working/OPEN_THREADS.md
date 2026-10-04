@@ -63,17 +63,35 @@ Prototype 02's key finding:
 
 > **THE MODEL CAN BE USEFUL, COHERENT, AND MOSTLY RIGHT WHILE REMOVING THE DISTINCTION THAT LATER BECOMES DECISIVE.**
 
-This sharpens the contemporary danger from simple falsehood to:
+This sharpened the contemporary danger from simple falsehood to:
 
 **PREMATURE SUFFICIENCY.**
 
-The next prototype question is:
+Prototype 03 Run 01 is now complete.
 
-> **CAN A LOST DISTINCTION BECOME FELT AS CONSEQUENCE RATHER THAN MERELY OBSERVED AS CORRECTION?**
+Receiver judgment changed:
 
-Prototype 03 adds a reversible receiver commitment before documentary handoff.
+**A 10 / B 90**
+->
+**A 100 / B 0**
 
-No intimate or vulnerable human material is required.
+after the primary filing restored the causal relation among acquisition, seller note, and financing at closing.
+
+New finding:
+
+> **A MODEL CAN SUPPLY THE RIGHT PIECES AND STILL MISLEAD BY FAILING TO PRESERVE THE RIGHT RELATION AMONG THEM.**
+
+Compression:
+
+**RELATIONAL COMPRESSION CAN CHANGE WARRANT.**
+
+The seam now works mechanically and at the level of receiver reliance.
+
+The next question is artistic rather than technical:
+
+> **CAN THIS OPERATION BE EMBODIED IN A FORM WHERE THE RECEIVER EXPERIENCES THE LOST RELATION WITHOUT BEING TOLD IN ADVANCE THAT "RELATION" IS THE LESSON?**
+
+Do not explain the mechanism before the experience.
 
 ## Major research threads
 - poetics of deposit
