@@ -210,8 +210,11 @@ CONTACT BECOMES RELATIONAL ONLY WHEN IT CAN ALTER THE CENTRAL SELF'S RIGHT TO SP
 Origin:
 Whitman, especially the contrast between early expansive identification and wartime particularity.
 
+Further support:
+Le Guin's return to Earthsea from positions her earlier authorial frame marginalized.
+
 Status:
-STRONG PROJECT HYPOTHESIS; compare with Le Guin, Proust, and actual participant encounters.
+NOW CROSS-CASE STRONG; hold for authorship-spine synthesis audit.
 
 ## Candidate pattern 021
 SYMBOLIC INCLUSION CAN MASK THE ERASURE OF INDEPENDENT STANDING.
@@ -330,8 +333,11 @@ MASTERY MAY BECOME THE POSITION FROM WHICH THE LIMIT OF THE SYSTEM BECOMES VISIB
 Origin:
 Joseph Knecht's movement from Magister Ludi to resignation.
 
+Further support:
+Le Guin's later treatment of Ged after Archmage-level mastery and the removal of magical office.
+
 Status:
-PROMISING; compare with Le Guin's mature wizards, Prospero, and far-side IA.
+CROSS-CASE PROMISING; still distinguish loss of power from voluntary relinquishment.
 
 ## Candidate pattern 034
 UNIVERSAL RELATION MAY REQUIRE RETURN TO PARTICULAR RESPONSIBILITY.
@@ -339,8 +345,12 @@ UNIVERSAL RELATION MAY REQUIRE RETURN TO PARTICULAR RESPONSIBILITY.
 Origin:
 Knecht leaving the universal Game to teach Tito.
 
+Further support:
+Tolkien's Sam returns from world-historical quest to land, family, and civic repair.
+Le Guin's later Earthsea shifts from world-scale wizardry toward Tenar's household, Ged without office, and care for Therru.
+
 Status:
-STRONG PROJECT HYPOTHESIS; compare with Le Guin and stewardship cases.
+THREE INDEPENDENT CASES. READY FOR SYNTHESIS AUDIT / POSSIBLE PROMOTION.
 
 ## Candidate pattern 035
 EXIT DOES NOT GUARANTEE MASTERY OF THE OUTSIDE.
@@ -403,8 +413,11 @@ THE AUTHOR CAN CREATE CONSTRAINTS THAT LATER CONSTRAIN THE AUTHOR.
 Origin:
 Tolkien's maps, languages, chronologies, and prior legendarium.
 
+Further support:
+Le Guin's earlier published Earthsea becomes a structured inheritance that later Earthsea must answer to.
+
 Status:
-PROMISING CROSS-DOMAIN DESIGN PRINCIPLE.
+CROSS-CASE STRONG; compare with series fiction and persistent digital worlds.
 
 ## Candidate pattern 042
 STORY CLOSURE DOES NOT REQUIRE WORLD CLOSURE.
@@ -414,3 +427,49 @@ Tolkien's succession beyond the Ring quest.
 
 Status:
 STRONG CASE FINDING; compare with Le Guin, Biblical corpus, and open-world systems.
+
+
+## Candidate pattern 043
+REVISION CAN CHANGE THE STANDING OF AN EARLIER WORK WITHOUT ERASING THE EARLIER WORK.
+
+Origin:
+Le Guin / Earthsea.
+
+Status:
+STRONG CASE FINDING; compare with Proustian sequence, Biblical corpus, and evolving systems.
+
+## Candidate pattern 044
+A LATER AUTHOR CAN BECOME AN INHERITOR OF THEIR OWN EARLIER AUTHORSHIP.
+
+Origin:
+Le Guin / Earthsea.
+
+Status:
+STRONG AUTHORSHIP-SPINE FINDING.
+
+## Candidate pattern 045
+A REVISION GAINS WARRANT WHEN IT REVEALS POSITION, HISTORY, OR EVIDENCE RATHER THAN MERELY ASSERTING LATER PREFERENCE.
+
+Origin:
+Le Guin's positional and historical revision of Earthsea.
+
+Status:
+STRONG PROJECT HYPOTHESIS.
+
+## Candidate pattern 046
+A LIVING SYSTEM MUST PRESERVE DEVELOPMENTAL TRACE OR IT CANNOT DISTINGUISH LEARNING FROM RETROACTIVE SELF-JUSTIFICATION.
+
+Origin:
+Le Guin considered against persistent digital / AI systems.
+
+Status:
+HIGH-VALUE CONTEMPORARY HYPOTHESIS; requires synthesis.
+
+## Candidate pattern 047
+THE AUTHORITY TO CONTINUE MAY DEPEND ON THE CAPACITY TO ADMIT THAT THE EARLIER AUTHOR DID NOT SEE EVERYTHING.
+
+Origin:
+Le Guin.
+
+Status:
+PROMISING FAR-SIDE AUTHORSHIP PRINCIPLE.
