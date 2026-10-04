@@ -1,4 +1,4 @@
-# Research Instrument — Version 4
+# Research Instrument — Version 5
 
 Use this instrument for every Masterwork Formation dossier.
 
@@ -221,7 +221,22 @@ Classify:
 - CANONICAL EXCLUSION
 - UNKNOWN
 
-## 10. Voice / performance as function
+## 10. Embodiment / realization
+
+If the work requires realization by another person, body, company, device, or interactive system, ask:
+- Who completes the work experientially?
+- What can that realizer change?
+- What remains fixed?
+- What becomes variable?
+- Does casting or embodiment materially alter meaning?
+- Is the work still the same work across different realizations?
+
+Distinguish:
+AUTHORSHIP
+from
+REALIZATION.
+
+## 11. Voice / performance as function
 Study where relevant:
 - sentence architecture
 - diction / register
@@ -238,14 +253,14 @@ Study where relevant:
 Always ask:
 WHAT DOES THIS FEATURE DO?
 
-## 11. Attention
+## 12. Attention
 What does this maker, editor, or tradition repeatedly notice?
 
 Track recurring attentional habits.
 
 Attention may be deeper than syntax as a source of voice.
 
-## 12. Receiver operation
+## 13. Receiver operation
 Use receiver rather than reader when the medium requires it.
 
 Ask:
@@ -269,7 +284,7 @@ Possibilities:
 - perceive variation
 - supply inherited competence
 
-## 13. Relational assembly / corpus effect
+## 14. Relational assembly / corpus effect
 If the work enters a collection, cycle, canon, or durable field of other works, ask:
 
 WHAT CHANGES BECAUSE OF THE RELATION?
@@ -286,7 +301,7 @@ Track:
 Question:
 WHAT CAN THE CORPUS SAY THAT NO SINGLE LOCAL WORK COULD SAY ALONE?
 
-## 14. Boundary operation
+## 15. Boundary operation
 For collections and corpora ask:
 - What counts as inside?
 - What remains outside?
@@ -297,8 +312,13 @@ For collections and corpora ask:
 
 Do not mistake a final boundary for historical inevitability.
 
-## 15. Authorship locus
-Before assigning an office, map where creative and custodial agency is actually located.
+## 16. Authorship locus / realization locus
+Before assigning an office, map separately:
+
+A. where creative / custodial authorship is located;
+B. where experiential realization is located.
+
+A performer, actor, reader, interface, or participant may realize a work without being a textual coauthor.
 
 Possible loci:
 - inherited tradition
@@ -321,7 +341,19 @@ Ask:
 WHO OR WHAT CAN CHANGE THE WORK?
 WHO OR WHAT IS ANSWERABLE FOR THE VERSION OR RELATION THAT APPEARS?
 
-## 16. Failure mode
+## 17. Local standing / plurality test
+If the work contains multiple voices, positions, characters, agents, or perspectives, ask:
+- What gives each position local standing?
+- Can it act or only speak?
+- Can it resist the central system?
+- Does it have durable commitments or memory?
+- Are consequences real inside the work?
+- Can the central author/system silently rewrite it?
+
+Question:
+IS THIS REAL PLURALITY, OR MULTIPLICITY GENERATED FROM ONE UNCONTESTED CENTER?
+
+## 18. Failure mode
 Ask:
 
 WHAT DOES THE WORK'S SUCCESSFUL TECHNIQUE BECOME WHEN IT EXCEEDS ITS WARRANT?
@@ -329,7 +361,7 @@ WHAT DOES THE WORK'S SUCCESSFUL TECHNIQUE BECOME WHEN IT EXCEEDS ITS WARRANT?
 For corpora also ask:
 WHAT DOES RELATION BECOME WHEN IT ERASES DIFFERENCE OR REMAINDER?
 
-## 17. Outside / independent standing
+## 19. Outside / independent standing
 Do not force an Outside.
 
 Ask:
@@ -338,7 +370,7 @@ Ask:
 - What evidence, audience, person, institution, history, material condition, event, body, inherited form, competing version, or excluded work had independent standing?
 - Did the work absorb the encounter, resist it, or change because of it?
 
-## 18. Authorial office
+## 20. Authorial office
 Assign only after the preceding sections.
 
 Possible offices may include:
@@ -358,7 +390,7 @@ Possible offices may include:
 
 Do not force a fit.
 
-## 19. Work-specific vs author/tradition-specific
+## 21. Work-specific vs author/tradition-specific
 Ask:
 - What recurs across the maker's oeuvre?
 - What recurs across the tradition?
@@ -367,7 +399,7 @@ Ask:
 - What is a response to this pressure?
 - What belongs only to collection or canon context?
 
-## 20. Reception / continued formation
+## 22. Reception / continued formation
 Reconstruct:
 - expected receiver
 - genre expectation
@@ -385,7 +417,7 @@ Then ask:
 DID RECEPTION OCCUR AFTER FORMATION,
 OR DID RECEPTION PARTICIPATE IN FORMATION OR STATUS CHANGE?
 
-## 21. Deposit / succession
+## 23. Deposit / succession
 Ask:
 - What was actually deposited?
 - Was deposit singular or iterative?
@@ -401,7 +433,7 @@ WHAT A MAKER OR TRADITION ATTEMPTED TO CARRY
 from
 WHAT LATER RECEIVERS FOUND.
 
-## 22. Surviving operation
+## 24. Surviving operation
 Remove period furniture.
 
 State:
@@ -410,7 +442,7 @@ State:
 - what can disappear
 - the operation's failure mode
 
-## 23. THEN -> NOW
+## 25. THEN -> NOW
 Only after historical reconstruction.
 
 Ask:
@@ -424,7 +456,7 @@ SURFACE
 -> FUNCTION
 -> HISTORICAL-EQUIVALENT CREATION.
 
-## 24. Contemporary question
+## 26. Contemporary question
 End with one earned question.
 
 Do not end with a prescription unless the dossier has actually earned one.
@@ -439,10 +471,12 @@ UNIT / ARCHIVE CONDITION
 -> PROBLEM TRAJECTORY
 -> FORMATION MODE
 -> DECISIVE MOVE
+-> EMBODIMENT / REALIZATION
 -> RECEIVER OPERATION
 -> CORPUS EFFECT
 -> BOUNDARY
--> AUTHORSHIP LOCUS
+-> AUTHORSHIP LOCUS / REALIZATION LOCUS
+-> LOCAL STANDING
 -> AUTHORIAL OFFICE
 -> OUTSIDE / REFUSAL
 -> FAILURE MODE
