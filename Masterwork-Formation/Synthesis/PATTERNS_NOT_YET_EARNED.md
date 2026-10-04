@@ -15,9 +15,14 @@ Status: UNWARRANTED CROSS-AUTHOR PATTERN.
 ## Candidate pattern 002
 THE STRONGER THE ARCHITECTURE, THE MORE IMPORTANT THE TEST AGAINST TOTALIZATION.
 
-Origin: Dante + existing Outside architecture.
+Origin:
+Dante + existing Outside architecture.
 
-Status: PROJECT HYPOTHESIS, NOT HISTORICAL LAW.
+Further support:
+Hesse's Glass Bead Game demonstrates a valuable relational system whose danger emerges when internal synthesis becomes sufficient to itself.
+
+Status:
+NOW CROSS-CASE PROMISING; hold for synthesis audit.
 
 ## Candidate pattern 003
 GREAT AUTHORSHIP MAY INVOLVE A CHANGE OF OFFICE BETWEEN EXPERIENCE AND COMPOSITION.
@@ -299,3 +304,58 @@ Calvino's account of writing books he initially felt unable to write.
 
 Status:
 UNTESTED ACROSS ENOUGH DOSSIERS; compare with Proust, Dante, Le Guin.
+
+
+## Candidate pattern 031
+A SYSTEM MAY BE TRUE IN OPERATION AND FALSE IN ITS CLAIM TO SUFFICIENCY.
+
+Origin:
+Hesse / Castalia.
+
+Status:
+STRONG PROJECT HYPOTHESIS; highly relevant to The Outside.
+
+## Candidate pattern 032
+PRESERVATION CAN BECOME SELF-PRESERVATION.
+
+Origin:
+Hesse / Castalian institutional development.
+
+Status:
+STRONG CASE FINDING; compare with canon, academy, organization, and AI-system persistence.
+
+## Candidate pattern 033
+MASTERY MAY BECOME THE POSITION FROM WHICH THE LIMIT OF THE SYSTEM BECOMES VISIBLE.
+
+Origin:
+Joseph Knecht's movement from Magister Ludi to resignation.
+
+Status:
+PROMISING; compare with Le Guin's mature wizards, Prospero, and far-side IA.
+
+## Candidate pattern 034
+UNIVERSAL RELATION MAY REQUIRE RETURN TO PARTICULAR RESPONSIBILITY.
+
+Origin:
+Knecht leaving the universal Game to teach Tito.
+
+Status:
+STRONG PROJECT HYPOTHESIS; compare with Le Guin and stewardship cases.
+
+## Candidate pattern 035
+EXIT DOES NOT GUARANTEE MASTERY OF THE OUTSIDE.
+
+Origin:
+Knecht's death after leaving Castalia.
+
+Status:
+IMPORTANT CONSTITUTIONAL WARNING.
+
+## Candidate pattern 036
+A MASTERWORK CAN PRESERVE BOTH A SYSTEM AND THE ARGUMENT AGAINST THE SYSTEM'S SUFFICIENCY.
+
+Origin:
+*The Glass Bead Game*.
+
+Status:
+PROMISING; compare with Borges, Dostoevsky, Le Guin, and reflexive masterworks.
