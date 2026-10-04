@@ -87,11 +87,36 @@ Compression:
 
 The seam now works mechanically and at the level of receiver reliance.
 
-The next question is artistic rather than technical:
+The first artistic embodiment search is now complete.
 
-> **CAN THIS OPERATION BE EMBODIED IN A FORM WHERE THE RECEIVER EXPERIENCES THE LOST RELATION WITHOUT BEING TOLD IN ADVANCE THAT "RELATION" IS THE LESSON?**
+Core documents:
+- `Synthesis/ARTISTIC_EMBODIMENT_CANDIDATES.md`
+- `Synthesis/RELATIONAL_RETURN_AUDIT.md`
+- `Synthesis/RELATIONAL_RETURN_PLATE.md`
 
-Do not explain the mechanism before the experience.
+The leading artistic operation is:
+
+> **THE RELATIONAL RETURN**
+
+Compression:
+
+**SEE → TRUST → MEET → CHANGE → RETURN → SEE AGAIN**
+
+Constitutional rules:
+- the first reading must deserve to have been believed;
+- the handoff must change relation, not merely add information;
+- the second reading must deepen warrant without claiming finality;
+- the same material must survive both readings;
+- the receiver must be free to see a different delta than the author expected;
+- something must remain outside the second reading too.
+
+The next question is now about medium:
+
+> **WHAT MEDIUM CAN MAKE RETURN PHYSICALLY, TEMPORALLY, OR PERCEPTUALLY REAL ENOUGH THAT THE RECEIVER RE-ENCOUNTERS THE SAME MATERIAL RATHER THAN SIMPLY BEING TOLD TO REINTERPRET IT?**
+
+Do not choose medium by prestige.
+
+Choose medium by its ability to perform return.
 
 ## Major research threads
 - poetics of deposit
