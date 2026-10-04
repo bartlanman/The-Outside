@@ -54,3 +54,42 @@ Add receiver investment without adding vulnerable human stakes.
 Question:
 
 > **CAN A LOST DISTINCTION BECOME FELT AS CONSEQUENCE RATHER THAN MERELY OBSERVED AS CORRECTION?**
+
+
+## Prototype 03 — Receiver Reliance Handoff
+
+Run 01:
+**STRONG PASS.**
+
+Receiver allocation before primary-source contact:
+
+A 10 / B 90.
+
+After contact:
+
+A 100 / B 0.
+
+The decisive change was not the discovery of a missing category.
+
+The index had already shown:
+- acquisition;
+- material agreement;
+- financial obligation.
+
+The filing restored the causal relation among them:
+
+ACQUISITION PURCHASE PRICE
+-> SELLER NOTE
+-> FINANCING AT CLOSING.
+
+Finding:
+
+> **A MODEL CAN SUPPLY THE RIGHT PIECES AND STILL MISLEAD BY FAILING TO PRESERVE THE RIGHT RELATION AMONG THEM.**
+
+New compression:
+
+**RELATIONAL COMPRESSION CAN CHANGE WARRANT.**
+
+Current prototype edge:
+
+> **Can this operation be embodied so the receiver experiences the lost relation without being told in advance that relation is the lesson?**
