@@ -79,8 +79,11 @@ APPARENT FORMAL INEVITABILITY MAY BE PRODUCED BY EARLIER PROLIFERATION AND AGGRE
 Origin:
 Borges manuscripts.
 
+Further support:
+*The Waste Land* manuscript versus Pound/Eliot/Vivien cuts and the compressed published poem.
+
 Status:
-UNTESTED.
+NOW CROSS-CASE PROMISING; not yet promoted.
 
 
 ## Audit note after Dante / Proust / Borges
@@ -129,13 +132,16 @@ NOW CROSS-CASE PROMISING; hold until next synthesis audit before promotion.
 
 
 ## Candidate pattern 013
-TO PLACE INHERITED WORKS IN DURABLE RELATION CAN ITSELF BE AN AUTHORIAL ACT.
+TO PLACE INHERITED MATERIALS IN DURABLE RELATION CAN ITSELF BE AN AUTHORIAL ACT.
 
 Origin:
 Biblical redaction / collection / canon.
 
+Further support:
+Eliot's selection, juxtaposition, and recontextualization of inherited fragments.
+
 Status:
-STRONG CORPUS FINDING; compare later with Eliot, anthology, editing, and digital knowledge systems.
+CROSS-CASE SUPPORT EXISTS ACROSS CORPUS AND COMPOSED-COLLAGE FORMS; hold for synthesis audit.
 
 ## Candidate pattern 014
 A WORK CAN REMAIN LOCALLY ITSELF WHILE BECOMING DIFFERENT THROUGH CORPUS RELATION.
@@ -219,3 +225,31 @@ Whitman's final-edition preference versus later recovery of earlier *Leaves* edi
 
 Status:
 PROMISING; compare with Shakespeare editorial history, Proust posthumous text, and canon formation.
+
+
+## Candidate pattern 023
+PRIMARY AUTHORSHIP CAN INCLUDE VOLUNTARY EXPOSURE TO ANOTHER PERSON'S REFUSAL.
+
+Origin:
+Eliot accepting substantial Pound / Vivien intervention.
+
+Status:
+STRONG CASE FINDING; compare with later editorial and collaborative masterworks.
+
+## Candidate pattern 024
+CURATION ALWAYS IMPLIES A THEORY OF WHAT DESERVES TO STAND TOGETHER.
+
+Origin:
+Eliot / Biblical corpus comparison.
+
+Status:
+PROMISING CROSS-CASE PRINCIPLE.
+
+## Candidate pattern 025
+IMPERSONALITY CAN CONCEAL CURATORIAL POWER.
+
+Origin:
+Eliot's impersonality theory considered against the actual selection and hierarchy embodied in *The Waste Land*.
+
+Status:
+PROJECT HYPOTHESIS.
