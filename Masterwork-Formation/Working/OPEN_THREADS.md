@@ -8,7 +8,8 @@
 5. Homer / Homeric tradition — first authorship-spine case complete
 6. Biblical authorship / redaction / canon — complete
 7. Dante architecture case — already completed in pilot and now available to authorship spine
-8. Next new case: Shakespeare — release of independent dramatic voice
+8. Shakespeare — release of dramatic voice / embodied realization — complete
+9. Next new case: Whitman — permeability of the authorial I
 
 ## Major research threads
 - authorship genealogy
