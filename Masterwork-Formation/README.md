@@ -446,3 +446,40 @@ This appears especially compatible with the Relational Return because it preserv
 
 Next edge:
 **Seed Stress Test** on the strongest four.
+
+
+## Seed Stress Test
+
+The four strongest story-world seeds have now been tested against the architecture.
+
+Core files:
+- `Synthesis/SEED_STRESS_TEST.md`
+- `Synthesis/SEED_STRESS_TEST_PLATE.md`
+
+Heuristic comparison:
+- Repair Shop — 47/50
+- Orchard — 50/50
+- Family Business Ledger — 48/50
+- Unfinished Score — 41/50
+
+The Orchard is now the **lead story-world for development**.
+
+The decisive advantage is not metaphorical elegance.
+
+It is that independent standing is already native to the world:
+- weather;
+- soil;
+- disease;
+- lineage;
+- season;
+- succession.
+
+Therefore answerability does not need to be artificially introduced later.
+
+A new working distinction emerges:
+
+**FIXED CUSTODY — preserve the form.**
+
+**LIVING CUSTODY — preserve the capacity to continue.**
+
+The next edge is a World Deepening Pass on the Orchard before any plot is designed.
