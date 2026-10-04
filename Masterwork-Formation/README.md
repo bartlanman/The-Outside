@@ -87,3 +87,27 @@ to:
 > **WHAT CONDITIONS WOULD A WORK MADE NOW NEED TO SATISFY TO DESERVE DEPOSIT UNDER BOUNDED AUTHORIAL JURISDICTION?**
 
 The next work should derive those conditions without turning the historical findings into a prescriptive formula.
+
+
+## Masterwork Formation Conditions
+
+The authorship-spine audit has now been translated into work-level conditions.
+
+Core documents:
+- `Synthesis/MASTERWORK_FORMATION_CONDITIONS.md` — thirteen conditions of making, encounter/correction, and deposit/succession;
+- `Synthesis/MASTERWORK_DEPOSIT_TEST.md` — release test;
+- `Synthesis/MASTERWORK_FORMATION_PLATE.md` — compressed constitutional plate.
+
+Minimum sufficient compression:
+
+RECEIVE
+-> BOUND
+-> FORM
+-> MEET
+-> ANSWER
+-> REMEMBER
+-> RELEASE.
+
+These conditions do not certify greatness.
+
+They test whether a work has become answerable enough to deserve deposit.
