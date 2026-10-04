@@ -379,3 +379,31 @@ The Orchard has therefore been demoted from lead story-world to **candidate mate
 The next edge is prior to plot:
 
 > **What human story, voice, desire, or relationship would be worth reading even if the project architecture did not exist?**
+
+
+## Milieu / Signal Correction
+
+A third masterwork axis is now active.
+
+The project had already established:
+1. formal / constitutional architecture;
+2. literary mastery;
+3. historical milieu / cultural self-perception.
+
+Working law:
+
+> **A culture may cross into a new capacity when one of the conditions through which it perceives becomes available to the culture as an object of perception.**
+
+This reframes the poet-as-antenna idea.
+
+A precocious masterwork may not predict the future. It may give form to a cultural pressure that is already present but not yet adequately speakable, allowing the culture to perceive one of its own governing conditions.
+
+The contemporary threshold is provisionally:
+
+> **CULTURE CAN NOW CONVERSE WITH A MODEL OF CULTURE.**
+
+The open danger is that a responsive model of culture can be mistaken for the Outside of culture.
+
+The future masterwork must therefore align:
+
+**LITERARY LIFE × FORMAL NECESSITY × ANSWERABILITY × HISTORICAL PRESSURE × SUCCESSION CAPACITY.**
