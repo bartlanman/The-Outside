@@ -153,3 +153,22 @@ See `Masterwork-Formation/Synthesis/INDEPENDENT_STANDING_TAXONOMY.md`, `HANDOFF_
 ---
 
 **The author makes the deposit. The future decides whether anything grows.**
+
+
+## Prototype edge
+
+The Irreducible Handoff is now being tested live.
+
+Prototype 01 demonstrated that an independently custodied source may simply remain unavailable; the work may not substitute a convenient simulation.
+
+Prototype 02 demonstrated a subtler pressure: a generated account can be coherent and mostly correct while still erasing the distinction that matters.
+
+Current compression:
+
+> **THE DANGER IS NOT ONLY FALSEHOOD. IT IS PREMATURE SUFFICIENCY.**
+
+The next live test adds receiver reliance:
+
+**MODEL → RELIANCE → HANDOFF → DISTINCTION → REVISION → TRACE**
+
+See `Masterwork-Formation/Prototypes/`.
