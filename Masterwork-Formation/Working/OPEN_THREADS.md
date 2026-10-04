@@ -110,13 +110,51 @@ Constitutional rules:
 - the receiver must be free to see a different delta than the author expected;
 - something must remain outside the second reading too.
 
-The next question is now about medium:
+The medium-selection audit is now complete.
 
-> **WHAT MEDIUM CAN MAKE RETURN PHYSICALLY, TEMPORALLY, OR PERCEPTUALLY REAL ENOUGH THAT THE RECEIVER RE-ENCOUNTERS THE SAME MATERIAL RATHER THAN SIMPLY BEING TOLD TO REINTERPRET IT?**
+Core documents:
+- `Synthesis/MEDIUM_CANDIDATES.md`
+- `Synthesis/FIXED_CORE_LIVE_SEAM_AUDIT.md`
+- `Synthesis/FIXED_CORE_LIVE_SEAM_PLATE.md`
 
-Do not choose medium by prestige.
+The leading architecture is:
 
-Choose medium by its ability to perform return.
+> **FIXED CORE / LIVE SEAM**
+
+Also named:
+
+> **DEPOSIT BODY / ENCOUNTER BODY**
+
+The fixed core preserves:
+- stable first-pass material;
+- literal return;
+- deposit;
+- provenance;
+- succession.
+
+The live seam performs:
+- receiver state;
+- commitment;
+- handoff;
+- independent contact;
+- delta;
+- return.
+
+Key laws:
+- the core must be stable enough to return to;
+- the seam must be live enough to be corrected;
+- the interface must be thinner than the work;
+- AI may mediate contact but may not substitute for independent standing;
+- the work must survive the death of its current interface;
+- the handoff protocol should remain depositable so future technology can re-realize it.
+
+The next question is no longer which medium to choose by name.
+
+It is:
+
+> **WHAT MUST THE FIXED CORE ACTUALLY DO BEFORE ANY SUBJECT MATTER IS CHOSEN?**
+
+Next: derive a Core Design Specification before selecting story, world, character, topic, or genre.
 
 ## Major research threads
 - poetics of deposit
