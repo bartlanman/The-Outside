@@ -1,4 +1,4 @@
-# Method — Version 7
+# Method — Version 8
 
 ## Constitutional rule
 
@@ -376,6 +376,51 @@ RECEIVER
 before claiming meaning.
 
 This is especially important in citation-rich and AI-mediated work.
+
+## Participation / scripted participation
+
+When a work or system calls the receiver a participant, do not assume participation has been earned.
+
+Ask:
+
+WHAT CAN THE PARTICIPANT DO THAT THE DESIGNER DID NOT MERELY PRE-SCRIPT AS AN AFFORDANCE?
+
+Distinguish:
+- interpretation,
+- navigation,
+- selection,
+- performance,
+- co-creation,
+- condition-changing participation.
+
+A receiver may be essential to the operation without being a coauthor.
+
+Use:
+
+PARTICIPATION
+!=
+COAUTHORSHIP.
+
+Also ask:
+
+DOES THE ACTUAL PARTICIPANT RETAIN STANDING OUTSIDE THE DESIGNER'S MODEL OF THEM?
+
+Warning signs of scripted participation:
+- every meaningful action is already categorized;
+- responsiveness substitutes for agency;
+- the system can absorb every refusal as more input;
+- "you" is invoked while the actual receiver's difference is overwritten;
+- choices alter content but never alter conditions.
+
+## Generation is not meaning
+
+Combinatorial or generative production can create possibilities.
+
+Do not infer literary or relational meaning from generation alone.
+
+Ask:
+
+WHAT HAPPENS WHEN THE GENERATED FORM ENCOUNTERS A HISTORICALLY SITUATED RECEIVER OR AN EXTERNAL WORLD IT CANNOT EXHAUST?
 
 ## Failure mode
 
