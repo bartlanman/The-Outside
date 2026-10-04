@@ -1,4 +1,4 @@
-# Research Instrument — Version 5
+# Research Instrument — Version 6
 
 Use this instrument for every Masterwork Formation dossier.
 
@@ -353,7 +353,22 @@ If the work contains multiple voices, positions, characters, agents, or perspect
 Question:
 IS THIS REAL PLURALITY, OR MULTIPLICITY GENERATED FROM ONE UNCONTESTED CENTER?
 
-## 18. Failure mode
+## 18. Permeability / identification test
+If the speaker, author, narrator, system, or persona crosses into other identities or claims to include them, ask:
+- What remains locally specific to the other?
+- What cannot be absorbed?
+- Can the other contradict the central voice?
+- Does contact alter the central self?
+- Is symbolic inclusion being mistaken for equality?
+- Does empathy become appropriation?
+- Does catalogue become inventory?
+- Can the future receiver refuse the author's preferred self-understanding?
+
+Question:
+IS THE SELF BECOMING MORE RELATIONAL,
+OR MERELY LARGER?
+
+## 19. Failure mode
 Ask:
 
 WHAT DOES THE WORK'S SUCCESSFUL TECHNIQUE BECOME WHEN IT EXCEEDS ITS WARRANT?
@@ -361,7 +376,7 @@ WHAT DOES THE WORK'S SUCCESSFUL TECHNIQUE BECOME WHEN IT EXCEEDS ITS WARRANT?
 For corpora also ask:
 WHAT DOES RELATION BECOME WHEN IT ERASES DIFFERENCE OR REMAINDER?
 
-## 19. Outside / independent standing
+## 20. Outside / independent standing
 Do not force an Outside.
 
 Ask:
@@ -370,7 +385,7 @@ Ask:
 - What evidence, audience, person, institution, history, material condition, event, body, inherited form, competing version, or excluded work had independent standing?
 - Did the work absorb the encounter, resist it, or change because of it?
 
-## 20. Authorial office
+## 21. Authorial office
 Assign only after the preceding sections.
 
 Possible offices may include:
@@ -390,7 +405,7 @@ Possible offices may include:
 
 Do not force a fit.
 
-## 21. Work-specific vs author/tradition-specific
+## 22. Work-specific vs author/tradition-specific
 Ask:
 - What recurs across the maker's oeuvre?
 - What recurs across the tradition?
@@ -399,7 +414,7 @@ Ask:
 - What is a response to this pressure?
 - What belongs only to collection or canon context?
 
-## 22. Reception / continued formation
+## 23. Reception / continued formation
 Reconstruct:
 - expected receiver
 - genre expectation
@@ -417,7 +432,7 @@ Then ask:
 DID RECEPTION OCCUR AFTER FORMATION,
 OR DID RECEPTION PARTICIPATE IN FORMATION OR STATUS CHANGE?
 
-## 23. Deposit / succession
+## 24. Deposit / succession
 Ask:
 - What was actually deposited?
 - Was deposit singular or iterative?
@@ -433,7 +448,7 @@ WHAT A MAKER OR TRADITION ATTEMPTED TO CARRY
 from
 WHAT LATER RECEIVERS FOUND.
 
-## 24. Surviving operation
+## 25. Surviving operation
 Remove period furniture.
 
 State:
@@ -442,7 +457,7 @@ State:
 - what can disappear
 - the operation's failure mode
 
-## 25. THEN -> NOW
+## 26. THEN -> NOW
 Only after historical reconstruction.
 
 Ask:
@@ -456,7 +471,7 @@ SURFACE
 -> FUNCTION
 -> HISTORICAL-EQUIVALENT CREATION.
 
-## 26. Contemporary question
+## 27. Contemporary question
 End with one earned question.
 
 Do not end with a prescription unless the dossier has actually earned one.
@@ -477,6 +492,7 @@ UNIT / ARCHIVE CONDITION
 -> BOUNDARY
 -> AUTHORSHIP LOCUS / REALIZATION LOCUS
 -> LOCAL STANDING
+-> PERMEABILITY / IDENTIFICATION TEST
 -> AUTHORIAL OFFICE
 -> OUTSIDE / REFUSAL
 -> FAILURE MODE
