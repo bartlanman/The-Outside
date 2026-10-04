@@ -16,7 +16,8 @@
 13. Calvino — design of reader participation — complete
 14. Hesse — playable inheritance and hermetic risk — complete
 15. Tolkien — world exceeding participant and return — complete
-16. Next new case: Le Guin — author changed by her own world / revision without erasure
+16. Le Guin — author changed by her own world / revision without erasure — complete
+17. Next: authorship-spine synthesis audit — test offices, promote earned patterns, and identify the shape of Participating Authorship before adding further witness dossiers
 
 ## Major research threads
 - authorship genealogy
