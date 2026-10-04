@@ -1,4 +1,4 @@
-# Method — Version 2
+# Method — Version 3
 
 ## Constitutional rule
 
@@ -8,13 +8,14 @@ We ask first:
 
 WHAT HAPPENED?
 WHAT SURVIVES AS EVIDENCE?
-WHAT DID THE WORK RECEIVE?
+WHAT DID THE WORK OR TRADITION RECEIVE?
 WHAT PRESSURED IT?
 WHAT PROBLEM CHANGED WHILE IT WAS BEING MADE?
 HOW DID THE WORK BECOME ITS FORM?
-WHAT DID THAT FORM MAKE THE READER DO?
+WHERE WAS AUTHORIAL AGENCY ACTUALLY LOCATED?
+WHAT DID THAT FORM MAKE ITS RECEIVER DO?
 WHAT COULD REFUSE OR ALTER THE WORK?
-WHAT WAS DEPOSITED?
+HOW AND WHEN WAS IT DEPOSITED?
 
 Only then ask:
 
@@ -30,7 +31,7 @@ Tag major claims as:
 
 A beautiful correspondence is not evidence.
 A recurring pattern is not automatically a law.
-A later autobiographical explanation does not automatically outrank manuscripts, letters, drafts, contemporary evidence, or publication records.
+A later autobiographical explanation does not automatically outrank manuscripts, letters, drafts, contemporary evidence, performance history, or transmission evidence.
 
 ## Archive condition comes first
 
@@ -38,13 +39,44 @@ Every dossier begins by asking:
 
 HOW MUCH OF THE MAKING CAN ACTUALLY BE KNOWN?
 
-Ancient and medieval works may preserve almost no compositional evidence.
-Modern works may preserve notebooks, drafts, typescripts, proofs, correspondence, editorial records, recordings, and interviews.
+Possible archives differ radically.
+
+A work may survive through:
+- authorial manuscripts,
+- notebooks,
+- proofs,
+- letters,
+- recordings,
+- performance traditions,
+- papyri,
+- scribal copies,
+- editorial traditions,
+- later manuscripts,
+- oral evidence reconstructed comparatively.
 
 More surviving evidence does not necessarily produce one clearer intention.
 It may reveal greater instability.
 
 Absence of evidence must remain absence.
+
+## Unit of analysis must be earned
+
+Do not assume the unit is always:
+
+ONE AUTHOR + ONE BOOK.
+
+Possible units include:
+- individual author,
+- single work,
+- cycle,
+- corpus,
+- collaborative work,
+- oral tradition,
+- editorial tradition,
+- evolving textual system.
+
+Homer requires the unit:
+HOMERIC TRADITION + ILIAD / ODYSSEY AS CRYSTALLIZED WORKS.
 
 ## Pressure must connect to form
 
@@ -58,6 +90,8 @@ A biographical or historical fact enters the formation chain only when there is 
 - the scale,
 - the voice,
 - the revision,
+- the performance,
+- the transmission,
 - or the conditions of reception.
 
 Use:
@@ -75,39 +109,94 @@ INITIAL PROBLEM
 -> DEVELOPING PROBLEM
 -> OPERATIVE PROBLEM.
 
-A major work may discover a deeper problem while attempting to solve a smaller one.
+For traditions without recoverable private intention, ask instead:
+
+WHAT PROBLEM MUST THIS FORM OR TRADITION SOLVE IN ORDER TO CONTINUE EXISTING?
 
 ## Formation dynamics
 
 Do not assume all masterworks are made the same way.
 
-The first pilots already differ:
+Examples now include:
 - Dante: architectural passage
 - Proust: recursive expansion and return
 - Borges: proliferation, selection, compression, counter-architecture
+- Homeric tradition: distributed composition, performance, recomposition, diffusion, textualization, stabilization
 
 The instrument detects formation mode.
 It does not prescribe one.
 
-## Reader operation
+## Authorship locus
 
-A major work may require the reader to perform part of its epistemic operation.
+Before assigning an authorial office, ask:
+
+WHERE IS AGENCY ACTUALLY LOCATED?
+
+Possible loci:
+- individual maker
+- inherited tradition
+- collaborator
+- performer
+- audience
+- editor
+- publisher
+- scribe
+- institution
+- technological system
+- later transmitter
+
+Distributed agency does not erase responsibility.
+It makes responsibility more precise.
+
+## Receiver operation
+
+Use RECEIVER rather than READER when necessary.
+
+A receiver may be:
+- reader
+- listener
+- audience
+- participant
+- performer
+- later editor
+- community of transmission
 
 Ask:
 
-WHAT MUST THE READER DO?
+WHAT MUST THE RECEIVER DO FOR THE WORK TO COMPLETE ITS OPERATION?
 
 Examples:
 - traverse
 - wait
 - forget
 - infer
+- recognize
+- compare
 - misread
 - revise
 - doubt
-- recognize
+- respond
+- remember
+- supply traditional competence
 
-Reader activity may belong to the form itself.
+## Reception may belong inside formation
+
+Do not assume:
+
+MAKE
+-> PUBLISH
+-> RECEIVE.
+
+In oral or iterative traditions, reception may feed back into continued formation.
+
+Possible relation:
+
+RECEIVE
+-> MAKE
+-> RECEIVE
+-> REMAKE.
+
+This must be demonstrated, not generalized automatically.
 
 ## Failure mode
 
@@ -115,16 +204,48 @@ For every successful operation ask:
 
 WHAT DOES THIS BECOME WHEN IT EXCEEDS ITS WARRANT?
 
-The failure mode is not an afterthought.
-It often reveals the constitutional boundary of the technique.
+The failure mode often reveals the constitutional boundary of the technique.
 
 ## Outside discipline
 
 Do not invent an Outside to fit the project.
 
-Ask whether anything with independent standing actually altered, constrained, contradicted, or redirected the work.
+Ask whether anything with independent standing actually altered, constrained, contradicted, redirected, or refused the work.
+
+Possible examples:
+- history
+- body
+- audience
+- evidence
+- traditional form
+- material limits
+- institutional constraints
+- competing versions
+- reception
+- another person
 
 If the evidence does not support such an encounter, say so.
+
+## Deposit may be iterative
+
+Do not assume deposit is one final act.
+
+Possible deposits include:
+- performance
+- reperformance
+- manuscript
+- printed edition
+- revised edition
+- oral transmission
+- digital version
+- commentary tradition
+- archival stabilization
+
+Ask:
+
+WHEN DOES THE WORK BECOME AVAILABLE TO A FUTURE THAT THE MAKER CANNOT CONTROL?
+
+That moment may happen more than once.
 
 ## Replication principle
 
@@ -146,11 +267,10 @@ HISTORICAL-EQUIVALENT CREATION
 
 The target is the fourth level.
 
-## Core working principle after three pilots
+## Core working principle
 
 A MASTERWORK MAY NOT MERELY STATE ITS CENTRAL PROBLEM.
 
-ITS FORM MAY PLACE THE READER INSIDE AN OPERATION WHERE THE PROBLEM BECOMES EXPERIENCED.
+ITS FORM MAY PLACE THE RECEIVER INSIDE AN OPERATION WHERE THE PROBLEM BECOMES EXPERIENCED.
 
-This is a working principle supported by Dante, Proust, and Borges.
-It is not declared universal.
+This remains a working principle, not a universal law.
