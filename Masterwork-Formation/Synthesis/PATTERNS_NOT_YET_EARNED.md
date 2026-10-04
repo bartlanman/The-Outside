@@ -98,13 +98,13 @@ The numbered candidates above remain unpromoted unless explicitly duplicated in 
 
 
 ## Candidate pattern 010
-MASTERWORK IDENTITY MAY SURVIVE WITHOUT VERBATIM FIXITY.
+MASTERWORK IDENTITY MAY SURVIVE WITHOUT COMPLETE REALIZATION FIXITY.
 
 Origin:
-Homeric oral-traditional formation.
+Homeric oral-traditional formation; now independently pressured by Shakespearean performance history.
 
 Status:
-STRONG HOMERIC FINDING; NOT YET CROSS-AUTHOR PRINCIPLE.
+CROSS-MEDIUM SUPPORT EXISTS, BUT THE MECHANISMS DIFFER. NOT YET PROMOTED.
 
 ## Candidate pattern 011
 DISTRIBUTED AUTHORSHIP REQUIRES MORE PRECISE RESPONSIBILITY, NOT LESS.
@@ -121,8 +121,11 @@ DEPOSIT MAY BE A RECURRING OPERATION RATHER THAN A SINGLE TERMINAL ACT.
 Origin:
 Homeric tradition.
 
+Further support:
+Biblical corpus formation and Shakespearean performance / quarto / Folio / First Folio succession.
+
 Status:
-PROMISING; compare with Biblical redaction, Shakespearean performance/text, serialized modern works, and digital versioning.
+NOW CROSS-CASE PROMISING; hold until next synthesis audit before promotion.
 
 
 ## Candidate pattern 013
@@ -160,3 +163,31 @@ Biblical canon formation.
 
 Status:
 PROMISING. Compare with Homeric performance reception, later literary canon formation, and institutional art worlds.
+
+
+## Candidate pattern 017
+STRONG FORMAL CONTROL CAN COEXIST WITH WITHHELD INTERPRETIVE SOVEREIGNTY.
+
+Origin:
+Shakespearean dramatic practice.
+
+Status:
+STRONG CASE FINDING; compare with Dostoevsky / Bakhtin and Le Guin before promotion.
+
+## Candidate pattern 018
+AN AUTHORED VOICE GAINS LOCAL STANDING THROUGH CONSEQUENCE, NOT MERELY DIFFERENCE OF STYLE.
+
+Origin:
+Shakespearean dramatic practice.
+
+Status:
+PROJECT HYPOTHESIS.
+
+## Candidate pattern 019
+AUTHORSHIP AND REALIZATION MAY BE DIFFERENT OFFICES.
+
+Origin:
+Shakespearean drama, with retrospective support from Homeric performance.
+
+Status:
+PROMISING CROSS-MEDIUM DISTINCTION.
