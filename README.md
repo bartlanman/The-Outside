@@ -172,3 +172,22 @@ The next live test adds receiver reliance:
 **MODEL → RELIANCE → HANDOFF → DISTINCTION → REVISION → TRACE**
 
 See `Masterwork-Formation/Prototypes/`.
+
+
+## Artistic operation edge
+
+The prototype sequence has now produced a candidate artistic operation:
+
+> **THE RELATIONAL RETURN**
+
+Its compression is:
+
+**SEE → TRUST → MEET → CHANGE → RETURN → SEE AGAIN**
+
+The first encounter must be worth believing.
+The handoff changes relation rather than merely adding facts.
+The receiver then returns through the same material and discovers changed standing.
+
+The next edge is medium:
+
+> **What medium can make return real enough that the receiver re-encounters the same material rather than simply being told to reinterpret it?**
