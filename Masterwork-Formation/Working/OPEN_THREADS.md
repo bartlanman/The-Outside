@@ -35,13 +35,30 @@ Compression:
 
 The key requirement is that the work reach a jurisdictional seam where it can no longer legitimately generate the next answer itself.
 
-The next question is:
+The independent-standing taxonomy and handoff ethics are now complete.
 
-> **WHAT FORMS OF INDEPENDENT STANDING CAN ENTER THE HANDOFF ETHICALLY AND MATERIALLY, WITHOUT BECOMING PROPS FOR THE WORK?**
+Core documents:
+- `Synthesis/INDEPENDENT_STANDING_TAXONOMY.md`
+- `Synthesis/HANDOFF_ETHICS.md`
+- `Synthesis/INDEPENDENT_STANDING_PLATE.md`
+- `Synthesis/INDEPENDENT_STANDING_SOURCES.md`
+- `Synthesis/INDEPENDENT_STANDING_ADMISSIBILITY_MATRIX.md`
 
-Do not choose medium yet.
+Governing rule:
 
-First identify what kinds of Actual Other can participate without being instrumentalized, simulated, or pre-authored.
+> **THE HANDOFF MUST PASS TO A JURISDICTION THAT EXISTS FOR REASONS OTHER THAN COMPLETING THE WORK.**
+
+Ethical corollary:
+
+> **USE THE LEAST COERCIVE FORM OF INDEPENDENT STANDING SUFFICIENT TO MAKE THE SEAM REAL.**
+
+The next step is prototype design, but still not story design.
+
+Working question:
+
+> **WHAT IS THE MINIMUM LOW-RISK PROTOTYPE THAT CAN TEST THE IRREDUCIBLE HANDOFF USING DOCUMENTARY, INSTITUTIONAL, DATA, OR MATERIAL STANDING BEFORE HUMAN VULNERABILITY IS INTRODUCED?**
+
+Do not select intimate human material for the first prototype.
 
 ## Major research threads
 - poetics of deposit
