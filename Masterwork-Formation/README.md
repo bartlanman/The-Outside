@@ -347,3 +347,44 @@ The protocol for re-realizing the encounter body should be part of the deposit s
 Next edge:
 
 **CORE DESIGN SPECIFICATION — what the fixed core must do before subject matter is chosen.**
+
+
+## Core Design Specification
+
+The fixed core / deposit body is now specified before subject matter.
+
+Core files:
+- `Synthesis/CORE_DESIGN_SPECIFICATION.md`
+- `Synthesis/CORE_DESIGN_PLATE.md`
+
+Central requirement:
+
+> **THE CORE MUST CONTAIN ENOUGH OF THE PIECES FOR THE FIRST READING TO BE WARRANTED, WHILE LEAVING AT LEAST ONE CONSEQUENTIAL RELATION UNSETTLED.**
+
+The missing element should preferably be relational:
+- causation;
+- provenance;
+- obligation;
+- sequence;
+- identity;
+- jurisdiction;
+- dependency;
+- boundary;
+
+rather than merely a hidden fact or puzzle answer.
+
+Minimum components:
+- stable field;
+- guide structure;
+- at least three returnable anchors;
+- one consequential unsettled relation;
+- receiver investment point;
+- latent jurisdictional edge;
+- return path;
+- remainder.
+
+Compression:
+
+**COHERE → INVEST → LEAVE RELATION OPEN → PRESERVE → RETURN → DEEPEN**
+
+The next edge is subject-matter admissibility.
