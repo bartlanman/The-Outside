@@ -256,28 +256,46 @@ Heuristic results:
 
 The scores are not measures of artistic quality. They reveal where each seed fights the architecture.
 
-The Orchard is now the **lead story-world for development**.
+The Orchard World Deepening Pass is now complete.
 
-Key reason:
+Core documents:
+- `Synthesis/ORCHARD_WORLD_DEEPENING.md`
+- `Synthesis/ORCHARD_WORLD_SOURCES.md`
+- `Synthesis/ORCHARD_WORLD_PLATE.md`
 
-> **THE ORCHARD DOES NOT NEED THE THEORY TO HAVE AN OUTSIDE.**
+The world is provisionally grounded as a mixed-generation working apple orchard in the Virginia Shenandoah / Blue Ridge fruit belt.
 
-Weather, soil, disease, genetic lineage, season, and succession already possess standing outside the keeper.
+Important world facts:
+- apple identity is already composite: rootstock + scion + pollination + site + weather + care + time;
+- older and newer orchard systems can coexist in visible historical layers;
+- pruning, thinning, grafting, disease removal, harvest, and replanting make change ordinary rather than symbolic;
+- thinning can sacrifice present fruit to protect future production;
+- bloom and frost vulnerability depend on developmental stage;
+- pollination makes interdependence materially necessary;
+- harvest maturity is not the same as finished ripeness;
+- weather, disease, soil, biology, and succession already answer back independently.
 
-New finding:
+The strongest first-pass account is now:
 
-> **THE STRONGEST STORY-WORLD MAY BE ONE IN WHICH INDEPENDENT STANDING IS NOT AN EVENT ADDED TO THE WORLD, BUT A CONDITION OF THE WORLD'S CONTINUED LIFE.**
+> **THE KEEPER ALREADY KNOWS THAT PRESERVATION REQUIRES CHANGE.**
 
-A second finding emerged:
+Therefore the deeper open relation is not:
+"must the orchard change?"
 
-> **LIVING CUSTODY = PRESERVE THE CAPACITY TO CONTINUE, NOT MERELY THE CURRENT FORM.**
+It is:
 
-The Orchard is not yet selected as plot or final story.
+> **CONTINUITY OF WHAT?**
 
-Next:
-**World Deepening Pass — Orchard.**
+Primary returnable anchors:
+- graft union / graft scar;
+- pruning knife / saw;
+- a repeated row crossed through seasons.
 
-Do not plot until the orchard is materially and socially deep enough to resist becoming a parable.
+The next step is now:
+
+> **DEFINE THE KEEPER AS AN OFFICE BEFORE CREATING THE CHARACTER.**
+
+Do not write a protagonist yet.
 
 ## Major research threads
 - poetics of deposit
