@@ -148,13 +148,36 @@ Key laws:
 - the work must survive the death of its current interface;
 - the handoff protocol should remain depositable so future technology can re-realize it.
 
-The next question is no longer which medium to choose by name.
+The Core Design Specification is now complete.
 
-It is:
+Core documents:
+- `Synthesis/CORE_DESIGN_SPECIFICATION.md`
+- `Synthesis/CORE_DESIGN_PLATE.md`
 
-> **WHAT MUST THE FIXED CORE ACTUALLY DO BEFORE ANY SUBJECT MATTER IS CHOSEN?**
+Central law:
 
-Next: derive a Core Design Specification before selecting story, world, character, topic, or genre.
+> **THE CORE MUST CONTAIN ENOUGH OF THE PIECES FOR THE FIRST READING TO BE WARRANTED, WHILE LEAVING AT LEAST ONE CONSEQUENTIAL RELATION UNSETTLED.**
+
+Minimum compression:
+
+**COHERE → INVEST → LEAVE RELATION OPEN → PRESERVE → RETURN → DEEPEN**
+
+The first reading must:
+- be worth experiencing on its own;
+- support real receiver trust or investment;
+- contain returnable anchors;
+- preserve local standing;
+- survive if the live seam disappears.
+
+The second reading must:
+- use substantially the same material;
+- deepen rather than cancel the first;
+- avoid becoming a single correct answer;
+- preserve remainder.
+
+The next task is now a subject-matter admissibility search:
+
+> **WHAT KINDS OF SUBJECT MATTER CAN CARRY THIS ARCHITECTURE WITHOUT COLLAPSING INTO A MYSTERY, A THESIS NOVEL, OR AN AI DEMONSTRATION?**
 
 ## Major research threads
 - poetics of deposit
