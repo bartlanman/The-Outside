@@ -413,3 +413,36 @@ Compression:
 **CARE → CONTACT → CHANGED STANDING → CHANGED OBLIGATION → RETURN**
 
 The next edge is to generate story-world seeds without yet selecting plot, twist, or ending.
+
+
+## Story-World Seeds
+
+The architecture has now generated eight pre-plot story-world seeds.
+
+Core files:
+- `Synthesis/STORY_WORLD_SEEDS.md`
+- `Synthesis/STORY_WORLD_SEEDS_PLATE.md`
+
+The four strongest after first comparison are:
+- The Repair Shop;
+- The Orchard;
+- The Family Business Ledger;
+- The Unfinished Score.
+
+A deeper common pattern emerged:
+
+> **THE KEEPER'S VIRTUE BECOMES THE SOURCE OF THE NEXT PROBLEM.**
+
+The first reading should show real competence and justified care.
+
+The later handoff does not reveal:
+"the keeper was wrong."
+
+It reveals:
+
+> **WHAT MADE THEM A GOOD KEEPER MAY NO LONGER BE SUFFICIENT.**
+
+This appears especially compatible with the Relational Return because it preserves the dignity of the first reading while still allowing obligation to change.
+
+Next edge:
+**Seed Stress Test** on the strongest four.
