@@ -133,3 +133,40 @@ The current formal problem is:
 > **How can a work make the difference between coherence/contact, response/otherness, memory/model, participation/script, and representation/independent standing become consequential to the receiver without pre-solving the encounter?**
 
 The form is not yet earned.
+
+
+## Formal Operation Search
+
+The contemporary pressure has now generated a first formal-operation field.
+
+Core documents:
+- `Synthesis/FORMAL_OPERATION_CANDIDATES.md`
+- `Synthesis/IRREDUCIBLE_HANDOFF_AUDIT.md`
+- `Synthesis/IRREDUCIBLE_HANDOFF_PLATE.md`
+
+The leading candidate is:
+
+> **THE IRREDUCIBLE HANDOFF**
+
+Minimum sufficient architecture:
+
+**MODEL → INVESTMENT → LIMIT → HANDOFF → RETURN → TRACE**
+
+The operation requires the work to become coherent enough to matter, then reach a point where its jurisdiction ends and something independently standing must be allowed to answer.
+
+The author may design:
+- the model;
+- the path;
+- the seam;
+- the handoff protocol;
+- the return structure;
+- the preservation of trace.
+
+The author must not predetermine:
+- the actual answer;
+- the Other's consent;
+- the Other's interpretation;
+- all consequences;
+- the future receiver's final account.
+
+The next research edge is to identify what kinds of independent standing can ethically enter that handoff.
