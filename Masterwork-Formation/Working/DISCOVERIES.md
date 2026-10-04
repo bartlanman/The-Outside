@@ -91,3 +91,29 @@ performance -> reperformance -> textualization -> variant witness -> edited text
 An inheritance may supply not just content but the grammar through which new making is possible.
 
 Origin: Homeric tradition.
+
+
+## 014 — Corpus formation is a relational operation
+A corpus is not merely accumulation. Collection, ordering, shared standing, and cross-reading can create a field of mutual interpretability among distinct local works.
+
+Origin: Biblical corpus.
+
+## 015 — Collection can change function without changing wording
+A local text may acquire a new relational identity when placed into a collection or canon even if its wording remains materially similar.
+
+Origin: Biblical corpus.
+
+## 016 — Boundary-making is part of corpus authorship
+To form a durable corpus is also to distinguish inside from outside. The archive may preserve evidence that the final boundary was contested or non-inevitable.
+
+Origin: Biblical corpus.
+
+## 017 — Reception can change standing, not only meaning
+Communal use, copying, teaching, liturgical reading, and recognition can participate in changing a writing from local text to corpus member.
+
+Origin: Biblical corpus.
+
+## 018 — Translation can be both deposit and new inheritance
+A translation can carry prior material forward while also becoming the form through which a later community generates new relations.
+
+Origin: Biblical corpus / Septuagint.
