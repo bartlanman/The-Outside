@@ -18,28 +18,33 @@
 
 ## Current edge
 
-The authorship question has changed.
+The **Masterwork Formation Conditions** are now complete.
 
-The next task is not another author dossier by default.
+They are preserved in:
+- `Synthesis/MASTERWORK_FORMATION_CONDITIONS.md`
+- `Synthesis/MASTERWORK_DEPOSIT_TEST.md`
+- `Synthesis/MASTERWORK_FORMATION_PLATE.md`
 
-The next task is to derive the **Masterwork Formation Conditions** from the earned research without turning them into a recipe.
+The next task is not to design the work immediately.
+
+The next task is to identify the **contemporary pressure** that would make such a work necessary now.
 
 Working question:
 
-> WHAT CONDITIONS WOULD A WORK MADE NOW NEED TO SATISFY TO DESERVE DEPOSIT UNDER BOUNDED AUTHORIAL JURISDICTION?
+> **WHAT IS THE PRESENT HISTORICAL PRESSURE TO WHICH A MASTERWORK MADE NOW WOULD HAVE TO BECOME FORMALLY ADEQUATE?**
 
-This should include, at minimum:
-- inheritance;
-- jurisdiction;
-- relation;
-- formal operation;
-- actual counterpressure;
-- local standing;
-- particular consequence;
-- revision with developmental trace;
-- deposit;
-- succession;
-- remainder.
+The pressure map should distinguish:
+- AI-generated coherence;
+- synthetic plurality;
+- abundance of retrieval;
+- collapse of provenance;
+- personalized worlds;
+- scripted participation;
+- silent revision / mutable memory;
+- weakened distinction between representation and contact;
+- actual human, institutional, material, and historical consequences that resist simulation.
+
+Only after that pressure is mapped should we ask what form could answer it.
 
 ## Major research threads
 - poetics of deposit
