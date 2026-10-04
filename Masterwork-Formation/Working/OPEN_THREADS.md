@@ -18,33 +18,35 @@
 
 ## Current edge
 
-The **Masterwork Formation Conditions** are now complete.
+The **Contemporary Pressure Map — 2026** is now complete.
 
-They are preserved in:
-- `Synthesis/MASTERWORK_FORMATION_CONDITIONS.md`
-- `Synthesis/MASTERWORK_DEPOSIT_TEST.md`
-- `Synthesis/MASTERWORK_FORMATION_PLATE.md`
+It is preserved in:
+- `Synthesis/CONTEMPORARY_PRESSURE_EVIDENCE_2026.md`
+- `Synthesis/CONTEMPORARY_PRESSURE_MAP_2026.md`
+- `Synthesis/CONTEMPORARY_PRESSURE_PLATE_2026.md`
 
-The next task is not to design the work immediately.
+Deep pressure:
 
-The next task is to identify the **contemporary pressure** that would make such a work necessary now.
+> **THE EXPERIENCE OF RELATION CAN NOW BE GENERATED MORE EASILY THAN INDEPENDENT RELATION CAN BE VERIFIED.**
+
+Compression:
+
+**SYNTHETIC COHERENCE IS ABUNDANT. INDEPENDENT STANDING IS SCARCE.**
+
+The next task is now formal.
 
 Working question:
 
-> **WHAT IS THE PRESENT HISTORICAL PRESSURE TO WHICH A MASTERWORK MADE NOW WOULD HAVE TO BECOME FORMALLY ADEQUATE?**
+> **WHAT FORM COULD MAKE THE DIFFERENCE BETWEEN COHERENCE AND CONTACT BECOME CONSEQUENTIAL TO A RECEIVER WITHOUT PRE-SOLVING THE ENCOUNTER?**
 
-The pressure map should distinguish:
-- AI-generated coherence;
-- synthetic plurality;
-- abundance of retrieval;
-- collapse of provenance;
-- personalized worlds;
-- scripted participation;
-- silent revision / mutable memory;
-- weakened distinction between representation and contact;
-- actual human, institutional, material, and historical consequences that resist simulation.
+Candidate forms must be generated as operations, not genres, and subjected to:
+- the Masterwork Formation Conditions;
+- the Masterwork Deposit Test;
+- the Outside / Actual Other test;
+- the anti-hermetic test.
 
-Only after that pressure is mapped should we ask what form could answer it.
+Do not choose a form because it resembles a historical masterwork.
+Let the contemporary pressure earn the form.
 
 ## Major research threads
 - poetics of deposit
