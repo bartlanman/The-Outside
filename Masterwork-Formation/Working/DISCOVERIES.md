@@ -117,3 +117,24 @@ Origin: Biblical corpus.
 A translation can carry prior material forward while also becoming the form through which a later community generates new relations.
 
 Origin: Biblical corpus / Septuagint.
+
+
+## 019 — Textual authorship and experiential realization are distinct
+A work can be strongly authored at the textual level while requiring another person or system to complete it as an experienced event.
+
+Origin: Shakespearean drama.
+
+## 020 — Strong formal control can coexist with withheld interpretive sovereignty
+An author may tightly design conditions, distribute information, and determine consequence while refusing to provide one final narrator who resolves all voices into a single proposition.
+
+Origin: Shakespearean drama.
+
+## 021 — Local standing requires more than differentiated speech
+A voice gains stronger local standing when it has partial knowledge, desire, constraint, commitments, power to act, and consequences.
+
+Origin: Shakespearean dramatic practice.
+
+## 022 — Performance identity can vary while textual identity persists
+Different actors, stages, timings, and audiences can create materially different experienced works from substantially the same inherited text.
+
+Origin: Shakespearean drama.
