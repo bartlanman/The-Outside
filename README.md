@@ -260,3 +260,27 @@ Current compression:
 → THE SAME THING NOW ASKS SOMETHING DIFFERENT OF ME**
 
 The next step is story-world seeds, not plots.
+
+
+## Story-world seed edge
+
+Eight pre-plot worlds have now been generated.
+
+The strongest four are:
+
+- The Repair Shop
+- The Orchard
+- The Family Business Ledger
+- The Unfinished Score
+
+Their shared law is:
+
+> **The keeper's virtue becomes the source of the next problem.**
+
+The work should not reveal that the keeper was secretly wrong.
+
+It should reveal that:
+
+> **What made them a good keeper may no longer be sufficient.**
+
+The next step is to stress-test these four before choosing any story-world.
