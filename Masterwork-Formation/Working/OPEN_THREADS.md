@@ -214,20 +214,49 @@ The common requirement is that contact change:
 
 rather than merely reveal a hidden fact.
 
+The story-world seed stage is now complete.
+
+Core documents:
+- `Synthesis/STORY_WORLD_SEEDS.md`
+- `Synthesis/STORY_WORLD_SEEDS_PLATE.md`
+
+Eight seeds were generated without plots or endings.
+
+The four strongest are:
+- **The Repair Shop**
+- **The Orchard**
+- **The Family Business Ledger**
+- **The Unfinished Score**
+
+The strongest cross-seed discovery is:
+
+> **THE KEEPER'S VIRTUE BECOMES THE SOURCE OF THE NEXT PROBLEM.**
+
+The first reading therefore does not establish that the keeper is wrong.
+
+It establishes that the keeper is good at what they do.
+
+Contact later reveals that:
+
+> **WHAT MADE THEM A GOOD KEEPER MAY NO LONGER BE SUFFICIENT.**
+
+This preserves first-pass dignity and avoids twist capture.
+
 The next step is:
 
-> **GENERATE STORY-WORLD SEEDS, NOT PLOTS.**
+> **STRESS TEST THE FOUR STRONGEST SEEDS BEFORE SELECTING A STORY-WORLD.**
 
-Each seed should identify:
-- what is being cared for;
-- who currently holds custody;
-- why the first account is warranted;
-- what independent standing could later enter;
-- what obligation might change;
-- what three anchors can survive both readings;
-- what remainder stays open.
-
-Do not design twists, endings, or full character arcs yet.
+Do not choose a winner before testing:
+- first-pass independence;
+- genuine external standing;
+- returnable anchors;
+- changed obligation;
+- non-final second sight;
+- survival without interface;
+- allegory risk;
+- receiver investment;
+- plural deltas;
+- world life after encounter.
 
 ## Major research threads
 - poetics of deposit
