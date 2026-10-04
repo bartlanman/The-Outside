@@ -138,3 +138,24 @@ Origin: Shakespearean dramatic practice.
 Different actors, stages, timings, and audiences can create materially different experienced works from substantially the same inherited text.
 
 Origin: Shakespearean drama.
+
+
+## 023 — Permeability and absorption are different
+An authorial self can become open to many identities, bodies, and experiences without necessarily granting those others independent standing.
+
+Origin: Whitman.
+
+## 024 — Symbolic inclusion is not relational equality
+A work may speak inclusively while the author's political, social, or structural treatment of the included other remains unequal.
+
+Origin: Whitman's racial and democratic contradictions.
+
+## 025 — Encounter can correct authorial scale
+The Civil War hospital experience appears to shift Whitman's poetry toward greater particularity, restraint, and attention to suffering that cannot simply be absorbed into earlier affirmation.
+
+Origin: Whitman / Civil War.
+
+## 026 — The future can reopen superseded deposits
+An author may designate a final version, yet later receivers can return to earlier editions and assign them renewed standing.
+
+Origin: Whitman's lifetime editions and modern return to 1855 / 1860 forms.
