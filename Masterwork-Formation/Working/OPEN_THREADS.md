@@ -1336,3 +1336,42 @@ Next edge:
 
 Next object:
 **CHOICE-POINT CANDIDATES — STILL NOT FINAL PLOT.**
+
+
+## PRE-PLOT FORMATION PASS — COMPLETE / STOP
+
+Closing documents:
+- `Synthesis/CHOICE_POINT_CANDIDATES.md`
+- `Working/PRE_PLOT_FORMATION_STOPPING_POINT.md`
+
+The closing choice-point audit compared:
+- key transfer / return;
+- room clearing / repurposing;
+- accepting / refusing household entry;
+- moving belongings;
+- changing care;
+- redirecting financial obligation.
+
+The lead material threshold is:
+
+> **CLEAR / REPURPOSE A ROOM FOR A FAMILY TRANSITION WHOSE FULL MEANING IS NOT YET SETTLED.**
+
+This is **not yet a canonical opening scene or plot**.
+
+It is the first material condition strong enough to support story generation.
+
+Current minimal field:
+
+> **A long-partnered couple in midlife begins clearing a room because a family relationship is changing in a way that requires the household to change. One partner experiences the work through history, promise, and accumulated consequence; the other through present fit, practical action, and emerging possibility. The family member whose changing need occasions the work has standing of their own. Nobody is yet wrong, but the old arrangement no longer has enough capacity to hold everyone as they are becoming.**
+
+Status:
+
+> **PRE-PLOT FORMATION PASS COMPLETE.**
+
+Stop here.
+
+When intentionally resumed, begin with:
+
+> **STORY GENERATION FROM THE ROOM CHOICE-POINT**
+
+Do not continue pre-plot scaffolding unless a contradiction is discovered.
