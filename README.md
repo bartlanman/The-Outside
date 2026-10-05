@@ -610,3 +610,27 @@ Next edge:
 
 Next object:
 **minimum character grounding — still not full backstory.**
+
+
+## Minimum Grounding Edge
+
+The project has now admitted only the biographical facts that materially change scenes.
+
+Current law:
+
+> **BIOGRAPHY SHOULD ARRIVE AS FRICTION, NOT AS INFORMATION.**
+
+The strongest grounding configurations involve a **family-generation field**—an aging parent or adult / near-adult child with real standing and needs of their own.
+
+The third person is not a referee.
+
+They are:
+
+> **A PARTICIPANT IN CONSEQUENCE.**
+
+Next edge:
+
+> **What does each person need right now?**
+
+Next object:
+**present-tense need field — still not plot.**
