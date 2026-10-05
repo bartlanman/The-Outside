@@ -628,3 +628,48 @@ Candidate counter-values to test:
 - a future not authored by us.
 
 Do not select story yet.
+
+
+## Counter-Desire — Current Edge
+
+Core documents:
+- `Synthesis/COUNTER_DESIRE_FIELD.md`
+- `Synthesis/COUNTER_DESIRE_SOURCES.md`
+
+The question tested was:
+
+> **WHAT DO WE ACTUALLY WANT FROM AN INDEPENDENT OTHER THAT WE CANNOT RECEIVE IF WE REMOVE THEIR POWER TO RESIST OUR ACCOUNT OF OURSELVES?**
+
+Correction, surprise, refusal, judgment, witness, forgiveness, being chosen, love, and transformation were compared.
+
+The strongest deep synthesis is:
+
+> **THE GIFT OF THE INDEPENDENT OTHER IS NOT DISAGREEMENT. IT IS AN UNOWNED FUTURE.**
+
+The lead desire and counter-desire now form a pair:
+
+### SOVEREIGN RECOGNITION
+> **TO BE KNOWN WITHOUT LOSING AUTHORSHIP OF MYSELF.**
+
+### UNOWNED BECOMING
+> **TO BECOME SOMEONE I COULD NOT HAVE AUTHORED ALONE.**
+
+Key laws:
+
+> **THE POSSIBILITY OF REFUSAL IS PART OF THE STANDING OF YES.**
+
+> **RECOGNITION MAKES ME LEGIBLE; TRANSFORMATIVE RECOGNITION CAN MAKE ME DIFFERENT.**
+
+> **TO BE KNOWN BY AN ACTUAL OTHER IS TO RISK BECOMING SOMEONE ONE COULD NOT HAVE AUTHORED ALONE.**
+
+The current cultural capacity can now be sharpened as:
+
+> **THE CAPACITY TO RECEIVE THE BENEFITS OF LEGIBILITY WITHOUT LOSING THE CAPACITY FOR UNOWNED BECOMING.**
+
+Next edge:
+
+> **WHAT HAPPENS TO A PERSON OR CULTURE THAT WANTS BOTH SOVEREIGN RECOGNITION AND UNOWNED BECOMING?**
+
+The next pass should identify ordinary human situations where both desires are active at once.
+
+Do not plot yet.
