@@ -634,3 +634,27 @@ Next edge:
 
 Next object:
 **present-tense need field — still not plot.**
+
+
+## Present-Tense Need Edge
+
+The current literary field now contains three legitimate needs:
+
+**A:** the shared past must still matter.
+
+**B:** present change must be allowed to count.
+
+**Family Other:** something practical must happen now.
+
+The strongest result is:
+
+> **NARRATIVE CAN BEGIN WHEN LEGITIMATE NEEDS OUTGROW THE FORM THAT USED TO HOLD THEM.**
+
+No villain or betrayal is required.
+
+Next edge:
+
+> **What external condition makes waiting impossible?**
+
+Next object:
+**external pressure field — still before plot.**
