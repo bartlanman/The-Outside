@@ -815,3 +815,33 @@ This allows the reader to become more informed without becoming omniscient.
 
 Next:
 **character perceptual fields, not biographies.**
+
+
+## Character Perceptual Fields
+
+Character work has begun one layer before biography.
+
+Core files:
+- `Synthesis/CHARACTER_PERCEPTUAL_FIELDS.md`
+- `Synthesis/CHARACTER_PERCEPTUAL_FIELDS_PLATE.md`
+
+Lead perceptual pairing:
+
+**A — continuity / pattern / language / obligation**
+
+**B — present / particular / action / possibility**
+
+This is not a moral opposition.
+
+Each person's perceptual virtue can become a blind spot.
+
+Key law:
+
+> **A relational virtue can become a misrecognition when it continues after its jurisdiction has changed.**
+
+A second literary finding:
+
+> **Character change may first appear as a change in attention.**
+
+Next:
+**perceptual micro-scene tests, still no biography or plot.**
