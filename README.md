@@ -658,3 +658,25 @@ Next edge:
 
 Next object:
 **external pressure field — still before plot.**
+
+
+## External Pressure Edge
+
+The current lead pressure is now:
+
+> **A MATERIAL RECONFIGURATION OF THE SHARED HOUSEHOLD CAUSED BY A REAL FAMILY TRANSITION.**
+
+This remains pre-plot.
+
+Its function is not to create conflict, but to make postponement impossible.
+
+Current law:
+
+> **PRESSURE APPEARS WHEN REALITY EXCEEDS THE CAPACITY OF THE CURRENT RELATIONAL FORM.**
+
+And the literary correction:
+
+> **A THRESHOLD CAN BE DOMESTIC BEFORE IT IS MYTHIC.**
+
+Next edge:
+**domestic threshold micro-scenes — still not canonical plot.**
