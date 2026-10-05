@@ -1009,3 +1009,26 @@ The family Other should first become present through a material claim, not expla
 
 The next stage compares choice-points:
 which single material change creates the most consequence while preserving the most openness?
+
+
+## Pre-Plot Formation — Complete
+
+The current pre-plot formation sequence is complete.
+
+Closing files:
+- `Synthesis/CHOICE_POINT_CANDIDATES.md`
+- `Working/PRE_PLOT_FORMATION_STOPPING_POINT.md`
+
+Lead earned material threshold:
+
+> **CLEAR / REPURPOSE A ROOM FOR A FAMILY TRANSITION WHOSE FULL MEANING IS NOT YET SETTLED.**
+
+This remains one step before story.
+
+The next move would require actual authorial selection:
+family role, exact transition, names, lives, opening scene, and causal sequence.
+
+Those choices have intentionally **not** been made.
+
+Resume only with:
+**STORY GENERATION FROM THE ROOM CHOICE-POINT.**
