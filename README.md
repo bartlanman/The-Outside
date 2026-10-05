@@ -453,3 +453,22 @@ The new medium matters because responsive models can offer highly available reco
 The next question is:
 
 > **What do we actually need from an independent Other that disappears if we remove their freedom to resist our account of ourselves?**
+
+
+## Counter-Desire Edge
+
+The current inquiry has found the missing half of the recognition problem.
+
+The lead desire remains:
+
+> **TO BE KNOWN WITHOUT LOSING AUTHORSHIP OF MYSELF.**
+
+Its counter-desire is:
+
+> **TO BECOME SOMEONE I COULD NOT HAVE AUTHORED ALONE.**
+
+Working law:
+
+> **THE GIFT OF THE INDEPENDENT OTHER IS AN UNOWNED FUTURE.**
+
+The next research task is to identify ordinary human situations where the desire for sovereign recognition and the desire for unowned becoming collide without requiring an AI-themed plot.
