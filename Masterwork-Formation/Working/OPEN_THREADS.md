@@ -929,3 +929,69 @@ Use neutral situations only.
 No biographies.
 No plot.
 No canonical opening yet.
+
+
+## Perceptual Micro-Scene Test — Current Edge
+
+Core documents:
+- `Synthesis/CHARACTER_PERCEPTUAL_MICRO_SCENES.md`
+- `Synthesis/CHARACTER_PERCEPTUAL_MICRO_SCENES_PLATE.md`
+
+Ten neutral situations were written through both perceptual fields:
+- grocery store;
+- dinner story;
+- packing;
+- doctor waiting room;
+- unexpected expense;
+- choosing a gift;
+- old photograph;
+- familiar drive;
+- care while sick;
+- unfamiliar new language.
+
+The pairing passed.
+
+The strongest probes were:
+1. **Old Photograph**
+2. **Care Without Recognition**
+3. **New Language**
+
+A major craft law emerged:
+
+> **PUT THE ARGUMENT INTO THE OBJECT BEFORE PUTTING IT INTO THE DIALOGUE.**
+
+A becomes most alive when history enters through:
+- objects;
+- sequence;
+- exact language;
+- promises;
+- recurrence.
+
+B becomes most alive when change enters through:
+- sensation;
+- movement;
+- exception;
+- present fit;
+- possibility.
+
+Important restraint:
+A must not become the prosecutor of history.
+B must not become the avatar of reinvention.
+
+Both require:
+- appetite;
+- humor;
+- stupidity;
+- loyalty;
+- fear;
+- pleasure;
+- contradiction.
+
+The perceptual pair is viable, but they are **still not yet characters**.
+
+Next edge:
+
+> **WHAT LIVED SOCIAL / MATERIAL WORLDS COULD HAVE TRAINED THESE WAYS OF ATTENTION WITHOUT REDUCING THEM TO JOB SYMBOLS?**
+
+Next object:
+**ATTENTIONAL FORMATION FIELDS — BEFORE BIOGRAPHY.**
