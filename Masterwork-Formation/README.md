@@ -675,3 +675,25 @@ The next edge is not story selection.
 It is:
 
 > **WHAT HUMAN DESIRE IS INTENSIFIED WHEN A RESPONSIVE MODEL IS MORE LEGIBLE, AVAILABLE, AND MANAGEABLE THAN THE INDEPENDENT PERSON, SOURCE, MEMORY, OR WORLD IT REPRESENTS?**
+
+
+## Desire Layer
+
+The cultural-pressure work has now moved from medium to desire.
+
+Core files:
+- `Synthesis/CONTEMPORARY_DESIRE_FIELD.md`
+- `Synthesis/DESIRE_STRESS_TEST.md`
+- `Synthesis/CONTEMPORARY_DESIRE_SOURCES.md`
+
+Lead working desire:
+
+> **TO BE KNOWN WITHOUT LOSING AUTHORSHIP OF MYSELF.**
+
+Expanded:
+
+> **TO BE RECOGNIZED, UNDERSTOOD, REMEMBERED, AND ANSWERED WITHOUT BECOMING VULNERABLE TO ANOTHER PERSON'S INDEPENDENT ACCOUNT OF WHO I AM.**
+
+This is not treated as pathology. It is an old human desire intensified by a new medium.
+
+The next inquiry asks what independent relation contributes precisely because the Other can resist, reinterpret, refuse, surprise, and remain free.
