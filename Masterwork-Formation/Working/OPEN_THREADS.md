@@ -995,3 +995,68 @@ Next edge:
 
 Next object:
 **ATTENTIONAL FORMATION FIELDS — BEFORE BIOGRAPHY.**
+
+
+## Attentional Formation Fields — Current Edge
+
+Core documents:
+- `Synthesis/ATTENTIONAL_FORMATION_FIELDS.md`
+- `Synthesis/ATTENTIONAL_FORMATION_FIELDS_PLATE.md`
+
+The current perceptual pair has now been grounded in lived formation rather than symbolic profession or monocausal backstory.
+
+Governing law:
+
+> **ATTENTION FOLLOWS CONSEQUENCE.**
+
+A's field becomes plausible through overlapping conditions such as:
+- repeated consequence;
+- custodial responsibility;
+- language with consequence;
+- long-horizon obligation;
+- archival / material memory.
+
+A's deep formation:
+
+> **CONTINUITY IS A FORM OF CARE.**
+
+B's field becomes plausible through overlapping conditions such as:
+- rapidly changing conditions;
+- misrecognition by stable categories;
+- practical action under pressure;
+- escape from overdetermined futures;
+- body as evidence.
+
+B's deep formation:
+
+> **REVISION IS A FORM OF SURVIVAL.**
+
+The pair now carries two truths:
+
+**WITHOUT CONTINUITY, PEOPLE GET HURT.**
+
+**WITHOUT REVISION, PEOPLE GET TRAPPED.**
+
+Strongest new law:
+
+> **A BLIND SPOT MAY BE AN INTELLIGENCE APPLIED BEYOND THE CONDITIONS THAT TAUGHT IT.**
+
+Important restraints:
+- do not reduce A or B to profession;
+- do not reduce either to trauma;
+- backstory should complicate attention, not solve it;
+- A needs a hidden capacity for rupture;
+- B needs a deep capacity for continuity.
+
+Contemporary implication:
+
+> **THE MODEL SHOULD TEMPT EACH PERSON DIFFERENTLY.**
+
+It can amplify A's patterning / archival intelligence and B's reframing / adaptive intelligence.
+
+Next edge:
+
+> **WHAT MINIMUM BIOGRAPHICAL FACTS WOULD ACTUALLY CHANGE THE PROSE?**
+
+Next object:
+**MINIMUM CHARACTER GROUNDING — NOT FULL BACKSTORY.**
