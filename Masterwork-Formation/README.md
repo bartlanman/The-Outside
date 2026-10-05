@@ -902,3 +902,33 @@ This allows each person's misrecognition to grow from a real competence rather t
 
 The next step is the first cautious move into biography:
 **only facts that materially change what the character notices, wants, fears, or can do in a scene.**
+
+
+## Minimum Character Grounding
+
+Biography has now entered only where it changes the prose.
+
+Core files:
+- `Synthesis/MINIMUM_CHARACTER_GROUNDING.md`
+- `Synthesis/MINIMUM_CHARACTER_GROUNDING_PLATE.md`
+- `Synthesis/MINIMUM_CHARACTER_GROUNDING_CANDIDATES.md`
+- `Synthesis/MINIMUM_CHARACTER_GROUNDING_CANDIDATES_PLATE.md`
+
+Current rule:
+
+> **Biography should arrive as friction, not as information.**
+
+The couple is provisionally midlife, long-partnered, materially consequence-aware, and still in a functioning marriage.
+
+The strongest external fields are:
+- aging parent;
+- adult / near-adult child.
+
+Rather than choosing one yet, the project preserves a broader:
+
+> **FAMILY-GENERATION FIELD**
+
+A third person must participate in consequence rather than explain the marriage.
+
+Next:
+**present-tense need field.**
