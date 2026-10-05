@@ -584,3 +584,29 @@ Next edge:
 
 Next object:
 **attentional formation fields — before biography.**
+
+
+## Attentional Formation Edge
+
+The current character pair is now grounded one layer beneath biography.
+
+Working law:
+
+> **ATTENTION FOLLOWS CONSEQUENCE.**
+
+A learned, in some combination of lived conditions, that continuity is a form of care.
+
+B learned that revision is a form of survival.
+
+The strongest current insight is:
+
+> **A blind spot may be an intelligence applied beyond the conditions that taught it.**
+
+This prevents the characters from becoming virtues plus arbitrary flaws.
+
+Next edge:
+
+> **What minimum biographical facts would actually change the prose?**
+
+Next object:
+**minimum character grounding — still not full backstory.**
