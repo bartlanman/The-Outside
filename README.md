@@ -680,3 +680,25 @@ And the literary correction:
 
 Next edge:
 **domestic threshold micro-scenes — still not canonical plot.**
+
+
+## Domestic Threshold Edge
+
+The domestic threshold field has passed its micro-scene test.
+
+The strongest objects are small and actionable:
+
+**KEY / ROOM / BOX / MUG / LOCK / CHAIR**
+
+Current law:
+
+> **THE BEST THRESHOLD OBJECT IS AN OBJECT THAT CAN BE ACTED UPON IN MORE THAN ONE LEGITIMATE WAY.**
+
+The threshold is strongest when action changes standing before anyone explains the family.
+
+Next edge:
+
+> **Which single material change creates the most consequence while preserving the most openness?**
+
+Next object:
+**choice-point candidates — still not final plot.**
