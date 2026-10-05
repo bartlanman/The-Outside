@@ -741,3 +741,52 @@ Next edge:
 > **SCENE PRESSURE — WHAT KINDS OF SCENES NATURALLY EXIST IN A LONG PARTNERSHIP WHERE BOTH SOVEREIGN RECOGNITION AND UNOWNED BECOMING ARE ACTIVE?**
 
 Generate scene-classes, not narrative sequence.
+
+
+## Scene Pressure — Current Edge
+
+Core documents:
+- `Synthesis/LONG_PARTNERSHIP_SCENE_PRESSURE.md`
+- `Synthesis/LONG_PARTNERSHIP_SCENE_PRESSURE_PLATE.md`
+
+Twenty pre-plot scene classes were generated inside the long-partnership field.
+
+The strongest scene families are:
+- narrative scenes — who gets to say what happened;
+- identity scenes — who gets to say who I am now;
+- embodied scenes — what the body preserves;
+- jurisdiction scenes — what response belongs to the other;
+- future scenes — who owns what comes next.
+
+Five especially fertile scene pressures:
+1. **The Routine That Presumes the Old Person**
+2. **The Shared Story Told Wrong**
+3. **The Changed Desire**
+4. **Care Without Recognition**
+5. **The Apology That Is Too Good**
+
+Two major distinctions emerged:
+
+> **HISTORICAL WITNESS IS NOT THE SAME AS PRESENT RECOGNITION.**
+
+A long partner may know who someone has been because they bore the consequences of that life.
+
+A more adaptive system or newer relation may recognize present patterns more quickly.
+
+Neither automatically owns the present self.
+
+And:
+
+> **LOVE MAY INCLUDE RECOGNITION WITHOUT BEING REDUCIBLE TO RECOGNITION.**
+
+A person may fail to understand, update, or articulate—and still stay, carry, care, and bear cost.
+
+Current question:
+
+> **WHAT KIND OF VOICE COULD MAKE THIS RELATIONAL FIELD MAGNIFICENT TO READ WITHOUT DECIDING TOO EARLY WHICH PERSON'S ACCOUNT IS TRUE?**
+
+Next object:
+
+**VOICE / POINT-OF-VIEW FIELD**
+
+Do not sequence scenes yet.
