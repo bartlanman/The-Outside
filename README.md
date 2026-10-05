@@ -562,3 +562,25 @@ Current law:
 
 Next edge:
 **micro-scenes that test whether these perceptual worlds actually produce different, living prose.**
+
+
+## Perceptual Micro-Scene Edge
+
+The current perceptual pair has now been tested in ordinary prose.
+
+The strongest craft result is:
+
+> **PUT THE ARGUMENT INTO THE OBJECT BEFORE PUTTING IT INTO THE DIALOGUE.**
+
+History becomes literary when it enters through a sweater, photograph, dry toast, exact phrase, repair bill, or routine.
+
+Change becomes literary when it enters through smell, movement, altered fit, bodily difference, or new salience.
+
+The pair is viable, but still not yet biographical characters.
+
+Next edge:
+
+> **What lived social and material worlds could have trained these ways of attention?**
+
+Next object:
+**attentional formation fields — before biography.**
