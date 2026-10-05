@@ -1127,3 +1127,85 @@ Next edge:
 
 Next object:
 **PRESENT-TENSE NEED FIELD — NOT PLOT.**
+
+
+## Present-Tense Need Field — Current Edge
+
+Core documents:
+- `Synthesis/PRESENT_TENSE_NEED_FIELD.md`
+- `Synthesis/PRESENT_TENSE_NEED_FIELD_PLATE.md`
+
+The current three-position field is:
+
+**PARTNER A
+⇄
+PARTNER B
+⇄
+FAMILY OTHER**
+
+The strongest needs are:
+
+### A
+> **WHAT WE BUILT HAS TO MATTER TO WHAT HAPPENS NEXT.**
+
+A needs:
+**PAST TO RETAIN STANDING.**
+
+### B
+> **WHAT IS TRUE FOR ME NOW HAS TO BE ALLOWED TO COUNT.**
+
+B needs:
+**PRESENT TO ACQUIRE STANDING.**
+
+### FAMILY OTHER
+> **DO NOT MAKE YOUR SELF-UNDERSTANDING MORE IMPORTANT THAN WHAT I ACTUALLY NEED FROM YOU.**
+
+The third person needs:
+**ACTION IN THE WORLD.**
+
+This produces three time scales:
+
+- A — historical time;
+- B — emergent time;
+- Family Other — consequential time.
+
+Current motion:
+
+**PAST CLAIM
+⇄
+PRESENT EMERGENCE
+⇄
+EXTERNAL CONSEQUENCE**
+
+Key law:
+
+> **A NEED BECOMES NARRATIVE PRESSURE WHEN ANOTHER PERSON HAS STANDING IN ITS SATISFACTION.**
+
+Strongest literary discovery:
+
+> **NARRATIVE CAN BEGIN WHEN LEGITIMATE NEEDS OUTGROW THE FORM THAT USED TO HOLD THEM.**
+
+No betrayal, villain, secret, affair, or catastrophe is required.
+
+Contemporary discovery:
+
+> **INCREASED LEGIBILITY CAN MAKE RELATIONAL DIFFERENCE MORE, NOT LESS, CONSEQUENT.**
+
+A better self-account may sharpen incompatible claims rather than resolve them.
+
+Next edge:
+
+> **WHAT EXTERNAL CONDITION MAKES WAITING IMPOSSIBLE WITHOUT FEELING LIKE A PLOT DEVICE?**
+
+Candidate pressure classes:
+- transition;
+- care;
+- deadline;
+- financial decision;
+- departure / return;
+- body change;
+- institutional requirement;
+- household reconfiguration.
+
+Next object:
+**EXTERNAL PRESSURE FIELD — BEFORE INCITING INCIDENT.**
