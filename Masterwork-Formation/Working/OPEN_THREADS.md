@@ -1209,3 +1209,66 @@ Candidate pressure classes:
 
 Next object:
 **EXTERNAL PRESSURE FIELD — BEFORE INCITING INCIDENT.**
+
+
+## External Pressure Field — Current Edge
+
+Core documents:
+- `Synthesis/EXTERNAL_PRESSURE_FIELD.md`
+- `Synthesis/EXTERNAL_PRESSURE_FIELD_PLATE.md`
+
+Candidate pressure classes tested:
+- household reconfiguration;
+- care reconfiguration;
+- financial decision;
+- institutional deadline;
+- departure / return;
+- body change;
+- role transition.
+
+The strongest current pressure is:
+
+> **A MATERIAL RECONFIGURATION OF THE SHARED HOUSEHOLD CAUSED BY A REAL FAMILY TRANSITION.**
+
+This remains one level above event.
+
+It may eventually include:
+- someone leaving;
+- someone returning;
+- someone moving in;
+- changed care;
+- changed financial support;
+- changed privacy;
+- changed use of space.
+
+Governing law:
+
+> **GOOD EXTERNAL PRESSURE DOES NOT CREATE THE PROBLEM. IT REMOVES THE POSSIBILITY OF POSTPONING IT.**
+
+Deeper law:
+
+> **PRESSURE APPEARS WHEN REALITY EXCEEDS THE CAPACITY OF THE CURRENT RELATIONAL FORM.**
+
+Artistic correction:
+
+> **A THRESHOLD CAN BE DOMESTIC BEFORE IT IS MYTHIC.**
+
+Keys, rooms, beds, boxes, bills, and places at the table can alter relational standing before anyone explains what the family is becoming.
+
+Current compression:
+
+> **THEY DO NOT YET AGREE ON WHAT THE FAMILY IS BECOMING, BUT THEY MUST BEGIN MOVING THE FURNITURE.**
+
+Next edge:
+
+> **DOMESTIC THRESHOLD MICRO-SCENES**
+
+Test ordinary acts such as:
+- clearing a room;
+- deciding who keeps a key;
+- moving boxes;
+- buying a bed;
+- changing a recurring payment;
+- reassigning household space.
+
+Still no canonical plot.
