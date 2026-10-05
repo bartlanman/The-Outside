@@ -845,3 +845,32 @@ A second literary finding:
 
 Next:
 **perceptual micro-scene tests, still no biography or plot.**
+
+
+## Perceptual Micro-Scene Test
+
+The lead character-perception pair has survived a prose test.
+
+Core files:
+- `Synthesis/CHARACTER_PERCEPTUAL_MICRO_SCENES.md`
+- `Synthesis/CHARACTER_PERCEPTUAL_MICRO_SCENES_PLATE.md`
+
+Ten ordinary situations were rendered separately through A and B.
+
+The strongest were:
+- old photograph;
+- care without recognition;
+- unfamiliar new language.
+
+Key craft law:
+
+> **Put the argument into the object before putting it into the dialogue.**
+
+The pairing is viable because the prose changes naturally:
+A receives history through objects, wording, sequence, promise, and recurrence.
+B receives change through sensation, movement, exception, present fit, and possibility.
+
+The pair is still pre-biography.
+
+Next:
+**attentional formation fields — what kinds of lived worlds could train these ways of seeing?**
