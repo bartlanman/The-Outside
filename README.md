@@ -500,3 +500,25 @@ The contemporary tension can then be stated without making AI the subject:
 
 Next edge:
 **scene pressure inside long partnership — still no plot.**
+
+
+## Scene Pressure Edge
+
+The project is now working below plot level.
+
+The strongest long-partnership scenes arise when one person acts from an old model of the other that once worked and still has history—but no longer has full jurisdiction.
+
+New distinctions:
+
+> **Historical witness is not the same as present recognition.**
+
+and:
+
+> **Love may include recognition without being reducible to recognition.**
+
+The next masterwork problem is literary rather than structural:
+
+> **What kind of voice can make this field magnificent to read without deciding too early which person's account is true?**
+
+Next edge:
+**voice / point-of-view field.**
