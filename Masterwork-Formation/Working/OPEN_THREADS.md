@@ -1060,3 +1060,70 @@ Next edge:
 
 Next object:
 **MINIMUM CHARACTER GROUNDING — NOT FULL BACKSTORY.**
+
+
+## Minimum Character Grounding — Current Edge
+
+Core documents:
+- `Synthesis/MINIMUM_CHARACTER_GROUNDING.md`
+- `Synthesis/MINIMUM_CHARACTER_GROUNDING_PLATE.md`
+- `Synthesis/MINIMUM_CHARACTER_GROUNDING_CANDIDATES.md`
+- `Synthesis/MINIMUM_CHARACTER_GROUNDING_CANDIDATES_PLATE.md`
+
+Minimum biography is now admitted only when it changes:
+- perception;
+- syntax;
+- material competence;
+- social standing;
+- bodily reality;
+- economic constraint;
+- relational consequence;
+- available action.
+
+Governing law:
+
+> **BIOGRAPHY SHOULD ARRIVE AS FRICTION, NOT AS INFORMATION.**
+
+Provisional grounding:
+- both partners in midlife;
+- roughly 18–25 years together;
+- materially stable but consequence-aware;
+- marriage still functioning;
+- each has real competence outside the marriage;
+- one modest bodily fact each;
+- external family standing;
+- no default affair;
+- no default giant secret.
+
+Four grounding configurations were tested.
+
+The strongest were:
+1. **Aging Parent**
+2. **Adult / Near-Adult Child**
+
+But neither is selected yet.
+
+The preferred field is:
+
+> **FAMILY-GENERATION PRESSURE**
+
+with:
+
+**PARTNER A
+⇄
+PARTNER B
+⇄
+FAMILY OTHER**
+
+The third person must have their own need and standing.
+
+Law:
+
+> **THE THIRD PERSON SHOULD BE A PARTICIPANT IN CONSEQUENCE, NOT A COMMENTATOR ON THE THEME.**
+
+Next edge:
+
+> **WHAT DOES EACH PERSON NEED RIGHT NOW?**
+
+Next object:
+**PRESENT-TENSE NEED FIELD — NOT PLOT.**
