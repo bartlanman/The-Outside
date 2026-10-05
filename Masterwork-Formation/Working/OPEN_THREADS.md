@@ -790,3 +790,60 @@ Next object:
 **VOICE / POINT-OF-VIEW FIELD**
 
 Do not sequence scenes yet.
+
+
+## Voice / Point-of-View — Current Edge
+
+Core documents:
+- `Synthesis/VOICE_POINT_OF_VIEW_FIELD.md`
+- `Synthesis/VOICE_POINT_OF_VIEW_PLATE.md`
+
+Candidate voices tested:
+- single first person;
+- retrospective first person;
+- alternating first persons;
+- alternating close third;
+- mobile free indirect third;
+- classical omniscient;
+- objective / camera-like third;
+- polyphonic / document-inflected form;
+- first-person plural;
+- first / third hybrid.
+
+The current lead is:
+
+> **MOBILE FREE INDIRECT THIRD PERSON WITH BOUNDED INTERIOR JURISDICTION.**
+
+Working compression:
+
+**ONE CONSCIOUSNESS AT A TIME
+→ FULL LOCAL REALITY
+→ NO FINAL NARRATORIAL VERDICT
+→ LATER MOVEMENT INTO ANOTHER CONSCIOUSNESS
+→ PRIOR REALITY CHANGES STANDING WITHOUT BEING ERASED**
+
+Central voice law:
+
+> **THE NARRATOR MAY ENTER A MIND. IT MAY NOT OWN THE RELATION BETWEEN MINDS.**
+
+Reader position:
+
+> **MORE INFORMED WITHOUT BECOMING OMNISCIENT.**
+
+Important distinction:
+
+**FACTS MAY BE SETTLED. RELATIONAL MEANING MAY REMAIN OPEN.**
+
+The next edge is:
+
+> **WHAT KINDS OF PEOPLE WOULD PRODUCE GENUINELY DIFFERENT PERCEPTUAL WORLDS INSIDE THE SAME LONG RELATIONSHIP?**
+
+Do not write biographies yet.
+
+Next object:
+**CHARACTER PERCEPTUAL FIELDS**
+- what each notices;
+- what each systematically misses;
+- what language belongs to each;
+- what each fears being known as;
+- what each wants recognized now.
