@@ -983,3 +983,29 @@ Deeper:
 > **Pressure appears when reality exceeds the capacity of the current relational form.**
 
 The next stage tests this pressure through domestic threshold micro-scenes.
+
+
+## Domestic Threshold Micro-Scenes
+
+The lead household-pressure field has now been tested through ordinary acts.
+
+Core files:
+- `Synthesis/DOMESTIC_THRESHOLD_MICRO_SCENES.md`
+- `Synthesis/DOMESTIC_THRESHOLD_MICRO_SCENES_PLATE.md`
+
+Strongest threshold objects:
+- key;
+- room;
+- box;
+- mug / cabinet;
+- lock;
+- chair.
+
+Key law:
+
+> **The best threshold object is an object that can be acted upon in more than one legitimate way.**
+
+The family Other should first become present through a material claim, not explanation.
+
+The next stage compares choice-points:
+which single material change creates the most consequence while preserving the most openness?
