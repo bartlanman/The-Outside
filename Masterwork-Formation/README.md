@@ -932,3 +932,31 @@ A third person must participate in consequence rather than explain the marriage.
 
 Next:
 **present-tense need field.**
+
+
+## Present-Tense Need Field
+
+The character field now has current needs without yet having plot.
+
+Core files:
+- `Synthesis/PRESENT_TENSE_NEED_FIELD.md`
+- `Synthesis/PRESENT_TENSE_NEED_FIELD_PLATE.md`
+
+Current three-position motion:
+
+**A — past must retain standing**
+
+**B — present must acquire standing**
+
+**Family Other — action must occur in the world**
+
+The key result is:
+
+> **They must act while the meaning of the action is still contested.**
+
+And:
+
+> **Narrative can begin when legitimate needs outgrow the form that used to hold them.**
+
+Next:
+**external pressure field — what makes waiting impossible without yet choosing an inciting incident.**
