@@ -791,3 +791,27 @@ New question:
 > **Who can tell this without owning the other person's truth?**
 
 The next stage is voice / point of view, not plot.
+
+
+## Voice / Point-of-View
+
+The lead relational field now has a provisional literary voice architecture.
+
+Core files:
+- `Synthesis/VOICE_POINT_OF_VIEW_FIELD.md`
+- `Synthesis/VOICE_POINT_OF_VIEW_PLATE.md`
+
+Lead:
+
+> **MOBILE FREE INDIRECT THIRD PERSON WITH BOUNDED INTERIOR JURISDICTION**
+
+The voice may enter one consciousness deeply, but it should not become the final authority on the relationship.
+
+Law:
+
+> **The narrator may enter a mind. It may not own the relation between minds.**
+
+This allows the reader to become more informed without becoming omniscient.
+
+Next:
+**character perceptual fields, not biographies.**
