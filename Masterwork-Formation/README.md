@@ -697,3 +697,30 @@ Expanded:
 This is not treated as pathology. It is an old human desire intensified by a new medium.
 
 The next inquiry asks what independent relation contributes precisely because the Other can resist, reinterpret, refuse, surprise, and remain free.
+
+
+## Counter-Desire
+
+The independent-Other question has now been audited.
+
+Core files:
+- `Synthesis/COUNTER_DESIRE_FIELD.md`
+- `Synthesis/COUNTER_DESIRE_SOURCES.md`
+
+The deepest result is:
+
+> **THE GIFT OF THE INDEPENDENT OTHER IS NOT DISAGREEMENT. IT IS AN UNOWNED FUTURE.**
+
+The project now holds two equally human desires in tension:
+
+**SOVEREIGN RECOGNITION**  
+> Know me without taking over who I am.
+
+**UNOWNED BECOMING**  
+> Let relation change me in ways I could not have authored alone.
+
+This sharpens the candidate cultural capacity:
+
+> **Receive the benefits of legibility without losing the capacity for unowned becoming.**
+
+The next stage is to locate ordinary human situations in which both desires are simultaneously active.
