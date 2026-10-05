@@ -1272,3 +1272,67 @@ Test ordinary acts such as:
 - reassigning household space.
 
 Still no canonical plot.
+
+
+## Domestic Threshold Micro-Scenes — Current Edge
+
+Core documents:
+- `Synthesis/DOMESTIC_THRESHOLD_MICRO_SCENES.md`
+- `Synthesis/DOMESTIC_THRESHOLD_MICRO_SCENES_PLATE.md`
+
+Ten ordinary domestic threshold probes were tested:
+- clearing a room;
+- changing key access;
+- buying a bed;
+- moving stored boxes;
+- changing a recurring payment;
+- reassigning a parking space;
+- clearing cabinet space;
+- changing a door lock;
+- changing a place at the table;
+- giving away furniture.
+
+The strongest were:
+1. **The Key**
+2. **Clearing the Room**
+3. **Moving the Boxes**
+4. **The Cabinet / Chipped Mug**
+5. **The Lock**
+6. **The Chair**
+
+Major craft law:
+
+> **THE BEST THRESHOLD OBJECT IS AN OBJECT THAT CAN BE ACTED UPON IN MORE THAN ONE LEGITIMATE WAY.**
+
+The strongest objects carry verbs:
+- key — give / copy / return / withhold;
+- room — clear / occupy / lock / repurpose;
+- box — open / move / keep / discard.
+
+A second discovery:
+
+> **THE SMALLER THE OBJECT, THE MORE ROOM THERE MAY BE FOR THE RELATION TO EXCEED IT.**
+
+Important character correction:
+- A does not own continuity;
+- B does not own change.
+
+The chipped-mug probe was especially useful because B protects continuity.
+
+A further hypothesis emerged:
+
+> **A RELATION THAT CAN STILL LAUGH TOGETHER MAY STILL POSSESS CAPACITY FOR REVISION.**
+
+Do not canonize yet.
+
+The family Other should first enter through **material claim**, not exposition.
+
+The threshold micro-scenes also show that Relational Return may already be native to the fiction:
+the same object can return with changed standing after action.
+
+Next edge:
+
+> **WHICH SINGLE MATERIAL CHANGE CREATES THE MOST CONSEQUENCE WHILE PRESERVING THE MOST OPENNESS?**
+
+Next object:
+**CHOICE-POINT CANDIDATES — STILL NOT FINAL PLOT.**
