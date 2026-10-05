@@ -724,3 +724,40 @@ This sharpens the candidate cultural capacity:
 > **Receive the benefits of legibility without losing the capacity for unowned becoming.**
 
 The next stage is to locate ordinary human situations in which both desires are simultaneously active.
+
+
+## Human Situation / Relational Field
+
+The desire/counter-desire pair has now been placed into ordinary human relationship fields.
+
+Core files:
+- `Synthesis/HUMAN_SITUATION_FIELD.md`
+- `Synthesis/HUMAN_SITUATION_FIELD_PLATE.md`
+- `Synthesis/RELATIONAL_FIELD_LITERARY_STRESS_TEST.md`
+- `Synthesis/RELATIONAL_FIELD_STRESS_TEST_PLATE.md`
+
+The strongest fields are:
+- marriage / long partnership;
+- parent / adult child;
+- siblings / shared past;
+- lovers / intimate partners.
+
+The current lead is:
+
+> **MARRIAGE / LONG PARTNERSHIP**
+
+but only as a **relational field for literary development**.
+
+It leads because it naturally contains:
+time, body, sex, humor, money, care, memory, betrayal, family, aging, and irreversible choice.
+
+New law:
+
+> **ANOTHER PERSON CAN BECOME THE LIVING ARCHIVE OF A FORMER SELF.**
+
+Interpersonal revision without erasure:
+
+> **I may change without claiming the person you knew never existed; you may remember without claiming your memory owns who I am now.**
+
+Next:
+**scene pressure, not plot.**
