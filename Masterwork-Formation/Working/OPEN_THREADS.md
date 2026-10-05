@@ -847,3 +847,85 @@ Next object:
 - what language belongs to each;
 - what each fears being known as;
 - what each wants recognized now.
+
+
+## Character Perceptual Fields — Current Edge
+
+Core documents:
+- `Synthesis/CHARACTER_PERCEPTUAL_FIELDS.md`
+- `Synthesis/CHARACTER_PERCEPTUAL_FIELDS_PLATE.md`
+
+Character development is still pre-biography.
+
+The governing rule is:
+
+> **ATTENTION BEFORE BACKSTORY.**
+
+The strongest current perceptual pairing is:
+
+### Person A tendency
+**CONTINUITY / PATTERN / LANGUAGE / OBLIGATION**
+
+Strengths:
+- remembers;
+- detects recurrence;
+- preserves promises;
+- names patterns;
+- carries history.
+
+Risks:
+- freezes people inside accurate history;
+- mistakes recurrence for destiny;
+- overweights verbal consistency;
+- treats past commitment as permanent jurisdiction.
+
+### Person B tendency
+**PRESENT / PARTICULAR / ACTION / POSSIBILITY**
+
+Strengths:
+- updates;
+- notices exception;
+- acts;
+- protects novelty;
+- sees the current person.
+
+Risks:
+- underweights history;
+- treats change as self-justifying;
+- minimizes accumulated consequence;
+- mistakes release for innocence.
+
+The pairing matters because neither is:
+logic vs emotion,
+old vs new,
+human vs AI.
+
+Both have real perceptual competence.
+
+Major discovery:
+
+> **A RELATIONAL VIRTUE CAN BECOME A MISRECOGNITION WHEN IT CONTINUES AFTER ITS JURISDICTION HAS CHANGED.**
+
+Memory can become capture.
+
+Release can become erasure.
+
+Second major discovery:
+
+> **CHARACTER CHANGE MAY FIRST APPEAR AS A CHANGE IN ATTENTION.**
+
+Before someone says "I have changed," the prose may show:
+- what becomes visible;
+- what stops mattering;
+- what irritates;
+- what becomes beautiful;
+- which silence becomes audible.
+
+Next edge:
+
+> **PERCEPTUAL MICRO-SCENE TESTS**
+
+Use neutral situations only.
+No biographies.
+No plot.
+No canonical opening yet.
