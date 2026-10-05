@@ -407,3 +407,34 @@ The open danger is that a responsive model of culture can be mistaken for the Ou
 The future masterwork must therefore align:
 
 **LITERARY LIFE × FORMAL NECESSITY × ANSWERABILITY × HISTORICAL PRESSURE × SUCCESSION CAPACITY.**
+
+
+## Current Superseding Masterwork Edge
+
+The Orchard is no longer the active story direction. Its research is preserved as developmental trace, but active plot/protagonist development has been shelved.
+
+The contemporary cultural inquiry now points toward a deeper pressure:
+
+> **THE REPRESENTATION IS BECOMING EASIER TO LIVE WITH THAN THE THING REPRESENTED.**
+
+Working name:
+
+> **THE LEGIBILITY ADVANTAGE**
+
+The candidate new cultural capacity is:
+
+> **MODEL-AWARE RELATIONAL CAPACITY**
+
+the ability to use responsive representations while preserving the difference between:
+model and world,
+profile and person,
+summary and source,
+response and Other,
+coherence and warrant,
+delegation and responsibility.
+
+The next masterwork research question is:
+
+> **What human desire becomes newly powerful when representation is easier to relate to than independent reality?**
+
+No setting or plot is currently selected.
