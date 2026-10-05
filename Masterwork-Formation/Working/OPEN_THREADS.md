@@ -583,3 +583,48 @@ Investigate desire before story:
 - to receive a coherent account of oneself.
 
 Do not select setting, protagonist, or plot yet.
+
+
+## Desire Layer — Current Edge
+
+Core documents:
+- `Synthesis/CONTEMPORARY_DESIRE_FIELD.md`
+- `Synthesis/DESIRE_STRESS_TEST.md`
+- `Synthesis/CONTEMPORARY_DESIRE_SOURCES.md`
+
+The desire field was tested against the Legibility Advantage.
+
+The strongest current candidate is:
+
+> **TO BE KNOWN WITHOUT LOSING AUTHORSHIP OF MYSELF.**
+
+Analytically:
+
+> **TO RECEIVE RECOGNITION WITHOUT SURRENDERING TO THE FREEDOM OF THE RECOGNIZER.**
+
+This candidate passed because it is:
+- ancient rather than invented by AI;
+- literary rather than merely technological;
+- capable of love, shame, family, jealousy, confession, memory and betrayal;
+- intensified by responsive models that can offer highly available, low-risk recognition;
+- ambivalent rather than anti-AI.
+
+Important restraint:
+The evidence does not support a simple claim that people prefer AI recognition to human recognition. Human-attributed empathy often retains special value, while AI systems can nonetheless reduce social risk and enable disclosure in some contexts.
+
+The next edge is:
+
+> **WHAT DO WE ACTUALLY WANT FROM AN INDEPENDENT OTHER THAT WE CANNOT RECEIVE IF WE REMOVE THEIR POWER TO RESIST OUR ACCOUNT OF OURSELVES?**
+
+Candidate counter-values to test:
+- surprise;
+- correction;
+- forgiveness;
+- witness;
+- love;
+- judgment;
+- challenge;
+- freedom;
+- a future not authored by us.
+
+Do not select story yet.
