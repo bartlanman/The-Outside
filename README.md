@@ -522,3 +522,23 @@ The next masterwork problem is literary rather than structural:
 
 Next edge:
 **voice / point-of-view field.**
+
+
+## Voice Edge
+
+The current lead point-of-view architecture is:
+
+> **MOBILE FREE INDIRECT THIRD PERSON WITH BOUNDED INTERIOR JURISDICTION.**
+
+The governing rule is:
+
+> **The narrator may enter a mind. It may not own the relation between minds.**
+
+The reader can know more than either partner without being handed a final truth about the relationship.
+
+Next edge:
+
+> **What kinds of people would produce genuinely different perceptual worlds inside the same long relationship?**
+
+Next object:
+**character perceptual fields — not plot and not biography yet.**
