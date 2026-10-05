@@ -438,3 +438,18 @@ The next masterwork research question is:
 > **What human desire becomes newly powerful when representation is easier to relate to than independent reality?**
 
 No setting or plot is currently selected.
+
+
+## Desire Edge
+
+The current masterwork inquiry has reached a human desire rather than a setting.
+
+Working lead:
+
+> **TO BE KNOWN WITHOUT LOSING AUTHORSHIP OF MYSELF.**
+
+The new medium matters because responsive models can offer highly available recognition with less ordinary social exposure, while actual human recognition retains the power to contradict, reinterpret, refuse, and surprise.
+
+The next question is:
+
+> **What do we actually need from an independent Other that disappears if we remove their freedom to resist our account of ourselves?**
