@@ -673,3 +673,71 @@ Next edge:
 The next pass should identify ordinary human situations where both desires are active at once.
 
 Do not plot yet.
+
+
+## Human Situation / Relational Field — Current Edge
+
+Core documents:
+- `Synthesis/HUMAN_SITUATION_FIELD.md`
+- `Synthesis/HUMAN_SITUATION_FIELD_PLATE.md`
+- `Synthesis/RELATIONAL_FIELD_LITERARY_STRESS_TEST.md`
+- `Synthesis/RELATIONAL_FIELD_STRESS_TEST_PLATE.md`
+
+Ordinary human situations were compared for their ability to hold both:
+
+**SOVEREIGN RECOGNITION**
+and
+**UNOWNED BECOMING**
+
+without requiring theory or an AI-themed plot.
+
+The strongest fields were:
+1. marriage / long partnership;
+2. parent / adult child;
+3. siblings / shared past;
+4. lovers / intimate partners.
+
+The literary stress test gives a narrow lead to:
+
+> **MARRIAGE / LONG PARTNERSHIP**
+
+Status:
+
+**LEAD RELATIONAL FIELD FOR LITERARY DEVELOPMENT — NOT PLOT**
+
+Central pressure:
+
+> **WHAT HAPPENS WHEN THE PERSON WHO KNOWS ME BEST KNOWS A VERSION OF ME I AM TRYING TO LEAVE?**
+
+Reverse pressure:
+
+> **WHAT DO I OWE THE PERSON WHO ACTUALLY LIVED WITH THAT VERSION OF ME?**
+
+Major discovery:
+
+> **ANOTHER PERSON CAN BECOME THE LIVING ARCHIVE OF A FORMER SELF.**
+
+Interpersonal revision-without-erasure:
+
+> **I MAY CHANGE WITHOUT CLAIMING THAT THE PERSON YOU KNEW NEVER EXISTED.**
+
+> **YOU MAY REMEMBER WHO I WAS WITHOUT CLAIMING THAT YOUR MEMORY OWNS WHO I AM NOW.**
+
+Contemporary pressure:
+
+> **MY MOST ADAPTIVE MIRROR MAY NOT BE MY MOST CONSEQUENTIAL WITNESS.**
+
+Do not select:
+- spouses;
+- backstory;
+- children;
+- infidelity;
+- ending;
+- point of view;
+- AI use.
+
+Next edge:
+
+> **SCENE PRESSURE — WHAT KINDS OF SCENES NATURALLY EXIST IN A LONG PARTNERSHIP WHERE BOTH SOVEREIGN RECOGNITION AND UNOWNED BECOMING ARE ACTIVE?**
+
+Generate scene-classes, not narrative sequence.
