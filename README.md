@@ -472,3 +472,31 @@ Working law:
 > **THE GIFT OF THE INDEPENDENT OTHER IS AN UNOWNED FUTURE.**
 
 The next research task is to identify ordinary human situations where the desire for sovereign recognition and the desire for unowned becoming collide without requiring an AI-themed plot.
+
+
+## Relational Field Edge
+
+The project has now moved from abstract desire into ordinary human relation.
+
+The strongest current relational field is:
+
+> **MARRIAGE / LONG PARTNERSHIP**
+
+This is not a selected plot or protagonist.
+
+It is the field where the two desires collide most richly:
+
+**KNOW ME WITHOUT OWNING WHO I AM**
+⇄
+**LET RELATION CHANGE ME BEYOND WHAT I COULD AUTHOR ALONE**
+
+The central discovery is:
+
+> **Another person can become the living archive of a former self.**
+
+The contemporary tension can then be stated without making AI the subject:
+
+> **My most adaptive mirror may not be my most consequential witness.**
+
+Next edge:
+**scene pressure inside long partnership — still no plot.**
