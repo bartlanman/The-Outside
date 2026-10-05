@@ -761,3 +761,33 @@ Interpersonal revision without erasure:
 
 Next:
 **scene pressure, not plot.**
+
+
+## Scene Pressure
+
+The lead relational field has now been tested at scene scale without creating plot.
+
+Core files:
+- `Synthesis/LONG_PARTNERSHIP_SCENE_PRESSURE.md`
+- `Synthesis/LONG_PARTNERSHIP_SCENE_PRESSURE_PLATE.md`
+
+The most generative scene pressures include:
+- a shared story told differently;
+- a private joke that no longer lands;
+- "that's not like you";
+- a routine that lovingly presumes an old version of the other;
+- old evidence resurfacing;
+- an apology that is almost too coherent;
+- changed desire;
+- care without recognition;
+- refusal that preserves standing.
+
+Key correction:
+
+> **HISTORICAL WITNESS IS NOT THE SAME AS PRESENT RECOGNITION.**
+
+New question:
+
+> **Who can tell this without owning the other person's truth?**
+
+The next stage is voice / point of view, not plot.
