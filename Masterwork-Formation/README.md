@@ -874,3 +874,31 @@ The pair is still pre-biography.
 
 Next:
 **attentional formation fields — what kinds of lived worlds could train these ways of seeing?**
+
+
+## Attentional Formation
+
+The perceptual pair now has a plausible formation layer.
+
+Core files:
+- `Synthesis/ATTENTIONAL_FORMATION_FIELDS.md`
+- `Synthesis/ATTENTIONAL_FORMATION_FIELDS_PLATE.md`
+
+Key law:
+
+> **Attention follows consequence.**
+
+A's deep formation:
+> **Continuity is a form of care.**
+
+B's deep formation:
+> **Revision is a form of survival.**
+
+The strongest new insight is:
+
+> **A blind spot may be an intelligence applied beyond the conditions that taught it.**
+
+This allows each person's misrecognition to grow from a real competence rather than an assigned flaw.
+
+The next step is the first cautious move into biography:
+**only facts that materially change what the character notices, wants, fears, or can do in a scene.**
