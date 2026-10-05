@@ -640,3 +640,38 @@ A future masterwork must now align three independent strengths:
 - formal / constitutional adequacy;
 - literary life;
 - historical / milieu adequacy.
+
+
+## Current Superseding Edge — Model / World Human Experience
+
+Earlier Orchard development is preserved but no longer active.
+
+The Orchard is now classified as:
+
+**PRIOR CANDIDATE MATERIAL FIELD — SHELVED**
+
+See:
+- `Working/ORCHARD_STATUS_SHELVED.md`
+
+The contemporary inquiry has advanced through:
+- `Synthesis/CONTEMPORARY_SELF_PERCEPTION_AUDIT_2026.md`
+- `Synthesis/CONTEMPORARY_CAPACITY_SHIFT_2026.md`
+- `Synthesis/CONTEMPORARY_HUMAN_EXPERIENCE_FIELD.md`
+
+Current pressure:
+
+> **THE REPRESENTATION IS BECOMING EASIER TO LIVE WITH THAN THE THING REPRESENTED.**
+
+Working term:
+
+> **THE LEGIBILITY ADVANTAGE**
+
+The candidate capacity shift is:
+
+> **MODEL-AWARE RELATIONAL CAPACITY**
+
+The next edge is not story selection.
+
+It is:
+
+> **WHAT HUMAN DESIRE IS INTENSIFIED WHEN A RESPONSIVE MODEL IS MORE LEGIBLE, AVAILABLE, AND MANAGEABLE THAN THE INDEPENDENT PERSON, SOURCE, MEMORY, OR WORLD IT REPRESENTS?**
