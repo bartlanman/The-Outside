@@ -702,3 +702,27 @@ Next edge:
 
 Next object:
 **choice-point candidates — still not final plot.**
+
+
+## Current Stop
+
+The current Masterwork Formation pre-plot pass is complete.
+
+Lead threshold:
+
+> **CLEAR / REPURPOSE A ROOM FOR A FAMILY TRANSITION WHOSE FULL MEANING IS NOT YET SETTLED.**
+
+The work is intentionally stopped before:
+- choosing parent vs child;
+- choosing exact event;
+- assigning names or full biographies;
+- writing the opening scene;
+- beginning plot.
+
+See:
+- `Masterwork-Formation/Synthesis/CHOICE_POINT_CANDIDATES.md`
+- `Masterwork-Formation/Working/PRE_PLOT_FORMATION_STOPPING_POINT.md`
+
+Resume point:
+
+> **STORY GENERATION FROM THE ROOM CHOICE-POINT**
