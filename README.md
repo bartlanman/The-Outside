@@ -542,3 +542,23 @@ Next edge:
 
 Next object:
 **character perceptual fields — not plot and not biography yet.**
+
+
+## Character Perceptual Edge
+
+Character design has begun at the level of attention rather than biography.
+
+Current lead contrast:
+
+**CONTINUITY / PATTERN / LANGUAGE / OBLIGATION**
+⇄
+**PRESENT / PARTICULAR / ACTION / POSSIBILITY**
+
+The point is not opposition. Both are valid ways of seeing.
+
+Current law:
+
+> **A relational virtue can become a misrecognition when it continues after its jurisdiction has changed.**
+
+Next edge:
+**micro-scenes that test whether these perceptual worlds actually produce different, living prose.**
