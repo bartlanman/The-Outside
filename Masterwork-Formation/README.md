@@ -960,3 +960,26 @@ And:
 
 Next:
 **external pressure field — what makes waiting impossible without yet choosing an inciting incident.**
+
+
+## External Pressure Field
+
+The present-tense needs have now been placed under an external condition that forces consequence without yet selecting an inciting incident.
+
+Core files:
+- `Synthesis/EXTERNAL_PRESSURE_FIELD.md`
+- `Synthesis/EXTERNAL_PRESSURE_FIELD_PLATE.md`
+
+Lead pressure:
+
+> **A material reconfiguration of the shared household caused by a real family transition.**
+
+Key law:
+
+> **Good external pressure does not create the problem. It removes the possibility of postponing it.**
+
+Deeper:
+
+> **Pressure appears when reality exceeds the capacity of the current relational form.**
+
+The next stage tests this pressure through domestic threshold micro-scenes.
