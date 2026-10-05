@@ -513,3 +513,73 @@ The Orchard remains frozen as a candidate material field until this three-axis a
 ### Current research question
 
 > **WHAT, EXACTLY, IS THE PRESENT CULTURE BEGINNING TO PERCEIVE ABOUT ITSELF THROUGH GENERATIVE / RESPONSIVE MEDIA THAT IT COULD NOT PREVIOUSLY PERCEIVE — AND WHAT NEW CAPACITY MIGHT OPEN IF THAT CONDITION BECOMES LEGIBLE?**
+
+
+## CURRENT SUPERSEDING EDGE — Orchard Shelved / Model-World Human Experience
+
+This section supersedes earlier active-story references to the Orchard.
+
+The Orchard is now **SHELVED FROM ACTIVE STORY DEVELOPMENT**.
+
+Status file:
+- `Working/ORCHARD_STATUS_SHELVED.md`
+
+Its research remains developmental trace, but it is no longer:
+- the lead story-world;
+- the protagonist field;
+- the active plot path;
+- a privileged subject-matter choice.
+
+New contemporary documents:
+- `Synthesis/CONTEMPORARY_SELF_PERCEPTION_AUDIT_2026.md`
+- `Synthesis/CONTEMPORARY_CAPACITY_SHIFT_2026.md`
+- `Synthesis/CONTEMPORARY_SELF_PERCEPTION_SOURCES.md`
+- `Synthesis/CONTEMPORARY_HUMAN_EXPERIENCE_FIELD.md`
+
+The strongest current cultural synthesis is:
+
+> **THE REPRESENTATION IS BECOMING EASIER TO LIVE WITH THAN THE THING REPRESENTED.**
+
+Provisional name:
+
+> **THE LEGIBILITY ADVANTAGE**
+
+A model can be more immediately:
+- coherent;
+- available;
+- searchable;
+- adaptive;
+- patient;
+- personalized;
+- revisable;
+
+than the person, source, institution, memory, or world it represents.
+
+The new cultural-capacity candidate is:
+
+> **MODEL-AWARE RELATIONAL CAPACITY**
+
+The ability to use powerful representations without collapsing:
+MODEL / WORLD,
+PROFILE / PERSON,
+SUMMARY / SOURCE,
+RESPONSE / OTHER,
+SIMULATION / POPULATION,
+COHERENCE / WARRANT,
+DELEGATION / RESPONSIBILITY.
+
+Current research question:
+
+> **WHAT KIND OF HUMAN DESIRE BECOMES ESPECIALLY POWERFUL UNDER THE LEGIBILITY ADVANTAGE?**
+
+Investigate desire before story:
+- to be known;
+- to avoid refusal;
+- to eliminate uncertainty;
+- to receive frictionless intimacy;
+- to recover the past;
+- to control perception;
+- to act through delegation;
+- to receive a coherent account of oneself.
+
+Do not select setting, protagonist, or plot yet.
