@@ -98,3 +98,24 @@ When an item begins exerting repeated cross-domain gravity, move it into a **Fol
 53. Permanently missable events.
 54. Perfect accessibility as possible destroyer of mystery.
 55. Rooms with no interface.
+
+
+---
+
+## From Collision Field 02 / Score Cage-Break
+
+56. The same word `score` holding both pre-event instruction and post-event trace.
+57. Coherence without unison.
+58. Work as condition for notice.
+59. Passage as form.
+60. Interlocking incompleteness.
+61. Collective mythogenesis downstream of accident.
+62. Density through restraint.
+63. Multiple scores for different offices.
+64. Event generating temporary grammar during performance.
+65. Structured possibility without prior inscription.
+66. Developmental emergence exceeding blueprint.
+67. Ritual holding experience without containing it.
+68. Consequence without symbolic intention.
+69. Parts of a work scored; parts fielded; parts emergent; parts legible only afterward.
+70. A work acquiring capacities after release.
