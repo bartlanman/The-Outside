@@ -1097,3 +1097,25 @@ The participant's provisional new office is:
 Current masterwork compression:
 
 > **Enter the myth. Let it answer. Meet what it cannot invent. Return changed. Leave a trace.**
+
+
+## Proliferative Formation Method
+
+The Masterwork Formation process now uses:
+
+**GATHER → COLLIDE → PROLIFERATE → TRANSFORM → NOTICE → FOLLOW → RETURN**
+
+instead of artistic stress-test narrowing.
+
+Core files:
+- `Synthesis/MASTERWORK_PROLIFERATION_METHOD.md`
+- `Explorations/MASTERWORK_COLLISION_FIELD_01.md`
+- `Working/MASTERWORK_REMAINDER_BANK.md`
+
+The first collision field brings Homer, Scripture, Dante, Shakespeare, Proust, Eliot, Stein, Beckett, Borges, Hesse, Calvino, Tolkien, Le Guin, cinema, games, Mythos, nature, AI, and The Outside into open relation.
+
+The strongest current recurrence is not yet a medium:
+
+> **The work may need to hold different kinds of standing in one field without flattening them into one reality-status.**
+
+This remains exploratory.
