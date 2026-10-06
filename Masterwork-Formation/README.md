@@ -1032,3 +1032,29 @@ Those choices have intentionally **not** been made.
 
 Resume only with:
 **STORY GENERATION FROM THE ROOM CHOICE-POINT.**
+
+
+## Major Course Correction — Historical Equivalence / Mythos / Real-Unreal
+
+The recent long-partnership and room-choice-point work is preserved as a local literary prototype, but it is no longer the lead Masterwork Formation path.
+
+The inquiry has reopened at the scale of the historical masterworks and the current cultural medium.
+
+New core files:
+- `Synthesis/MASTERWORK_HISTORICAL_EQUIVALENCE_RESET.md`
+- `Synthesis/REAL_UNREAL_HEART_FEATHER_FIELD.md`
+- `Synthesis/CURRENT_ZEITGEIST_FORM_FIELD_2026.md`
+
+The governing comparison is now:
+
+**MILIEU → AVAILABLE MEDIUM → FORMAL MUTATION → CULTURAL SELF-PERCEPTION → NEW CAPACITY**
+
+The project will compare masterworks by their historical-equivalent operations and expand beyond literature into:
+cinema, modernist / avant-garde art, Beckett, Stein, digital / generative art, Ryan McGinness, game / interactive narrative, brain science, AI / world models, and carefully bounded quantum-information analogies.
+
+Primary axis:
+
+**HEART / REAL / CONSEQUENCE ⇄ FEATHER / UNREAL / POSSIBILITY**
+
+Next:
+**MASTERWORK / MILIEU / MEDIUM / MUTATION AUDIT.**
