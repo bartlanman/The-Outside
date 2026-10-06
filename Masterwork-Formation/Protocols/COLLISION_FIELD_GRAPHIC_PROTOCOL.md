@@ -144,11 +144,31 @@ It should establish:
 - spatial conditions
 - emotional temperature
 - scale behavior
-- any body-fragment rule appropriate to the field
+- the field-specific embodiment of the standing body-fragment rule
+
+## Standing body clause — required in every graphic prompt
+
+Every collision-field graphic prompt must include and adapt the following passage to the field's gravity:
+
+> **Include an abstract, sensual, partially dissipating human form integrated into the field itself. The body should not appear as a separate posed figure, but as a poetic fragment of living flesh emerging from, dissolving into, or being altered by the field's motion. Let the collision gravity determine whether the form is being drawn inward, pressed outward, opened, gathered, or dispersed. The body may be feminine, masculine, androgynous, or only suggestively human, depending on the field's emotional and symbolic gravity. Emphasize partial zones such as throat, shoulder, rib, waist, hip, back, hand, or thigh, rendered with sensual tenderness but without explicit nudity. The flesh should share the same ontology as the rest of the image: part body, part atmosphere, part material event.**
+
+This clause is not decorative.
+
+The prompt must decide, from the field itself:
+
+- whether the body gives or receives;
+- whether it is drawn inward or pushed outward;
+- which part or parts of the body carry the gravity;
+- whether the embodiment reads as feminine, masculine, androgynous, or only suggestively human;
+- how flesh becomes continuous with the field rather than appearing as an inserted figure.
+
+Standing compression:
+
+> **EVERY FIELD CONTAINS A SENSUAL DISSIPATING HUMAN FRAGMENT WHOSE FORM IS DETERMINED BY THE COLLISION GRAVITY, SO THAT FLESH BECOMES PART OF THE FIELD AND THE FIELD BECOMES PART OF THE FLESH.**
 
 Output form:
 
-> **GRAPHIC PROMPT:** [full image-generation prompt]
+> **GRAPHIC PROMPT:** [full image-generation prompt, including the adapted standing body clause]
 
 ---
 
@@ -199,7 +219,7 @@ After generation, the result may be:
 
 # 8. BODY RULE
 
-A collision-field graphic may include:
+A collision-field graphic must include:
 
 > **an abstract, sensual, partially dissipating human fragment integrated into the field itself**
 
@@ -240,7 +260,9 @@ The flesh should be:
 
 Standing rule:
 
-> **flesh becomes part of the field and the field becomes part of the flesh.**
+> **EVERY FIELD CONTAINS A SENSUAL DISSIPATING HUMAN FRAGMENT WHOSE FORM IS DETERMINED BY THE COLLISION GRAVITY, SO THAT FLESH BECOMES PART OF THE FIELD AND THE FIELD BECOMES PART OF THE FLESH.**
+
+The body is therefore not added after the field is composed. It is one of the materials through which the field's gravity becomes visible.
 
 ---
 
