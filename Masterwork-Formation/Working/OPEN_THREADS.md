@@ -1673,3 +1673,57 @@ Continue to proliferate around:
 - indifference;
 - missability;
 - fixed vs generated life.
+
+
+## Collision Field 02 — SCORE / ROUTE / ENSEMBLE / CROWD
+
+Files:
+- `Explorations/MASTERWORK_COLLISION_FIELD_02_SCORE_ROUTE_ENSEMBLE_CROWD.md`
+- `Explorations/MASTERWORK_COLLISION_FIELD_02_SOURCES.md`
+- `Follow/FOLLOW_SCORE.md`
+- `Explorations/CAGE_BREAKING_SCORE_01.md`
+- `Explorations/CAGE_BREAKING_SCORE_01_SOURCES.md`
+
+New gravity:
+
+> **SCORE**
+
+But not as a universal metaphor.
+
+The strongest discovery is the **double score**:
+
+> **SCORE₀ — conditions / possibility before encounter**
+>
+> **SCORE₁ — tally / trace after encounter**
+
+Provisional temporal grammar:
+
+**SCORE₀ → EVENT → SCORE₁**
+
+The score cage-break introduced forms that resist prior notation:
+- improvisation;
+- weather;
+- biological development;
+- dream;
+- grief;
+- accident.
+
+Result:
+
+SCORE now sits beside three other operations:
+
+- **SCORE** — explicit / inherited marks, rules, instructions.
+- **FIELD** — forces and conditions from which events emerge.
+- **EMERGENT GRAMMAR** — patterns created or discovered through relation.
+- **TRACE** — what remains and becomes legible afterward.
+
+Important correction:
+
+> **THE EVENT NEED NOT HAVE BEEN FULLY POSSIBLE IN THE LANGUAGE OF THE SCORE BEFORE IT HAPPENED.**
+
+New active question:
+
+> **WHICH PARTS ARE SCORED, WHICH PARTS ARE FIELDED, WHICH PARTS EMERGE IN RELATION, AND WHICH PARTS ONLY BECOME LEGIBLE AFTER THE EVENT?**
+
+Do not promote this architecture yet.
+Continue collisions.
