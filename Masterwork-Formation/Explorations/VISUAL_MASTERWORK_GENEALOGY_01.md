@@ -1185,7 +1185,7 @@ Mediation becomes recursive.
 
 # 8. CURRENT COMPOSITE GRAMMAR
 
-The six artists currently give:
+The six sequential ancestors plus one cross-cutting scalar ancestor currently give:
 
 ## Duchamp
 > **EVENT INSTEAD OF OBJECT**
@@ -1208,6 +1208,12 @@ The six artists currently give:
 Together:
 
 > **OBJECT → EVENT → FIELD → GRAVITY → TRACE → DEPOSIT → SIGNAL → FEEDBACK**
+
+Across that sequence:
+
+> **SCALE ⇄ EMERGENCE**
+
+Close should not be treated as another simple step after feedback. He changes how every prior term may be perceived depending on receiver distance.
 
 A stronger composite law is emerging:
 
@@ -1236,6 +1242,301 @@ The graphic should not illustrate a Collision Field.
 > **THE TRANSMISSION MUST NOT BE TREATED AS NEUTRAL.**
 
 > **WHAT PASSES THROUGH A SYSTEM SHOULD BE CHANGED BY HAVING PASSED THROUGH IT.**
+
+> **THE IMAGE SHOULD NOT MERELY SURVIVE CLOSER INSPECTION; IT SHOULD BECOME ANOTHER WORK.**
+
+> **THE RECEIVER'S POSITION SHOULD ALTER WHAT CAN BE PERCEIVED.**
+
+---
+
+# 8A. CHUCK CLOSE — SCALE / EMERGENCE / PART-WHOLE
+
+Close should not be forced into the linear sequence after Paik.
+
+His contribution cuts across the entire genealogy.
+
+The central question is:
+
+> **WHAT HAPPENS WHEN THE SAME FIELD BECOMES A DIFFERENT THING AT A DIFFERENT DISTANCE?**
+
+## Historical pressure
+
+Close works at a moment when:
+
+- photography appears to have solved likeness;
+- Abstract Expressionism has elevated gesture;
+- Minimalism is suppressing expressive gesture;
+- conceptual practices are questioning whether painting remains necessary;
+- portraiture appears exhausted as a serious avant-garde form.
+
+Close chooses portraiture precisely under these conditions and uses photography not as a rival to painting but as a source system to be translated.
+
+The pressure becomes:
+
+> **WHAT CAN PAINTING DISCOVER ABOUT AN IMAGE THAT PHOTOGRAPHY ALREADY SEEMS TO HAVE SOLVED?**
+
+## Formal mutation
+
+The photographic source becomes a grid.
+
+The grid becomes a traversal system.
+
+The image is translated cell by cell.
+
+At close range the field may appear as:
+
+- mark;
+- oval;
+- fingerprint;
+- patch;
+- color;
+- local decision.
+
+At distance:
+
+- face;
+- person;
+- identity;
+- coherent whole.
+
+Therefore:
+
+> **NO SINGLE UNIT CONTAINS THE IMAGE.**
+
+The whole emerges only through relation among partial contributions.
+
+This is a visual form of:
+
+> **INTERLOCKING INCOMPLETENESS**
+
+## Scale-dependent truth
+
+Close's central deposit is not pixelation.
+
+It is:
+
+> **SCALE-DEPENDENT TRUTH**
+
+At one distance:
+
+> **PERSON**
+
+At another:
+
+> **SYSTEM OF MARKS**
+
+These are not merely different levels of detail.
+
+They are different legitimate descriptions of the same material field.
+
+Thus:
+
+> **A CHANGE OF SCALE CAN PRODUCE A CHANGE OF MEANING.**
+
+## Receiver position
+
+The painting does not physically change.
+
+The receiver moves.
+
+Yet the work changes perceptually.
+
+A useful structure becomes:
+
+> **FAR — WHOLE**
+
+> **MIDDLE — DISINTEGRATION / RELATION**
+
+> **NEAR — MARK / PROCESS / LOCAL DIFFERENCE**
+
+The receiver's position therefore participates in what can be perceived.
+
+## Scalar narrative
+
+Close introduces:
+
+> **SCALAR NARRATIVE**
+
+The narrative happens as the receiver changes distance.
+
+A possible motion:
+
+> **WHOLE₀ → PART → PROCESS → WHOLE₁**
+
+The second whole is not identical to the first because the receiver now knows what the whole is made from.
+
+Thus:
+
+> **WHOLE₀ ≠ WHOLE₁**
+
+even when the physical work remains unchanged.
+
+This strongly echoes the broader Return problem:
+
+> later position changes earlier meaning.
+
+## Fanny / Fingerpainting
+
+A particularly useful operation appears when a portrait of another person is built from the artist's fingerprints.
+
+At distance:
+
+> **HER**
+
+At close range:
+
+> **HIM / TRACE OF MAKER**
+
+The same field therefore contains different bodily identities at different scales.
+
+The relation is not simple merger.
+
+It is:
+
+> **HER ⇄ HIM**
+
+with the movement between scales revealing the relation.
+
+## Infrastructure becomes visible
+
+The grid begins as working infrastructure.
+
+Later, it remains visible.
+
+Thus something that might normally stay behind the image enters the image.
+
+This yields:
+
+> **THE STRUCTURE THAT MAKES THE IMAGE POSSIBLE CAN ITSELF BECOME PART OF THE IMAGE.**
+
+This has a strong contemporary analogue in systems whose visible outputs normally conceal:
+
+- pixels;
+- datasets;
+- model structure;
+- compression;
+- prompt history;
+- metadata;
+- inference;
+- iteration;
+- provenance.
+
+The contemporary question becomes:
+
+> **WHAT HAPPENS WHEN THE CONDITIONS THAT PRODUCE THE IMAGE BECOME LEGIBLE WITHOUT TURNING THE WORK INTO A DIAGRAM?**
+
+## Near / middle / far for the Collision Field
+
+This may provide a compositional solution to the density problem.
+
+A provisional three-distance structure:
+
+### FAR
+
+- mythic whole;
+- major relation;
+- dominant motion;
+- archetypal or symbolic field.
+
+### MIDDLE
+
+- collisions;
+- seams;
+- deposits;
+- contradictions;
+- signals;
+- local gravity;
+- asymmetrical agencies.
+
+### NEAR
+
+- provenance;
+- trace;
+- material distinction;
+- human mark;
+- synthetic artifact;
+- archival grain;
+- evidence;
+- microstructure.
+
+The work need not reveal everything simultaneously.
+
+Scale can distribute complexity.
+
+Thus:
+
+> **DENSITY WITHOUT IMMEDIATE LEGIBILITY**
+
+and:
+
+> **THE CLOSE VIEW SHOULD NOT SOLVE THE FAR VIEW. IT SHOULD COMPLICATE IT.**
+
+## διά ⇄ σύν
+
+Close gives a bodily enactment of the relation.
+
+At close range:
+
+> **διά — difference / cell / mark / interval / local autonomy**
+
+At distance:
+
+> **σύν — whole / coherence / face / relation / emergence**
+
+Movement through space causes:
+
+> **σύν → διά → σύν**
+
+The receiver therefore performs the relation rather than merely reading its symbol.
+
+This yields a major rule:
+
+> **THE RECEIVER SHOULD ENACT διά ⇄ σύν BEFORE THE SYMBOL EXPLAINS IT.**
+
+This also gives formal force to:
+
+> **HOW FAR APART IS TOGETHER?**
+
+How far apart can local units remain while still producing one coherent event?
+
+How close can the receiver move before unity dissolves?
+
+How much interval can a whole sustain?
+
+## Contemporary pressure
+
+The present is full of scale mismatches:
+
+- token / document / corpus;
+- pixel / image / dataset;
+- user / population / model;
+- post / feed / platform;
+- local act / network effect;
+- singular voice / distributed inheritance.
+
+We often experience coherent wholes while their constituent conditions remain invisible.
+
+Therefore Close suggests a possible 2026 problem:
+
+> **HOW CAN EMERGENCE ITSELF BECOME PERCEPTIBLE?**
+
+## Deposit
+
+> **SCALE-DEPENDENT TRUTH**
+
+> **NO SINGLE UNIT CONTAINS THE WHOLE**
+
+> **PARTS NEED NOT RESEMBLE THE WHOLE THEY PRODUCE**
+
+> **THE RECEIVER'S POSITION ALTERS WHAT CAN BE PERCEIVED**
+
+> **THE INFRASTRUCTURE OF THE IMAGE MAY BECOME VISIBLE**
+
+> **RETURN TO THE WHOLE AFTER SEEING ITS PARTS CHANGES THE WHOLE**
+
+> **THE IMAGE SHOULD NOT MERELY SURVIVE CLOSER INSPECTION; IT SHOULD BECOME ANOTHER WORK**
+
+> **SCALE ⇄ EMERGENCE**
 
 ---
 
@@ -1376,25 +1677,36 @@ The task is to inherit operations, not surfaces.
 
 # 12. NEXT STEP
 
-Do not turn the visual genealogy into an art-history checklist.
+The visual genealogy is now sufficiently rich to pause artist-by-artist expansion and compare the inherited operations against the actual contemporary pressure field.
 
-The next move should be selected by **gravity**.
+Next question:
 
-The strongest current pull is:
+> **WHAT IS DISTINCTIVE ABOUT THE 2026 ZEITGEIST THAT THESE HISTORICAL OPERATIONS HELP US SEE BUT DO NOT ALREADY SOLVE?**
 
-> **CHUCK CLOSE — NEAR / FAR, RESOLUTION, PART / WHOLE, IMAGE AS FIELD OF DISCRETE UNITS**
+The next stage should map:
 
-This directly tests an intuition present from the beginning of the graphic inquiry:
+- synthetic media;
+- generative systems;
+- provenance instability;
+- recursive mediation;
+- personalization;
+- abundance;
+- scale mismatch;
+- human / machine authorship;
+- ecological and bodily reality;
+- trust;
+- feed culture;
+- historical simultaneity;
+- memory externalization;
+- simulation;
+- attention;
+- receiver participation.
 
-> **UP CLOSE AND FAR AWAY SHOULD REVEAL DIFFERENT ORDERS OF REALITY.**
+Then ask:
 
-The question is not whether to imitate Close's portrait grids.
+> **WHAT FORMAL MUTATION WOULD BE NATIVE TO THESE CONDITIONS RATHER THAN MERELY ILLUSTRATING THEM?**
 
-The question is:
-
-> **CAN ONE FIELD BE TRUE IN TWO DIFFERENT WAYS DEPENDING ON THE RECEIVER'S DISTANCE?**
-
-The graphic prompt remains deliberately postponed.
+The graphic prompt remains deliberately postponed until that pressure mismatch becomes legible.
 
 ---
 
@@ -1415,6 +1727,9 @@ Likely authoritative anchors already consulted in the working discussion include
 - Robert Rauschenberg Foundation — *Monogram* and related context
 - Smithsonian American Art Museum — Nam June Paik / television, signal, *Electronic Superhighway*
 - Nam June Paik material on closed-circuit video and electronic mediation
+- Museum of Modern Art — Chuck Close
+- National Gallery of Art — Chuck Close / *Fanny/Fingerpainting*
+- Walker Art Center — Chuck Close / *Big Self-Portrait*
 
 The conceptual deposits are exploratory until the source pass is complete.
 
