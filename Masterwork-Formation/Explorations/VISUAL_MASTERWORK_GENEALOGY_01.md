@@ -31,16 +31,17 @@ The eventual graphic prompt must therefore be delayed until the visual genealogy
 
 # 1. WORKING VISUAL LINEAGE
 
-The first four formal ancestors currently yield:
+The first five formal ancestors currently yield:
 
 > **DUCHAMP — OBJECT → EVENT**  
 > **PICASSO — EVENT → FIELD**  
 > **DALÍ — FIELD → GRAVITY**  
-> **POLLOCK — GRAVITY → TRACE**
+> **POLLOCK — GRAVITY → TRACE**  
+> **RAUSCHENBERG — TRACE → DEPOSIT**
 
 Current provisional progression:
 
-> **OBJECT → EVENT → FIELD → GRAVITY → TRACE**
+> **OBJECT → EVENT → FIELD → GRAVITY → TRACE → DEPOSIT**
 
 This is not yet a canonical architecture.
 
@@ -666,9 +667,279 @@ This may become a major contemporary pressure.
 
 ---
 
-# 6. CURRENT COMPOSITE GRAMMAR
+# 6. RAUSCHENBERG — THE COMBINES
 
-The four artists currently give:
+## Historical pressure
+
+Rauschenberg enters a postwar American field increasingly saturated by:
+
+- mass-produced objects;
+- advertising;
+- newspapers;
+- photography;
+- consumer goods;
+- urban debris;
+- industrial materials;
+- the dominance of Abstract Expressionism and the heroic individual gesture.
+
+Pollock had already allowed action, gravity, and material process into painting.
+
+Rauschenberg asks a different question:
+
+> **WHY SHOULD THE ARTIST'S MARK BE THE ONLY THING WITH STANDING INSIDE THE ARTWORK?**
+
+Why not admit:
+
+- newspaper;
+- quilt;
+- photograph;
+- mirror;
+- cardboard;
+- pillow;
+- chair;
+- tire;
+- taxidermied animal;
+- debris;
+- found object?
+
+Not merely representations of these things.
+
+The things themselves.
+
+## Formal mutation
+
+Traditional painting often follows:
+
+> **WORLD → ARTIST → REPRESENTATION**
+
+Rauschenberg partially short-circuits that sequence:
+
+> **WORLD → ARTWORK**
+
+The world itself enters the field.
+
+This is not merely collage.
+
+A found thing may continue asserting what it was before the artwork encountered it.
+
+A quilt remains quilt-like.
+
+A photograph retains photographic standing.
+
+A mirror still reflects.
+
+An eagle still occupies physical volume.
+
+Paint remains paint.
+
+Therefore:
+
+> **THE DEPOSIT RETAINS STANDING.**
+
+## Bed / resistant material
+
+In *Bed*, actual pillow, sheet, and quilt enter the work.
+
+The important operation is not the specific object.
+
+It is resistance.
+
+The artist attempts transformation, but the material does not surrender completely.
+
+Thus Pollock's:
+
+> **AUTHOR ⇄ MATERIAL**
+
+becomes:
+
+> **AUTHOR ⇄ THING-WITH-A-HISTORY**
+
+The admitted thing already belonged somewhere.
+
+It may have been used, manufactured, photographed, discarded, inherited, or lived with before the artwork.
+
+It carries a **before**.
+
+## Heterogeneous standing
+
+Picasso's Guernica contains many different symbolic figures translated into a shared painted language.
+
+Rauschenberg's Combines permit components to remain different kinds of things.
+
+Thus:
+
+> **COEXISTENCE WITHOUT ONTOLOGICAL EQUIVALENCE**
+
+and:
+
+> **THE COMPONENTS RETAIN DIFFERENT MODES OF EXISTENCE.**
+
+This is a major visual analogue for the contemporary standing problem.
+
+## Narrative structure
+
+The Combine is less a window onto a coherent represented world than a receptor surface upon which heterogeneous deposits accumulate.
+
+This produces:
+
+> **ACCUMULATION AS NARRATIVE**
+
+or:
+
+> **DEPOSIT NARRATIVE**
+
+Meaning arises from what has arrived beside what.
+
+## Encounter
+
+Dalí gives psychic attraction.
+
+Pollock gives force.
+
+Rauschenberg adds:
+
+> **ENCOUNTER**
+
+Something may enter because the world presented it rather than because the work had already decided what it meant.
+
+The work must then negotiate with what arrived.
+
+Thus:
+
+> **THE ENCOUNTER MAY ALTER THE WORK.**
+
+This is important to the broader Outside problem:
+
+> a work must be capable of meeting something it cannot legitimately reduce to itself.
+
+## Authorship as configuration
+
+Rauschenberg does not originate every admitted component.
+
+He selects, places, obscures, juxtaposes, transforms, or refuses.
+
+Therefore authorship can shift from:
+
+> **I CREATED ALL OF THIS**
+
+toward:
+
+> **I AM RESPONSIBLE FOR THIS CONFIGURATION.**
+
+This strongly parallels the working masterwork formulation:
+
+> **THE AUTHOR IS RESPONSIBLE FOR THE WAGER.**
+
+## Different depths of before
+
+A photograph may carry:
+
+camera → event → subject → photographer → publication → circulation → selection → reuse.
+
+A quilt may carry manufacture, use, touch, domestic association, wear.
+
+A found object may carry prior function and abandonment.
+
+Therefore the work contains:
+
+> **MULTIPLE HISTORIES IN ONE PRESENT.**
+
+The field is not merely temporally layered.
+
+Its components possess different provenance depths.
+
+## Contemporary reversal
+
+Digital systems often flatten standing.
+
+On one screen:
+
+- photograph;
+- painting;
+- scan;
+- AI image;
+- historical document;
+- screenshot;
+- film still;
+- synthetic face
+
+all become rectangular pixel fields.
+
+Their **display ontology converges**.
+
+The difficult contemporary question may therefore not be:
+
+> Can everything be combined?
+
+That is easy.
+
+It may be:
+
+> **CAN THINGS BE BROUGHT INTO RELATION WITHOUT ERASING HOW THEY CAME TO BE?**
+
+This yields another strong provisional law:
+
+> **THE COLLISION MUST NOT ERASE PROVENANCE.**
+
+## διά ⇄ σύν
+
+Rauschenberg sharpens the relation.
+
+**σύν** cannot mean blending everything into one substance.
+
+If that happens:
+
+- quilt stops being quilt;
+- photograph stops being photograph;
+- inherited stops being inherited;
+- generated stops being generated;
+- real stops being real.
+
+Instead:
+
+> **σύν = BROUGHT INTO RELATION**
+
+while:
+
+> **διά = THE INTERVAL THAT ALLOWS EACH THING TO RETAIN STANDING**
+
+Therefore:
+
+> **διά MAKES σύν POSSIBLE.**
+
+And without σύν, difference becomes mere isolation.
+
+A stronger working formulation becomes:
+
+> **DIFFERENCE SUFFICIENT FOR RELATION  
+> ⇄  
+> RELATION SUFFICIENT FOR TRANSFORMATION**
+
+## Deposit
+
+> **DEPOSIT WITH STANDING**
+
+> **HETEROGENEOUS MATERIALS REMAIN HETEROGENEOUS**
+
+> **ENCOUNTER MAY ALTER FORM**
+
+> **AUTHORSHIP AS CONFIGURATION**
+
+> **ACCUMULATION AS NARRATIVE**
+
+> **THE WORLD CAN ANSWER BACK**
+
+> **NON-UNITARY MEANING**
+
+> **MULTIPLE HISTORIES CAN OCCUPY ONE PRESENT**
+
+> **THE COLLISION MUST NOT ERASE PROVENANCE**
+
+---
+
+# 7. CURRENT COMPOSITE GRAMMAR
+
+The five artists currently give:
 
 ## Duchamp
 > **EVENT INSTEAD OF OBJECT**
@@ -682,9 +953,12 @@ The four artists currently give:
 ## Pollock
 > **FORCE / TRACE INSTEAD OF REPRESENTATIONAL DECORATION**
 
+## Rauschenberg
+> **DEPOSIT WITH STANDING INSTEAD OF HOMOGENEOUS MATERIAL**
+
 Together:
 
-> **OBJECT → EVENT → FIELD → GRAVITY → TRACE**
+> **OBJECT → EVENT → FIELD → GRAVITY → TRACE → DEPOSIT**
 
 A stronger composite law is emerging:
 
@@ -706,9 +980,13 @@ The graphic should not illustrate a Collision Field.
 
 > **THE COLLISION FIELD SHOULD CAUSE THE GRAPHIC.**
 
+> **THE COLLISION MUST NOT ERASE PROVENANCE.**
+
+> **A DEPOSIT MUST NOT LOSE ITS STANDING MERELY BECAUSE IT ENTERS THE FIELD.**
+
 ---
 
-# 7. ΔΙΑ ⇄ ΣΥΝ
+# 8. ΔΙΑ ⇄ ΣΥΝ
 
 The symbol **διά ⇄ σύν** is not yet ready to be placed as a title, emblem, or explanatory device.
 
@@ -767,7 +1045,7 @@ Then the symbol might function as Guernica's strongest symbols function:
 
 ---
 
-# 8. CONTEMPORARY PRESSURE — PROVISIONAL
+# 9. CONTEMPORARY PRESSURE — PROVISIONAL
 
 The current historical problem should not be reduced to "AI art."
 
@@ -819,7 +1097,7 @@ This remains provisional and must be tested against additional visual ancestors 
 
 ---
 
-# 9. WHAT NOT TO DO
+# 10. WHAT NOT TO DO
 
 Do not create:
 
@@ -827,6 +1105,7 @@ Do not create:
 - Guernica-style Cubist faces;
 - Dalí-style melting objects;
 - Pollock-style drips;
+- Rauschenberg-style newspaper/found-object collage;
 - generic surreal collage;
 - "Picasso + Dalí + anime + HDR";
 - AI-glow symbolism;
@@ -841,27 +1120,23 @@ The task is to inherit operations, not surfaces.
 
 ---
 
-# 10. NEXT STEP
+# 11. NEXT STEP
 
-Next visual ancestor:
+Do not turn the visual genealogy into an art-history checklist.
 
-> **ROBERT RAUSCHENBERG / THE COMBINES**
+The next move should be selected by **gravity**.
 
-The question:
+Three especially useful candidates are:
 
-> **HOW CAN HETEROGENEOUS MATERIALS WITH DIFFERENT ORIGINS, HISTORIES, AND STANDINGS SHARE ONE WORK WITHOUT BECOMING ONE SUBSTANCE?**
+- **Warhol** — reproduction, repetition, commodity, image after aura;
+- **Nam June Paik** — electronic mediation, signal, screen, networked image;
+- **Chuck Close** — near/far perception, resolution, part/whole, image assembled from discrete units.
 
-This should be studied before the visual graphic prompt is finalized.
+The next artist should be chosen by asking:
 
-Rauschenberg may provide the bridge from:
+> **WHICH ONE MOST STRONGLY DISTURBS OR EXTENDS THE CURRENT GRAVITY OF STANDING, PROVENANCE, SCALE, AND COLLISION?**
 
-> **TRACE**
-
-to:
-
-> **HETEROGENEOUS STANDING / COLLISION**
-
-After that, return to the contemporary pressure field and ask what equivalent formal mutation becomes possible now.
+The graphic prompt remains deliberately postponed.
 
 ---
 
@@ -877,7 +1152,9 @@ Likely authoritative anchors already consulted in the working discussion include
 - Museum of Modern Art — Duchamp, Dalí, Pollock
 - Museo Reina Sofía / Guernica archive
 - National Gallery of Art — Pollock
-- Metropolitan Museum of Art — Pollock
+- Metropolitan Museum of Art — Pollock and Rauschenberg
+- Museum of Modern Art — Rauschenberg / Combines
+- Robert Rauschenberg Foundation — *Monogram* and related context
 
 The conceptual deposits are exploratory until the source pass is complete.
 
