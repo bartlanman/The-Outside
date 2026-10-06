@@ -1631,3 +1631,45 @@ Compression:
 > WATCH FOR ORBIT.
 > WHEN ORBIT BECOMES LOOP,
 > ADD ANOTHER MASS.**
+
+
+## Cage-Breaking Demonstration 01 — Result
+
+Files:
+- `Explorations/CAGE_BREAKING_DEMONSTRATION_01.md`
+- `Explorations/CAGE_BREAKING_DEMONSTRATION_01_SOURCES.md`
+
+Starting gravity:
+**responsive / participatory / AI-enabled living world**
+
+Disturbances:
+- **Inverse:** On Kawara — strict time, fixity, irreversibility.
+- **Sideways attraction:** Ragnar Kjartansson's `The Visitors` — viewer moves while work remains fixed.
+- **Estrangement:** remove AI entirely and test what remains.
+- **Outside draw:** Ars Electronica 2026 — Bubble Talk, Wicked Mirror, Hello Worlds!, Embodied Animation.
+
+Result:
+
+The prior gravity changed standing.
+
+New exploratory gravity:
+
+> **A FIELD OF ASYMMETRICAL AGENCIES IN WHICH DIFFERENT THINGS ARE ALIVE IN DIFFERENT WAYS.**
+
+Important disturbance:
+
+> **RESPONSIVENESS IS NOT NECESSARILY EVIDENCE OF LIFE.**
+
+Possible deeper law:
+
+> **A WORK MAY FEEL MORE REAL WHEN SOME OF IT DOES NOT CARE ABOUT THE RECEIVER.**
+
+Do not promote yet.
+
+Continue to proliferate around:
+- asymmetrical agency;
+- irreversibility;
+- varying receiver offices;
+- indifference;
+- missability;
+- fixed vs generated life.
