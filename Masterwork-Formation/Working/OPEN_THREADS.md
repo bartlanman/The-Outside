@@ -1375,3 +1375,59 @@ When intentionally resumed, begin with:
 > **STORY GENERATION FROM THE ROOM CHOICE-POINT**
 
 Do not continue pre-plot scaffolding unless a contradiction is discovered.
+
+
+## SUPERSEDING EDGE — Historical-Equivalent Masterwork / Real-Unreal Field
+
+The recent pre-plot novel sequence has been demoted to:
+
+> **LOCAL LITERARY PROTOTYPE — NOT LEAD MASTERWORK FORM.**
+
+New core documents:
+- `Synthesis/MASTERWORK_HISTORICAL_EQUIVALENCE_RESET.md`
+- `Synthesis/REAL_UNREAL_HEART_FEATHER_FIELD.md`
+- `Synthesis/CURRENT_ZEITGEIST_FORM_FIELD_2026.md`
+
+The corrected inquiry compares masterworks by **historical-equivalent operation**, not by genre imitation.
+
+Examples:
+- Homer — generative performance;
+- Biblical corpus — governed multiplicity / consultable codex;
+- Dante — traversable cosmology;
+- Shakespeare — culture performing itself in the dominant popular medium;
+- Proust — consciousness as recording / replay / recomposition;
+- Eliot — fragmentation as native serious form;
+- Borges — synthetic authority before synthetic media;
+- Beckett — absence / non-arrival as form;
+- Stein — language as material;
+- Calvino — reader as operational participant;
+- Hesse — culture as playable system;
+- Tolkien — persistent world;
+- Le Guin — living canon / revision without erasure.
+
+Primary new axis:
+
+**REAL / HEART / WEIGHT / CONSEQUENCE**
+⇄
+**UNREAL / FEATHER / FLIGHT / POSSIBILITY**
+
+Working laws:
+
+> **THE REAL CAN ANSWER BACK.**
+
+> **THE UNREAL IS THE SPACE IN WHICH CULTURE CAN REHEARSE FORMS REALITY HAS NOT YET MADE AVAILABLE.**
+
+> **REAL WITHOUT UNREAL BECOMES DOCUMENT. UNREAL WITHOUT REAL BECOMES CLOSED SIMULATION.**
+
+Current 2026 threshold:
+
+> **CULTURE CAN NOW BUILD RESPONSIVE, GENERATIVE, PARTIALLY AGENTIC REPRESENTATIONS OF ITSELF — AND ENTER INTO RELATION WITH THEM.**
+
+Current masterwork question:
+
+> **WHAT FORM CAN HOLD THE WEIGHT OF THE REAL AND THE FREEDOM OF THE UNREAL AT ONCE, USING THE FULL CULTURAL INHERITANCE OF MYTH, LITERATURE, CINEMA, ART, GAME, SCIENCE, AND AI TO MAKE THE PRESENT CULTURE PERCEIVE THE CONDITION IT IS ALREADY ENTERING?**
+
+Next object:
+**MASTERWORK / MILIEU / MEDIUM / MUTATION AUDIT**
+
+Do not return to protagonist or plot yet.
