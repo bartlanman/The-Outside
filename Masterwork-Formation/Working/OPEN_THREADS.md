@@ -1598,3 +1598,36 @@ Instruction:
 > **FOLLOW WHAT GAINS GRAVITY. DO NOT TURN GRAVITY INTO A CAGE.**
 
 Next exploration should expand into additional collision fields rather than confirm the current one.
+
+
+## Anti-Loop / Cage-Breaking Standing Rule
+
+The proliferation method now includes a permanent cage-breaking protocol.
+
+When the field begins looping or becoming self-confirming:
+
+1. **INVERSE** — introduce the strongest opposite / refusal / anti-form.
+2. **SIDEWAYS ATTRACTION** — bring in an unrelated practice that may alter the field.
+3. **ESTRANGEMENT** — move the pattern into another medium / context.
+4. **OUTSIDE DRAW** — use web research and external scholarship when the project needs more world.
+
+Key law:
+
+> **WHEN GRAVITY STARTS BECOMING A CAGE, INTRODUCE SOMETHING THAT CAN CHANGE THE GRAVITY.**
+
+Web rule:
+
+> **PARSE THE WEB WHEN THE FIELD NEEDS MORE WORLD.**
+
+Anti-capture rule:
+new material must first be encountered on its own terms before being translated into project vocabulary.
+
+Loop diagnostic:
+if three consecutive explorations return to the same conclusion with the same internal vocabulary and no changed standing, trigger a cage-breaking pass.
+
+Compression:
+
+> **FOLLOW GRAVITY.
+> WATCH FOR ORBIT.
+> WHEN ORBIT BECOMES LOOP,
+> ADD ANOTHER MASS.**
