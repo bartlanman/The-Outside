@@ -747,3 +747,32 @@ New files:
 
 Next edge:
 **MASTERWORK / MILIEU / MEDIUM / MUTATION AUDIT**
+
+
+## Current Masterwork Form Hypothesis
+
+The widened historical audit now points to a lead formal mutation:
+
+> **REPRESENTATION → RELATIONAL REALIZATION**
+
+The lead candidate is a:
+
+> **LIVING MYTHIC WORLD-CORPUS**
+
+with five bodies:
+
+**Deposit / World / Realization / Outside / Trace**
+
+The strongest constitutional problem is:
+
+> **MAXIMUM PARTICIPATION WITHOUT TOTAL OWNERSHIP.**
+
+A receiver should be able to enter and alter the work without the work becoming merely a personalized mirror.
+
+Current law:
+
+> **A WORLD THAT ALWAYS ANSWERS IS NOT A WORLD. IT IS A SERVICE.**
+
+Current compression:
+
+> **ENTER THE MYTH. LET IT ANSWER. MEET WHAT IT CANNOT INVENT. RETURN CHANGED. LEAVE A TRACE.**
