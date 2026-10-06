@@ -77,3 +77,24 @@ Do:
 - record when one item begins attracting unrelated material.
 
 When an item begins exerting repeated cross-domain gravity, move it into a **Follow** document without deleting it here.
+
+
+---
+
+## From Cage-Breaking Demonstration 01
+
+41. Irreversibility in generative media.
+42. Truly missed digital moments.
+43. Generated material that expires permanently.
+44. A model forbidden from reconstructing a lost event.
+45. Regions indifferent to personalization.
+46. Personalized AI used to lead away from self-confirmation.
+47. Receiver office changing across one work.
+48. Responsiveness subordinate to agency diversity.
+49. Parts of the work that do not know the participant exists.
+50. Non-response as dignity.
+51. Multiple temporalities inside one work.
+52. Fixed material feeling more alive than generated material.
+53. Permanently missable events.
+54. Perfect accessibility as possible destroyer of mystery.
+55. Rooms with no interface.
