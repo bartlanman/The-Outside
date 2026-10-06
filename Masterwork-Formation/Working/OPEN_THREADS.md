@@ -1539,3 +1539,62 @@ stress-test the Living Mythic World-Corpus as a medium against:
 - accessibility;
 - durability / succession;
 - failure into game, therapy, ideology, or personalized service.
+
+
+## ACTIVE METHOD — PROLIFERATION, NOT STRESS-TEST NARROWING
+
+Core method:
+- `Synthesis/MASTERWORK_PROLIFERATION_METHOD.md`
+
+Current exploration:
+- `Explorations/MASTERWORK_COLLISION_FIELD_01.md`
+
+Remainder:
+- `Working/MASTERWORK_REMAINDER_BANK.md`
+
+Active motion:
+
+**GATHER → COLLIDE → PROLIFERATE → TRANSFORM → NOTICE → FOLLOW → RETURN**
+
+Parallel rule:
+
+> **EXCESS IS NOT WASTE DURING FORMATION.**
+
+Current strongest recurrence from Collision Field 01:
+
+> **THE WORK MAY NEED TO HOLD DIFFERENT MODES OF REALITY, AUTHORITY, MEMORY, AND POSSIBILITY IN ACTIVE RELATION WITHOUT COLLAPSING THEM INTO ONE KIND OF THING.**
+
+Possible emerging phrase:
+
+> **A FIELD OF STANDINGS**
+
+Examples of different standings:
+- authored;
+- inherited;
+- generated;
+- historical;
+- natural;
+- personal;
+- private;
+- random;
+- independent;
+- unknown.
+
+Do **not** promote this to final form yet.
+
+Other recurring gravities:
+- the work is not identical to any one realization;
+- participation without sovereignty;
+- externalized memory;
+- visible contradiction;
+- active ungenerated / refusal;
+- language as meaning + material;
+- world as container larger than plot;
+- Mythos as medium rather than content;
+- the Unreal seeking gravity.
+
+Instruction:
+
+> **FOLLOW WHAT GAINS GRAVITY. DO NOT TURN GRAVITY INTO A CAGE.**
+
+Next exploration should expand into additional collision fields rather than confirm the current one.
