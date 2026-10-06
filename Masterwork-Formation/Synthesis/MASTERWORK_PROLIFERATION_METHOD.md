@@ -405,3 +405,195 @@ Do not return to:
 - implementation plan;
 
 until a form begins producing genuine gravitational coherence across the wider field.
+
+
+---
+
+# XIV. Anti-Loop / Cage-Breaking Protocol
+
+A pattern becomes dangerous when recurrence starts masquerading as discovery.
+
+Warning signs:
+- the same concepts keep confirming one another;
+- every new source fits too easily;
+- the field begins using its own vocabulary to explain everything;
+- attraction becomes enclosure;
+- analogy stops producing surprise;
+- the same gravitational center keeps absorbing unlike material without being altered by it;
+- the Outside is being translated back into the system faster than it can resist.
+
+At that point, do **not** tighten the framework.
+
+Open it.
+
+Working law:
+
+> **WHEN GRAVITY STARTS BECOMING A CAGE, INTRODUCE SOMETHING THAT CAN CHANGE THE GRAVITY.**
+
+Use four interventions.
+
+## 1. INVERSE
+
+Find the strongest opposite, refusal, or anti-form.
+
+Examples:
+- if participation is attracting everything, study radical spectatorship;
+- if world is attracting everything, study work that destroys world;
+- if memory is attracting everything, study forgetting;
+- if Mythos is attracting everything, study anti-myth, absurdity, iconoclasm, disenchantment;
+- if generativity is attracting everything, study silence, fixity, scarcity, one-time-only work.
+
+Question:
+
+> **WHAT WOULD HAVE TO BE TRUE FOR THE CURRENT GRAVITY TO BE WRONG?**
+
+The inverse is not automatically corrective.
+It is a pressure source.
+
+## 2. SIDEWAYS ATTRACTION
+
+Pull in material that is not an obvious opposite but changes the field's orientation.
+
+Possible sources:
+- architecture;
+- comedy;
+- eroticism;
+- horror;
+- dance;
+- fashion;
+- sports;
+- craft;
+- ritual;
+- biology;
+- mathematics;
+- law;
+- economics;
+- children's play;
+- disability studies;
+- oral cultures;
+- non-Western aesthetic traditions;
+- folk practice;
+- engineering;
+- ecology.
+
+Question:
+
+> **WHAT UNRELATED PRACTICE HAS ALREADY SOLVED A FORMAL PROBLEM WE HAVE NOT RECOGNIZED YET?**
+
+## 3. ESTRANGEMENT
+
+Move the current pattern into a context where its assumptions become visible.
+
+Examples:
+- translate a digital idea into a physical ritual;
+- translate a mythic idea into bureaucracy;
+- translate an AI relation into a village oral tradition;
+- translate a world-system into a joke;
+- translate a philosophical claim into choreography;
+- translate a visual symbol into sound.
+
+Question:
+
+> **WHAT DOES THIS BECOME WHEN IT LOSES ITS FAVORITE MEDIUM?**
+
+Estrangement reveals hidden dependence.
+
+## 4. OUTSIDE DRAW
+
+When the existing project corpus becomes self-referential, go outside it.
+
+Use:
+- current web research;
+- scholarship;
+- contemporary art;
+- scientific developments;
+- subcultures;
+- criticism;
+- archives;
+- new media;
+- technical practice;
+- opposing interpretations;
+- things the project has never named.
+
+The purpose of web research is not to confirm the framework.
+
+It is to find:
+- missing context;
+- foreign vocabulary;
+- contemporary mutations;
+- counterexamples;
+- adjacent fields;
+- live phenomena;
+- unexpected precedents.
+
+Working law:
+
+> **PARSE THE WEB WHEN THE FIELD NEEDS MORE WORLD.**
+
+Do not browse merely to decorate a known idea.
+
+Browse when:
+- the pattern feels looped;
+- the cultural context may have changed;
+- a new medium or practice is emerging;
+- a historical analogy needs deeper context;
+- an unfamiliar artist / movement / science might alter the field;
+- the project needs an Other it did not already contain.
+
+## Anti-Capture Rule
+
+Any new outside material must be allowed to remain partly untranslated.
+
+Do not immediately map everything back into:
+- The Outside;
+- Meaning Field;
+- TOS;
+- Heart / Feather;
+- Mythos;
+- Participating Authorship.
+
+First ask:
+
+> **WHAT IS THIS ON ITS OWN TERMS?**
+
+Then:
+
+> **WHAT DOES IT DO TO OUR FIELD?**
+
+Only afterward:
+
+> **WHAT RELATION, IF ANY, IS WARRANTED?**
+
+This protects against framework capture.
+
+## Loop Diagnostic
+
+If three consecutive explorations:
+- return to the same conclusion;
+- use the same internal vocabulary;
+- promote no genuinely foreign operation;
+- produce no changed standing for the existing gravity;
+
+trigger a cage-breaking pass before continuing.
+
+The pass should include at least:
+- one inverse;
+- one sideways attraction;
+- one outside draw.
+
+Do not score them.
+Do not select immediately.
+
+Let them disturb the field.
+
+## Compression
+
+> **FOLLOW GRAVITY.
+> WATCH FOR ORBIT.
+> WHEN ORBIT BECOMES LOOP,
+> ADD ANOTHER MASS.**
+
+And:
+
+> **THE OUTSIDE SHOULD NOT ONLY VERIFY THE FIELD.
+> IT SHOULD SOMETIMES REARRANGE IT.**
