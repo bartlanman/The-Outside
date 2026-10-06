@@ -726,3 +726,24 @@ See:
 Resume point:
 
 > **STORY GENERATION FROM THE ROOM CHOICE-POINT**
+
+
+## Current Masterwork Reset
+
+The project has reopened the Masterwork Formation question beyond the conventional novel.
+
+The room / long-partnership path remains useful developmental trace but is now:
+
+> **LOCAL LITERARY PROTOTYPE — NOT LEAD MASTERWORK FORM.**
+
+The new governing question is:
+
+> **What form can hold the weight of the Real and the freedom of the Unreal at once, using the inheritance of myth, literature, cinema, art, game, science, and AI to make the present culture perceive the condition it is already entering?**
+
+New files:
+- `Masterwork-Formation/Synthesis/MASTERWORK_HISTORICAL_EQUIVALENCE_RESET.md`
+- `Masterwork-Formation/Synthesis/REAL_UNREAL_HEART_FEATHER_FIELD.md`
+- `Masterwork-Formation/Synthesis/CURRENT_ZEITGEIST_FORM_FIELD_2026.md`
+
+Next edge:
+**MASTERWORK / MILIEU / MEDIUM / MUTATION AUDIT**
