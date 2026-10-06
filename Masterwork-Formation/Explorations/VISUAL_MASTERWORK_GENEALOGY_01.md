@@ -31,17 +31,18 @@ The eventual graphic prompt must therefore be delayed until the visual genealogy
 
 # 1. WORKING VISUAL LINEAGE
 
-The first five formal ancestors currently yield:
+The first six formal ancestors currently yield:
 
 > **DUCHAMP — OBJECT → EVENT**  
 > **PICASSO — EVENT → FIELD**  
 > **DALÍ — FIELD → GRAVITY**  
 > **POLLOCK — GRAVITY → TRACE**  
-> **RAUSCHENBERG — TRACE → DEPOSIT**
+> **RAUSCHENBERG — TRACE → DEPOSIT**  
+> **PAIK — DEPOSIT → SIGNAL → FEEDBACK**
 
 Current provisional progression:
 
-> **OBJECT → EVENT → FIELD → GRAVITY → TRACE → DEPOSIT**
+> **OBJECT → EVENT → FIELD → GRAVITY → TRACE → DEPOSIT → SIGNAL → FEEDBACK**
 
 This is not yet a canonical architecture.
 
@@ -937,9 +938,254 @@ A stronger working formulation becomes:
 
 ---
 
-# 7. CURRENT COMPOSITE GRAMMAR
+# 7. NAM JUNE PAIK — SIGNAL / SCREEN / FEEDBACK
 
-The five artists currently give:
+## Historical pressure
+
+Paik enters the moment when television becomes a dominant cultural machine.
+
+Television changes:
+
+- who can speak at scale;
+- who receives;
+- how far images travel;
+- how quickly events arrive;
+- how culture synchronizes;
+- how public events enter domestic space.
+
+The image is no longer only a stable object.
+
+It becomes a transmissible electronic condition.
+
+The pressure becomes:
+
+> **WHAT HAPPENS WHEN THE IMAGE IS NO LONGER A STABLE OBJECT BUT A SIGNAL PASSING THROUGH A SYSTEM?**
+
+## Formal mutation
+
+Normally the television is treated as carrier.
+
+Paik makes the carrier visible as material.
+
+He alters circuits, disrupts normal signal, reroutes image, uses monitors sculpturally, and works with closed-circuit systems.
+
+The screen shifts from:
+
+> **LOOK THROUGH ME**
+
+to:
+
+> **NOTICE THAT I AM MEDIATING WHAT YOU SEE**
+
+This yields:
+
+> **MEDIATION HAS FORM.**
+
+and:
+
+> **THE CHANNEL PARTICIPATES IN THE MEANING.**
+
+## Deposit to signal
+
+Rauschenberg admits deposits that retain prior standing.
+
+Paik asks what happens when those deposits enter electronic circulation.
+
+Thus:
+
+> **DEPOSIT → SIGNAL**
+
+A signal can be:
+
+- transmitted;
+- distorted;
+- copied;
+- delayed;
+- multiplied;
+- rerouted;
+- fed back;
+- recombined.
+
+This introduces circulation history in addition to provenance history.
+
+## Feedback
+
+Closed-circuit works such as *TV Buddha* establish another mutation:
+
+> **SOURCE → MEDIATION → RETURN**
+
+The source becomes receiver of its own mediated image.
+
+Therefore:
+
+> **SIGNAL → FEEDBACK**
+
+The relation is no longer only linear transmission.
+
+The system can return altered information to what generated it.
+
+This is important for later thinking about recursive systems, AI mediation, and participant/world relation.
+
+## Live narrative
+
+Paik introduces:
+
+> **LIVE NARRATIVE**
+
+The work may operate while the receiver is present.
+
+A camera sees.
+
+A system transmits.
+
+A monitor answers.
+
+The receiver may enter the circuit.
+
+No single still frame contains the whole work.
+
+The work can consist in the relation among components operating through time.
+
+## Simultaneous channels
+
+Paik also introduces:
+
+> **SIMULTANEOUS CHANNELS**
+
+Many signals can occupy one installation at once.
+
+The receiver cannot consume everything.
+
+Attention becomes selective and partial.
+
+The viewer moves through signals rather than receiving one fixed order.
+
+Thus:
+
+> **PARTICIPATION WITHOUT SOVEREIGNTY**
+
+The receiver chooses a path but does not control the total field.
+
+## Distortion as consequence
+
+Pollock gives:
+
+> **MARK = CONSEQUENCE OF PHYSICAL FORCE**
+
+Paik adds:
+
+> **DISTORTION = CONSEQUENCE OF MEDIATION**
+
+Distortion need not signify dream, emotion, or decoration.
+
+It may indicate:
+
+- transmission;
+- compression;
+- translation;
+- interference;
+- feedback;
+- loss;
+- reconstruction;
+- signal processing.
+
+Therefore visual disturbance should have causal history.
+
+## Surface / content separation
+
+The electronic screen introduces a decisive condition:
+
+> **THE SURFACE REMAINS WHILE CONTENT CHANGES.**
+
+The same physical carrier may successively become:
+
+- news;
+- map;
+- body;
+- advertisement;
+- archive;
+- entertainment;
+- memory;
+- war;
+- artwork.
+
+This contributes to the contemporary standing problem because radically different realities may acquire the same display surface.
+
+## Distance and relation
+
+Paik changes the meaning of togetherness.
+
+A signal permits physically separated things to participate in one event.
+
+Therefore:
+
+> **RELATION CAN OCCUR ACROSS DISTANCE.**
+
+This sharpens **διά ⇄ σύν**.
+
+The interval is not merely what prevents togetherness.
+
+It may be the passage through which togetherness occurs.
+
+Thus:
+
+> **διά MAY BE THE CHANNEL THROUGH WHICH σύν BECOMES POSSIBLE.**
+
+This gives new standing to the question:
+
+> **HOW FAR APART IS TOGETHER?**
+
+## Contemporary extension
+
+In Paik's media system, the intermediary primarily carries and alters human-generated signal.
+
+In the contemporary condition, the intermediary can also:
+
+- infer;
+- predict;
+- generate;
+- imitate;
+- translate;
+- recombine;
+- answer.
+
+The channel no longer merely carries.
+
+It participates in production.
+
+A provisional contemporary structure becomes:
+
+> **SOURCE(S) → SYSTEM → GENERATED / ALTERED OUTPUT → RECEIVER → NEW INPUT → SYSTEM**
+
+Mediation becomes recursive.
+
+## Deposit
+
+> **MEDIATION HAS FORM**
+
+> **SIGNAL AS MATERIAL**
+
+> **THE CHANNEL PARTICIPATES**
+
+> **FEEDBACK CHANGES LINEAR TRANSMISSION INTO LOOP**
+
+> **LIVE RELATION CAN BE THE WORK**
+
+> **SIMULTANEOUS CHANNELS EXCEED SINGLE RECEPTION**
+
+> **DISTORTION SHOULD HAVE CAUSE**
+
+> **DISTANCE MAY ENABLE TOGETHERNESS**
+
+> **THE TRANSMISSION MUST NOT BE TREATED AS NEUTRAL**
+
+> **WHAT PASSES THROUGH A SYSTEM SHOULD BE CHANGED BY HAVING PASSED THROUGH IT**
+
+---
+
+# 8. CURRENT COMPOSITE GRAMMAR
+
+The six artists currently give:
 
 ## Duchamp
 > **EVENT INSTEAD OF OBJECT**
@@ -956,9 +1202,12 @@ The five artists currently give:
 ## Rauschenberg
 > **DEPOSIT WITH STANDING INSTEAD OF HOMOGENEOUS MATERIAL**
 
+## Nam June Paik
+> **SIGNAL / FEEDBACK INSTEAD OF NEUTRAL CARRIER**
+
 Together:
 
-> **OBJECT → EVENT → FIELD → GRAVITY → TRACE → DEPOSIT**
+> **OBJECT → EVENT → FIELD → GRAVITY → TRACE → DEPOSIT → SIGNAL → FEEDBACK**
 
 A stronger composite law is emerging:
 
@@ -984,9 +1233,13 @@ The graphic should not illustrate a Collision Field.
 
 > **A DEPOSIT MUST NOT LOSE ITS STANDING MERELY BECAUSE IT ENTERS THE FIELD.**
 
+> **THE TRANSMISSION MUST NOT BE TREATED AS NEUTRAL.**
+
+> **WHAT PASSES THROUGH A SYSTEM SHOULD BE CHANGED BY HAVING PASSED THROUGH IT.**
+
 ---
 
-# 8. ΔΙΑ ⇄ ΣΥΝ
+# 9. ΔΙΑ ⇄ ΣΥΝ
 
 The symbol **διά ⇄ σύν** is not yet ready to be placed as a title, emblem, or explanatory device.
 
@@ -1045,7 +1298,7 @@ Then the symbol might function as Guernica's strongest symbols function:
 
 ---
 
-# 9. CONTEMPORARY PRESSURE — PROVISIONAL
+# 10. CONTEMPORARY PRESSURE — PROVISIONAL
 
 The current historical problem should not be reduced to "AI art."
 
@@ -1097,7 +1350,7 @@ This remains provisional and must be tested against additional visual ancestors 
 
 ---
 
-# 10. WHAT NOT TO DO
+# 11. WHAT NOT TO DO
 
 Do not create:
 
@@ -1106,6 +1359,7 @@ Do not create:
 - Dalí-style melting objects;
 - Pollock-style drips;
 - Rauschenberg-style newspaper/found-object collage;
+- Paik-style CRT/video-wall/glitch nostalgia;
 - generic surreal collage;
 - "Picasso + Dalí + anime + HDR";
 - AI-glow symbolism;
@@ -1120,21 +1374,25 @@ The task is to inherit operations, not surfaces.
 
 ---
 
-# 11. NEXT STEP
+# 12. NEXT STEP
 
 Do not turn the visual genealogy into an art-history checklist.
 
 The next move should be selected by **gravity**.
 
-Three especially useful candidates are:
+The strongest current pull is:
 
-- **Warhol** — reproduction, repetition, commodity, image after aura;
-- **Nam June Paik** — electronic mediation, signal, screen, networked image;
-- **Chuck Close** — near/far perception, resolution, part/whole, image assembled from discrete units.
+> **CHUCK CLOSE — NEAR / FAR, RESOLUTION, PART / WHOLE, IMAGE AS FIELD OF DISCRETE UNITS**
 
-The next artist should be chosen by asking:
+This directly tests an intuition present from the beginning of the graphic inquiry:
 
-> **WHICH ONE MOST STRONGLY DISTURBS OR EXTENDS THE CURRENT GRAVITY OF STANDING, PROVENANCE, SCALE, AND COLLISION?**
+> **UP CLOSE AND FAR AWAY SHOULD REVEAL DIFFERENT ORDERS OF REALITY.**
+
+The question is not whether to imitate Close's portrait grids.
+
+The question is:
+
+> **CAN ONE FIELD BE TRUE IN TWO DIFFERENT WAYS DEPENDING ON THE RECEIVER'S DISTANCE?**
 
 The graphic prompt remains deliberately postponed.
 
@@ -1155,6 +1413,8 @@ Likely authoritative anchors already consulted in the working discussion include
 - Metropolitan Museum of Art — Pollock and Rauschenberg
 - Museum of Modern Art — Rauschenberg / Combines
 - Robert Rauschenberg Foundation — *Monogram* and related context
+- Smithsonian American Art Museum — Nam June Paik / television, signal, *Electronic Superhighway*
+- Nam June Paik material on closed-circuit video and electronic mediation
 
 The conceptual deposits are exploratory until the source pass is complete.
 
