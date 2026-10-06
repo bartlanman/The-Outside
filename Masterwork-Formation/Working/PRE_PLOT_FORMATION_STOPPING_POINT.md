@@ -99,3 +99,33 @@ Do not reopen the Orchard as the active plot unless independently chosen later.
 Do not restart the pre-plot sequence unless a contradiction appears.
 
 The current formation deposit is sufficient to begin fiction.
+
+
+---
+
+## 2026-10-05 Course Correction
+
+This stopping point is preserved as developmental trace, but it is no longer the active Masterwork Formation edge.
+
+The room / long-partnership sequence is now classified as:
+
+> **LOCAL LITERARY PROTOTYPE — NOT LEAD MASTERWORK FORM.**
+
+Reason:
+the sequence over-narrowed the inquiry toward a conventional contemporary novel and did not sufficiently metabolize:
+- Mythos;
+- the TOS film canon;
+- art history;
+- modernist / avant-garde formal breakthroughs;
+- interactive media;
+- digital / generative art;
+- brain / machine interface;
+- the current AI medium;
+- the REAL / UNREAL axis.
+
+Current superseding documents:
+- `Synthesis/MASTERWORK_HISTORICAL_EQUIVALENCE_RESET.md`
+- `Synthesis/REAL_UNREAL_HEART_FEATHER_FIELD.md`
+- `Synthesis/CURRENT_ZEITGEIST_FORM_FIELD_2026.md`
+
+Do not resume directly from the room choice-point unless the larger form audit later selects it.
