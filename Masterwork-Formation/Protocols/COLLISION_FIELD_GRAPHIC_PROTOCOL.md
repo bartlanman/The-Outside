@@ -1,8 +1,8 @@
 # COLLISION FIELD GRAPHIC PROTOCOL
 
-**Status:** Working protocol  
+**Status:** Working protocol — hard execution contract  
 **Office:** Masterwork Formation / Visual Art  
-**Purpose:** Define the operating sequence for collision-field-to-graphic generation.
+**Purpose:** Define and enforce the operating sequence for collision-field-to-graphic generation so the canonical visual rules cannot be casually rewritten, summarized away, or drifted from.
 
 ---
 
@@ -28,6 +28,14 @@ This preserves the order:
 > **FIELD → GRAVITY → SONG → RELATION → PROMPT → EXEGESIS → IMAGE**
 
 The image is last.
+
+## Hard execution rule
+
+Before writing any collision-field graphic prompt, the operator must re-read this protocol from the repository. Do not reconstruct the body rule, visual rules, or sequence from memory.
+
+> **RELOAD CANON BEFORE PROMPTING.**
+
+If the repository protocol and remembered practice differ, the repository protocol governs.
 
 ---
 
@@ -170,6 +178,54 @@ Output form:
 
 > **GRAPHIC PROMPT:** [full image-generation prompt, including the adapted standing body clause]
 
+## Hard body constraint
+
+The human element is **never** a complete character or complete human figure.
+
+Do not compose a recognizable whole person and then dissolve portions of that person.
+
+Begin instead with isolated zones of living flesh whose anatomical continuity is incomplete:
+- shoulder without full torso;
+- hand emerging without a complete arm;
+- rib / waist curvature without a complete body;
+- partial back or hip becoming another material;
+- throat, jawline, hand, thigh, or other fragment only where the gravity earns it.
+
+The viewer may momentarily recognize anatomy, but the image must not provide enough continuous anatomy to resolve the fragments into a posed whole human.
+
+> **FLESH IS A MATERIAL OF THE FIELD, NOT A CHARACTER INSIDE THE FIELD.**
+
+If the composition reads first as "a man/woman in a surreal scene," the graphic has failed the protocol.
+
+Additional hard failures:
+- a full head-to-foot silhouette;
+- a complete face plus complete torso;
+- a posed person standing beside, embracing, worshipping, confronting, or observing the field-object;
+- a character portrait with surreal effects added around it;
+- clothing used to make a full figure acceptable instead of obeying the fragment rule;
+- anatomy that remains visually continuous enough to reconstruct a whole body.
+
+The body-fragment rule must be solved **before** image generation by specifying:
+1. exactly which body zone or zones appear;
+2. which zone gives and which receives, if applicable;
+3. whether gravity draws inward, presses outward, opens, gathers, disperses, or transforms the flesh;
+4. exactly what nonhuman material the flesh becomes continuous with;
+5. what anatomical information is deliberately omitted so no complete person resolves.
+
+## Prompt restraint
+
+Do not stuff the exegesis into the prompt.
+
+The image prompt should describe:
+- one visual event;
+- its material conditions;
+- its motion;
+- its spatial behavior;
+- its emotional temperature;
+- its partial human embodiment.
+
+The prompt should **show the field without explaining its vocabulary**. The exegesis comes afterward.
+
 ---
 
 # 6. STEP FIVE — EXEGESIS
@@ -196,9 +252,35 @@ The exegesis should help determine whether the image is strong enough to keep, r
 
 ---
 
-# 7. STEP SIX — CREATE THE GRAPHIC
+# 7. STEP SIX — PRE-GENERATION LINT
 
-Only now is the graphic generated.
+Before any image-generation call, the completed graphic prompt must pass this lint.
+
+## Body lint
+
+- Is there a complete person? → **FAIL**
+- Could the viewer reconstruct a complete person from the described anatomy? → **FAIL**
+- Is the flesh an inserted character rather than a material of the field? → **FAIL**
+- Are the exact body zones determined by the field's gravity? → must be **YES**
+- Does flesh actually transition into, emerge from, or become continuous with another material / atmosphere / force? → must be **YES**
+
+## Image lint
+
+- Any words, letters, Greek, numbers, captions, labels, signs, UI, diagrams, or text-like marks requested in the image? → **FAIL**
+- Is the composition becoming an infographic, poster, explanatory plate, or symbolic diagram? → **FAIL**
+- Is the prompt literally explaining the thesis instead of staging a visual event? → **FAIL**
+- Is the image one visual event? → must be **YES**
+- Does field motion itself make the relation legible without arrows, labels, or captions? → must be **YES**
+
+If any item fails:
+
+> **DO NOT GENERATE THE IMAGE. REVISE THE PROMPT FIRST.**
+
+---
+
+# 8. STEP SEVEN — CREATE THE GRAPHIC
+
+Only after the prompt passes lint is the graphic generated.
 
 The image should be treated as:
 
@@ -215,9 +297,62 @@ After generation, the result may be:
 - used as anchor for further field work
 - canonized if it truly carries the field
 
+## Two-turn preservation rule
+
+The full Collision Field run and the image-generation call should not be delivered in the same response.
+
+Default behavior:
+
+**TURN ONE**
+- recover field;
+- gravity;
+- sing;
+- διά ⇄ σύν;
+- graphic prompt;
+- exegesis;
+- lint result;
+- stop.
+
+**TURN TWO**
+- only after the user explicitly says **image**, **graphic**, **create it**, or equivalent:
+  - re-read this protocol;
+  - recover the approved prompt from the immediately preceding field run;
+  - lint it again;
+  - generate the image.
+
+This protects the textual field work from being displaced by the image result and prevents last-second prompt drift.
+
 ---
 
-# 8. BODY RULE
+# 9. POST-GENERATION JUDGMENT
+
+Generation does not equal success.
+
+Immediately judge the generated image against the same contract.
+
+Automatic **FAIL — DISCARD / REVISE** conditions include:
+- complete human figure;
+- reconstructable whole human anatomy;
+- posed character;
+- flesh that does not become field-material;
+- unwanted words or lettering;
+- infographic / poster layout;
+- generic fantasy mysticism replacing the field's gravity;
+- literalized thesis illustration;
+- composition whose dominant read is "person beside symbol."
+
+Do not quietly accept a failed image as the result.
+
+Use:
+
+> **KEEP** — carries the field strongly enough to retain  
+> **REVISE** — core event works but protocol violations remain  
+> **DISCARD** — wrong ontology / wrong visual event / failed protocol  
+> **CANONIZE** — only when warranted by the field and user judgment
+
+---
+
+# 10. BODY RULE
 
 A collision-field graphic must include:
 
@@ -266,7 +401,7 @@ The body is therefore not added after the field is composed. It is one of the ma
 
 ---
 
-# 9. VISUAL RULES
+# 11. VISUAL RULES
 
 The process should preserve the current visual discoveries without turning them into a cage.
 
@@ -294,7 +429,7 @@ The image should avoid:
 
 ---
 
-# 10. CANONICAL SEQUENCE
+# 12. CANONICAL SEQUENCE
 
 When the user says:
 
@@ -320,23 +455,32 @@ full prompt draft
 ## F. Write the exegesis
 reading of the intended or generated image
 
-## G. Generate the image
-graphic output
+## G. Lint the prompt
+body lint + image lint; any failure blocks generation
 
-## H. Judge the result
+## H. Stop the text turn
+preserve the full Collision Field run
+
+## I. On explicit image command, reload protocol and lint again
+do not rely on memory
+
+## J. Generate the image
+graphic output only after the second-turn trigger
+
+## K. Judge the result
 keep / revise / discard / canonize
 
 ---
 
-# 11. SHORT OPERATOR VERSION
+# 13. SHORT OPERATOR VERSION
 
-> **COLLISION FIELD → GRAVITY → SING → ΔΙΑ ⇄ ΣΥΝ → GRAPHIC PROMPT → EXEGESIS → GRAPHIC**
+> **RELOAD CANON → COLLISION FIELD → GRAVITY → SING → ΔΙΑ ⇄ ΣΥΝ → GRAPHIC PROMPT → HARD BODY CHECK → LINT → EXEGESIS → STOP → USER SAYS IMAGE → RELOAD CANON → LINT AGAIN → GRAPHIC → JUDGE**
 
 This is now the standing workflow.
 
 ---
 
-# 12. CURRENT COMMITMENT
+# 14. CURRENT COMMITMENT
 
 The image is not the first discovery.
 
@@ -358,4 +502,12 @@ Therefore:
 
 > **THEN WRITE THE EXEGESIS.**
 
-> **THEN MAKE THE IMAGE.**
+> **THEN LINT THE PROMPT.**
+
+> **THEN STOP.**
+
+> **MAKE THE IMAGE ONLY AFTER AN EXPLICIT SECOND-TURN IMAGE COMMAND.**
+
+> **RELOAD THE CANON AND LINT AGAIN BEFORE GENERATION.**
+
+> **AFTER GENERATION, JUDGE THE RESULT. DO NOT ACCEPT DRIFT AS A SUCCESS.**
