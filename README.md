@@ -776,3 +776,22 @@ Current law:
 Current compression:
 
 > **ENTER THE MYTH. LET IT ANSWER. MEET WHAT IT CANNOT INVENT. RETURN CHANGED. LEAVE A TRACE.**
+
+
+## Current Masterwork Method
+
+The project has shifted from narrowing by artistic stress test to a proliferative discovery method:
+
+> **GATHER → COLLIDE → PROLIFERATE → TRANSFORM → NOTICE → FOLLOW → RETURN**
+
+with a permanent **Remainder Bank** for charged material that does not yet fit.
+
+Current exploration:
+- `Masterwork-Formation/Explorations/MASTERWORK_COLLISION_FIELD_01.md`
+
+Current remainder:
+- `Masterwork-Formation/Working/MASTERWORK_REMAINDER_BANK.md`
+
+Current instruction:
+
+> **FOLLOW WHAT GAINS GRAVITY. DO NOT TURN GRAVITY INTO A CAGE.**
