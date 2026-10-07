@@ -668,3 +668,86 @@ The required test before accepting contemporary Gravity is:
 > **DID CONTACT CHANGE THE FIELD, OR DID THE FIELD MERELY ABSORB THE CONTACT?**
 
 If only absorption occurred, continue gathering.
+
+
+---
+
+## Canonical Amendment — Axis / Perspective Recurrence
+
+Canonical companion protocol:
+
+`Masterwork-Formation/Protocols/COLLISION_FIELD_REPO_RECURRENCE_PROTOCOL.md`
+
+The anti-loop method now distinguishes:
+
+**FOUNDATIONAL AXIS**
+
+from:
+
+**USED PERSPECTIVE / FORMULATION.**
+
+Some of the deepest relations in the project are not questions to solve once.
+
+They are inexhaustible coordinates.
+
+Most importantly:
+
+> **OTHERNESS / BOUNDARY / BETWEEN / διά ⇄ σύν ARE NOT EXHAUSTED BY PRIOR USE.**
+
+The field may return to them indefinitely.
+
+The discipline is to avoid returning to the same **view** of them and mistaking repetition for discovery.
+
+A boundary can be encountered from:
+- another side;
+- another scale;
+- another body;
+- another medium;
+- another historical moment;
+- another permeability;
+- another direction of passage;
+- another mode of gathering;
+- another jurisdiction;
+- another consequence.
+
+Therefore:
+
+> **THE BOUNDARY IS A PERSPECTIVE GENERATOR.**
+
+And:
+
+> **διά ⇄ σύν IS NOT A CONCLUSION. IT IS AN ENGINE FOR REOPENING RELATION.**
+
+The recurrence question is not:
+
+> Have we already used Otherness?
+
+It is:
+
+> **WHAT HAS OTHERNESS BECOME FROM THIS POSITION THAT IT WAS NOT FROM THE LAST?**
+
+Likewise:
+
+> **WHAT DOES διά PASS THROUGH HERE?**
+
+> **WHAT DOES σύν GATHER HERE?**
+
+> **WHAT NEW OTHER IS PRODUCED, PRESERVED, ALTERED, OR REVEALED BY THAT RELATION?**
+
+Recurrence becomes developmental when it spirals:
+
+**AXIS₀ → PERSPECTIVE₀ → CONTACT → RETURN → AXIS₁ / PERSPECTIVE₁**
+
+The axis may remain recognizably continuous.
+
+The available perspective changes.
+
+Hard laws:
+
+> **DO NOT FLEE A FOUNDATIONAL QUESTION FOR THE SAKE OF NOVELTY.**
+
+> **DO NOT MISTAKE A NEW EXAMPLE OF AN OLD PERSPECTIVE FOR DISCOVERY.**
+
+> **SAME AXIS + NEW PERSPECTIVE = POSSIBLE SPIRAL.**
+
+> **SAME AXIS + SAME PERSPECTIVE = ORBIT UNTIL SOMETHING CHANGES.**
