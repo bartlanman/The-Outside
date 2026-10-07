@@ -6,6 +6,8 @@ Active Follow document.
 
 This file records a change in the Masterwork inquiry.
 
+Within a full Collision Field run, this file governs **CF-03 — POET SING** under `Masterwork-Formation/Protocols/COLLISION_FIELD_RUN_PROTOCOL.md`.
+
 It is **not** a declaration of final medium, final architecture, protagonist, or canonical doctrine.
 
 It follows a new possibility that appeared after Collision Field 03:
@@ -509,6 +511,13 @@ If this works, the result should no longer read like:
 It should read like:
 
 > **THE MASTERWORK HAS BEGUN SPEAKING.**
+
+This does not mean the Sing must automatically be expanded into a chapter or longer literary artifact.
+
+At CF-05, `MASTERWORK_CREATION_PROTOCOL.md` decides whether:
+- the Sing itself is the Masterwork;
+- the Sing seeds another earned form;
+- or no further artifact is warranted yet.
 
 ---
 
