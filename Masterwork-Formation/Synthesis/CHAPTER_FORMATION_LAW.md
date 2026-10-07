@@ -4,7 +4,9 @@
 
 Active formal law for the emerging Masterwork.
 
-This file records the method by which chapters are formed.
+This file records the method by which chapters are formed **when chapter-form is actually warranted**.
+
+The full Collision Field execution order is owned by `Masterwork-Formation/Protocols/COLLISION_FIELD_RUN_PROTOCOL.md`, and form selection is governed at CF-05 by `Masterwork-Formation/Protocols/MASTERWORK_CREATION_PROTOCOL.md`.
 
 It does **not** define the final number of chapters, final sequence, final medium, or final architecture of the complete work.
 
@@ -19,7 +21,9 @@ A chapter does not begin with:
 - a plot requirement;
 - an explanatory concept.
 
-A chapter begins with a **collision field**.
+When CF-05 determines that chapter-form is warranted, that chapter begins with the already-recovered **collision field**.
+
+This law must not be read as a requirement that every Collision Field become a chapter.
 
 Unlike materials are gathered and allowed to remain themselves.
 
@@ -194,6 +198,8 @@ It was heard after the collision field found its voice.
 
 # VI. OPERATING LAW
 
+This law applies only after the Masterwork Creation stage has earned **CHAPTER** as the form.
+
 For every future chapter:
 
 1. Build or encounter a collision field.
@@ -211,8 +217,10 @@ For every future chapter:
 
 # VII. GOVERNING FORMULATION
 
-> **EACH CHAPTER IS A COLLISION FIELD
+> **WHEN CHAPTER-FORM IS WARRANTED, EACH CHAPTER IS A COLLISION FIELD
 > WHOSE GRAVITY HAS GAINED A VOICE THROUGH THE POET
 > AND WHOSE NAME IS HEARD AFTERWARD THROUGH διά ⇄ σύν.**
+
+> **BUT NOT EVERY COLLISION FIELD OWES US A CHAPTER.**
 
 Do not reverse the order.
