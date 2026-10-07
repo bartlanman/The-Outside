@@ -21,7 +21,7 @@ Subordinate protocols govern the quality and internal method of their own stage;
 
 Canonical run:
 
-> **FULL CORPUS INTAKE → RELOAD CANON → RECOVER FIELD → TOS + DOS + MEANING FIELD + VAULT LEDGERS → CONTEMPORARY OUTSIDE DRAW → GRAVITY → POET SING → ΔΙΑ ⇄ ΣΥΝ → MASTERWORK FORMATION → VISUAL INTAKE GATE → GRAPHIC PROMPT → EXEGESIS → LINT → PROMPT LOCK → STOP**
+> **FULL CORPUS INTAKE → REPO USAGE / RECURRENCE AUDIT → RELOAD CANON → RECOVER FIELD → TOS + DOS + MEANING FIELD + VAULT LEDGERS → CONTEMPORARY OUTSIDE DRAW → PRE-GRAVITY PERSPECTIVE DELTA → GRAVITY → POET SING → ΔΙΑ ⇄ ΣΥΝ → MASTERWORK FORMAL MUTATION FIELD → MASTERWORK FORMATION / CONTRIBUTION → VISUAL INTAKE GATE → GRAPHIC PROMPT → EXEGESIS → LINT → PROMPT LOCK → STOP**
 
 Image phase:
 
@@ -99,23 +99,32 @@ Never silently substitute one mode for the other.
 
 # 1. REQUIRED SOURCE MANIFEST
 
-Before CF-00 may pass, execute:
+Before CF-00 may pass, execute in order:
 
-`Masterwork-Formation/Protocols/COLLISION_FIELD_FULL_CORPUS_INTAKE_PROTOCOL.md`
+1. `Masterwork-Formation/Protocols/COLLISION_FIELD_FULL_CORPUS_INTAKE_PROTOCOL.md`
+2. `Masterwork-Formation/Protocols/COLLISION_FIELD_REPO_RECURRENCE_PROTOCOL.md`
 
 A full run must begin visibly with:
 
 > **CF-PRE — FULL CORPUS INTAKE: PASS**
 
+followed by:
+
+> **CF-PRE-A — RECURRENCE AUDIT: PASS**
+
 The intake protocol requires a live repository inventory and full consultation of the complete Outside / Masterwork inheritance, with active / superseded / working / exploratory status preserved.
 
-Only after that intake may the run reload its specific operating canon and proceed.
+The recurrence audit then parses the live repository for what has already been used as Gravity, which perspectives on foundational axes have already been traveled, and where negative space remains.
+
+Only after both stages pass may the run reload its specific operating canon and proceed.
 
 Before producing CF-01 or later, re-read the relevant repository material.
 
 Minimum operating canon after full-corpus intake:
 
 1. `Masterwork-Formation/Protocols/COLLISION_FIELD_FULL_CORPUS_INTAKE_PROTOCOL.md`;
+2. `Masterwork-Formation/Protocols/COLLISION_FIELD_REPO_RECURRENCE_PROTOCOL.md`;
+3. `Masterwork-Formation/Working/COLLISION_FIELD_USAGE_MAP.md` as a working trace only;
 2. the requested Collision Field source file when an explicit field exists; for an open-field run, recover charged internal material rather than inventing a source file;
 3. `Masterwork-Formation/Synthesis/MASTERWORK_PROLIFERATION_METHOD.md`;
 4. `Masterwork-Formation/Protocols/COLLISION_FIELD_CULTURAL_GRAVITY_PROTOCOL.md`;
@@ -152,6 +161,63 @@ The run must begin with:
 > **CF-00 — CANON LOADED**
 
 and name the specific field source recovered.
+
+---
+
+# 1A. CF-PRE-A — REPO USAGE / RECURRENCE AUDIT
+
+Invoke:
+
+`Masterwork-Formation/Protocols/COLLISION_FIELD_REPO_RECURRENCE_PROTOCOL.md`
+
+This stage must parse the live repository rather than rely on conversational memory or the cached usage map alone.
+
+It must distinguish:
+
+- **FOUNDATIONAL AXES** — enduring generative relations;
+- **USED PERSPECTIVES / FORMULATIONS** — particular ways those axes have already been read;
+- **SATURATED / HEAVY FORMULATIONS** — framings that require a real delta before re-entry;
+- **OPEN REMAINDERS**;
+- **NEGATIVE SPACE**.
+
+Hard law:
+
+> **FOUNDATIONAL AXIS ≠ USED-UP TOPIC.**
+
+Especially:
+
+> **OTHERNESS / BOUNDARY / BETWEEN / διά ⇄ σύν MAY RECUR INDEFINITELY.**
+
+The audit asks not whether Otherness has been used, but:
+
+> **WHICH PERSPECTIVES ON OTHERNESS HAVE ALREADY BEEN USED?**
+
+A new field may return to the same axis if the boundary is encountered from a genuinely different:
+- side;
+- scale;
+- body;
+- medium;
+- permeability;
+- temporal position;
+- jurisdiction;
+- direction of passage;
+- mode of gathering;
+- consequence;
+- receiver office.
+
+Required output:
+
+> **CF-PRE-A — REPO USAGE / RECURRENCE AUDIT**
+
+followed by exactly one:
+
+> **CF-PRE-A — RECURRENCE AUDIT: PASS**
+
+or:
+
+> **CF-PRE-A — RECURRENCE AUDIT: FAIL**
+
+If FAIL, do not proceed toward Gravity.
 
 ---
 
@@ -222,6 +288,61 @@ If the web is unavailable or explicitly forbidden, mark this stage BLOCKED and d
 
 ---
 
+# 2B. PRE-GRAVITY PERSPECTIVE DELTA
+
+Immediately before CF-02 may lock, compare the emerging center against the repo recurrence map.
+
+Required output:
+
+### FOUNDATIONAL AXIS
+If the field is returning to an enduring axis such as Otherness / Boundary / Between / διά ⇄ σύν, name it.
+
+### NEAREST PRIOR PERSPECTIVE / BASIN
+Name the closest prior formulation.
+
+### PERSPECTIVE DELTA
+State what has changed in:
+- side;
+- scale;
+- medium;
+- body;
+- permeability;
+- direction;
+- time;
+- jurisdiction;
+- consequence;
+- passage;
+- gathering;
+- receiver office;
+- relation to the Outside.
+
+### CHANGED STANDING
+State what can now be perceived, said, done, or held that the prior perspective did not make available.
+
+### VERDICT
+
+Exactly one:
+
+> **NEW TERRITORY**
+
+> **SPIRAL RETURN — SAME AXIS, NEW PERSPECTIVE**
+
+> **ORBIT — SAME FORMULATION, RETURN TO GATHER**
+
+If verdict is ORBIT:
+
+> **CF-02 MAY NOT LOCK.**
+
+Hard laws:
+
+> **A RECURRING AXIS IS ALLOWED. A REPEATED PERSPECTIVE MUST EARN ITS RETURN.**
+
+> **SAME AXIS + NEW PERSPECTIVE CAN BE GENUINE DISCOVERY.**
+
+> **NEW EXAMPLE + SAME PERSPECTIVE IS NOT.**
+
+---
+
 # 3. CF-02 — GRAVITY
 
 Identify the pressure that is pulling the recovered field together.
@@ -240,6 +361,9 @@ It is not admissible merely because internal project material coheres.
 
 Before accepting Gravity, verify:
 - full Outside / Masterwork intake passed;
+- repo recurrence audit passed;
+- any recurring foundational axis has been distinguished from its already-used perspectives;
+- pre-gravity verdict is NEW TERRITORY or SPIRAL RETURN — SAME AXIS, NEW PERSPECTIVE;
 - TOS altered or charged the field;
 - DOS independently altered, dissolved, resisted, released, or charged the field;
 - Meaning Field altered or charged the field;
@@ -562,6 +686,7 @@ A protocol violation must not be quietly accepted.
 A full Collision Field text run is valid only if all headers appear in order:
 
 > **CF-PRE — FULL CORPUS INTAKE: PASS**  
+> **CF-PRE-A — RECURRENCE AUDIT: PASS**  
 > **CF-00 — CANON LOADED**  
 > **CF-01 — FIELD RECOVERED**  
 > **CF-01A — CULTURAL GRAVITY DRAW**  
@@ -585,6 +710,8 @@ If one is missing, the run is incomplete.
 # 14. COMPRESSION
 
 > **INVENTORY AND CONSULT THE FULL OUTSIDE / MASTERWORK CORPUS.**  
+> **PARSE WHAT HAS ALREADY PULLED THE FIELD.**  
+> **DISTINGUISH FOUNDATIONAL AXIS FROM USED PERSPECTIVE.**  
 > **READ THE CANON.**  
 > **RECOVER THE FIELD.**  
 > **BEGIN GRAVITY WITH TOS + DOS + MEANING FIELD + VAULT LEDGERS.**  
