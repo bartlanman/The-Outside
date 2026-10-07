@@ -186,7 +186,78 @@ A new run should not arrive at response / refusal / synthetic Otherness merely b
 
 ---
 
-# CROSS-FIELD BASINS
+# FOUNDATIONAL AXES
+
+These are **not usage-exhaustible topics**.
+
+They are deep relational coordinates whose perspectives may proliferate indefinitely.
+
+## AXIS 1 — OTHERNESS / BOUNDARY / BETWEEN
+
+Current used perspectives include:
+- Otherness as refusal;
+- Otherness as silence / non-response;
+- Otherness as independent standing;
+- Otherness as distance that preserves relation;
+- Otherness as contact without collapse;
+- Otherness as model/world distinction;
+- Otherness as generated response versus independently standing Other;
+- Otherness as jurisdictional limit.
+
+These perspectives are used.
+
+**OTHERNESS ITSELF IS NOT SATURATED.**
+
+The boundary remains generative because a change in:
+- side;
+- scale;
+- medium;
+- body;
+- permeability;
+- time;
+- direction;
+- jurisdiction;
+- attraction / repulsion;
+- passage;
+- gathering;
+- consequence;
+
+may reveal a different relation.
+
+Governing engine:
+
+# **διά ⇄ σύν**
+
+> **THE BOUNDARY IS A PERSPECTIVE GENERATOR.**
+
+## AXIS 2 — διά ⇄ σύν
+
+Used perspectives include:
+- answer / refusal;
+- inside / outside;
+- speaking / waiting;
+- straight / crooked;
+- leaving / keeping;
+- contact / interval.
+
+These are not the meaning of `διά ⇄ σύν`.
+
+They are prior readings through it.
+
+**State:** FOUNDATIONAL / OPEN-ENDED.
+
+## AXIS 3 — REAL / UNREAL
+
+Used perspectives include:
+- Heart / Feather;
+- generated possibility / resistant Outside;
+- representation / independently standing world.
+
+**State:** FOUNDATIONAL / OPEN-ENDED.
+
+---
+
+# CROSS-FIELD FORMULATION BASINS
 
 ## BASIN A — SYNTHETIC MEDIATION / RESPONSIVE AI / MODEL-WORLD
 
@@ -228,18 +299,20 @@ Includes:
 
 ---
 
-## BASIN C — OTHERNESS / REFUSAL / INDEPENDENT STANDING
+## BASIN C — REFUSAL / SILENCE AS A PERSPECTIVE ON OTHERNESS
 
 Includes:
 - right not to answer;
 - refusal;
 - silence;
 - inaccessible region;
-- actual receiver as Outside;
-- independently custodied source;
 - relation that cannot compel response.
 
-**State:** SATURATED / HEAVY.
+**State:** HEAVILY USED FORMULATION.
+
+This does **not** make Otherness itself saturated.
+
+Future fields may return to Otherness through another boundary condition if the perspective genuinely changes.
 
 ---
 
@@ -259,7 +332,7 @@ Includes:
 
 ---
 
-## BASIN E — BETWEEN / INTERVAL / RELATION WITHOUT COLLAPSE
+## BASIN E — INTERVAL / DISTANCE AS A PERSPECTIVE ON BOUNDARY
 
 Includes:
 - gap;
@@ -268,11 +341,11 @@ Includes:
 - contact;
 - flock;
 - antiphony;
-- between;
-- distributed whole;
 - distance as condition of relation.
 
-**State:** ACTIVE / HEAVY.
+**State:** ACTIVE / HEAVILY USED FORMULATION.
+
+This is one family of readings of the foundational Boundary / Between axis, not the axis itself.
 
 ---
 
@@ -323,9 +396,11 @@ Includes:
 
 The repository carries exceptional gravitational mass around:
 
-**AI → RESPONSE → OTHERNESS → MODEL/WORLD → TRACE → SUCCESSION**
+**AI → RESPONSE → REFUSAL / SYNTHETIC-OTHERNESS FORMULATION → MODEL/WORLD → TRACE → SUCCESSION**
 
 This chain is intellectually productive but can become a default attractor.
+
+The warning applies to that **formulation chain**, not to Otherness as a foundational relational axis.
 
 A future open field should treat it as **already used terrain**.
 
