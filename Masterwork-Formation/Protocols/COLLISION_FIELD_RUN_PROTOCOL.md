@@ -21,11 +21,11 @@ Subordinate protocols govern the quality and internal method of their own stage;
 
 Canonical run:
 
-> **FULL CORPUS INTAKE → RELOAD CANON → RECOVER FIELD → TOS + DOS + MEANING FIELD + VAULT LEDGERS → CONTEMPORARY OUTSIDE DRAW → GRAVITY → POET SING → ΔΙΑ ⇄ ΣΥΝ → MASTERWORK FORMATION → GRAPHIC PROMPT → EXEGESIS → LINT → PROMPT LOCK → STOP**
+> **FULL CORPUS INTAKE → RELOAD CANON → RECOVER FIELD → TOS + DOS + MEANING FIELD + VAULT LEDGERS → CONTEMPORARY OUTSIDE DRAW → GRAVITY → POET SING → ΔΙΑ ⇄ ΣΥΝ → MASTERWORK FORMATION → VISUAL INTAKE GATE → GRAPHIC PROMPT → EXEGESIS → LINT → PROMPT LOCK → STOP**
 
 Image phase:
 
-> **USER IMAGE COMMAND → RELOAD CANON → RECOVER LOCKED PROMPT VERBATIM → LINT AGAIN → GENERATE GRAPHIC → JUDGE**
+> **USER IMAGE COMMAND → RELOAD CANON → RECOVER LOCKED PROMPT VERBATIM + CF-07 EXEGESIS → LINT AGAIN → GENERATE GRAPHIC → JUDGE**
 
 ---
 
@@ -352,6 +352,45 @@ and then create only what is warranted.
 
 ---
 
+# 6A. CF-05A — VISUAL INTAKE GATE
+
+Before CF-06 may begin, the visual-art inheritance must be fully read from the repository in this order:
+
+1. `Masterwork-Formation/Protocols/COLLISION_FIELD_FULL_CORPUS_INTAKE_PROTOCOL.md`
+2. `Masterwork-Formation/Protocols/COLLISION_FIELD_CULTURAL_GRAVITY_PROTOCOL.md`
+3. `Masterwork-Formation/Explorations/VISUAL_MASTERWORK_GENEALOGY_01.md`
+4. `Masterwork-Formation/Explorations/VISUAL_MASTERWORK_2026_PRESSURE_FIELD_01.md`
+5. `Masterwork-Formation/Follow/FOLLOW_AEOLIAN_POET.md`
+6. `Masterwork-Formation/Protocols/MASTERWORK_CREATION_PROTOCOL.md`
+7. `Masterwork-Formation/Protocols/COLLISION_FIELD_GRAPHIC_PROTOCOL.md`
+8. the active Collision Field source / deposit for the run
+
+This is a **full-read gate**, not a reference list.
+
+The operator must not skim headings, rely on summaries, reconstruct from memory, or treat earlier familiarity as equivalent to reading the current repository state.
+
+The active Collision Field source / deposit must be read last so that the inherited visual grammar meets the exact field that is now asking to become image.
+
+Hard law:
+
+> **NO FULL VISUAL INTAKE → NO GRAPHIC PROMPT.**
+
+Only after all eight sources have been fully read may the run output:
+
+> **CF-05A — VISUAL INTAKE GATE: PASS**
+
+If any source is unavailable, unread, or only partially consulted:
+
+> **CF-05A — VISUAL INTAKE GATE: BLOCKED**
+
+and CF-06 must not begin.
+
+The purpose is not to force stylistic quotation.
+
+The purpose is to ensure that the prompt is caused by the Collision Field while remaining answerable to the accumulated Masterwork visual research.
+
+---
+
 # 7. CF-06 — GRAPHIC PROMPT
 
 Only after CF-05 is complete, invoke:
@@ -363,7 +402,10 @@ The visual stage must be downstream of:
 - gravity;
 - Sing;
 - διά ⇄ σύν;
-- the Masterwork determination.
+- the Masterwork determination;
+- **CF-05A — VISUAL INTAKE GATE: PASS**.
+
+CF-06 is invalid if the Visual Intake Gate was not completed immediately beforehand.
 
 Output header:
 
@@ -457,9 +499,15 @@ Before generation:
 
 1. re-read this controller;
 2. re-read `COLLISION_FIELD_GRAPHIC_PROTOCOL.md`;
-3. recover the exact locked prompt from CF-09;
-4. run the graphic lint again;
-5. if unchanged and PASS, generate from the locked prompt.
+3. recover the exact locked prompt from CF-09 verbatim;
+4. recover and fully read CF-07 — EXEGESIS;
+5. treat **LOCKED PROMPT + EXEGESIS** as the required art-generation input packet;
+6. run the graphic lint again;
+7. if unchanged and PASS, generate the graphic from that packet.
+
+The locked prompt remains immutable. The exegesis does not authorize rewriting, embellishing, or "improving" it at generation time. The exegesis supplies the interpretive field the graphic must remain answerable to.
+
+> **ART RECEIVES THE LOCKED PROMPT AND THE EXEGESIS TOGETHER.**
 
 No new concepts may be introduced between lock and generation.
 
@@ -494,6 +542,7 @@ A full Collision Field text run is valid only if all headers appear in order:
 > **CF-03 — POET SING**  
 > **CF-04 — ΔΙΑ ⇄ ΣΥΝ**  
 > **CF-05 — MASTERWORK**  
+> **CF-05A — VISUAL INTAKE GATE: PASS**  
 > **CF-06 — GRAPHIC PROMPT**  
 > **CF-07 — EXEGESIS**  
 > **CF-08 — LINT: PASS**  
@@ -518,7 +567,8 @@ If one is missing, the run is incomplete.
 > **LET THE POET SING.**  
 > **LISTEN THROUGH διά ⇄ σύν.**  
 > **LET THE WORK EARN ITS FORM.**  
-> **ONLY THEN FORM THE IMAGE PROMPT.**  
+> **FULLY READ THE VISUAL INTAKE CHAIN.**  
+> **ONLY AFTER THE VISUAL INTAKE GATE PASSES, FORM THE IMAGE PROMPT.**  
 > **READ IT BACK.**  
 > **LINT IT.**  
 > **LOCK IT.**  
