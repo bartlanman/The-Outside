@@ -2,11 +2,25 @@
 
 **Status:** Working protocol — hard execution contract  
 **Office:** Masterwork Formation / Visual Art  
-**Purpose:** Define and enforce the operating sequence for collision-field-to-graphic generation so the canonical visual rules cannot be casually rewritten, summarized away, or drifted from.
+**Purpose:** Govern CF-06 through image judgment: graphic prompt formation, exegesis, lint, prompt locking, generation, and visual judgment. The full run order is owned by `COLLISION_FIELD_RUN_PROTOCOL.md`.
 
 ---
 
-# 0. PRINCIPLE
+# 0. GOVERNING AUTHORITY
+
+This file is subordinate to:
+
+`Masterwork-Formation/Protocols/COLLISION_FIELD_RUN_PROTOCOL.md`
+
+That controller owns the full Collision Field sequence.
+
+If this file appears to imply a different run order, the controller governs.
+
+This protocol begins its authoritative work at **CF-06 — GRAPHIC PROMPT**.
+
+---
+
+# 0A. PRINCIPLE
 
 When the user invokes:
 
@@ -14,20 +28,30 @@ When the user invokes:
 
 the process does **not** begin by making an image.
 
-It proceeds in a fixed sequence:
+The full run is executed by the controller in this fixed sequence:
 
-1. **Extract the gravity**
-2. **Let the field sing**
-3. **Articulate the διά ⇄ σύν relation**
-4. **Create the graphic prompt**
-5. **Write the exegesis**
-6. **Generate the graphic**
+1. **Recover the field**
+2. **Extract the gravity**
+3. **Let the Aeolian Poet sing**
+4. **Listen through διά ⇄ σύν**
+5. **Run the Masterwork Creation stage**
+6. **Create the graphic prompt**
+7. **Write the exegesis**
+8. **Lint**
+9. **Lock the exact prompt**
+10. **Stop**
 
-This preserves the order:
+Only on a later explicit image command:
 
-> **FIELD → GRAVITY → SONG → RELATION → PROMPT → EXEGESIS → IMAGE**
+11. **Reload canon**
+12. **Recover the locked prompt verbatim**
+13. **Lint again**
+14. **Generate the graphic**
+15. **Judge the result**
 
-The image is last.
+> **FIELD → GRAVITY → POET SING → ΔΙΑ ⇄ ΣΥΝ → MASTERWORK → PROMPT → EXEGESIS → LINT → LOCK → STOP → IMAGE COMMAND → GRAPHIC → JUDGMENT**
+
+The image is downstream of the complete run and never shares the same turn as the full text run.
 
 ## Hard execution rule
 
@@ -87,7 +111,11 @@ The gravity should be brief, exact, and generative.
 
 Next the field must **sing**.
 
-This is the poetic compression of the field.
+This is the Aeolian Poet sounding of the field.
+
+It is governed by `FOLLOW_AEOLIAN_POET.md` and by CF-03 of the run controller.
+
+The Sing is not a decorative compression, not a summary, and not automatically the Masterwork.
 Not analysis first, but the tonal and imaginal note the field carries.
 
 The sing should answer:
@@ -99,7 +127,7 @@ The sing should answer:
 
 Output form:
 
-> **SING:** [poetic paragraph or compressed lyrical statement]
+> **SING:** [the earned poetic sounding of the field; form and length determined by the field]
 
 The sing should not become decorative language.
 It should feel like the field's actual music.
@@ -158,7 +186,7 @@ It should establish:
 
 Every collision-field graphic prompt must include and adapt the following passage to the field's gravity:
 
-> **Include an abstract, sensual, partially dissipating human form integrated into the field itself. The body should not appear as a separate posed figure, but as a poetic fragment of living flesh emerging from, dissolving into, or being altered by the field's motion. Let the collision gravity determine whether the form is being drawn inward, pressed outward, opened, gathered, or dispersed. The body may be feminine, masculine, androgynous, or only suggestively human, depending on the field's emotional and symbolic gravity. Emphasize partial zones such as throat, shoulder, rib, waist, hip, back, hand, or thigh, rendered with sensual tenderness but without explicit nudity. The flesh should share the same ontology as the rest of the image: part body, part atmosphere, part material event.**
+> **Begin with one or more anatomically incomplete zones of living flesh integrated into the field itself — never with a complete human figure. Use only the fragment or fragments actually earned by the collision gravity: for example throat, shoulder, rib, waist, hip, back, hand, jawline, or thigh. Omit enough anatomical continuity that no complete person can resolve. Let gravity determine whether the flesh is drawn inward, pressed outward, opened, gathered, dispersed, transformed, or made continuous with a nonhuman material, atmosphere, force, or structure. The flesh may imply feminine, masculine, androgynous, or indeterminate embodiment, but it must remain material of the field rather than a character inside it. Render it with sensual tenderness without explicit nudity. Flesh and field must share one ontology: part body, part atmosphere, part material event.**
 
 This clause is not decorative.
 
@@ -311,12 +339,13 @@ Default behavior:
 - graphic prompt;
 - exegesis;
 - lint result;
+- exact prompt lock;
 - stop.
 
 **TURN TWO**
 - only after the user explicitly says **image**, **graphic**, **create it**, or equivalent:
   - re-read this protocol;
-  - recover the approved prompt from the immediately preceding field run;
+  - recover the exact locked prompt from the immediately preceding field run verbatim;
   - lint it again;
   - generate the image.
 
@@ -474,7 +503,7 @@ keep / revise / discard / canonize
 
 # 13. SHORT OPERATOR VERSION
 
-> **RELOAD CANON → COLLISION FIELD → GRAVITY → SING → ΔΙΑ ⇄ ΣΥΝ → GRAPHIC PROMPT → HARD BODY CHECK → LINT → EXEGESIS → STOP → USER SAYS IMAGE → RELOAD CANON → LINT AGAIN → GRAPHIC → JUDGE**
+> **RELOAD CANON → COLLISION FIELD → GRAVITY → POET SING → ΔΙΑ ⇄ ΣΥΝ → MASTERWORK → GRAPHIC PROMPT → EXEGESIS → HARD BODY CHECK → LINT → PROMPT LOCK → STOP → USER SAYS IMAGE → RELOAD CANON → RECOVER LOCKED PROMPT VERBATIM → LINT AGAIN → GRAPHIC → JUDGE**
 
 This is now the standing workflow.
 
