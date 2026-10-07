@@ -21,7 +21,7 @@ Subordinate protocols govern the quality and internal method of their own stage;
 
 Canonical run:
 
-> **RELOAD CANON → RECOVER FIELD → GRAVITY → POET SING → ΔΙΑ ⇄ ΣΥΝ → MASTERWORK → GRAPHIC PROMPT → EXEGESIS → LINT → PROMPT LOCK → STOP**
+> **RELOAD CANON → RECOVER FIELD → CULTURAL GRAVITY DRAW → GRAVITY → POET SING → ΔΙΑ ⇄ ΣΥΝ → MASTERWORK → GRAPHIC PROMPT → EXEGESIS → LINT → PROMPT LOCK → STOP**
 
 Image phase:
 
@@ -58,16 +58,22 @@ Instead begin with charged available material and let the Collision Field perfor
 
 > **GATHER → COLLIDE → PROLIFERATE → TRANSFORM → NOTICE → FOLLOW → RETURN**
 
-The field may draw from:
+The field must gather across:
 - remainder banks;
 - open threads;
 - discoveries;
 - unresolved tensions;
-- current cultural pressure;
 - prior Collision Fields;
 - masterwork deposits;
-- Outside material;
-- new material when warranted.
+- The Outside / Masterwork Formation;
+- TOS as a live source-field;
+- Meaning Field as a live source-field;
+- current cultural pressure;
+- fresh contemporary outside material through current web research.
+
+For an open-field run, TOS, Meaning Field, and the contemporary Outside are not optional enrichment. They are required masses before Gravity can be finalized.
+
+The field must follow `Masterwork-Formation/Protocols/COLLISION_FIELD_CULTURAL_GRAVITY_PROTOCOL.md`.
 
 The operator must preserve plurality long enough for attraction to become observable.
 
@@ -97,12 +103,22 @@ Before producing CF-01 or later, re-read the relevant repository material.
 
 Minimum required canon:
 
-1. the requested Collision Field source file;
+1. the requested Collision Field source file when an explicit field exists; for an open-field run, recover charged internal material rather than inventing a source file;
 2. `Masterwork-Formation/Synthesis/MASTERWORK_PROLIFERATION_METHOD.md`;
-3. `Masterwork-Formation/Follow/FOLLOW_AEOLIAN_POET.md`;
-4. `Masterwork-Formation/Synthesis/CHAPTER_FORMATION_LAW.md`;
-5. `Masterwork-Formation/Protocols/MASTERWORK_CREATION_PROTOCOL.md`;
-6. `Masterwork-Formation/Protocols/COLLISION_FIELD_GRAPHIC_PROTOCOL.md`.
+3. `Masterwork-Formation/Protocols/COLLISION_FIELD_CULTURAL_GRAVITY_PROTOCOL.md`;
+4. `Masterwork-Formation/Follow/FOLLOW_AEOLIAN_POET.md`;
+5. `Masterwork-Formation/Synthesis/CHAPTER_FORMATION_LAW.md`;
+6. `Masterwork-Formation/Protocols/MASTERWORK_CREATION_PROTOCOL.md`;
+7. `Masterwork-Formation/Protocols/COLLISION_FIELD_GRAPHIC_PROTOCOL.md`.
+
+For a full run, also recover the live source-field entrypoints:
+
+8. `bartlanman/TOS` — begin with `Transformation Operating System/TOS_System_Index.md`, then consult relevant current cultural / zeitgeist / system material;
+9. `bartlanman/Meaning-Field` — begin with `README.md`, then consult the relevant canonical Journey / Prediction / ACT / Memory / Developmental Capacity / Relational Fluency material.
+
+These source-fields must be actually consulted, not merely named.
+
+For current cultural gravity, fresh web research is mandatory at CF-01A unless the user explicitly forbids web access.
 
 When graphic formation requires current visual grammar, also read the relevant Visual Art genealogy / pressure-field files named by the graphic protocol or by the active field.
 
@@ -140,6 +156,43 @@ Output header:
 
 ---
 
+# 2A. CF-01A — CULTURAL GRAVITY DRAW
+
+Before Gravity may be named, invoke:
+
+`Masterwork-Formation/Protocols/COLLISION_FIELD_CULTURAL_GRAVITY_PROTOCOL.md`
+
+This stage introduces live mass from:
+- TOS;
+- Meaning Field;
+- fresh contemporary web research;
+- and permits that new material to alter, resist, redirect, or seed the recovered field.
+
+The web is not used merely to verify or decorate an emerging thesis.
+
+It is used to find material capable of changing the field.
+
+The required motion includes the possibility of:
+- **MAGNETO** — new mass reorganizes attraction;
+- **FEEDING FLOW** — new energy extends the field into new territory;
+- **INVERSE FLOW** — counterforce slows or redirects premature collapse;
+- **SPIRAL ENERGY** — recurrence returns with changed capacity rather than looping;
+- **SEED / NEW OTHER** — charged material admitted before its relevance is fully legible.
+
+Output header:
+
+> **CF-01A — CULTURAL GRAVITY DRAW**
+
+This stage must include a visible **FIELD DELTA**: what changed because the new material entered.
+
+If no meaningful delta occurred, continue gathering.
+
+> **NO FIELD DELTA → NO CULTURAL GRAVITY YET.**
+
+If the web is unavailable or explicitly forbidden, mark this stage BLOCKED and do not claim current cultural gravity.
+
+---
+
 # 3. CF-02 — GRAVITY
 
 Identify the pressure that is pulling the recovered field together.
@@ -151,6 +204,20 @@ Gravity is not:
 - a thesis imposed before the field speaks.
 
 Gravity is the live attraction / pressure that makes the materials begin to organize without erasing their difference.
+
+Gravity must be downstream of CF-01A.
+
+It is not admissible merely because internal project material coheres.
+
+Before accepting Gravity, verify:
+- TOS altered or charged the field;
+- Meaning Field altered or charged the field;
+- fresh contemporary Outside material entered;
+- at least one outside mass resisted, redirected, or remained partly untranslated;
+- at least one seed of the new Other was admitted;
+- a FIELD DELTA is visible.
+
+If those conditions are absent, return to CF-01A.
 
 Output header:
 
@@ -389,6 +456,7 @@ A full Collision Field text run is valid only if all headers appear in order:
 
 > **CF-00 — CANON LOADED**  
 > **CF-01 — FIELD RECOVERED**  
+> **CF-01A — CULTURAL GRAVITY DRAW**  
 > **CF-02 — GRAVITY**  
 > **CF-03 — POET SING**  
 > **CF-04 — ΔΙΑ ⇄ ΣΥΝ**  
@@ -408,7 +476,10 @@ If one is missing, the run is incomplete.
 
 > **READ THE CANON.**  
 > **RECOVER THE FIELD.**  
-> **FIND THE GRAVITY.**  
+> **DRAW LIVE MASS FROM TOS + MEANING FIELD + THE CONTEMPORARY OUTSIDE.**  
+> **LET NEW ENERGY ATTRACT, FEED, RESIST, SPIRAL, OR SEED.**  
+> **REQUIRE A FIELD DELTA.**  
+> **ONLY THEN FIND THE GRAVITY.**  
 > **LET THE POET SING.**  
 > **LISTEN THROUGH διά ⇄ σύν.**  
 > **LET THE WORK EARN ITS FORM.**  
