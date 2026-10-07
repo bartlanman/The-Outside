@@ -25,7 +25,20 @@ It distinguishes:
 - recurrence that merely repeats;
 - recurrence that deepens;
 - recurrence that changes standing;
+- recurrence that reveals a new perspective on a foundational axis;
 - genuine new territory.
+
+Crucial distinction:
+
+> **A FOUNDATIONAL AXIS IS NOT AN EXHAUSTED BASIN.**
+
+Some relations are constitutive of the whole project and may remain permanently generative.
+
+Most importantly:
+
+> **OTHERNESS / BOUNDARY / BETWEEN / διά ⇄ σύν MUST NOT BE MARKED "SATURATED" AS SUCH.**
+
+What may become saturated is a **particular formulation or perspective** on that axis.
 
 ---
 
@@ -82,9 +95,14 @@ For each prior field, recover where available:
 - visual event / dominant motif;
 - unresolved remainder.
 
-Then cluster them into **conceptual attraction basins**.
+Then classify them at two levels:
+
+1. **FOUNDATIONAL AXES** — durable generative relations that the project may legitimately return to indefinitely;
+2. **USED FORMULATIONS / ATTRACTION BASINS** — particular ways those axes have already been read, framed, or made gravitational.
 
 A basin is broader than a keyword.
+
+A foundational axis is broader still.
 
 Examples:
 
@@ -108,16 +126,141 @@ may represent a repeatedly used memory-standing basin.
 
 ---
 
+# 2A. FOUNDATIONAL AXES
+
+A foundational axis is a relation whose recurrence is expected because it belongs to the deep grammar of the project.
+
+Current examples include:
+
+- **OTHERNESS**
+- **BOUNDARY / SEAM / BETWEEN**
+- **διά ⇄ σύν**
+- **REAL / UNREAL**
+- **SELF / OTHER**
+- **PASSAGE / GATHERING**
+- **WORLD / MODEL**
+- **INHERITANCE / RETURN**
+- **GROUND / FORM**
+
+These are not "topics already used."
+
+They are generative coordinates.
+
+The audit must therefore ask:
+
+> **WHICH PERSPECTIVE ON THE AXIS HAS ALREADY BEEN USED?**
+
+not:
+
+> **HAVE WE USED THE AXIS BEFORE?**
+
+For example, Otherness has already been approached through:
+- refusal;
+- silence;
+- independent standing;
+- distance;
+- non-collapse;
+- model/world distinction;
+- synthetic response.
+
+That does **not** exhaust Otherness.
+
+It records only some of the perspectives already traveled.
+
+A future Collision Field may encounter Otherness through a different boundary condition entirely.
+
+Hard law:
+
+> **DO NOT CONFUSE A RECURRING AXIS WITH A REPEATED GRAVITY.**
+
+And:
+
+> **THE BOUNDARY IS A PERSPECTIVE GENERATOR.**
+
+Changing:
+- side;
+- scale;
+- medium;
+- body;
+- time;
+- permeability;
+- direction of passage;
+- degree of gathering;
+- jurisdiction;
+- consequence;
+- observer position;
+
+can reveal a genuinely different face of the same fundamental relation.
+
+---
+
+# 2B. διά ⇄ σύν AS PERSPECTIVAL ENGINE
+
+`διά ⇄ σύν` is not a topic to "use up."
+
+It is a way of listening to relation.
+
+**διά** can disclose:
+- through;
+- across;
+- apart;
+- passage;
+- separation;
+- dispersal;
+- crossing;
+- differentiation.
+
+**σύν** can disclose:
+- with;
+- together;
+- gathering;
+- coordination;
+- composition;
+- holding;
+- belonging.
+
+Their relation is not one fixed binary.
+
+At any boundary, the field may ask:
+
+- what is passing?
+- what is gathering?
+- what becomes distinct through passage?
+- what becomes possible through holding?
+- what does gathering exclude?
+- what does passage destroy?
+- what crosses without belonging?
+- what belongs without collapsing?
+- where does the boundary move?
+- who experiences the boundary from which side?
+- what appears when the scale changes?
+- what becomes Other only because a relation formed?
+
+Therefore:
+
+> **OTHERNESS IS NOT A SINGLE OBJECT ON ONE SIDE OF A BOUNDARY.**
+
+It may arise through the changing relation of:
+**διά ⇄ σύν**.
+
+The recurrence audit must protect this generativity rather than suppress it.
+
+
+
+---
+
 # 3. USAGE STATES
 
 Each basin should be assigned one provisional state.
 
-## A. SATURATED
+## A. SATURATED FORMULATION
 
-Repeatedly used across multiple Collision Fields / syntheses with little remaining change of standing.
+A particular interpretation, framing, or operation has been repeatedly used across multiple Collision Fields / syntheses with little remaining change of standing.
 
 Default behavior:
-**DO NOT LET IT BECOME THE PRIMARY GRAVITY AGAIN WITHOUT A MAJOR DELTA.**
+**DO NOT LET THAT FORMULATION BECOME PRIMARY GRAVITY AGAIN WITHOUT A MAJOR DELTA.**
+
+A foundational axis itself must never be labeled saturated merely because several of its perspectives have been explored.
 
 ## B. ACTIVE / HEAVILY USED
 
@@ -155,7 +298,9 @@ It is gravitational awareness.
 
 # 4. THE RE-ENTRY TEST
 
-A previously used basin may become Gravity again only if at least one of the following is true:
+A previously used **formulation / basin** may become Gravity again only if at least one of the following is true.
+
+A foundational axis does not require permission to reappear; its **specific perspective** must instead pass this test:
 
 1. **NEW JURISDICTION** — a different kind of real-world standing changes what the basin is allowed to claim;
 2. **NEW SCALE** — the relation behaves differently at a scale not previously explored;
@@ -299,8 +444,11 @@ with:
 ### USED BASINS
 The major previously used conceptual basins relevant to the current gather.
 
-### SATURATED / HEAVY BASINS
-Concepts that require a major delta before re-entry.
+### FOUNDATIONAL AXES / USED PERSPECTIVES
+Name the deep axes currently present and distinguish them from the perspectives already used on those axes.
+
+### SATURATED / HEAVY FORMULATIONS
+Specific formulations that require a major delta before re-entry.
 
 ### OPEN REMAINDERS
 Prior material still capable of productive return.
@@ -338,11 +486,14 @@ Immediately before CF-02, compare the emerging candidate Gravity against the rep
 
 State:
 
-### NEAREST PRIOR BASIN
-What previous Gravity / operation is most similar?
+### FOUNDATIONAL AXIS
+If present, name the enduring axis being revisited.
 
-### DIFFERENCE
-What is actually different?
+### NEAREST PRIOR PERSPECTIVE / BASIN
+What previous Gravity, interpretation, or operation is most similar?
+
+### DIFFERENCE OF PERSPECTIVE
+What is actually different about the position, scale, boundary condition, medium, passage, gathering, consequence, or standing?
 
 ### CHANGED STANDING
 What can be said / done / perceived now that could not be said / done / perceived in the prior basin?
@@ -383,7 +534,9 @@ The usage map should be updated when a Collision Field is canonically deposited.
 
 > **NAME THE BASINS, NOT JUST THE TITLES.**
 
-> **DE-PRIORITIZE WHAT ALREADY HAS TOO MUCH MASS.**
+> **DE-PRIORITIZE USED FORMULATIONS THAT ALREADY HAVE TOO MUCH MASS.**
+
+> **DO NOT DE-PRIORITIZE A FOUNDATIONAL AXIS MERELY BECAUSE IT KEEPS MATTERING.**
 
 > **LET REMAINDER RETURN ONLY IF ITS STANDING CHANGES.**
 
