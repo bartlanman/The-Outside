@@ -317,38 +317,65 @@ Output header:
 
 ---
 
-# 6. CF-05 — MASTERWORK
+# 6. CF-05 — MASTERWORK FORMATION
 
 Now invoke:
 
 `Masterwork-Formation/Protocols/MASTERWORK_CREATION_PROTOCOL.md`
 
-This is a separate stage.
+This is a separate stage and it begins with **historical-equivalent formal mutation**, not medium selection.
 
-The system must decide what form, if any, the field now warrants.
+## CF-05A — FORMAL MUTATION FIELD
 
-Hard rule:
+Before any prose, poem, scene, score, film, game, ritual, graphic, installation, or other medium is selected, the run must visibly produce:
 
-> **DO NOT DEFAULT TO A NOVEL, CHAPTER, ESSAY, POEM, SCRIPT, OR ANY OTHER PRESELECTED FORM.**
+> **CF-05A — FORMAL MUTATION FIELD**
 
-Possible results include:
-- the Sing itself is sufficient and becomes the Masterwork;
-- the Sing becomes the seed of a different work;
-- a chapter is warranted;
-- a short lyric, dramatic scene, sequence, score, hybrid, visual-text object, or other form is warranted;
-- no additional literary artifact is warranted yet.
+This must include:
 
-Never manufacture a second artifact merely because the checklist contains a Masterwork stage.
+1. **HISTORICAL OPERATIONS ACTIVATED** — multiple Masterwork-lineage operations actually used;
+2. **CURRENT MILIEU PRESSURE** — what is newly possible / newly dangerous now;
+3. **RECEIVER-OFFICE SHIFT** — what the receiver can now do that an earlier receiver could not;
+4. **MASTER-COMPOSITION ROUTE** — Deposit / World / Realization / Outside / Trace / architecture mutation;
+5. **AT LEAST FIVE FORMAL MUTATIONS** — not five genres;
+6. **1995 TEST** — whether substantially the same operation could have existed before the present medium condition;
+7. **PROSE ADMISSIBILITY TEST** if prose is even being considered.
 
-Output header:
+Hard laws:
 
-> **CF-05 — MASTERWORK**
+> **OPERATION FIRST. MEDIUM SECOND. ARTIFACT THIRD.**
 
-The stage must state:
+> **CURRENT SUBJECT MATTER ≠ CURRENT FORM.**
 
-> **MASTERWORK FORM:** [earned form]
+> **AI-THEMED SPECULATIVE FICTION IS NOT, BY ITSELF, AN AI-ERA MASTERWORK FORM.**
 
-and then create only what is warranted.
+> **A COMPETENT SHORT STORY IS NOT EVIDENCE OF MASTERWORK FORMATION.**
+
+Only after CF-05A is complete may the run proceed.
+
+## CF-05B — MASTERWORK STANDING / CONTRIBUTION
+
+The run must then state:
+
+> **MASTERWORK STANDING: EARNED / NOT YET EARNED**
+
+and:
+
+> **MASTERWORK CONTRIBUTION: [office]**
+
+If an artifact is warranted, create it only after its formal mutation and office have been established.
+
+If no artifact is warranted, preserve the mutation / architecture / seed without manufacturing prose.
+
+The Collision Field does not owe us a standalone literary object every run.
+
+Output headers:
+
+> **CF-05A — FORMAL MUTATION FIELD**
+
+then:
+
+> **CF-05B — MASTERWORK STANDING / CONTRIBUTION**
 
 ---
 
@@ -541,7 +568,8 @@ A full Collision Field text run is valid only if all headers appear in order:
 > **CF-02 — GRAVITY**  
 > **CF-03 — POET SING**  
 > **CF-04 — ΔΙΑ ⇄ ΣΥΝ**  
-> **CF-05 — MASTERWORK**  
+> **CF-05A — FORMAL MUTATION FIELD**  
+> **CF-05B — MASTERWORK STANDING / CONTRIBUTION**  
 > **CF-05A — VISUAL INTAKE GATE: PASS**  
 > **CF-06 — GRAPHIC PROMPT**  
 > **CF-07 — EXEGESIS**  
