@@ -29,6 +29,68 @@ Image phase:
 
 ---
 
+# 0A. TARGET EMERGENCE RULE
+
+A Collision Field does **not** require a preassigned target.
+
+Two invocation modes are valid:
+
+## A. EXPLICIT-TARGET INVOCATION
+
+If the user explicitly names a field, number, title, word, object, or target, recover that target and run the field around it.
+
+## B. OPEN-FIELD INVOCATION
+
+If the user says only `collision field`, `run the collision field`, or another untargeted equivalent:
+
+> **DO NOT CHOOSE A TARGET IN ADVANCE.**
+
+Do not infer a target from:
+- the immediately preceding conversation;
+- the most recent Collision Field;
+- the highest numbered Collision Field in the repository;
+- repository recency;
+- a recently discussed word, image, title, or concept;
+- remembered user interest;
+- whatever material is easiest to retrieve.
+
+Instead begin with charged available material and let the Collision Field perform its own discovery through the active formation motion:
+
+> **GATHER → COLLIDE → PROLIFERATE → TRANSFORM → NOTICE → FOLLOW → RETURN**
+
+The field may draw from:
+- remainder banks;
+- open threads;
+- discoveries;
+- unresolved tensions;
+- current cultural pressure;
+- prior Collision Fields;
+- masterwork deposits;
+- Outside material;
+- new material when warranted.
+
+The operator must preserve plurality long enough for attraction to become observable.
+
+Only when one material, relation, question, image, contradiction, or pressure begins **pulling other material toward it without erasing their difference** may it be named as the emergent target / gravity-center of that run.
+
+Hard law:
+
+> **THE FIELD MAY CHOOSE ITS OWN TARGET.**
+
+And:
+
+> **AN UNTARGED COLLISION FIELD MUST NOT HAVE ITS TARGET SELECTED BY RECENCY, MEMORY, CONVENIENCE, OR OPERATOR PREFERENCE.**
+
+If no gravity-center earns itself, the run may remain unresolved rather than manufacturing a target.
+
+The target is therefore either:
+1. **explicitly supplied by the user**, or
+2. **earned by the field after collision begins**.
+
+Never silently substitute one mode for the other.
+
+---
+
 # 1. REQUIRED SOURCE MANIFEST
 
 Before producing CF-01 or later, re-read the relevant repository material.
