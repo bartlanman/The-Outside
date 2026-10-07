@@ -597,3 +597,74 @@ And:
 
 > **THE OUTSIDE SHOULD NOT ONLY VERIFY THE FIELD.
 > IT SHOULD SOMETIMES REARRANGE IT.**
+
+
+---
+
+## Canonical Amendment — Cultural Gravity / New Energy
+
+The proliferation method now distinguishes between **stored mass** and **new energy**.
+
+Stored mass includes:
+- TOS;
+- Meaning Field;
+- The Outside / Masterwork Formation;
+- prior Collision Fields;
+- masterwork deposits;
+- remainder;
+- discoveries;
+- internal project vocabulary.
+
+Stored mass can carry enormous charge.
+
+But internal recurrence alone can become orbit.
+
+Therefore a full contemporary Collision Field must also encounter **fresh outside material capable of altering the field**.
+
+Canonical companion protocol:
+
+`Masterwork-Formation/Protocols/COLLISION_FIELD_CULTURAL_GRAVITY_PROTOCOL.md`
+
+The contemporary draw is not postponed until the field feels looped.
+
+For full Collision Field execution it now occurs **before Gravity is finalized**.
+
+Working relations:
+
+**INTERNAL CORPUS = STORED MASS**
+
+**CONTEMPORARY OUTSIDE = NEW ENERGY**
+
+New energy may behave as:
+
+- **MAGNETO** — reorganizes attraction;
+- **FEEDING FLOW** — extends motion into new territory;
+- **INVERSE FLOW** — resists or redirects;
+- **SPIRAL ENERGY** — changes the capacity of the next return;
+- **SEED / NEW OTHER** — enters before the existing framework can fully name its relevance.
+
+The previous anti-loop law remains active:
+
+> **WHEN GRAVITY STARTS BECOMING A CAGE, INTRODUCE SOMETHING THAT CAN CHANGE THE GRAVITY.**
+
+But the stronger cultural-gravity law is now:
+
+> **DO NOT WAIT FOR THE CAGE. GIVE THE FIELD CONTEMPORARY OUTSIDE CONTACT BEFORE GRAVITY CLOSES.**
+
+And:
+
+> **CULTURAL SHIFT REQUIRES CONTACT WITH MATERIAL THE PRESENT FRAMEWORK CANNOT YET FULLY NAME.**
+
+The field should therefore ask:
+
+> **WHAT IS BEGINNING TO HAPPEN FOR WHICH CULTURE DOES NOT YET HAVE ADEQUATE LANGUAGE?**
+
+Current web research is one interface with that Outside.
+
+Use it to find new energy rather than evidence for an answer already forming.
+
+The required test before accepting contemporary Gravity is:
+
+> **DID CONTACT CHANGE THE FIELD, OR DID THE FIELD MERELY ABSORB THE CONTACT?**
+
+If only absorption occurred, continue gathering.
