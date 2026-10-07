@@ -1119,3 +1119,35 @@ The strongest current recurrence is not yet a medium:
 > **The work may need to hold different kinds of standing in one field without flattening them into one reality-status.**
 
 This remains exploratory.
+
+
+---
+
+## Collision Field Cultural Gravity Gate
+
+Full Collision Field execution is controlled by:
+
+- `Protocols/COLLISION_FIELD_RUN_PROTOCOL.md`
+- `Protocols/COLLISION_FIELD_CULTURAL_GRAVITY_PROTOCOL.md`
+- `Protocols/COLLISION_FIELD_SING_PROTOCOL.md`
+- `Protocols/MASTERWORK_CREATION_PROTOCOL.md`
+- `Protocols/COLLISION_FIELD_GRAPHIC_PROTOCOL.md`
+
+The cultural-gravity protocol is a required pre-Gravity gate.
+
+A full run must bring into contact:
+- The Outside / Masterwork Formation;
+- TOS;
+- Meaning Field;
+- fresh contemporary Outside material through current web research.
+
+The purpose is not to confirm the internal corpus.
+
+It is to admit new energy capable of producing:
+**MAGNETO / FEEDING FLOW / INVERSE FLOW / SPIRAL ENERGY / SEED OF THE NEW OTHER.**
+
+Hard execution rule:
+
+> **NO CF-01A FIELD DELTA → NO CF-02 CULTURAL GRAVITY.**
+
+This protects the Collision Field from becoming a closed orbit of its own prior discoveries.
