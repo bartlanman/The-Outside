@@ -31,10 +31,12 @@ It is an active source of mass and force capable of changing the motion of the f
 
 Before CF-02 — GRAVITY may be finalized, a full Collision Field run must bring into contact:
 
-1. **THE OUTSIDE / MASTERWORK FORMATION** — the active internal field, remainder, prior discoveries, and formal pressure;
-2. **TOS** — current cultural / system / zeitgeist material relevant to the collision;
-3. **MEANING FIELD** — current relational, Journey / Prediction / ACT / Memory / developmental-capacity material relevant to the collision;
-4. **THE CONTEMPORARY OUTSIDE** — fresh external material encountered through current web research.
+1. **THE OUTSIDE / MASTERWORK FORMATION** — already fully consulted under the pre-run intake protocol;
+2. **TOS** — constructive / formative / cultural / system / zeitgeist material;
+3. **DOS** — independently consulted dissolution / release / silence / entropy / unbinding material from `bartlanman/TOS/TOS Shadow/`;
+4. **MEANING FIELD** — relational, Journey / Prediction / ACT / Memory / developmental-capacity / encounter material;
+5. **THE VAULT LEDGERS** — the Ledger corpus in `bartlanman/The-Vault-/Ledgers/`, carrying etymological, semantic, recursive, architectural, signal, succession, and standing-debt mass;
+6. **THE CONTEMPORARY OUTSIDE** — fresh external material encountered through current web research.
 
 These are source-fields, not authorities.
 
@@ -44,9 +46,11 @@ Do not flatten them into one vocabulary before collision.
 
 For orientation, begin from:
 
-- `bartlanman/TOS` → `Transformation Operating System/TOS_System_Index.md`, then relevant live material including `23_ZEITGEIST/` when cultural conditions are at issue;
-- `bartlanman/Meaning-Field` → `README.md`, then relevant canonical Journey / Prediction / ACT / Memory / Developmental Capacity / Relational Fluency material;
-- `bartlanman/The-Outside` → the active Collision Field / Masterwork Formation material required by the controller.
+- **TOS:** `bartlanman/TOS` → `Transformation Operating System/TOS_System_Index.md`, then relevant live material including `23_ZEITGEIST/`;
+- **DOS:** `bartlanman/TOS/TOS Shadow/` → `00_FOUNDATIONS/00_DOS_SHADOW_VAULT_INDEX.md` and `00_FOUNDATIONS/00_NAVIGATION/DOS_MASTER_MAP.md`, then relevant live shadow material;
+- **Meaning Field:** `bartlanman/Meaning-Field` → `README.md`, then relevant canonical Journey / Prediction / ACT / Memory / Developmental Capacity / Relational Fluency material;
+- **Vault Ledgers:** `bartlanman/The-Vault-/Ledgers/` → live Ledger maps / complete reads, including `The Read Ledger/THE_READ_LEDGER_COMPLETE.md`, `The Living Ledger/00_README.md`, `The Invisible Architect/`, and `The Ledger Works/00_The_Index.md`;
+- **The Outside:** `bartlanman/The-Outside` → full intake governed by `COLLISION_FIELD_FULL_CORPUS_INTAKE_PROTOCOL.md`.
 
 Do not treat these entrypoints as the only admissible files. They are navigation anchors.
 
@@ -265,8 +269,14 @@ Charged material recovered from The Outside / Masterwork Formation.
 ### TOS MASS
 The TOS material actually consulted and the charge it contributes.
 
+### DOS MASS
+The DOS material actually consulted independently of TOS and the dissolution / release / inverse pressure it contributes.
+
 ### MEANING FIELD MASS
 The Meaning Field material actually consulted and the charge it contributes.
+
+### VAULT LEDGER MASS
+The Ledger material actually consulted and the semantic / architectural / recursive charge it contributes.
 
 ### CONTEMPORARY OUTSIDE
 The fresh web material encountered on its own terms.
@@ -296,9 +306,11 @@ Gather again.
 
 CF-02 — GRAVITY may not be finalized until all of the following are true:
 
-- The Outside / Masterwork Formation has supplied internal mass.
+- The full Outside / Masterwork intake has passed.
 - TOS has supplied live relevant mass.
+- DOS has supplied independently consulted live relevant mass.
 - Meaning Field has supplied live relevant mass.
+- Vault Ledgers have supplied live relevant mass.
 - Current web research has supplied contemporary outside mass.
 - At least one outside mass has been allowed to resist or remain partly untranslated.
 - At least one seed of potentially new cultural material has been admitted without requiring prior fit.
@@ -341,6 +353,11 @@ This is where the seed of the new Other may appear.
 
 # 10. COMPRESSION
 
+> **OUTSIDE / MASTERWORK = INHERITED MASS**  
+> **TOS = FORMATIVE MASS**  
+> **DOS = DISSOLUTIVE / RELEASE MASS**  
+> **MEANING FIELD = RELATIONAL / ENCOUNTER MASS**  
+> **VAULT LEDGERS = SEMANTIC / RECURSIVE MASS**  
 > **INTERNAL CORPUS = STORED MASS**  
 > **CONTEMPORARY OUTSIDE = NEW ENERGY**  
 > **MAGNETO = REORGANIZES ATTRACTION**  
