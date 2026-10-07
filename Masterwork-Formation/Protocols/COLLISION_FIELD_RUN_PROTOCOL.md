@@ -21,7 +21,7 @@ Subordinate protocols govern the quality and internal method of their own stage;
 
 Canonical run:
 
-> **RELOAD CANON → RECOVER FIELD → CULTURAL GRAVITY DRAW → GRAVITY → POET SING → ΔΙΑ ⇄ ΣΥΝ → MASTERWORK → GRAPHIC PROMPT → EXEGESIS → LINT → PROMPT LOCK → STOP**
+> **FULL CORPUS INTAKE → RELOAD CANON → RECOVER FIELD → TOS + DOS + MEANING FIELD + VAULT LEDGERS → CONTEMPORARY OUTSIDE DRAW → GRAVITY → POET SING → ΔΙΑ ⇄ ΣΥΝ → MASTERWORK FORMATION → GRAPHIC PROMPT → EXEGESIS → LINT → PROMPT LOCK → STOP**
 
 Image phase:
 
@@ -99,24 +99,45 @@ Never silently substitute one mode for the other.
 
 # 1. REQUIRED SOURCE MANIFEST
 
+Before CF-00 may pass, execute:
+
+`Masterwork-Formation/Protocols/COLLISION_FIELD_FULL_CORPUS_INTAKE_PROTOCOL.md`
+
+A full run must begin visibly with:
+
+> **CF-PRE — FULL CORPUS INTAKE: PASS**
+
+The intake protocol requires a live repository inventory and full consultation of the complete Outside / Masterwork inheritance, with active / superseded / working / exploratory status preserved.
+
+Only after that intake may the run reload its specific operating canon and proceed.
+
 Before producing CF-01 or later, re-read the relevant repository material.
 
-Minimum required canon:
+Minimum operating canon after full-corpus intake:
 
-1. the requested Collision Field source file when an explicit field exists; for an open-field run, recover charged internal material rather than inventing a source file;
-2. `Masterwork-Formation/Synthesis/MASTERWORK_PROLIFERATION_METHOD.md`;
-3. `Masterwork-Formation/Protocols/COLLISION_FIELD_CULTURAL_GRAVITY_PROTOCOL.md`;
-4. `Masterwork-Formation/Follow/FOLLOW_AEOLIAN_POET.md`;
-5. `Masterwork-Formation/Synthesis/CHAPTER_FORMATION_LAW.md`;
-6. `Masterwork-Formation/Protocols/MASTERWORK_CREATION_PROTOCOL.md`;
-7. `Masterwork-Formation/Protocols/COLLISION_FIELD_GRAPHIC_PROTOCOL.md`.
+1. `Masterwork-Formation/Protocols/COLLISION_FIELD_FULL_CORPUS_INTAKE_PROTOCOL.md`;
+2. the requested Collision Field source file when an explicit field exists; for an open-field run, recover charged internal material rather than inventing a source file;
+3. `Masterwork-Formation/Synthesis/MASTERWORK_PROLIFERATION_METHOD.md`;
+4. `Masterwork-Formation/Protocols/COLLISION_FIELD_CULTURAL_GRAVITY_PROTOCOL.md`;
+5. `Masterwork-Formation/Follow/FOLLOW_AEOLIAN_POET.md`;
+6. `Masterwork-Formation/Synthesis/CHAPTER_FORMATION_LAW.md`;
+7. `Masterwork-Formation/Protocols/MASTERWORK_CREATION_PROTOCOL.md`;
+8. `Masterwork-Formation/Protocols/COLLISION_FIELD_GRAPHIC_PROTOCOL.md`.
 
-For a full run, also recover the live source-field entrypoints:
+This list is the operating subset, not a substitute for the mandatory full-corpus intake.
 
-8. `bartlanman/TOS` — begin with `Transformation Operating System/TOS_System_Index.md`, then consult relevant current cultural / zeitgeist / system material;
-9. `bartlanman/Meaning-Field` — begin with `README.md`, then consult the relevant canonical Journey / Prediction / ACT / Memory / Developmental Capacity / Relational Fluency material.
+For a full run, Gravity formation must begin from four independently consulted live source-fields:
+
+9. **TOS** — `bartlanman/TOS`, beginning with `Transformation Operating System/TOS_System_Index.md`;
+10. **DOS** — `bartlanman/TOS/TOS Shadow/`, beginning with `00_FOUNDATIONS/00_DOS_SHADOW_VAULT_INDEX.md` and `00_FOUNDATIONS/00_NAVIGATION/DOS_MASTER_MAP.md`;
+11. **Meaning Field** — `bartlanman/Meaning-Field`, beginning with `README.md` and the relevant canonical Journey / Prediction / ACT / Memory / Developmental Capacity / Relational Fluency material;
+12. **Vault Ledgers** — `bartlanman/The-Vault-/Ledgers/`, beginning with the live Ledger maps / complete reads and relevant Ledger bodies.
 
 These source-fields must be actually consulted, not merely named.
+
+**DOS MUST NOT BE TREATED AS IMPLICIT IN TOS.**
+
+**THE VAULT LEDGERS MUST NOT BE TREATED AS ALREADY ABSORBED BY MEANING FIELD.**
 
 For current cultural gravity, fresh web research is mandatory at CF-01A unless the user explicitly forbids web access.
 
@@ -162,11 +183,19 @@ Before Gravity may be named, invoke:
 
 `Masterwork-Formation/Protocols/COLLISION_FIELD_CULTURAL_GRAVITY_PROTOCOL.md`
 
-This stage introduces live mass from:
+This stage introduces live mass in two movements.
+
+First, inherited/project source-fields:
 - TOS;
+- DOS;
 - Meaning Field;
-- fresh contemporary web research;
-- and permits that new material to alter, resist, redirect, or seed the recovered field.
+- Vault Ledgers.
+
+Then fresh contemporary outside material through current web research.
+
+The source-fields must enter independently before Gravity is named.
+
+The contemporary Outside then adds new energy capable of altering, resisting, redirecting, spiraling, or seeding the field.
 
 The web is not used merely to verify or decorate an emerging thesis.
 
@@ -210,8 +239,11 @@ Gravity must be downstream of CF-01A.
 It is not admissible merely because internal project material coheres.
 
 Before accepting Gravity, verify:
+- full Outside / Masterwork intake passed;
 - TOS altered or charged the field;
+- DOS independently altered, dissolved, resisted, released, or charged the field;
 - Meaning Field altered or charged the field;
+- Vault Ledger material altered or charged the field;
 - fresh contemporary Outside material entered;
 - at least one outside mass resisted, redirected, or remained partly untranslated;
 - at least one seed of the new Other was admitted;
@@ -454,6 +486,7 @@ A protocol violation must not be quietly accepted.
 
 A full Collision Field text run is valid only if all headers appear in order:
 
+> **CF-PRE — FULL CORPUS INTAKE: PASS**  
 > **CF-00 — CANON LOADED**  
 > **CF-01 — FIELD RECOVERED**  
 > **CF-01A — CULTURAL GRAVITY DRAW**  
@@ -474,9 +507,11 @@ If one is missing, the run is incomplete.
 
 # 14. COMPRESSION
 
+> **INVENTORY AND CONSULT THE FULL OUTSIDE / MASTERWORK CORPUS.**  
 > **READ THE CANON.**  
 > **RECOVER THE FIELD.**  
-> **DRAW LIVE MASS FROM TOS + MEANING FIELD + THE CONTEMPORARY OUTSIDE.**  
+> **BEGIN GRAVITY WITH TOS + DOS + MEANING FIELD + VAULT LEDGERS.**  
+> **THEN DRAW NEW ENERGY FROM THE CONTEMPORARY OUTSIDE.**  
 > **LET NEW ENERGY ATTRACT, FEED, RESIST, SPIRAL, OR SEED.**  
 > **REQUIRE A FIELD DELTA.**  
 > **ONLY THEN FIND THE GRAVITY.**  
