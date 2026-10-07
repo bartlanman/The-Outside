@@ -480,7 +480,7 @@ Do not proceed toward Gravity after FAIL.
 
 ---
 
-# 9. PRE-GRAVITY NOVELTY DELTA
+# 9. PRE-GRAVITY PERSPECTIVE DELTA
 
 Immediately before CF-02, compare the emerging candidate Gravity against the repo usage map.
 
@@ -492,8 +492,8 @@ If present, name the enduring axis being revisited.
 ### NEAREST PRIOR PERSPECTIVE / BASIN
 What previous Gravity, interpretation, or operation is most similar?
 
-### DIFFERENCE OF PERSPECTIVE
-What is actually different about the position, scale, boundary condition, medium, passage, gathering, consequence, or standing?
+### PERSPECTIVE DELTA
+What is actually different about the position, scale, boundary condition, medium, body, permeability, direction, time, passage, gathering, jurisdiction, consequence, receiver office, or standing?
 
 ### CHANGED STANDING
 What can be said / done / perceived now that could not be said / done / perceived in the prior basin?
@@ -504,13 +504,17 @@ Exactly one:
 
 > **NEW TERRITORY**
 
-> **SPIRAL RETURN — PRIOR BASIN CHANGED**
+> **SPIRAL RETURN — SAME AXIS, NEW PERSPECTIVE**
 
-> **ORBIT — RETURN TO GATHER**
+> **ORBIT — SAME FORMULATION, RETURN TO GATHER**
 
 If verdict is ORBIT:
 
 **CF-02 MAY NOT LOCK.**
+
+A return to Otherness, Boundary, Between, or διά ⇄ σύν is not orbit by itself.
+
+Orbit means the field has returned to substantially the same **perspective / formulation** without changed standing.
 
 ---
 
