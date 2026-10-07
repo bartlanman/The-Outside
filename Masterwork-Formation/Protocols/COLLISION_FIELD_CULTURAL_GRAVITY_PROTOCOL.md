@@ -56,6 +56,55 @@ Do not treat these entrypoints as the only admissible files. They are navigation
 
 ---
 
+# 1A. RECURRENCE-AWARE CULTURAL DRAW
+
+Before current web research begins, consult the live recurrence audit.
+
+The draw must know:
+- which formulations have already been heavily used;
+- which foundational axes remain legitimately open;
+- which perspectives on those axes have already been traveled.
+
+Do **not** avoid a foundational axis simply because it recurs.
+
+Especially:
+
+> **OTHERNESS IS NOT A TOPIC TO ESCAPE. IT IS A RELATIONAL AXIS TO KEEP RE-ENCOUNTERING.**
+
+And:
+
+> **THE BOUNDARY IS A PERSPECTIVE GENERATOR.**
+
+If Otherness has already been approached through:
+- refusal;
+- silence;
+- synthetic response;
+- inaccessible standing;
+- distance / non-collapse;
+
+then current web research should not merely collect new examples of those same perspectives.
+
+Search for material that may alter:
+- which side of the boundary matters;
+- what crosses;
+- what gathers;
+- what becomes Other;
+- what becomes continuous;
+- what remains discontinuous;
+- what happens when scale changes;
+- what happens when permeability changes;
+- what happens when the boundary itself moves.
+
+Hard distinctions:
+
+> **FRESH SOURCE ≠ FRESH PERSPECTIVE.**
+
+> **SAME AXIS + CHANGED PERSPECTIVE MAY BE GENUINE SPIRAL.**
+
+> **SAME AXIS + SAME PERSPECTIVE + NEW EXAMPLE IS ORBIT.**
+
+---
+
 # 2. NEW-ENERGY LAW
 
 The field must seek material that has not yet been fully metabolized by the project.
@@ -315,7 +364,8 @@ CF-02 — GRAVITY may not be finalized until all of the following are true:
 - At least one outside mass has been allowed to resist or remain partly untranslated.
 - At least one seed of potentially new cultural material has been admitted without requiring prior fit.
 - The operator can name a **FIELD DELTA** produced by contact.
-- The emerging gravity is different in pressure, reach, orientation, or capacity because of the draw.
+- If a foundational axis recurs, its current perspective is materially different from the nearest prior formulation.
+- The emerging gravity is different in pressure, reach, orientation, capacity, or perspective because of the draw.
 
 If these conditions are not met:
 
