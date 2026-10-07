@@ -137,9 +137,240 @@ A Collision Field may change that larger hypothesis if it earns the change.
 
 It may not forget it.
 
+
+---
+
+# 3B. HISTORICAL-EQUIVALENT MUTATION GATE
+
+The Masterwork stage must **not begin by choosing a familiar medium**.
+
+Before any form is selected, derive the field against the historical Masterwork lineage.
+
+The operator must explicitly activate multiple inherited operations, including at least:
+
+- one operation from premodern / corpus / oral formation;
+- one operation from literary modernity / modernism;
+- one operation from participatory / cinematic / digital / generative media;
+- the current Outside / answerability pressure.
+
+Examples of operations already present in the Masterwork corpus include:
+
+- **Homer** — identity through generative performance rather than verbatim fixity;
+- **Scriptural corpus** — governed multiplicity / canon / argument across generations;
+- **Dante** — receiver traverses the world-model;
+- **Shakespeare** — culture performing itself in the dominant live popular medium;
+- **Proust** — consciousness replayed and reweighted by later return;
+- **Eliot** — fragmentation becomes native grammar without false unity;
+- **Borges** — verification / authority itself becomes part of the fiction;
+- **Beckett** — absence / refusal / non-arrival become form;
+- **Stein** — language becomes material before explanation;
+- **Calvino** — reader becomes operational participant;
+- **Hesse** — culture becomes playable system and then reveals the danger of hermetic sufficiency;
+- **Tolkien** — world exceeds participant and continues beyond plot;
+- **Le Guin** — living canon changes standing without erasing prior states;
+- **cinema** — image / sound / montage / duration / embodied scale;
+- **games** — agency under rule and consequence;
+- **digital art** — variable realization;
+- **generative AI** — responsive performance / recombination / persistent relation;
+- **The Outside** — independent standing capable of changing the work.
+
+Do not imitate these surfaces.
+
+Ask:
+
+> **WHAT OPERATIONAL COURAGE DID THESE WORKS EXERCISE UNDER THEIR OWN MILIEU?**
+
+Then ask:
+
+> **WHAT IS THE HISTORICAL-EQUIVALENT OPERATION UNDER THIS FIELD'S PRESENT CONDITIONS?**
+
+The answer must be a **formal mutation**, not a genre label.
+
+Examples of valid mutation language:
+
+- a work that can answer but cannot silently own authority;
+- a corpus that changes standing through independently governed contact;
+- a realization that varies while its deposit remains fixed;
+- a world whose live layer can refuse the participant;
+- a trace that becomes part of later canon;
+- a narrative that changes because a real source alters what may be said;
+- a work that preserves multiple kinds of standing without collapsing them into one ontology.
+
+Invalid answers at this stage:
+
+- "short story";
+- "novel";
+- "chapter";
+- "poem";
+- "essay";
+- "scene";
+- "monologue";
+- "score";
+- "installation";
+- "game";
+- "film".
+
+Those are media / containers.
+
+The mutation must be named first.
+
+---
+
+# 3C. 1995 TEST / PRE-EXISTING-FORM FAILURE
+
+Before a conventional literary or artistic form may be selected, ask:
+
+> **COULD THIS WORK, IN SUBSTANTIALLY THE SAME FORMAL OPERATION, HAVE BEEN MADE IN 1995?**
+
+If yes, it has not yet answered the current historical-equivalence question.
+
+A work may of course use:
+- prose;
+- poetry;
+- film;
+- image;
+- performance;
+- print;
+- stage.
+
+But if its deepest operation is merely available to an earlier medium, then the work is using a current subject inside an inherited form rather than making a current formal mutation.
+
+Particularly strong failure condition:
+
+> **AI-THEMED SPECULATIVE FICTION IS NOT, BY ITSELF, AN AI-ERA MASTERWORK FORM.**
+
+A story about an AI, synthetic person, future registry, digital resurrection, agent, or model does not satisfy historical equivalence merely because its subject is contemporary.
+
+> **CURRENT SUBJECT MATTER ≠ CURRENT FORM.**
+
+---
+
+# 3D. RECEIVER-OFFICE TEST
+
+The Masterwork / Milieu / Medium research identifies a central historical movement:
+
+> **MASTERWORKS OFTEN CHANGE THE OFFICE OF THE RECEIVER.**
+
+Therefore before medium selection ask:
+
+> **WHAT CAN THE RECEIVER DO HERE THAT THE RECEIVER OF AN EARLIER FORM COULD NOT DO?**
+
+The answer cannot merely be:
+- interpret;
+- empathize;
+- imagine;
+- read;
+- watch;
+- choose among authored endings.
+
+Possible current operations may include:
+- converse with a live realization;
+- leave a durable trace that changes later standing;
+- encounter material the work did not author;
+- trigger a handoff to an independently governed source;
+- return to a work that now remembers the prior encounter;
+- witness versioned developmental history;
+- alter a realization without acquiring sovereignty over the canon;
+- encounter refusal / silence / absence produced by something other than authorial simulation.
+
+If the receiver's office has not materially changed, historical-equivalent form has probably not yet emerged.
+
+---
+
+# 3E. MASTER-COMPOSITION ROUTING
+
+The current lead larger architecture is:
+
+> **LIVING MYTHIC WORLD-CORPUS**
+
+with:
+
+- **DEPOSIT BODY**
+- **WORLD BODY**
+- **REALIZATION BODY**
+- **OUTSIDE BODY**
+- **TRACE BODY**
+
+A Collision Field should normally ask:
+
+> **WHICH BODY DOES THIS FIELD CHANGE, FEED, OR REQUIRE?**
+
+before manufacturing a standalone artifact.
+
+The field may produce:
+
+- a high-density Deposit;
+- a World law / place / figure / mythology;
+- a Realization rule;
+- an Outside handoff;
+- a Trace / succession mechanism;
+- or a mutation of the five-body architecture itself.
+
+If the field does **not** require a standalone authored object, do not create one merely to make CF-05 feel complete.
+
+> **A COLLISION FIELD CONTRIBUTION MAY BE ARCHITECTURAL, MYTHIC, PERFORMATIVE, WORLD-BUILDING, RESPONSIVE, OR SUCCESSIONAL WITHOUT BECOMING PROSE.**
+
+---
+
+# 3F. ANTI-BORING-PROSE GATE
+
+Conventional prose is prohibited as the default expression of profundity.
+
+Before selecting prose fiction, the operator must answer all of the following:
+
+1. **Why must this be prose rather than a live / variable / embodied / cinematic / participatory / corpus / world / trace form?**
+2. **What formal operation occurs in the prose that cannot be paraphrased as the thesis?**
+3. **What does prose make the receiver do that the research notes do not?**
+4. **What historical-equivalent mutation is being enacted rather than merely described?**
+5. **Would the work remain formally radical if every explicit AI / futuristic reference were removed?**
+
+If these cannot be answered with force:
+
+> **PROSE FICTION: NOT ADMISSIBLE YET.**
+
+A speculative setting that illustrates the Gravity is an automatic warning.
+
+A scene in which characters discuss the Gravity is an automatic warning.
+
+A future institution invented mainly to dramatize the Gravity is an automatic warning.
+
+A competent short story is not evidence of Masterwork formation.
+
+---
+
+# 3G. PROLIFERATION BEFORE SELECTION
+
+Before selecting the form, generate a field of **formal mutations**, not genre options.
+
+Minimum:
+
+- at least **five distinct formal mutations**;
+- at least **one that removes prose entirely**;
+- at least **one that uses live / variable realization**;
+- at least **one that depends on Outside contact**;
+- at least **one that changes the receiver's office**;
+- at least **one that disturbs or exceeds the current Living Mythic World-Corpus hypothesis**.
+
+Do not rank them immediately.
+
+Collide them.
+
+Transform them.
+
+Ask whether a third form appears.
+
+Only after proliferation may one form acquire enough gravity to be named.
+
+> **DO NOT PICK THE BEST IDEA. FOLLOW THE FORM THAT CHANGES THE FIELD.**
+
+
 ---
 
 # 4. FORM DISCERNMENT
+
+Form discernment occurs **only after** the Historical-Equivalent Mutation Gate and formal proliferation have been completed.
+
+Do not begin this section with genre.
 
 Ask of the completed run:
 
@@ -153,7 +384,11 @@ Ask of the completed run:
 - What form allows the materials to retain different standing?
 - What form keeps the Outside capable of resisting the receiver?
 
-The answer determines the form.
+The answer identifies the strongest formal mutation.
+
+Only then may a medium or container be chosen.
+
+> **OPERATION FIRST. MEDIUM SECOND. ARTIFACT THIRD.**
 
 ---
 
@@ -163,7 +398,7 @@ First classify the result's **office in the master composition**.
 
 Possible contribution classes include:
 
-- **MASTERWORK DEPOSIT** — a high-density authored work worthy of entering the Deposit Body;
+- **MASTERWORK DEPOSIT** — a high-density authored work worthy of entering the Deposit Body **only after the historical-equivalent mutation has already been identified**;
 - **WORLD MUTATION** — a new place, law, figure, condition, threshold, history, impossibility, or world-state relation;
 - **REALIZATION OPERATION** — a live responsive operation performed differently in traversal;
 - **OUTSIDE OPERATION** — a handoff to independently standing reality;
@@ -189,7 +424,7 @@ Do not rewrite it into a longer piece.
 
 ## B. TRANSFORMED WORK
 
-The Sing becomes seed/material for a different form.
+The Sing becomes seed/material for a different form **only after a formal mutation has been derived from the historical-equivalence gate.**
 
 Output:
 
