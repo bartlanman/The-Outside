@@ -603,3 +603,93 @@ Therefore:
 > **RELOAD THE CANON AND LINT AGAIN BEFORE GENERATION.**
 
 > **AFTER GENERATION, JUDGE THE RESULT. DO NOT ACCEPT DRIFT AS A SUCCESS.**
+
+
+# 15. VISUAL RECURRENCE / MORPHOLOGY GATE
+
+This gate exists to prevent a successful visual solution from hardening into a house style.
+
+Before CF-06 may be locked, compare the proposed visual event against prior Collision Field graphics, prior graphic prompts, and the live morphology ledger:
+
+`Masterwork-Formation/Working/VISUAL_MORPHOLOGY_LEDGER.md`
+
+The operator must identify whether the proposed image repeats any previously used surface solution in:
+
+- body-fragment placement;
+- body-zone choice;
+- dominant gesture;
+- hand / fingertip use;
+- field topology;
+- webbing / filament / membrane structures;
+- arches / portals / bridges / towers;
+- horizon and depth organization;
+- dominant palette;
+- light source;
+- atmosphere;
+- landscape grammar;
+- material vocabulary;
+- focal hierarchy;
+- near / middle / far distribution;
+- symbolic motif;
+- compositional silhouette.
+
+A previously successful surface feature has no automatic standing in a later field.
+
+> **SUCCESS DOES NOT CREATE A HOUSE STYLE.**
+
+> **INHERIT OPERATIONS, NOT SURFACES.**
+
+The proposed image must answer:
+
+> **WHAT MUST THIS IMAGE DO VISUALLY THAT THE PREVIOUS IMAGE COULD NOT DO?**
+
+If that answer is not specific and field-caused, CF-06 is blocked.
+
+## Recurrence classifications
+
+For each major surface feature, classify it as:
+
+- **NEW** — not materially used before;
+- **RETURNING / RE-EARNED** — used before, but independently required by the present gravity;
+- **SPENT** — high-recurrence surface vocabulary with no new field-specific necessity;
+- **PROHIBITED BY DRIFT** — recurrence that would cause the new field to collapse into an existing visual family.
+
+A prompt containing multiple SPENT elements must be revised before lock.
+
+## Automatic recurrence warnings
+
+Unless independently re-earned by the current field, treat the following combinations as high-risk drift if already used in prior deposits:
+
+- luminous webbing / filaments + hand;
+- giant surreal open landscape + flesh fragment;
+- blue / gold sky + fantasy architecture;
+- arches / towers / bridges / portals as default spatial grammar;
+- body mass anchored to one edge while a hand manipulates the field from another edge;
+- ornamental membrane networks used merely because they previously looked successful.
+
+## Post-generation recurrence judgment
+
+After image generation, judge not only protocol compliance but visual distinctness.
+
+If the result is technically compliant but substantially resembles a prior Collision Field graphic in surface grammar:
+
+> **REVISE or DISCARD.**
+
+Do not call visual repetition a successful continuation merely because the content differs.
+
+## Morphology deposit rule
+
+After any image judged KEEP or CANONIZE, update the morphology ledger with:
+
+- collision field / title;
+- body zones;
+- body orientation / function;
+- field topology;
+- dominant material;
+- spatial grammar;
+- palette / illumination;
+- recurring motifs;
+- what was genuinely new;
+- what must now be treated as spent or high-recurrence;
+- any discovered visual operation that should be preserved conceptually without copying its surface.
+
