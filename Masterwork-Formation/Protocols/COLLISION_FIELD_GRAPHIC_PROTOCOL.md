@@ -63,6 +63,47 @@ If the repository protocol and remembered practice differ, the repository protoc
 
 ---
 
+# 0B. MANDATORY VISUAL INTAKE GATE
+
+Before writing **any** CF-06 graphic prompt, fully read the following repository material in this order:
+
+1. `Masterwork-Formation/Protocols/COLLISION_FIELD_FULL_CORPUS_INTAKE_PROTOCOL.md`
+2. `Masterwork-Formation/Protocols/COLLISION_FIELD_CULTURAL_GRAVITY_PROTOCOL.md`
+3. `Masterwork-Formation/Explorations/VISUAL_MASTERWORK_GENEALOGY_01.md`
+4. `Masterwork-Formation/Explorations/VISUAL_MASTERWORK_2026_PRESSURE_FIELD_01.md`
+5. `Masterwork-Formation/Follow/FOLLOW_AEOLIAN_POET.md`
+6. `Masterwork-Formation/Protocols/MASTERWORK_CREATION_PROTOCOL.md`
+7. `Masterwork-Formation/Protocols/COLLISION_FIELD_GRAPHIC_PROTOCOL.md`
+8. the active Collision Field source / deposit for the current run
+
+This list is mandatory and sequential.
+
+"Read" means consult the full current repository contents, not:
+- memory;
+- a prior chat summary;
+- headings only;
+- selected excerpts;
+- an earlier version;
+- an assumption that one file has already absorbed another.
+
+The active Collision Field source / deposit is read after the inherited visual-art material so the actual field can collide with, resist, or transform that inheritance.
+
+Hard prohibition:
+
+> **DO NOT CREATE THE GRAPHIC PROMPT UNTIL THE ENTIRE VISUAL INTAKE CHAIN HAS BEEN FULLY READ.**
+
+Required gate result:
+
+> **CF-05A — VISUAL INTAKE GATE: PASS**
+
+If this cannot be truthfully stated, CF-06 is blocked.
+
+The Visual Masterwork Genealogy and 2026 Pressure Field are not style menus. They supply historical and contemporary pressure. The active Collision Field must still cause the image.
+
+> **THE COLLISION FIELD SHOULD CAUSE THE GRAPHIC.**
+
+---
+
 # 1. INVOCATION FORM
 
 The user may invoke a field by number, title, or shorthand.
@@ -159,7 +200,7 @@ This relation should be stated in a way that can later inform both prompt and ex
 
 # 5. STEP FOUR — GRAPHIC PROMPT CREATION
 
-Only after gravity, sing, and διά ⇄ σύν are clarified does the image prompt get written.
+Only after gravity, sing, διά ⇄ σύν, Masterwork formation, **and CF-05A — VISUAL INTAKE GATE: PASS** does the image prompt get written.
 
 The prompt must:
 
@@ -310,6 +351,26 @@ If any item fails:
 
 Only after the prompt passes lint is the graphic generated.
 
+## Required art-generation input packet
+
+The graphic is not generated from the prompt alone.
+
+Before generation, the art stage must receive and fully hold together:
+
+1. the **exact locked CF-06 graphic prompt**; and
+2. the **complete CF-07 exegesis** produced from that same Collision Field run.
+
+These form one required visual packet:
+
+> **LOCKED PROMPT + EXEGESIS → ART**
+
+The prompt determines what is generated.
+The exegesis preserves what the visual event is doing, why its materials move as they do, and what relation the result must remain answerable to.
+
+The exegesis must **not** be used as permission to rewrite or embellish the locked prompt during generation.
+
+> **THE ART MUST RECEIVE BOTH. THE PROMPT REMAINS LOCKED.**
+
 The image should be treated as:
 
 - a field event
@@ -346,8 +407,10 @@ Default behavior:
 - only after the user explicitly says **image**, **graphic**, **create it**, or equivalent:
   - re-read this protocol;
   - recover the exact locked prompt from the immediately preceding field run verbatim;
-  - lint it again;
-  - generate the image.
+  - recover and fully read the complete exegesis from that same run;
+  - hold prompt + exegesis together as the art-generation packet;
+  - lint the locked prompt again;
+  - generate the image without adding new concepts.
 
 This protects the textual field work from being displaced by the image result and prevents last-second prompt drift.
 
@@ -503,7 +566,7 @@ keep / revise / discard / canonize
 
 # 13. SHORT OPERATOR VERSION
 
-> **RELOAD CANON → COLLISION FIELD → GRAVITY → POET SING → ΔΙΑ ⇄ ΣΥΝ → MASTERWORK → GRAPHIC PROMPT → EXEGESIS → HARD BODY CHECK → LINT → PROMPT LOCK → STOP → USER SAYS IMAGE → RELOAD CANON → RECOVER LOCKED PROMPT VERBATIM → LINT AGAIN → GRAPHIC → JUDGE**
+> **RELOAD CANON → COLLISION FIELD → GRAVITY → POET SING → ΔΙΑ ⇄ ΣΥΝ → MASTERWORK → FULL VISUAL INTAKE GATE → GRAPHIC PROMPT → EXEGESIS → HARD BODY CHECK → LINT → PROMPT LOCK → STOP → USER SAYS IMAGE → RELOAD CANON → RECOVER LOCKED PROMPT + EXEGESIS → LINT AGAIN → GRAPHIC → JUDGE**
 
 This is now the standing workflow.
 
