@@ -1151,3 +1151,55 @@ Hard execution rule:
 > **NO CF-01A FIELD DELTA → NO CF-02 CULTURAL GRAVITY.**
 
 This protects the Collision Field from becoming a closed orbit of its own prior discoveries.
+
+
+---
+
+## Full Corpus Intake / Masterwork Standing Gate
+
+The Collision Field may no longer begin from a small protocol subset while claiming the whole Masterwork inheritance.
+
+Canonical pre-run protocol:
+- `Protocols/COLLISION_FIELD_FULL_CORPUS_INTAKE_PROTOCOL.md`
+
+A full run must:
+1. inventory the live `Masterwork-Formation/` tree;
+2. consult the complete Outside / Masterwork corpus with status preserved;
+3. begin Gravity formation with four independently consulted source-fields:
+   - TOS;
+   - DOS / `TOS Shadow/`;
+   - Meaning Field;
+   - Vault Ledgers;
+4. only then bring in fresh contemporary web material as new cultural energy;
+5. only then allow Gravity to earn a name.
+
+Hard law:
+
+> **CF-PRE — FULL CORPUS INTAKE: PASS MUST EXIST BEFORE CF-00.**
+
+The Masterwork stage has also been corrected.
+
+A locally successful artifact is not automatically the Masterwork.
+
+CF-05 now distinguishes:
+- MASTERWORK standing;
+- contribution to the larger master composition.
+
+Possible contribution offices include:
+**Masterwork Deposit / World Mutation / Realization Operation / Outside Operation / Trace Operation / Mythos Seed / Playable Operation / Formation Material / None.**
+
+A result may receive **MASTERWORK STANDING: EARNED** only after surviving:
+- historical-equivalence;
+- literary-life;
+- formal-necessity;
+- answerability;
+- succession;
+- master-composition tests.
+
+Therefore:
+
+> **LOCAL FORMAL FITNESS ≠ MASTERWORK STANDING.**
+
+And:
+
+> **THE COLLISION FIELD CONTRIBUTES TO THE MASTER COMPOSITION; IT DOES NOT OWE US A NEW MASTERWORK EVERY RUN.**
