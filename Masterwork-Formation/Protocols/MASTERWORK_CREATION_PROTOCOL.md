@@ -450,15 +450,25 @@ The field may require:
 
 Name what is warranted rather than forcing it into an inherited category.
 
-## E. NO FURTHER ARTIFACT YET
+## E. SING AS COMPLETE WORK
 
-If the field has not earned another form:
+If the Sing already fulfills the artistic pressure, present the **complete Sing as the actual work**, without padding or paraphrase. This satisfies creation only if the work itself is reproduced or clearly and exactly identified in the run. A plan, seed, or contribution label alone never satisfies creation.
 
-> **MASTERWORK FORM: NO FURTHER ARTIFACT YET**
+---
 
-Preserve the Sing and continue the inquiry elsewhere.
+# 5B. MANDATORY CREATION BEFORE JUDGMENT
 
-This is not failure.
+**CF-05 cannot conclude with a proposal, contribution class, abstract mechanism, or NEXT CREATIVE MOTION.**
+
+After the formal mutation field, select the strongest warranted artistic form and **MAKE THE WORK IN THIS RUN**. Give it a title and a visible beginning and end, or a complete performable/experiential form. The Sing itself may serve as the created work when genuinely sufficient; in that case reproduce it as the work rather than only summarizing its significance.
+
+The work must be concretely encounterable: a fully realized poem, score, scene, polyphonic work, myth, script, sequence, playable operation with enacted text/rules, or other presentable artistic artifact. A technical implementation or image requiring another tool may be staged separately only when a tool or an explicit graphic-phase rule actually requires it; **the CF-05 artistic work still must be completed in the text phase**, without pretending an unrealized graphic is finished.
+
+Then encounter what was made, make one purposeful artistic revision if necessary, and only then judge its office and contribution.
+
+**FORM → CREATE → ENCOUNTER → REVISE IF NEEDED → JUDGE → CONTRIBUTE.**
+
+A blueprint is not a completed artwork. Avoid default novels, filler prose, formulaic symbolic scenes, and declaring every fragment a finished historical masterpiece. If the chosen form cannot yet be made, choose a different warranted form that can be fully made now; do not use that limitation to skip creation.
 
 ---
 
@@ -554,28 +564,16 @@ It should create a visual event in relation with the work, not a diagram of it.
 
 # 10. OUTPUT CONTRACT
 
-Every CF-05 must visibly state:
+Every CF-05 must visibly state and perform, in this order:
 
-> **CF-05A — FORMAL MUTATION FIELD**
+1. **CF-05A — FORMAL MUTATION FIELD** — inherited operations, five genuine formal mutations, and form selection.
+2. **CF-05B — MASTERWORK CREATION** — **the complete, actual artistic work**, visibly titled and performed or presented. Do not substitute a prospectus or description.
+3. **CF-05C — ENCOUNTER / REVISION** — read the work as a receiver; show an earned revision or specify what remains purposefully unresolved.
+4. **CF-05D — MASTERWORK CONTRIBUTION** — artistic discovery, Deposit / World / Realization / Outside / Trace / Mythos / hybrid office, historical dialogue, and next creative motion.
+5. **WHOLE-MASTERWORK STANDING** — only if the larger completed master composition itself is under evaluation, separate from this work's contribution.
 
-Then:
+A Collision Field is incomplete if CF-05B contains only a plan to make art. If the Sing itself is the work, present the full Sing as the finished artifact and then judge it.
 
-> **CF-05B — MASTERWORK FORMATION / CONTRIBUTION**
+**THE COLLISION FIELD MUST MAKE ART, NOT JUST RECOMMEND ART.**
 
-Provide all of:
-1. **ARTISTIC DISCOVERY** — the strongest felt or formal event produced, not a paraphrased thesis.
-2. **MASTERWORK CONTRIBUTION** — specific Deposit / World / Realization / Outside / Trace / Mythos / playable / hybrid office or architecture mutation.
-3. **FORMAL EMBODIMENT** — the poetic or artistic form actually earned or proposed; do not automatically inflate it into prose.
-4. **HISTORICAL DIALOGUE** — what prior masterworks enable and what the new work redirects, without a historical-era veto.
-5. **NEXT CREATIVE MOTION** — KEEP / DEVELOP / TRANSFORM / RECOMPOSE / HOLD OPEN, with the concrete artistic reason.
-6. **WHOLE-MASTERWORK STANDING**, only if the actual larger completed master composition is under evaluation, and explicitly distinct from local contribution.
-
-Do not require an individual field to declare "MASTERWORK STANDING: EARNED / NOT YET EARNED." That binary applied to an unfinished larger project produces false negative judgments.
-
-Preserve honest artistic critique. Do not automatically canonize or acclaim a weak artifact. But do not confuse "unfinished whole" with "failed contribution."
-
-> **THE STAGE MUST MAKE THE MASTERWORK MORE POSSIBLE, NOT MERELY JUDGE IT UNFINISHED.**
-
-
-
-
+**THE STAGE MUST MAKE THE MASTERWORK MORE POSSIBLE, NOT MERELY JUDGE IT UNFINISHED.**
