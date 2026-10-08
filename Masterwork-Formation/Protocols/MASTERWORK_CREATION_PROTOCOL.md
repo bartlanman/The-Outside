@@ -579,37 +579,3 @@ Preserve honest artistic critique. Do not automatically canonize or acclaim a we
 
 
 
-Every CF-05 must visibly state:
-
-> **CF-05 — MASTERWORK FORMATION**
-
-Then state exactly one:
-
-> **MASTERWORK STANDING: EARNED**
-
-or
-
-> **MASTERWORK STANDING: NOT YET EARNED**
-
-Then state:
-
-> **MASTERWORK CONTRIBUTION: [deposit / world mutation / realization operation / outside operation / trace operation / Mythos seed / playable operation / formation material / none]**
-
-If Masterwork standing is earned, also state:
-
-> **MASTERWORK FORM: [earned form]**
-
-If standing is not earned, do **not** use the artifact's local form as though it were the Masterwork itself.
-
-A score may be a playable operation.
-A scene may be a deposit candidate.
-A ritual may be a realization operation.
-A graphic may be a visual deposit.
-A field may remain formation material.
-
-Name the office truthfully.
-
-No hidden form decision.
-No automatic Masterwork.
-No automatic chapter.
-No automatic novel.
