@@ -462,7 +462,7 @@ This must include:
 3. **RECEIVER-OFFICE SHIFT** — what the receiver can now do that an earlier receiver could not;
 4. **MASTER-COMPOSITION ROUTE** — Deposit / World / Realization / Outside / Trace / architecture mutation;
 5. **AT LEAST FIVE FORMAL MUTATIONS** — not five genres;
-6. **1995 TEST** — whether substantially the same operation could have existed before the present medium condition;
+6. **HISTORICAL DIALOGUE** — what earlier masterworks make available, what this field transforms, and what contemporary reception changes; historical precedent is not a veto;
 7. **PROSE ADMISSIBILITY TEST** if prose is even being considered.
 
 Hard laws:
@@ -477,15 +477,21 @@ Hard laws:
 
 Only after CF-05A is complete may the run proceed.
 
-## CF-05B — MASTERWORK STANDING / CONTRIBUTION
+## CF-05B — MASTERWORK FORMATION / CONTRIBUTION
 
-The run must then state:
+The run must identify:
 
-> **MASTERWORK STANDING: EARNED / NOT YET EARNED**
+> **ARTISTIC DISCOVERY: [the felt or formal event]**
 
-and:
+> **MASTERWORK CONTRIBUTION: [office in the larger composition]**
 
-> **MASTERWORK CONTRIBUTION: [office]**
+> **FORMAL EMBODIMENT: [earned form or seed]**
+
+> **HISTORICAL DIALOGUE: [inheritance and transformation]**
+
+> **NEXT CREATIVE MOTION: KEEP / DEVELOP / TRANSFORM / RECOMPOSE / HOLD OPEN**
+
+Do not withhold contribution standing because the entire Masterwork is unfinished, or because a similar operation might have existed in 1995. Evaluate whole-masterwork achievement separately when the larger composition itself is under review.
 
 If an artifact is warranted, create it only after its formal mutation and office have been established.
 
@@ -499,7 +505,7 @@ Output headers:
 
 then:
 
-> **CF-05B — MASTERWORK STANDING / CONTRIBUTION**
+> **CF-05B — MASTERWORK FORMATION / CONTRIBUTION**
 
 ---
 
@@ -694,7 +700,7 @@ A full Collision Field text run is valid only if all headers appear in order:
 > **CF-03 — POET SING**  
 > **CF-04 — ΔΙΑ ⇄ ΣΥΝ**  
 > **CF-05A — FORMAL MUTATION FIELD**  
-> **CF-05B — MASTERWORK STANDING / CONTRIBUTION**  
+> **CF-05B — MASTERWORK FORMATION / CONTRIBUTION**  
 > **CF-05A — VISUAL INTAKE GATE: PASS**  
 > **CF-06 — GRAPHIC PROMPT**  
 > **CF-07 — EXEGESIS**  
