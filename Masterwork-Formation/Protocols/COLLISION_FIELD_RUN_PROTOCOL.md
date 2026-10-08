@@ -477,35 +477,30 @@ Hard laws:
 
 Only after CF-05A is complete may the run proceed.
 
-## CF-05B — MASTERWORK FORMATION / CONTRIBUTION
+## CF-05B — MASTERWORK CREATION
 
-The run must identify:
+**Create the actual artistic work now.** The selected form must be presented in complete encounterable form, not only announced, classified, or described.
 
-> **ARTISTIC DISCOVERY: [the felt or formal event]**
+> **CF-05B — MASTERWORK CREATION: [TITLE]**
 
-> **MASTERWORK CONTRIBUTION: [office in the larger composition]**
+No default novel, compulsory prose, or generic illustrative scene. The completed Sing may be selected when sufficient, but must be presented as the work. The graphical artwork remains governed by the separate image-phase requirements; this does not exempt the text phase from making its own complete artistic work.
 
-> **FORMAL EMBODIMENT: [earned form or seed]**
+## CF-05C — ENCOUNTER / REVISION
 
-> **HISTORICAL DIALOGUE: [inheritance and transformation]**
+Read the work as an encounter, not a summary. Make an artistically necessary revision when warranted. Name what resists closure.
 
-> **NEXT CREATIVE MOTION: KEEP / DEVELOP / TRANSFORM / RECOMPOSE / HOLD OPEN**
+> **CF-05C — ENCOUNTER / REVISION**
 
-Do not withhold contribution standing because the entire Masterwork is unfinished, or because a similar operation might have existed in 1995. Evaluate whole-masterwork achievement separately when the larger composition itself is under review.
+## CF-05D — MASTERWORK CONTRIBUTION
 
-If an artifact is warranted, create it only after its formal mutation and office have been established.
+Only **after the work exists**, identify artistic discovery, master-composition office, historical dialogue, and next creative motion. Do not use a 1995 veto or assess the entire unfinished Masterwork as a prerequisite.
 
-If no artifact is warranted, preserve the mutation / architecture / seed without manufacturing prose.
+> **CF-05D — MASTERWORK CONTRIBUTION**
 
-The Collision Field does not owe us a standalone literary object every run.
+**FORM → CREATE → ENCOUNTER → REVISE IF NEEDED → JUDGE → CONTRIBUTE.**
 
-Output headers:
+A full Collision Field that merely proposes an artwork has failed CF-05 and must not proceed to the visual intake gate.
 
-> **CF-05A — FORMAL MUTATION FIELD**
-
-then:
-
-> **CF-05B — MASTERWORK FORMATION / CONTRIBUTION**
 
 ---
 
@@ -700,7 +695,9 @@ A full Collision Field text run is valid only if all headers appear in order:
 > **CF-03 — POET SING**  
 > **CF-04 — ΔΙΑ ⇄ ΣΥΝ**  
 > **CF-05A — FORMAL MUTATION FIELD**  
-> **CF-05B — MASTERWORK FORMATION / CONTRIBUTION**  
+> **CF-05B — MASTERWORK CREATION**  
+> **CF-05C — ENCOUNTER / REVISION**  
+> **CF-05D — MASTERWORK CONTRIBUTION**  
 > **CF-05A — VISUAL INTAKE GATE: PASS**  
 > **CF-06 — GRAPHIC PROMPT**  
 > **CF-07 — EXEGESIS**  
