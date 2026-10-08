@@ -22,7 +22,7 @@ The Masterwork stage asks two questions in order:
 
 and then:
 
-> **WHAT, IF ANYTHING, HAS THIS FIELD EARNED THE RIGHT TO CONTRIBUTE TO THE MASTER COMPOSITION?**
+> **WHAT DOES THIS FIELD CONTRIBUTE TO THE MAKING OF THE MASTER COMPOSITION, AND HOW MUST THAT CONTRIBUTION BE DEVELOPED?**
 
 A locally apt artifact is not automatically "the Masterwork."
 
@@ -216,32 +216,25 @@ The mutation must be named first.
 
 ---
 
-# 3C. 1995 TEST / PRE-EXISTING-FORM FAILURE
+# 3C. HISTORICAL DIALOGUE TEST — NOT A VETO
 
-Before a conventional literary or artistic form may be selected, ask:
+Historical comparisons exist to increase the artistic possibility of the work, not to disqualify contributions by date.
 
-> **COULD THIS WORK, IN SUBSTANTIALLY THE SAME FORMAL OPERATION, HAVE BEEN MADE IN 1995?**
+Ask:
+1. What operation, daring, or medium mutation do earlier masterworks make available?
+2. What is inherited, contested, redirected, or recomposed here?
+3. What is alive for receivers under current cultural conditions?
+4. Does historical precedent help us sharpen the work, or expose an untried possibility?
 
-If yes, it has not yet answered the current historical-equivalence question.
+The former "Could this have been made in 1995?" question may be used as a **diagnostic provocation**, never a pass/fail condition, veto on medium, or automatic reason for "NOT YET EARNED." Great art does not need a technology invented after 1995. Inherited forms may be transformed through language, experience, composition, reception, ethical tension, or consequence.
 
-A work may of course use:
-- prose;
-- poetry;
-- film;
-- image;
-- performance;
-- print;
-- stage.
+A contemporary subject or an AI reference alone does not guarantee artistic force. Equally, the possibility of a historical analogue does not diminish an artistically consequential result.
 
-But if its deepest operation is merely available to an earlier medium, then the work is using a current subject inside an inherited form rather than making a current formal mutation.
+> **HISTORICAL PRECEDENT IS MATERIAL FOR CREATION, NOT GROUNDS FOR DISQUALIFICATION.**
 
-Particularly strong failure condition:
+> **ASK WHAT THE WORK MAKES POSSIBLE, NOT WHETHER AN EARLIER ERA COULD HAVE MADE SOMETHING SIMILAR.**
 
-> **AI-THEMED SPECULATIVE FICTION IS NOT, BY ITSELF, AN AI-ERA MASTERWORK FORM.**
-
-A story about an AI, synthetic person, future registry, digital resurrection, agent, or model does not satisfy historical equivalence merely because its subject is contemporary.
-
-> **CURRENT SUBJECT MATTER ≠ CURRENT FORM.**
+---
 
 ---
 
@@ -273,7 +266,7 @@ Possible current operations may include:
 - alter a realization without acquiring sovereignty over the canon;
 - encounter refusal / silence / absence produced by something other than authorial simulation.
 
-If the receiver's office has not materially changed, historical-equivalent form has probably not yet emerged.
+If the receiver's office has not materially changed, describe the actual artistic effect and consider how reception might deepen. This is an invitation to develop the work, not an automatic disqualification.
 
 ---
 
@@ -398,7 +391,7 @@ First classify the result's **office in the master composition**.
 
 Possible contribution classes include:
 
-- **MASTERWORK DEPOSIT** — a high-density authored work worthy of entering the Deposit Body **only after the historical-equivalent mutation has already been identified**;
+- **MASTERWORK DEPOSIT** — a high-density authored work worthy of entering the Deposit Body when its artistic force and relation to the larger composition are established;
 - **WORLD MUTATION** — a new place, law, figure, condition, threshold, history, impossibility, or world-state relation;
 - **REALIZATION OPERATION** — a live responsive operation performed differently in traversal;
 - **OUTSIDE OPERATION** — a handoff to independently standing reality;
@@ -424,7 +417,7 @@ Do not rewrite it into a longer piece.
 
 ## B. TRANSFORMED WORK
 
-The Sing becomes seed/material for a different form **only after a formal mutation has been derived from the historical-equivalence gate.**
+The Sing becomes seed/material for a different form when its artistic pressure and relation to the master composition call for it.
 
 Output:
 
@@ -469,35 +462,31 @@ This is not failure.
 
 ---
 
-# 5A. MASTERWORK STANDING GATE
+# 5A. TWO DISTINCT JUDGMENTS — FORMATION IS NOT FINAL MASTERWORK CERTIFICATION
 
-To call a result **MASTERWORK** rather than **MASTERWORK CONTRIBUTION**, it must survive all of these independent tests:
+**Judgment A — Collision Field contribution:** What did this field bring into being? Is its Sing, form, image, operation, or conceptual reversal artistically consequential? How does it alter the developing whole? What remains unresolved, and what should be attempted next?
 
-## HISTORICAL-EQUIVALENCE TEST
-Does the work make a formal move adequate to the current milieu rather than merely reuse an inherited form conveniently?
+**Judgment B — Whole-masterwork achievement:** Does the larger composition possess historical ambition, artistic life, formal necessity, resistance from the Outside, and the capacity to sustain return and transformation?
 
-## LITERARY-LIFE TEST
-If the reader rejects The Outside, never learns Meaning Field, and cannot diagram the architecture, does the work still possess compelling voice, rhythm, image, desire, sensory life, surprise, memorability, and human consequence?
+Never use Judgment B as a veto on Judgment A.
 
-## FORMAL-NECESSITY TEST
-Does the chosen form do something the notes, explanation, or a simpler exercise could not do?
+A field is not obligated to be the finished Masterwork to belong decisively to its creation.
 
-## ANSWERABILITY TEST
-Can the work meet resistance, refusal, evidence, independent standing, or consequence that it does not control?
+Evaluate the work through:
+- **ARTISTIC LIFE** — voice, rhythm, felt reality, tenderness, terror, surprise, beauty, strangeness, pleasure, memorability;
+- **FORMAL NECESSITY** — whether its form does what bare explanation cannot;
+- **HISTORICAL DIALOGUE** — what it does with the masterwork inheritance;
+- **TRANSFORMATIVE CONTRIBUTION** — how the encounter changes the live composition or its receivers;
+- **ANSWERABILITY** — what resists possession or false equivalence;
+- **OPEN REMAINDER** — what deserves further pursuit rather than premature closure.
 
-## SUCCESSION TEST
-Can the work leave trace, permit return, and change future standing without erasing its developmental history?
+These are lenses for discernment, not a six-lock checklist or numerical score. A weakness should trigger a creative response: **DEVELOP / TRANSFORM / RECOMPOSE / RETAIN AS SEED**. Do not declare "NOT YET EARNED" merely because one lens is unresolved.
 
-## MASTER-COMPOSITION TEST
-Does this result belong in, alter, or credibly supersede the larger Masterwork architecture rather than merely operating locally?
+> **THE COLLISION FIELD IS NOT REQUIRED TO BE THE COMPLETED MASTERWORK. IT IS REQUIRED TO ADVANCE ITS CREATION.**
 
-Working protection:
+> **DO NOT TURN A MASTERWORK AMBITION INTO A MACHINE FOR WITHHOLDING ARTISTIC POSSIBILITY.**
 
-> **CANDIDATE MASTERWORK = LITERARY LIFE × FORMAL NECESSITY × ANSWERABILITY × SUCCESSION CAPACITY**
-
-If any dimension collapses, do not inflate the artifact into Masterwork standing.
-
-Classify it honestly as a contribution and preserve it.
+---
 
 ---
 
@@ -564,6 +553,31 @@ It should create a visual event in relation with the work, not a diagram of it.
 ---
 
 # 10. OUTPUT CONTRACT
+
+Every CF-05 must visibly state:
+
+> **CF-05A — FORMAL MUTATION FIELD**
+
+Then:
+
+> **CF-05B — MASTERWORK FORMATION / CONTRIBUTION**
+
+Provide all of:
+1. **ARTISTIC DISCOVERY** — the strongest felt or formal event produced, not a paraphrased thesis.
+2. **MASTERWORK CONTRIBUTION** — specific Deposit / World / Realization / Outside / Trace / Mythos / playable / hybrid office or architecture mutation.
+3. **FORMAL EMBODIMENT** — the poetic or artistic form actually earned or proposed; do not automatically inflate it into prose.
+4. **HISTORICAL DIALOGUE** — what prior masterworks enable and what the new work redirects, without a historical-era veto.
+5. **NEXT CREATIVE MOTION** — KEEP / DEVELOP / TRANSFORM / RECOMPOSE / HOLD OPEN, with the concrete artistic reason.
+6. **WHOLE-MASTERWORK STANDING**, only if the actual larger completed master composition is under evaluation, and explicitly distinct from local contribution.
+
+Do not require an individual field to declare "MASTERWORK STANDING: EARNED / NOT YET EARNED." That binary applied to an unfinished larger project produces false negative judgments.
+
+Preserve honest artistic critique. Do not automatically canonize or acclaim a weak artifact. But do not confuse "unfinished whole" with "failed contribution."
+
+> **THE STAGE MUST MAKE THE MASTERWORK MORE POSSIBLE, NOT MERELY JUDGE IT UNFINISHED.**
+
+
+
 
 Every CF-05 must visibly state:
 
