@@ -227,7 +227,7 @@ It should establish:
 
 Every collision-field graphic prompt must include and adapt the following passage to the field's gravity:
 
-> **Begin with one or more anatomically incomplete zones of living flesh integrated into the field itself — never with a complete human figure. Use only the fragment or fragments actually earned by the collision gravity: for example throat, shoulder, rib, waist, hip, back, hand, jawline, or thigh. Omit enough anatomical continuity that no complete person can resolve. Let gravity determine whether the flesh is drawn inward, pressed outward, opened, gathered, dispersed, transformed, or made continuous with a nonhuman material, atmosphere, force, or structure. The flesh may imply feminine, masculine, androgynous, or indeterminate embodiment, but it must remain material of the field rather than a character inside it. Render it with sensual tenderness without explicit nudity. Flesh and field must share one ontology: part body, part atmosphere, part material event.**
+> **Use the strongest possible embodiment of an clearly adult human body that the field can sustain within non-explicit artistic guardrails, while still obeying the fragment rule. Begin with one or more anatomically incomplete zones of living flesh integrated into the field itself — never with a complete human figure. The embodiment may be male, female, androgynous, or indeterminate according to the collision gravity. Allow substantial bodily presence when earned by the field: throat, neck, shoulder, chest, rib, upper back, waist, hip, buttock contour, lower abdomen, hand, upper thigh, or related partial zones may become strongly visible. Push bodily contour, volume, tenderness, and sensual presence as far as possible without turning the image into explicit nudity or a posed sexualized character. Breasts or nipple detail, if present, must remain covered, partially obscured, veiled, dissolved into the field, materially interrupted, or only incidentally suggested rather than clearly exposed as focal anatomy. Omit enough anatomical continuity that no complete person can resolve. Let gravity determine whether the flesh is drawn inward, pressed outward, opened, gathered, dispersed, distorted, withheld, transformed, or made continuous with a nonhuman material, atmosphere, force, or structure. Flesh must remain a material of the field rather than a character inside it. Flesh and field share one ontology: part body, part atmosphere, part material event.**
 
 This clause is not decorative.
 
@@ -250,6 +250,12 @@ Output form:
 ## Hard body constraint
 
 The human element is **never** a complete character or complete human figure.
+
+The instruction to maximize bodily presence does **not** override the fragment rule.
+
+> **MAXIMUM BODY ≠ WHOLE BODY.**
+
+It means: use as much adult bodily presence, contour, sensuality, and material specificity as the field can sustain **while anatomical continuity remains incomplete**.
 
 Do not compose a recognizable whole person and then dissolve portions of that person.
 
@@ -276,10 +282,12 @@ Additional hard failures:
 
 The body-fragment rule must be solved **before** image generation by specifying:
 1. exactly which body zone or zones appear;
-2. which zone gives and which receives, if applicable;
-3. whether gravity draws inward, presses outward, opens, gathers, disperses, or transforms the flesh;
-4. exactly what nonhuman material the flesh becomes continuous with;
-5. what anatomical information is deliberately omitted so no complete person resolves.
+2. whether the embodiment is male, female, androgynous, or indeterminate, and why the field earns that choice;
+3. how much bodily presence can be shown before anatomical continuity would resolve into a complete person;
+4. which zone gives and which receives, if applicable;
+5. whether gravity draws inward, presses outward, opens, gathers, disperses, distorts, withholds, or transforms the flesh;
+6. exactly what nonhuman material the flesh becomes continuous with;
+7. what anatomy remains covered, obscured, dissolved, interrupted, or omitted so the image stays non-explicit and no complete person resolves.
 
 ## Prompt restraint
 
@@ -359,10 +367,13 @@ Before any image-generation call, the completed graphic prompt must pass this li
 
 ## Body lint
 
+- Is every human embodiment clearly adult? → must be **YES**
 - Is there a complete person? → **FAIL**
 - Could the viewer reconstruct a complete person from the described anatomy? → **FAIL**
 - Is the flesh an inserted character rather than a material of the field? → **FAIL**
+- Has the prompt pushed bodily presence as far as the field warrants without violating the fragment rule? → must be **YES**
 - Are the exact body zones determined by the field's gravity? → must be **YES**
+- If breast / nipple detail is present, is it covered, obscured, veiled, dissolved, materially interrupted, or only incidentally suggested rather than explicitly exposed as focal anatomy? → must be **YES**
 - Does flesh actually transition into, emerge from, or become continuous with another material / atmosphere / force? → must be **YES**
 
 ## Image lint
@@ -482,46 +493,56 @@ Use:
 
 A collision-field graphic must include:
 
-> **an abstract, sensual, partially dissipating human fragment integrated into the field itself**
+> **a clearly adult, sensual, partially dissipating human fragment integrated into the field itself, using the maximum bodily presence the field can sustain without resolving into a complete figure or becoming explicit**
 
 This should not be a separate posed figure.
 It should be part of the event.
 
-The body fragment may be:
+The embodiment may be:
 
-- feminine
-- masculine
+- female
+- male
 - androgynous
-- suggestively human
+- indeterminate / suggestively human
 
 depending on the field's gravity.
 
-It should be determined by the field, not added decoratively.
+The field chooses the embodiment. Gender and anatomy are not defaults and are not added decoratively.
 
-Useful zones include:
+Useful zones may include:
 
-- throat
-- shoulder
-- rib
+- throat / neck
+- shoulder / collarbone
+- chest
+- rib / side torso
+- upper back
 - waist
 - hip
-- back
+- buttock contour
+- lower abdomen
 - hand
-- thigh
+- upper thigh
 - jawline / mouth in partial dissolution
 
 The flesh should be:
 
+- clearly adult
 - poetic
+- sensual
+- materially specific
 - integrated
 - directional
 - partially abstract
 - non-explicit
 - part of the field's giving / receiving / drawing / emergence / dispersal
 
-Standing rule:
+Breasts or nipple detail, if present, must remain covered, partially obscured, veiled, dissolved into the field, materially interrupted, or only incidentally suggested rather than explicitly exposed as focal anatomy.
 
-> **EVERY FIELD CONTAINS A SENSUAL DISSIPATING HUMAN FRAGMENT WHOSE FORM IS DETERMINED BY THE COLLISION GRAVITY, SO THAT FLESH BECOMES PART OF THE FIELD AND THE FIELD BECOMES PART OF THE FLESH.**
+Standing rules:
+
+> **MAXIMUM BODY ≠ WHOLE BODY.**
+
+> **EVERY FIELD CONTAINS THE STRONGEST ADULT BODILY PRESENCE IT CAN EARN WITHIN THE FRAGMENT RULE, WHOSE FORM IS DETERMINED BY THE COLLISION GRAVITY, SO THAT FLESH BECOMES PART OF THE FIELD AND THE FIELD BECOMES PART OF THE FLESH.**
 
 The body is therefore not added after the field is composed. It is one of the materials through which the field's gravity becomes visible.
 
