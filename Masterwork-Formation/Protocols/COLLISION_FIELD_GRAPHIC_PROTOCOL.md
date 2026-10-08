@@ -75,6 +75,8 @@ Before writing **any** CF-06 graphic prompt, fully read the following repository
 6. `Masterwork-Formation/Protocols/MASTERWORK_CREATION_PROTOCOL.md`
 7. `Masterwork-Formation/Protocols/COLLISION_FIELD_GRAPHIC_PROTOCOL.md`
 8. the active Collision Field source / deposit for the current run
+9. `Masterwork-Formation/Libraries/MEDIUM_LIBRARY_THERE_HERE.md` — **read entire live library, all families and operations**
+10. `Masterwork-Formation/Protocols/THERE_HERE_GRAPHIC_PROTOCOL.md` — run the field-to-material assay before CF-06
 
 This list is mandatory and sequential.
 
@@ -241,7 +243,7 @@ The prompt must decide, from the field itself:
 
 Standing compression:
 
-> **EVERY FIELD CONTAINS A SENSUAL DISSIPATING HUMAN FRAGMENT WHOSE FORM IS DETERMINED BY THE COLLISION GRAVITY, SO THAT FLESH BECOMES PART OF THE FIELD AND THE FIELD BECOMES PART OF THE FLESH.**
+> **EVERY FIELD CONTAINS THE ADULT EMBODIMENT ITS GRAVITY EARNS — FRAGMENTARY, NEAR-COMPLETE, OR COMPLETE — INTEGRATED INTO THE FIELD, NON-EXPLICIT, AND NEVER MERELY DECORATIVE.**
 
 Output form:
 
@@ -285,6 +287,24 @@ The body treatment must be solved **before** image generation by specifying:
 6. exactly what nonhuman material, atmosphere, force, or structure the flesh becomes continuous with;
 7. what intimate anatomy remains covered, obscured, dissolved, interrupted, veiled, turned away, or only incidentally suggested so the image remains non-explicit.
 
+## THERE ⇄ HERE — mandatory material consultation
+
+Before any CF-06 prompt, complete the full-library parse and field-led material assay in `THERE_HERE_GRAPHIC_PROTOCOL.md`. The library is not a palette to skim or a menu of mandatory visual motifs.
+
+> **FULL LIBRARY READ → FIELD OUTPUT MATCH → MATERIAL RESISTANCE → SPARSE SELECTION OR NO PAIR → CF-06**
+
+Parse every family, candidate, operation, and caution. The field's completed Gravity, Sing, διά ⇄ σύν, and Masterwork contribution must cause material selection. Consider distinct alternatives before selecting. Do not default to skin/silicone, wood/steel, a cyborg, or any organic-to-synthetic gradient. An honest **NO MATERIAL PAIR EARNED** passes if the library was fully read and assessed.
+
+Separate **depicted material** (wood, skin, silicone, steel, etc.) from **artistic medium** (oil paint, ink, fresco, collage, digital paint, etc.). The latter determines mark-making and must not be silently replaced by photographic texture. Preserve material provenance, resistance, and where earned, unresolved surreal contradiction. Do not force an impossible-provenance gimmick into every field.
+
+Required gate before drafting:
+
+> **THERE ⇄ HERE — FULL LIBRARY INTAKE / MATERIAL ASSAY: PASS**
+
+If the library is only skimmed, or the material is selected before reading the field output, **BLOCK CF-06**.
+
+---
+
 ## Prompt restraint
 
 Do not stuff the exegesis into the prompt.
@@ -295,7 +315,7 @@ The image prompt should describe:
 - its motion;
 - its spatial behavior;
 - its emotional temperature;
-- its partial human embodiment.
+- its field-earned human embodiment.
 
 The prompt should **show the field without explaining its vocabulary**. The exegesis comes afterward.
 
@@ -370,6 +390,15 @@ Before any image-generation call, the completed graphic prompt must pass this li
 - Is the bodily extent — fragment, near-complete, or complete — determined by the field's gravity? → must be **YES**
 - If breast / nipple detail is present, is it covered, obscured, veiled, dissolved, materially interrupted, or only incidentally suggested rather than explicitly exposed as focal anatomy? → must be **YES**
 - Does flesh actually transition into, emerge from, receive, exert, or become continuous with another material / atmosphere / force? → must be **YES**
+
+## THERE ⇄ HERE material lint
+
+- Was the complete live Medium Library read, rather than a summary or keyword subset? → must be **YES**
+- Was the field output compared with candidates from different material families? → must be **YES**
+- Does the selected material have a field-earned reason and distinct physical / historical behavior, or is **NO MATERIAL PAIR EARNED** recorded? → must be **YES**
+- Is the artistic medium explicitly distinguished from the depicted substances? → must be **YES**
+- Is the image a split-screen organic-versus-synthetic comparison or a decorative material inventory? → **FAIL**
+- Does a familiar material pairing merely repeat a prior composition without being re-earned? → **FAIL**
 
 ## Image lint
 
