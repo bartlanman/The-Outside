@@ -295,6 +295,38 @@ The image prompt should describe:
 
 The prompt should **show the field without explaining its vocabulary**. The exegesis comes afterward.
 
+## Spatial release / vacuous-space rule
+
+Do not allow the frame to become saturated by repeated forms merely because repetition is one of the field's operations.
+
+Every graphic prompt must make an explicit decision about **open or vacuous space**.
+
+Unless the collision gravity specifically requires total compression, preserve at least one substantial region in which:
+- anatomy does not repeat;
+- motifs do not tile the frame;
+- material activity thins, recedes, or falls away;
+- the eye can encounter distance, suspension, silence, atmosphere, or unresolved absence.
+
+The empty region must not be decorative background. It must participate in the field.
+
+For fields involving repetition, imitation, mutation, or recurrence, repetition should be allowed to:
+- diminish;
+- break;
+- lose registration;
+- disperse;
+- terminate;
+- or disappear into genuine vacancy,
+
+rather than multiplying until the whole surface is filled.
+
+> **REPETITION MUST HAVE SOMEWHERE TO END.**
+
+> **VACUOUS SPACE IS AN ACTIVE MATERIAL OF THE FIELD.**
+
+If a prompt produces a wall-to-wall field of repeated anatomy, repeated motifs, or repeated material gestures without meaningful spatial release:
+
+> **REVISE BEFORE GENERATION.**
+
 ---
 
 # 6. STEP FIVE — EXEGESIS
@@ -340,6 +372,8 @@ Before any image-generation call, the completed graphic prompt must pass this li
 - Is the prompt literally explaining the thesis instead of staging a visual event? → **FAIL**
 - Is the image one visual event? → must be **YES**
 - Does field motion itself make the relation legible without arrows, labels, or captions? → must be **YES**
+- Is the frame saturated with repeated forms or motifs without meaningful vacuous / open space? → **FAIL**
+- Does open space participate in the field rather than functioning as inert background? → must be **YES**
 
 If any item fails:
 
