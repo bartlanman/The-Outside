@@ -63,3 +63,6 @@ The full text run ends after exact CF-06 + complete CF-07 + CF-08 PASS + CF-09 l
 
 ## 10. Compression
 **COLLISION FIELD EARNS A CAPACITY → THE MASTERWORK CHANGES ITS FORM → THE AI BUILDER MAKES THE INNER STRUCTURE VISIBLE → THE IMAGE CONTRIBUTES ONE PART TO THE CORPUS → THE FINAL HUMAN RETURNS WITH ITS HISTORY INTACT.**
+
+## 11. MANDATORY INDIVIDUAL RUN FILE + GRAPHIC PAIR
+Every series run must have one own deposit under `Masterwork-Formation/Building-the-Body-The-Corpus/` named `BTB_CF_NN_TITLE.md`, linked in `README.md` and `RUN_LEDGER.md`. Preserve the **full, exact** run and art packet when available; never replace missing portions with invented text or call a summary a canonical deposit. After separately requested graphic generation, deposit the actual PNG bytes to `Masterwork-Formation/Building-the-Body-The-Corpus/graphics/` and embed the image directly in the run's Markdown file with a relative link, then record the post-image judgment. Image filename references alone are not successful deposits. `REVISE` requires retaining prior graphic versions alongside the revised image. Reconcile series progress from these paired deposits before another run.
