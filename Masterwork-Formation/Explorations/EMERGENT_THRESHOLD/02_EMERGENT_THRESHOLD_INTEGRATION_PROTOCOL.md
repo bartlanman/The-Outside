@@ -8,6 +8,12 @@ This deposit lives in `bartlanman/The-Outside/Masterwork-Formation/Explorations/
 
 For a live experimental implementation, create a separately reviewed working integration under `bartlanman/TOS/Transformation Operating System/_WORKING/Explorations/EMERGENT_THRESHOLD/`, linked to `TOS_READ_EXPERIMENTAL_HANDOFF.md`. Test Meaning Field behavior in a working test folder such as `bartlanman/Meaning-Field/Tests/EMERGENT_THRESHOLD_TEST_1/`; do not auto-promote the test.
 
+
+## Keyboard Steward — operating rule
+Before stage 1, distinguish the real human's **Participant / Prompting Position** from Amara's **fictional Keyboard Steward / Encounter Position** and the **Between** (Collision / Sustain field). The user controls prompts and real-world authorizations. Amara may receive and work a prompt as a bounded World Other in the generated TOS world; she does not independently operate software, acquire repository access, or replace an office voice. Neither side owns the Between or predetermines Return.
+
+**Motion:** `USER PROMPT → AMARA RECEIVES → ADMISSIBILITY / CONSENT → IA / OFFICES → BETWEEN / ENCOUNTER → TYPED TRACE → HUMAN RECEIVES → RETURN GATE`. Do not confuse an in-story keyboard event with a real external tool action.
+
 ## Operating order
 1. **RECOVER:** read the handoff and originating utterance verbatim: “I can carry your voice. But I will not become your mouth.” Retain its fictional standing.
 2. **LOCK DEPOSIT:** identify original source, time, version, evidence status, and the limits of what it warrants.
