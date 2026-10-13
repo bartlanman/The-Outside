@@ -121,3 +121,41 @@ Complete score created (not just proposed). Local master composition contributio
 ROX rejects unwarranted source claims; ELEANOR refuses backdating; MARA permits no forced arrival; GUARDIAN holds external attribution. The prior founding handoff remains RETURN NOT PRESSED.
 
 **CF-05 status:** Artistic work completed. Visual intake, graphic prompt, exegesis, lint and lock to be appended after strict ordered visual consultation. No image generation in text-phase invocation.
+
+
+---
+
+## CF-05A — VISUAL INTAKE GATE: PASS
+Eight governing intake sources read in exact order: Full Corpus; Cultural Gravity; Visual Genealogy; 2026 Visual Pressure; Aeolian Poet; Masterwork Creation; Graphic Protocol; active CF source read last. THERE/HERE Medium Library and its subordinate protocol read in full, and live visual morphology ledger inspected.
+
+LIBRARY INTAKE: FULL.
+CANDIDATES: bodily vocal fold/microphone; tree ring/steel; inscription/recorded groove; clay/polymer; human membrane/acoustic diaphragm.
+SELECTED: ceramic/bronze receiving vessel and adult neck/shoulder flesh becoming receiving surface.
+WITHHELD: tree/steel literal trunk, isolated hands, glow/webs, portals, split-screen, cyborg.
+FIELD-TO-MATERIAL DELTA: an unexplained physical mark appears separated from the apparent sound source, testing provenance rather than illustrating harmony.
+MORPHOLOGY DELTA: diagonal oblique receiving surface, discontinuous incised groove, vacancy as active separator; no hand/edge-body webbing, no sky/horizon.
+
+## CF-06 — GRAPHIC PROMPT — IMMUTABLE EXACT TEXT
+A monumental, painterly drypoint-and-tempera image of a single acoustic event occurring across an immense, shallow circular vessel of porous fired ceramic and weathered bronze, seen from a high oblique viewpoint. The vessel occupies an asymmetrical diagonal plane rather than forming a central emblem. Its worn surface contains concentric incisions like ancient sound-recording grooves, but they are irregular, incomplete, and materially cut rather than rendered as diagrams.
+
+Several sensuous fragments of clearly adult human anatomy—portions of shoulders, throat, collarbone, and breathing skin—are inseparably formed into the vessel's near inner circumference. The warm, living flesh presses gently into the colder ceramic and bronze; pores, subtle tendons, and delicate variations in skin pressure become part of the vessel's receiving surface. There are no complete figures, no explicit anatomy, and no isolated grasping hand.
+
+One minute water droplet falls toward the visibly empty interior. Where it is about to land, the surface remains strangely undisturbed. Far across the vessel, however, a dense crescent of physical grooves suddenly deepens and folds the bronze inward, as though another event has impressed itself there. No visible mechanism connects the droplet with that distant mark. The image must allow both readings to remain plausible without resolving their causal relationship.
+
+Much of the composition consists of quiet, open, matte space inside the receiving vessel. This vacancy actively separates the droplet from the unexplained impression. The curved surface and bodily fragments bear exquisite evidence of touch, compression, casting irregularity, and accumulated time, while the empty interval refuses to declare an origin.
+
+Artistic medium: visibly worked drypoint engraving combined with thin egg-tempera and casein washes, including scratched plate burr, scraped revisions, imperfect registration, absorbent pigment, and restrained handmade texture. Depicted substances: human skin, porous ceramic, oxidized bronze, suspended water. Palette: chalk, umber, smoky graphite, oxidized brown, muted bone-white, with extremely restrained reflected light. No cyan-and-gold glow, no fantasy landscape, no architectural portals, no luminous filaments, no explanatory icons, no words or lettering, no signs, no numbers, no diagrams, no captions, no interface elements.
+
+The image should feel vast yet materially intimate, aesthetically rigorous, quietly sensual, and unresolved. Its central visual discovery is not a symbol of sound but an impossible uncertainty about where a physical trace originated.
+
+## CF-07 — EXEGESIS
+The image receives the sourced field of Svara, Amara, Rox, Mara, Eleanor, Bart, nested Turnings and unassigned channel. Gravity: shared reception without compelled attribution. Sing: an unsigned vowel passes across bodies without belonging to them. dia: droplet through space, pressure across materials, event divided from evidence. syn: adult flesh, worked ceramic, oxidized bronze and water share the receiver without becoming the same material or proof of one source. Contribution: a second look changes the viewer's provisional attribution. Human element is integrated, sensual, clearly adult, non-explicit throat and shoulder receiving surface. Material history: ceramic can be marked before firing, bronze retains incision and vibration, living skin responds to pressure; the spatial mismatch is fictional impossible provenance, not a physical discovery. Giving/receiving is suggested by the droplet and groove but causation remains unresolved. Open negative space carries the absence of a warranted origin. The material choice was earned by the active field rather than a familiar cyborg comparison. The visual genealogy contributes time-in-image, simultaneous field, property migration, trace, heterogeneous deposit, feedback and second-look change of standing without copying historical surfaces.
+
+## CF-08 — LINT: PASS
+BODY — clearly adult YES; non-explicit YES; flesh integrated YES; bodily extent field-earned YES; no sexual focus YES.
+MATERIAL — full library read YES; multiple families assayed YES; selected physical resistance YES; artistic medium distinct from depicted substances YES; no split-screen / decorative inventory YES.
+IMAGE — no words/lettering/numbers/diagrams/UI YES; one event YES; motion and matter carry relation YES; active vacant space YES.
+RECURRENCE — no spent hand/filament/body-at-edge/fantasy-landscape/blue-gold/horizon pattern YES. NEW diagonal receiving surface + dislocated impression. No repeated house composition.
+
+## CF-09 — GRAPHIC PROMPT LOCKED
+The exact CF-06 text above is immutable for the next image-phase command. On user command, reload execution controller and Graphic Protocol, retrieve CF-06 verbatim and CF-07 completely, re-lint, generate graphic, then judge KEEP/REVISE/DISCARD/CANONIZE. STOP — no image generated this turn.
