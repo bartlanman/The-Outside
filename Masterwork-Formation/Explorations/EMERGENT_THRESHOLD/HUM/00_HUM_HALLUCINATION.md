@@ -2,7 +2,7 @@
 **Status:** EXPERIMENTAL CREATIVE RUNTIME / NOT CANON
 **Revision:** 2026-10-13 — replaces the earlier pedal-point HUM as the ACTIVE meaning.
 **Trigger:** only AFTER TWO COMPLETE COLLISION FIELDS, with the second originating within or through the first.
-**Earlier lineage:** see ARCHIVE_LEGACY_PEDAL_POINT/ for the preserved former HUM apparatus, controls, extensions and assays. Neither originating Collision Field is rewritten.
+**Earlier lineage:** the old pedal-point apparatus is retired from the active directory; earlier commits remain in Git history, but are not an active HUM source. Neither originating Collision Field is rewritten.
 
 ## WHAT HUM IS
 HUM means **Hallucination**. It is the post-Collision-Field creative release, NOT a truth assay, musical experiment, Sounding station, compliance report, or retelling whose only purpose is to preserve separation. Its material is the ENTIRE lived and generated context of the two completed fields: character-specific histories, bodies, wishes, fears, textures, sounds, motifs, failed approaches, withheld meaning, contradictions, images, remainders, words, and their cultural gravity.
@@ -18,6 +18,8 @@ HUM-1 **TOTAL CONTEXT INTAKE.** Recover both works and as much original encounte
 
 HUM-2 **RELEASE GOVERNANCE INTO POETIC GRAVITY.** No more in-story checklists, office roll calls, protocol lectures, labels or proof language. Rules did their work upstream. Dramatic motion now belongs to association, contradiction, embodied causality, recursion, rhythm and surprise. Fictional hallucination is permitted; inventions remain fiction rather than fabricated external testimony.
 
+HUM-2A **OUTSIDE SUBSTANCE DRAW.** After the two-field context intake and before activation, search the live web for real material capable of feeding, resisting, or distorting the field. Require an actual field delta; transform sources into new aesthetic substance rather than inserting facts as decoration. Follow [02_HUM_OUTSIDE_SUBSTANCE_DRAW.md](02_HUM_OUTSIDE_SUBSTANCE_DRAW.md).
+
 HUM-3 **ACTIVATION.** Gather felt momentum through novelty, prediction error, desire, intimacy, fear, grief, wit, wonder, surprise, integration, resistance and pressure. Move from particular source details rather than generic 'energy'.
 
 HUM-4 **COHERENCE / VORTEX THRESHOLD.** Every participant or charged presence from BOTH fields is drawn into relation; not a forced identical action, but a progressively shared center of cultural gravity. Words recur transformed; earlier scenes alter later meaning. Let the room, matter, physics, voice, time and narrative syntax bend as creative necessity demands.
@@ -27,6 +29,9 @@ HUM-5 **PEAKS AND RELEASES.** Permit multiple distinct peaks, including laughter
 HUM-6 **THROUGH THE SCREEN.** At peak, the cultural-gravity vortex crosses the fictional threshold of the computer screen. The people, words, marks, melodies, bodily gestures, vessels, machine fragments and withheld passages are transmuted by their encounter as narrative substance. On the other side, they RETURN as a **new substance in the reader's mind**: an image, felt tension, aftertaste, altered interpretation or unexpected connection. This is a literary operation, not a claim of real-world physical transport, mind-reading or independent consciousness.
 
 HUM-7 **AFTER / CONSOLIDATION.** End in an earned sensory or semantic remainder. Do not flatten the climax into an explanatory recap. The original fields remain the remembered charge beneath a changed reading. Allow sequel, silence or new possibility without prescribing it.
+
+## POST-PERFORMANCE VISUAL MASTERWORK
+Once the complete HUM story and screen-crossing exist, execute [03_HUM_MASTERWORK_GRAPHIC_PROTOCOL.md](03_HUM_MASTERWORK_GRAPHIC_PROTOCOL.md). Read the visual Masterwork inheritance; form the **HUM GRAPHIC PROMPT** from the finished artistic event; write EXEGESIS, LINT, and LOCK. Only on a later explicit image command generate and judge the graphic. HUM is not required to rerun the Collision Field formation controller.
 
 ## LAWS OF ARTISTIC FORM
 - **Context is gravity.** Every word should carry the histories of what came before; generative surprise must cohere with the charge it transforms, not devolve into arbitrary unrelated imagery.
@@ -41,4 +46,4 @@ HUM-7 **AFTER / CONSOLIDATION.** End in an earned sensory or semantic remainder.
 ## COMPRESSION
 **TWO COLLISION FIELDS → ALL CONTEXT RELEASED → ACTIVATION → COHERENCE / CULTURAL-GRAVITY VORTEX → MULTIPLE PEAKS → WHOLE-FIELD RELEASE → THROUGH THE COMPUTER SCREEN → TRANSFORMED RETURN IN THE READER.**
 
-The old acoustic/pedal-point HUM is superseded and archived; do not invoke its HUM-00–10 checklist, blind-audio trials, or optional DOS branch when the user says 'run HUM' unless explicitly asking for the legacy test.
+The old acoustic/pedal-point HUM is superseded and removed from active HUM; do not invoke its HUM-00–10 checklist, blind-audio trials, or optional DOS branch when the user says 'run HUM' unless explicitly asking for the legacy test.
