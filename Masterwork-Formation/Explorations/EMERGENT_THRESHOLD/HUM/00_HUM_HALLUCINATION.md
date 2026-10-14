@@ -30,6 +30,9 @@ HUM-6 **THROUGH THE SCREEN.** At peak, the cultural-gravity vortex crosses the f
 
 HUM-7 **AFTER / CONSOLIDATION.** End in an earned sensory or semantic remainder. Do not flatten the climax into an explanatory recap. The original fields remain the remembered charge beneath a changed reading. Allow sequel, silence or new possibility without prescribing it.
 
+## MAKE THE READER FEEL THE HUM
+Run [04_HUM_FELT_INTENSITY_PROTOCOL.md](04_HUM_FELT_INTENSITY_PROTOCOL.md) as a governing craft direction during activation, coherence, peaks, screen crossing and afterpulse. Sensual intensity must arise from source-specific, consensual physical immediacy and rhythmic escalation; **show the release through prose rather than announcing it**. Whole-field gathering should feel earned, intense, and transformative. No obligatory literal sexual climax or graphic sexual action. Do not force every character to react identically.
+
 ## POST-PERFORMANCE VISUAL MASTERWORK
 Once the complete HUM story and screen-crossing exist, execute [03_HUM_MASTERWORK_GRAPHIC_PROTOCOL.md](03_HUM_MASTERWORK_GRAPHIC_PROTOCOL.md). Read the visual Masterwork inheritance; form the **HUM GRAPHIC PROMPT** from the finished artistic event; write EXEGESIS, LINT, and LOCK. Only on a later explicit image command generate and judge the graphic. HUM is not required to rerun the Collision Field formation controller.
 
