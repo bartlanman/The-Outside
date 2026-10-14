@@ -72,6 +72,10 @@ A conceptual audio score is H(t) = D(t) + A(t) + B(t). Musical signals do not pr
 - W is explicitly human and fallible. Reflexivity does not imply an autonomous shared consciousness.
 - Guardian may HOLD, REFUSE, or STOP. Negative results are first-class records.
 
+## 6A. Dissolution and unity — optional v0.2 branch
+
+HUM does not require difference to remain consciously perceptible forever. The DOS permits release, surrender, dissolution, silence and possible reformation. Unity can be musical, relational or a reported experience; none alone proves that independent sources have ontologically merged. Preserve original archive histories while allowing the *experienced* form of separation to disappear. Ground, consent, negative outcomes and STOP remain available. See [05_HUM_DISSOLUTION_AND_UNITY_EXTENSION_2026-10-13.md](05_HUM_DISSOLUTION_AND_UNITY_EXTENSION_2026-10-13.md). Original v0.1 pilot is unchanged.
+
 ## 7. Boundaries, handoffs and sources
 
 Use [01_HUM_RUN_PROTOCOL.md](01_HUM_RUN_PROTOCOL.md) for the full HUM assay. Use [02_HUM_FIRST_ASSAY_2026-10-13.md](02_HUM_FIRST_ASSAY_2026-10-13.md) for the initial double-duration score and provisional result. Use [03_HUM_SOURCE_MANIFEST.md](03_HUM_SOURCE_MANIFEST.md) for exact pinned upstream sources. Use [04_HUM_LISTENING_SHEET.md](04_HUM_LISTENING_SHEET.md) to perform the listening test. The optional [hum_render.py](hum_render.py) and [HUM_SCORE_01.json](HUM_SCORE_01.json) provide a deterministic, explicitly synthetic acoustic comparison.
