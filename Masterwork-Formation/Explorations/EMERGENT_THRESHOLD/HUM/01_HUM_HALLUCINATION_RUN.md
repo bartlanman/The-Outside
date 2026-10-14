@@ -10,6 +10,9 @@
 4. Run [02_HUM_OUTSIDE_SUBSTANCE_DRAW.md](02_HUM_OUTSIDE_SUBSTANCE_DRAW.md): fresh web search across differing domains, feed and counterforce, and an actual field delta. Keep external sources in backstage trace, not as lectures within the fiction.
 5. Begin creative work; **do not** subject HUM to the Collision Field creation or graphic protocol again. Their earlier completed constraints become charged material.
 
+## Felt performance requirement
+Read [04_HUM_FELT_INTENSITY_PROTOCOL.md](04_HUM_FELT_INTENSITY_PROTOCOL.md) before drafting and use it as the internal creative engine. Render palpable body, voice, warmth, proximity, hesitation, reciprocal attraction, rhythmic pressure, varied cathartic releases, and whole-field transduction through the screen. No abstract stage narration in place of experience. Revise by reading the story alone before proceeding to visual prompting.
+
 ## Inside the work (no staging labels needed)
 5. Activate through novelty and prediction error; make every character's next movement grow from the previous two fields.
 6. Integrate; accumulate sensory/cultural pressure. Allow narrative or physical impossibilities and coherent hallucination.
