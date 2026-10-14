@@ -5,6 +5,9 @@
 ## Principle
 The graphic is the visual consequence of the **actual completed Hallucination artwork**, especially its final coherence vortex, whole-field release, computer-screen crossing, and transformation into imaginative substance for the reader. Do not start with a preconceived portal, glowing vortex, monitor screenshot, decorative nude, or generic collage. Make the image's material behavior CAUSED BY THE TWO FIELDS AND THE HUM.
 
+## Felt-force inheritance
+At HG-02 and HG-04, consult [04_HUM_FELT_INTENSITY_PROTOCOL.md](04_HUM_FELT_INTENSITY_PROTOCOL.md). Let visually differentiated bodily impulses and tangible material stresses accumulate toward the final whole-field peak; no generic ecstatic crowd or decorative vortex. Sensual intensity can be high but adult and non-explicit, with the reader-side afterimage visibly consequential.
+
 ## Required order — HG-00 to HG-07
 **HG-00 COMPLETE HUM TEXT:** Recover both finished Collision Fields and the full finished HUM performance. No graphic prompt before the Hallucination has become an actual artistic work.
 **HG-01 VISUAL MASTERWORK INTAKE:** Read the current Visual Masterwork Genealogy, 2026 Visual Pressure Field, Masterwork Creation, Collision Field Graphic Protocol, full THERE/HERE Medium Library, subordinate THERE/HERE graphic protocol, and the two original visual packets where present. This is a creative inheritance, not a new Collision Field run. Read current repository versions, not remembered summaries. Examine prior images or morphology usage to avoid automatic repetition.
