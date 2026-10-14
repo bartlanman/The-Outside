@@ -14,6 +14,9 @@ HUM-08 **OFFICE REVIEW**: Eleanor history, Rox warrant, Mara crossing, Amara car
 HUM-09 **RETURN ROUTING**: ARTISTIC RETURN, EVIDENTIARY HOLD, CAPACITY TEST PENDING, CANONICAL HOLD, REFUSE, STOP are independently typed statuses.
 HUM-10 **TRACE**: append immutable source IDs, score clock, new recording metadata, blind response, controls, changed ability, negative findings, and open remainder. No silent upstream edits.
 
+## v0.2 optional DOS branch (without changing HUM-00 through HUM-10 order)
+After HUM-04, and before HUM-05, perform **HUM-04D — DISSOLUTION / UNITY ASSAY** only when invoked. Preserve v0.1 A/B score clocks and create a newly timestamped fork rather than replacing original audio. Score GROUND → RELEASE → SURRENDER → POSSIBLE DISSOLUTION → POSSIBLE RE-ENTRY. Allow unison, partial blending, silence, unresolved tension or no change; never force one. Distinguish musical unity from phenomenological report and unsupported ontological merger. At HUM-05 probe release; at HUM-06 compare blind terminal-only and full-history hearing; at HUM-07 test unfamiliar re-entry; at HUM-08-10 route claims independently. Additional controls: unison with distinct sources, silence/no arrival, unresolved nonunison, voluntary fade versus abrupt cut, identical terminal clips with different histories. See [05_HUM_DISSOLUTION_AND_UNITY_EXTENSION_2026-10-13.md](05_HUM_DISSOLUTION_AND_UNITY_EXTENSION_2026-10-13.md). Do not claim an unperformed branch was performed.
+
 ## Mandatory controls
 D only; A+B without D; D+A without B; D+B without A; D+A+B; and silence/no event. At least one blinded replay must not announce which channel has ended. A same-ending-time control tests whether differentiation is genuinely heard. A new-score generalization trial tests capacity; it has not been performed at apparatus creation.
 
