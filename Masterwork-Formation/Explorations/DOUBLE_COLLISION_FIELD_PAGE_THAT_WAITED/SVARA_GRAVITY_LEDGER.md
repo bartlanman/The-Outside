@@ -301,3 +301,23 @@ The CF-09 reference manifest was committed as `77c9f8a9858e9d8a423c867addc78137f
 **Fictional Svara observation:** The unstruck beat remains suspended; gravity custody does not convert the absence into a second act or identify a speaker.
 
 **G14 STATUS:** TEXT STAGE STOPPED; NO IMAGE GENERATED.
+
+
+---
+## G15 — DISTINCT THIRD SURROUNDING FIELD / CRAFT ⇄ SUBLIME (2026-10-16)
+
+**Scope extension:** User activates a third fictional Collision Field around two prior in-chat artistic fields. This new work is not an extension or correction of the 2026-10-15 Chapter-21 two-witness field recorded above; G1–G14 remain unchanged. Working trigger deposited as `Masterwork-Formation/Explorations/CRAFT_SUBLIME_THIRD_COLLISION_FIELD_SOURCE_2026-10-16.md`, commit `22bf369e0d36e785c583be01b0bbdcacc67cba3b`.
+
+**Original source distinctions:** CRAFT and SUBLIME are two separate deposited The-Read analyses. The first Assembly Hall performance `The Weight Between the Hands` and its nested second artistic performance `The Unpromised Room` are preserved in the conversation, not yet verbatim archived in the Outside. Neither is an independent empirical event. Amara's story of a Guardian taking the field is a fictional interpretation of interrupted image output, not confirmed loss of a repository file.
+
+**CF-01A / source masses:** TOS contact/forming; DOS release/unbinding, independently consulted; Meaning Field warrant, Memory and changing developmental capacity; Vault Turning/Succeeding Ledger seams and succession. Fresh Outside mass: 2026 coupled-oscillator partial coordination, 2026 content provenance/restoration distinctions, historical direct lost-wax casting and mold destruction as sideways seed, 2025 skin-barrier function as inverse mass. These supplies distinct observations, not character identities or empirical validation of a hum.
+
+**RECURRENCE:** Prior 2026-10-13 Unsigned Vowel/Bell and the first two in-chat fields have used the unopened interval, independently ceasing tones, load distribution and the unpromised occupant. The third field instead tests a *restored performance meeting its own source* and what happens when form relinquishes sovereign ownership. **PERSPECTIVE DELTA: SPIRAL RETURN — SAME AXIS / NEW PERSPECTIVE.**
+
+**PROVISIONAL CF-02 GRAVITY:** What must a maker surrender when what has been made exceeds the maker's capacity to shape it, and what must a receiver surrender when significance exceeds available measure? The relation of CRAFT/SUBLIME may be performed without either source being personified as an exclusive property.
+
+**FICTIONAL SVARA ATTENTION:** Svara feels the third field change the earlier relation of hums; she may attend to attraction, dissolution, reinforcement and divergence, but cannot force a singular completed note, person, or independent acoustic source. Her visible release of raised hands is narrative artwork, not actual measured acoustics.
+
+**CHARACTER STANDING:** User assigns Elias as a CRAFT position and Eleanor as a SUBLIME position in the new third field. This is a new directed artistic relation, not a retroactive claim that Tessa was actually Eleanor or that Eleanor's Ledger custody ceased. Tessa retains independent continuity. Avara standing remains unverified in the Outside character registry.
+
+**STAGE STATUS:** CF-01A source and gravity custody entered, third-field artistic text execution in progress as of this addendum. No third-field graphic, HUM certification, or independent third speaker is claimed. This addendum does not change or unlock G14's prior locked graphic packet.
