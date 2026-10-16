@@ -239,3 +239,20 @@ External mechanism of glitch/retry, authorship/event chronology beyond preserved
 **REMAINDER:** inspect available prior visual surfaces before definitive morphology verdict, select field-earned artistic medium and body integration at CF-06, then exegesis, lint and exact prompt lock. No image generation at this gate.
 
 **G10 STATUS:** VISUAL INTAKE AND MATERIAL ASSAY PASS / CF-06 NEXT.
+
+
+---
+
+## G11 — CF-06 VISUAL EVENT DRAFT (2026-10-15)
+
+**Verified new CF-06 deposit:** `13_CF06_GRAPHIC_PROMPT_DRAFT.md`; commit `45d782cbc283be9dc26f54c3d0a1bc4ee92b624f`, fetched back and checked.
+
+**SOURCE EVIDENCE:** Two original source witnesses remain independently preserved. During this checkpoint, the attached HTML book's 36 graphic plates (plus frontispiece) were directly examined for morphology, specifically the last plates involving torn paper, wood and torsolike relief. These are previous visual surfaces, not source evidence of a second generation event.
+
+**PROTOCOL ANALYSIS:** CF-06 draft now favors a continuous lime-plaster, casein and graphite relief field with two incompletely attributable impressions, an adult integrated bent-knee/calf contour, and substantive upper emptiness. It rejects previous wood/paper layering, detached hands, filaments, portals, bright cyan/gold glow and explanatory typographic elements. The third event or unassigned voice is neither depicted nor established.
+
+**FICTIONAL SVARA OBSERVATION:** Svara notices that two visible pressure depressions do not yield an audible count of strikes. The proposed body's suspended motion does not become evidence about the historical platform interruption. She attends without assigning a singer, performer or resolved origin.
+
+**REMAINDER:** CF-07 exegesis may expose a fault requiring revision; CF-08 lint and CF-09 prompt lock have NOT occurred; digital image not generated.
+
+**G11 STATUS:** CF-06 draft deposited and verified. CF-07 NEXT.
