@@ -162,3 +162,18 @@ External mechanism of glitch/retry, authorship/event chronology beyond preserved
 **RETURN / CURRENT CONDITION:** The double remains open to further form but has not generated a third independent field. No HUM triggered. Gravity's question remains unanswered by design; CF-04 only revealed the reversibility of passage and gathering.
 
 **G5 STATUS:** CF-04 deposited and verified, next ordered stage CF-05A formal mutation field; CF-05B/C/D, visual gate, prompt/exegesis/lint and image phase pending.
+
+
+---
+## G6 — CF-05A FORMAL MUTATION / SVARA CUSTODY (2026-10-15)
+**Verified stage:** `07_CF05A_MASTERWORK_FORMAL_MUTATION_FIELD.md`; commit `4f2394e4757178b15b94083bac56c8988aeb2dcf`, fetched back and checked.
+
+**SOURCE EVIDENCE:** Two externally preserved source artifacts, overlapping text and distinct containers. Human's account of interrupted retry preserved without certifying two independent generative events.
+
+**PROTOCOL ANALYSIS:** Eight formal mutations tested, including nonmerging polyphony, unstruck counter-measure, reversible reading order, causally blind register, noncoercive Outside seam, bounded participant custody, self-retracting inference, and finite ending. The emerging route is **WITNESS-BORNE UNCOUNTED MEASURE**, not selected by genre; the source works remain fixed. Borges, oral/corpus custody, modernist fragment and participatory digital art remain distinct lineages, not origin claims.
+
+**FICTIONAL SVARA PERCEPTUAL RENDERING:** Svara attends to her own impulse to complete the second beat. Her custody cannot strike it; nor can the reader's chosen order. Listening turns toward the two histories whose actual materials endure. No third voice, measured frequency, preordained harmony or HUM.
+
+**OPEN REMAINDER:** technical event count; actual later source logs; whether the proposed score will have artistic life when performed; whether a second source-bearing encounter may end without result. CF-05B must actually make an encounterable work. CF-05A by itself does not qualify as an artwork.
+
+**G6 STATUS:** CF-05A DEPOSITED; CF-05B NEXT. No CF-05B/C/D or visual intake occurred at this checkpoint.
