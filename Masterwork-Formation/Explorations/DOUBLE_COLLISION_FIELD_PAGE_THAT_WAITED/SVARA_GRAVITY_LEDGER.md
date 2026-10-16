@@ -271,3 +271,19 @@ External mechanism of glitch/retry, authorship/event chronology beyond preserved
 **REMAINDER:** No image produced; visual success not proved. CF-08 lint and CF-09 exact prompt lock not executed; no new HUM or third field.
 
 **G12 STATUS:** CF-07 COMPLETE / REVISED CF-06 VERIFIED / CF-08 NEXT.
+
+
+---
+## G13 — CF-08 LINT (2026-10-15)
+
+**Record:** `16_CF08_GRAPHIC_LINT.md`, commit `0023b899750a44092b228b7bb98eb28b6aaf3d52`, read back and verified.
+
+**Evidence:** Separate original witnesses remain independent; execution-event count remains unverified.
+
+**Protocol finding:** CF-08 textual lint PASS for revised CF-06 and matching CF-07, including integrated adult embodiment, material assay, active negative space, wordlessness, distinctive morphology and refusal to infer an originating-event count.
+
+**Fictional Svara attention:** She hears the withheld second beat but neither supplies it nor assigns its source. No third voice or harmony is forced.
+
+**Boundary:** The image is not generated. Actual visual compliance remains to be judged after generation. CF-09 exact prompt lock is next and not yet performed.
+
+**G13 STATUS:** LINT DEPOSITED / PROMPT NOT YET LOCKED.
