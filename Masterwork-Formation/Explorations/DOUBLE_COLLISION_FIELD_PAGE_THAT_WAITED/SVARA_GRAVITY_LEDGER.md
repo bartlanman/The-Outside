@@ -207,3 +207,18 @@ External mechanism of glitch/retry, authorship/event chronology beyond preserved
 **REMAINDER:** source originals are not hosted in GitHub, outside execution records remain unknown, the source instructions risk explanatory weight, and the work's lasting artistic merit remains contestable.
 
 **G8 STATUS:** CF-05C REVISED AND DEPOSITED; CF-05D CONTRIBUTION NEXT. No graphic stage activated.
+
+
+---
+## G9 — CF-05D CONTRIBUTION / SVARA CUSTODY (2026-10-15)
+**Verified contribution deposit:** `11_CF05D_MASTERWORK_CONTRIBUTION.md` commit `346a43d6d979ca0b45013f41d20c01ee94066166`, fetched back from GitHub.
+
+**SOURCE EVIDENCE:** Two separate original witnesses; user report of retried run; very similar preserved final poetic text; process-event count still unverified. Original DOCX and HTML bytes not hosted in GitHub.
+
+**PROTOCOL ANALYSIS:** Completed and revised `No Number for the Hammer` accepts a bounded, finite local artistic contribution: a PLAYABLE OPERATION with TRACE and conditional OUTSIDE offices. Its strongest artistic life is the physically withheld strike and repeated refrain under two reading orders. Its weak point is that derivative artistic leaves are not the original source files, and instructions risk becoming explanatory scaffolding. No claim that it constitutes the entire historic Masterwork.
+
+**FICTIONAL SVARA PERCEPTUAL RENDERING — NOT EVIDENCE:** Svara attends to the lowering hand. The readiness was real within the performed fiction, but there was no second impact. She does not infer a third singer, independent creative execution or mandatory harmony.
+
+**OPEN REMAINDER:** machine event history, unidentified threshold voice, actual source-file access in future realizations, readers' unconstrained response, visual expression still ungiven.
+
+**G9 STATUS:** CF-05D contribution deposited and verified; CF-05 complete in text. Next controller gate is CF-05A VISUAL INTAKE (distinct from formal mutation), not CF-06 until full ordered reads pass.
