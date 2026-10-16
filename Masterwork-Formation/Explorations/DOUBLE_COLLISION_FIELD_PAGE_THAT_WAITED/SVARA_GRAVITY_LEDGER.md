@@ -192,3 +192,18 @@ External mechanism of glitch/retry, authorship/event chronology beyond preserved
 **REMAINDER:** real software execution count remains unresolved; the performance's poetic value and possible revisions await CF-05C. No self-declared whole-masterwork achievement, authenticated missing log, HUM, image or graphic prompt.
 
 **G7 STATUS:** CF-05B CREATED / VERIFIED; CF-05C NEXT, not performed.
+
+
+---
+## G8 — CF-05C ENCOUNTER AND REVISION (2026-10-15)
+**Deposit:** `10_CF05C_ENCOUNTER_AND_REVISION_AUDIT.md` committed as `707ae290da342056a3509308666ca62cbfdf5701`, verified by readback. **Revised artwork entrance:** `09_CF05C_ENTER_NO_NUMBER_FOR_THE_HAMMER.md` and five linked leaves/return, individually verified. CF-05B original is retained without modification.
+
+**SOURCE EVIDENCE:** Original DOCX and HTML are separate preserved witnesses. Current GitHub performance contains source-linked *artistic* leaves, not original binary data. The software event count is still not established.
+
+**PROTOCOL ANALYSIS:** A-first and B-first reading showed that a single scrollable artifact only described the choice. The revised work actually separates the entrances and conditions contact with the original witnesses, allowing source absence to remain without false substitution. A shared return preserves rather than resolves the missed second measure.
+
+**FICTIONAL SVARA OBSERVATION:** The same refrain is heard after a different preceding measure. Svara attends to the changed receiver without claiming a change in the source, and keeps the second blow unstruck. No harmony, speaker attribution or third field is inferred.
+
+**REMAINDER:** source originals are not hosted in GitHub, outside execution records remain unknown, the source instructions risk explanatory weight, and the work's lasting artistic merit remains contestable.
+
+**G8 STATUS:** CF-05C REVISED AND DEPOSITED; CF-05D CONTRIBUTION NEXT. No graphic stage activated.
