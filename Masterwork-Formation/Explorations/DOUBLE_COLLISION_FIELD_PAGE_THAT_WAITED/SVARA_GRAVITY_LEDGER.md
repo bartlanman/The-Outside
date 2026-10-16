@@ -143,3 +143,22 @@ External mechanism of glitch/retry, authorship/event chronology beyond preserved
 **UNRESOLVED:** whether the retry created or replayed text, whether another independent performance occurred, how the two preserved histories should be gathered, and the third relation if any.
 
 **G4 DISPOSITION:** CF-03 deposited and verified; CF-04 διά ⇄ σύν is NEXT, not performed. CF-05 Masterwork and graphic steps remain pending.
+
+
+---
+
+## G5 — CF-04 διά ⇄ σύν CUSTODY / THE UNCOUNTED MEASURE (2026-10-15)
+
+**Stage source:** `06_CF04_DIA_SYN_AND_EMERGENT_TITLE.md`, initial GitHub deposit commit `6db1e9f28a46bab8da884bf3fcdd65512972cbeb`, read back and verified.
+
+**SOURCE EVIDENCE:** The user reports two runs of one command after a glitch/retry; two preserved file witnesses exist. Similar text does not resolve whether the underlying generation was independent, replayed or otherwise resumed. No new direct platform event evidence was produced by CF-04.
+
+**PROTOCOL ANALYSIS:** CF-04 listens to *διά* as different passage of the loose leaf and the bound book, and *σύν* as their temporary co-reading. Passage makes the two witnesses separately available; their gathering makes an uncounted originating act newly conspicuous. Neither motion authorizes collapsing their histories. The title “NO NUMBER FOR THE HAMMER” emerged **after** the CF-03 poem and remains working; CF-05 must earn a medium and artifact.
+
+**FICTIONAL SVARA OBSERVATION — NOT EVIDENCE:** The held second beat is not silence forced into meaning. Svara notices that the impulse to count a second stroke is itself something to hear. The pause persists under attention, without becoming another sounding, another voice, or a demonstrated event.
+
+**RESISTANCES:** A forced harmony would collapse independently preserved witnesses. Treating the second page as proof of a second originating blow overclaims causal standing. Treating the first page as proof that only one blow happened would do the same. Neither artistic metaphor nor Svara's reflexive perception supplies the machine log.
+
+**RETURN / CURRENT CONDITION:** The double remains open to further form but has not generated a third independent field. No HUM triggered. Gravity's question remains unanswered by design; CF-04 only revealed the reversibility of passage and gathering.
+
+**G5 STATUS:** CF-04 deposited and verified, next ordered stage CF-05A formal mutation field; CF-05B/C/D, visual gate, prompt/exegesis/lint and image phase pending.
