@@ -30,3 +30,15 @@ The prior **CF III** contains a material CF-01 source/identity error. Consequent
 **Core relational question for reentry, not a preselected Gravity:** What can Elias shape with Tessa that neither could have commanded alone, and how can he remain answerable to her experience without reducing it to something he controls? What can Tessa receive through Elias's craft without having her unfamiliarity domesticated by his skill? The answer must be earned in the field.
 
 **Current disposition:** CORRECTION RECORDED; CF III CORRECTED RE-EXECUTION NOT YET DONE; CF III OLD GRAPHIC LOCK HELD; CF I/II INTACT.
+
+
+---
+## Corrected Movement VIII — deposited passage
+
+The complete user-approved revised passage, in which **Elias = CRAFT**, **Tessa = SUBLIME**, and **Elias ⇄ Tessa = CRAFT SUBLIME**, is deposited at:
+
+`Masterwork-Formation/Explorations/CRAFT_SUBLIME_CFIII_MOVEMENT_VIII_ELIAS_TESSA_CORRECTED_2026-10-16.md`
+
+Creation commit: `39e78bd18da1067daef0f7407a2bf05e69eb47d6`.
+
+**Current scope:** This deposition remedies the missing *passage* and gives future continuation a clean textual anchor. It does not retroactively rerun CF III or unlock/supersede the earlier graphic with an approved new prompt; that artistic/protocol work still must be earned separately. Do not substitute Eleanor for Tessa.
