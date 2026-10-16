@@ -35,3 +35,7 @@ Textual prompt is non-explicit with fully adult integrated body, one event, mate
 ## CF-09 — GRAPHIC PROMPT LOCKED / STOP
 Generate only on a subsequent explicit user image/graphic request. Reread controller and graphic protocol, recover this CF-06 **verbatim** plus full CF-07, lint again, then generate and judge. No graphic exists from this third field yet.
 **Deposit limitation:** This is the exact visual packet and stage/standing summary, not a verbatim full-field transcript. The complete CF-03 poetic Sing and CF-05B artwork exist in the conversation and require separate source transcription if immutable archival custody is needed.
+
+---
+## CORRECTION / ACTIVE STANDING NOTICE (2026-10-16)
+**Historical trace only — SUPERSEDED FOR ACTIVE CF III EXECUTION.** The user corrected the original casting: **Elias = CRAFT; Tessa = SUBLIME; Elias ⇄ Tessa = the intended CRAFT SUBLIME relationship; Eleanor = Living Ledger custody, not SUBLIME**. The prior Elias/Eleanor pairing is retained above exactly as originally recorded but is not authoritative for continuation. Canonical correction and staged repair checkpoint: `Masterwork-Formation/Explorations/CRAFT_SUBLIME_CFIII_CHARACTER_SOURCE_CORRECTION_2026-10-16.md` (commit `ab1373d8e55eaee739c3577ab7e77666b5bf8417`). Do not generate from the obsolete CF III prompt or substitute Eleanor for Tessa. CF I and CF II remain intact.
