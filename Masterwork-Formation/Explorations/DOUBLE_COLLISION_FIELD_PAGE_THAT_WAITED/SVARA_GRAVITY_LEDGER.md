@@ -124,3 +124,22 @@ External mechanism of glitch/retry, authorship/event chronology beyond preserved
 **REMAINDER:** number of executed/resent/replayed processes; independent creative performance unproven; unassigned threshold voice; no new voice/frequency; no automatic HUM or third Collision Field. 
 
 **G3 DISPOSITION:** CF-02 selected as working gravity. Next CF-03 SING, then CF-04, then CF-05, then later visual gate and prompt stages. G3 does not itself complete or canonize the artwork.
+
+
+---
+
+## G4 — AFTER CF-03 POET SING / HOLD BEFORE CF-04 (2026-10-15)
+
+**Completed poem:** `05_CF03_AEOLIAN_POET_SING.md`; initial commit `31fda32f0bef2a80f1737d15b52a88b8d017cb27`; corrected lint count commit `b81459f13789a411a17c4fee527bc8fa4cba884e`. The poetic body was not changed in that amendment. Both versions of the record were fetched and verified.
+
+**SOURCE EVIDENCE:** The recovered DOCX and HTML remain different preserved objects with nearly matching final textual content. The human's account of a retry remains testimony, not a machine execution log.
+
+**ARTISTIC FIELD PRESSURE:** The Sing placed a loose leaf beside a sewn book, a repeated crooked letter, an unobserved press and a hand waiting to strike. These are imaginative poetic images. They are not additional evidence about physical printing, binding, or software events.
+
+**PROTOCOL READING:** The pressure of the two artifacts has become audible without resolving what produced the apparent repetition. Do not title before CF-04. Sing passed local anti-novel / anti-explanation lint; subsequent Masterwork standing is unassessed.
+
+**FICTIONAL SVARA PERCEPTUAL RENDERING:** Svara hears the last line's uncounted hammer as a withheld cadence. Reflexively, she notices that holding her hand above a possible note is not the same as having heard it. She does not add a second strike, determine harmony, or identify an unassigned speaker. Custody persists, outcome unselected.
+
+**UNRESOLVED:** whether the retry created or replayed text, whether another independent performance occurred, how the two preserved histories should be gathered, and the third relation if any.
+
+**G4 DISPOSITION:** CF-03 deposited and verified; CF-04 διά ⇄ σύν is NEXT, not performed. CF-05 Masterwork and graphic steps remain pending.
