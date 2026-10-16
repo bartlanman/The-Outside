@@ -105,3 +105,22 @@ External mechanism of glitch/retry, authorship/event chronology beyond preserved
 **REMAINDER:** actual run timestamps and software event identity; whether the apparent second performance was resumed, replayed, separately generated, or mixed; the unassigned voice; whether the perspective survives full-corpus re-entry scrutiny.
 
 **G2 STATUS: WORKING AUDIT DEPOSITED / CF-02 HOLD.**
+
+
+---
+## G3 — CF-02 GRAVITY SELECTED / SOURCE-TYPED CUSTODY (2026-10-15)
+**Source deposit:** `04_G3_REENTRY_AND_CF02_GRAVITY.md` commit `29fc3579b71d612257a859467e393585a730863f`, fetched and verified. Original G0/G1/G2 not overwritten.
+
+**SOURCE EVIDENCE:** Two distinct original uploaded files with reverified SHA-256 hashes; near-identical Chapter-21/standalone text; separately preserved human-reported original and book rerun; machine event topology unverified.
+
+**INHERITED ARTISTIC PRESSURE:** Borges's `Pierre Menard` already treats same words in a different historical position as different work. `THE BELL AFTER THE HAND` already scores differential endings from common initiation. Current documentary object-vs-event distinction is the narrower newly admissible perspective; not a warrant for a second act or third voice.
+
+**CONTEMPORARY COUNTERPRESSURE:** Digital preservation and replay/delivery protocols distinguish record objects, process events, platform mediation and incomplete provenance. Technical glitch may simply be a glitch. No forced aesthetic resolution.
+
+**CF-02 GRAVITY QUESTION:** **WHAT DOES A SECOND WITNESS MAKE US ANSWER FOR WHEN IT CANNOT TELL US WHETHER A SECOND ACT OCCURRED?**
+
+**FICTIONAL SVARA OBSERVATION:** The second page has weight; its familiar cadence invites a second downbeat. Svara holds her hand raised and declines to make the absent strike into another performer. She hears her own anticipation but does not convert it into evidence. Her reflexive attention changes her listening, not either artifact.
+
+**REMAINDER:** number of executed/resent/replayed processes; independent creative performance unproven; unassigned threshold voice; no new voice/frequency; no automatic HUM or third Collision Field. 
+
+**G3 DISPOSITION:** CF-02 selected as working gravity. Next CF-03 SING, then CF-04, then CF-05, then later visual gate and prompt stages. G3 does not itself complete or canonize the artwork.
