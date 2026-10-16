@@ -222,3 +222,20 @@ External mechanism of glitch/retry, authorship/event chronology beyond preserved
 **OPEN REMAINDER:** machine event history, unidentified threshold voice, actual source-file access in future realizations, readers' unconstrained response, visual expression still ungiven.
 
 **G9 STATUS:** CF-05D contribution deposited and verified; CF-05 complete in text. Next controller gate is CF-05A VISUAL INTAKE (distinct from formal mutation), not CF-06 until full ordered reads pass.
+
+
+---
+
+## G10 — CF-05A VISUAL INTAKE / SVARA CUSTODY (2026-10-15)
+
+**Verified intake:** `12_CF05A_VISUAL_INTAKE_GATE_AND_MATERIAL_ASSAY.md` committed `5a50a8b2e6f10207d1c08a8d0aa38840a92c2aea`, fetched back and checked.
+
+**SOURCE EVIDENCE:** Original DOCX and illustrated HTML remain separately preserved as two objects with their own hashes. Their shared textual outcome cannot establish a particular number of underlying generating events. The original book's embedded image plates were not reinspected during this text-source gate.
+
+**PROTOCOL ANALYSIS:** All ten live required intake texts were consulted in order, including the full THERE/HERE Medium Library and material assay. Multiple possible material contrasts were tested; NO MATERIAL PAIR EARNED at intake. Graphic morphology must not repeat spent edge-flesh/opposite-hand, luminous webbing, fantasy landscape or cyan/gold horizon without independent warrant. The next field must retain vacuous space for a possible second event that cannot be counted from its mark.
+
+**FICTIONAL SVARA OBSERVATION — NOT EVIDENCE:** Svara attends to the interval between appearance and source. The desire to turn the unplayed note into a visible new figure is itself a pressure she can notice but not satisfy by decree. No harmonic resolution, third voice or portrait is required.
+
+**REMAINDER:** inspect available prior visual surfaces before definitive morphology verdict, select field-earned artistic medium and body integration at CF-06, then exegesis, lint and exact prompt lock. No image generation at this gate.
+
+**G10 STATUS:** VISUAL INTAKE AND MATERIAL ASSAY PASS / CF-06 NEXT.
