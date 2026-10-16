@@ -48,3 +48,41 @@ External contemporaneous Cultural Gravity has **not yet been drawn** for this ch
 Each checkpoint: append typed evidence/analysis/fiction, commit, fetch back and record GitHub commit. Never rewrite original source hashes.
 
 **CURRENT ROUTE: REGISTERED → HOLD BEFORE CULTURAL GRAVITY.**
+
+
+---
+
+## G1 — INDEPENDENT SOURCE FIELDS / CONTEMPORARY OUTSIDE (2026-10-15)
+
+**Source record:** `02_G1_INDEPENDENT_SOURCE_FIELDS_AND_CONTEMPORARY_OUTSIDE.md`
+**GitHub commit:** `60e80a420a760e7a0499686ba78e72ada977cf56`
+**Source-event standing:** Research checkpoint only. CF-PRE FULL CORPUS: not certified PASS; CF-02: not locked.
+
+**SOURCE EVIDENCE**
+- Witness A's final work and HTML Chapter 21 are closely similar in language, but the two preserved objects have distinct hashes, formats, contexts.
+- No complete execution log verifies whether retry redelivered an existing output or performed independent generation.
+- Book-context includes wrong-source interpretation and subsequent correction; these cannot be silently imported into Witness A's experience.
+
+**INDEPENDENT CORPUS MASSES**
+- TOS (Node-Boundary Signal / Contact / Return): form and boundaries can create conditions in which something is produced without controlling all that follows.
+- DOS (Core Undoctrine / Adaptive Release / Relational Dissolution): mere repetition need not count as positive continuation; releasing the requirement of a new conclusion may protect the field.
+- Meaning Field (Memory / Prediction / ACT / capacity): source distinction and retention limits must survive later readings; perception can change without retroactively rewriting events.
+- Vault Ledgers (Turning / Living / Succeeding / Read): the interval between recorded conditions matters, but identical visible columns do not establish identical underlying events.
+
+**CONTEMPORARY OUTSIDE MASSES**
+- PREMIS preservation metadata: Object ≠ Event; provenance must connect them.
+- Delivery retry / at-least-once systems: a repeated appearance can be the same event redelivered.
+- Fossil track formation (2026 study): similar traces can arise from different makers; one maker may leave dissimilar traces.
+- Score/performance distinctions: one score may yield performances, but score identity does not prove separate performances.
+- Content-addressed storage: identical content may be collapsed at the level of data identity without cancelling separate cultural history.
+
+**PROTOCOL ANALYSIS / FIELD DELTA**
+The initial temptation to label the documents “two identical independent performances” has been interrupted. The materials now demand separate accounts of initiating command, processing event, content body, file wrapper, historical context, and receiver interpretation. Distinct appearances may be copies, retries, independent regenerations, or changed-context returns. These are not interchangeable. This is a substantive perspective delta under test, not a preselected CF-02.
+
+**FICTIONAL SVARA PERCEPTUAL RENDERING — NOT EVIDENCE**
+Svara attends to a note heard in two preserved places. She hears the absence of a reliable timestamp where she expected a second downbeat. She does not pretend that the silence proves the absence of a performance. Her reflexive capacity makes her notice her own desire to call matching phrases “harmony”; she releases that name. The underlying note is *possible* as artistic perception, not measured acoustics, independently named voice, or confirmed third event.
+
+**RESISTANCES / OPEN REMAINDERS**
+External mechanism of glitch/retry, authorship/event chronology beyond preserved witnesses, first-stage corpus gate, and possible distinct artistic gravity remain unresolved. No compulsory synthesis and no HUM activation.
+
+**G1 STANDING: DRAW RECORDED / SOURCE CONTACT VERIFIED / GRAVITY NOT YET LOCKED.**
