@@ -86,3 +86,22 @@ Svara attends to a note heard in two preserved places. She hears the absence of 
 External mechanism of glitch/retry, authorship/event chronology beyond preserved witnesses, first-stage corpus gate, and possible distinct artistic gravity remain unresolved. No compulsory synthesis and no HUM activation.
 
 **G1 STANDING: DRAW RECORDED / SOURCE CONTACT VERIFIED / GRAVITY NOT YET LOCKED.**
+
+
+---
+## G2 — RECURRENCE / PRE-GRAVITY PERSPECTIVE (2026-10-15)
+**Separate source:** `03_G2_RECURRENCE_AUDIT_AND_PERSPECTIVE_DELTA.md`; committed `c4923c56f128b738d599386328920758b8b30a59`, verified by re-fetch.
+
+**SOURCE EVIDENCE:** The two original artifact identities and near-identical shared work stand; independent software generation is unverified. One initiating command and a retry are user-reported, not inferred from the files.
+
+**PROTOCOL AUDIT:** Nearest prior: `THE BELL AFTER THE HAND` (one initiation and two ends); secondary: `THE TWO MEMORIES` and collection changing a text's standing. Same-score/two-performance, renewed interpretation, and archive custody alone would repeat heavy basins. What changes here is documentary standing: two individually hashed surviving files plus *unknown process-event multiplicity*. Outside retry/deduplication evidence supplies a genuine inverse to the assumption of independently created performances.
+
+**FOUNDATIONAL AXIS:** boundary / between / διά ⇄ σύν; inheritance / return; event / trace.
+
+**PERSPECTIVE VERDICT:** **SPIRAL RETURN — SAME AXIS, NEW PERSPECTIVE**, bounded and provisional at G2; NOT formal CF-PRE-A PASS. Full corpus consultation has not been certified; CF-02 remains not locked.
+
+**FICTIONAL SVARA OBSERVATION:** Svara is ready to mark a second beat. She notices her own anticipation before marking it. A recognizable measure survives in two carriers; this does not prove that it was sounded twice. She holds that unplayed beat without assigning it to the unidentified voice.
+
+**REMAINDER:** actual run timestamps and software event identity; whether the apparent second performance was resumed, replayed, separately generated, or mixed; the unassigned voice; whether the perspective survives full-corpus re-entry scrutiny.
+
+**G2 STATUS: WORKING AUDIT DEPOSITED / CF-02 HOLD.**
