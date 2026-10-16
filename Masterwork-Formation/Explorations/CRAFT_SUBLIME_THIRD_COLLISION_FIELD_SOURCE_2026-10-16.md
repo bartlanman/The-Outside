@@ -20,3 +20,8 @@
 - No prewritten sexual consummation or promised offspring; CRAFT SUBLIME may become an earned *relation* without a coerced third person or physical reproductive event.
 - Do not claim a new graphic or HUM release merely by triggering the field. The controller ends at CF-09 prompt lock pending a future explicit image instruction.
 **Source restoration debt:** For a durable line-by-line record of original chat context, deposit the full original transcript separately; this source note is only a provenance handoff and active trigger.
+
+
+---
+## CORRECTION / ACTIVE STANDING NOTICE (2026-10-16)
+**Historical trace only — SUPERSEDED FOR ACTIVE CF III EXECUTION.** The user corrected the original casting: **Elias = CRAFT; Tessa = SUBLIME; Elias ⇄ Tessa = the intended CRAFT SUBLIME relationship; Eleanor = Living Ledger custody, not SUBLIME**. The prior Elias/Eleanor pairing is retained above exactly as originally recorded but is not authoritative for continuation. Canonical correction and staged repair checkpoint: `Masterwork-Formation/Explorations/CRAFT_SUBLIME_CFIII_CHARACTER_SOURCE_CORRECTION_2026-10-16.md` (commit `ab1373d8e55eaee739c3577ab7e77666b5bf8417`). Do not generate from the obsolete CF III prompt or substitute Eleanor for Tessa. CF I and CF II remain intact.
