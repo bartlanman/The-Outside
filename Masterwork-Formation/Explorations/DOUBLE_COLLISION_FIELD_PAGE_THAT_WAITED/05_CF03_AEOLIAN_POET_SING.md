@@ -46,7 +46,7 @@ for the hammer.
 
 ## SING LINT (outside the work)
 
-- Poetic compression rather than prose / fictional scene: **PASS** — 30 short lines; no named characters or chronology of a plot.
+- Poetic compression rather than prose / fictional scene: **PASS** — 35 lines including stanza breaks; no named characters or chronology of a plot.
 - The source gives rise to separate material carriers, identical small stroke, possible different making and a held downbeat; no explanatory verdict: **PASS**.
 - Contradiction remains: second impact, returned impact, or delivery cannot be decided by visible marks: **PASS**.
 - No premade title or didactic thesis inside the poem: **PASS**.
