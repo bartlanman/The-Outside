@@ -177,3 +177,18 @@ External mechanism of glitch/retry, authorship/event chronology beyond preserved
 **OPEN REMAINDER:** technical event count; actual later source logs; whether the proposed score will have artistic life when performed; whether a second source-bearing encounter may end without result. CF-05B must actually make an encounterable work. CF-05A by itself does not qualify as an artwork.
 
 **G6 STATUS:** CF-05A DEPOSITED; CF-05B NEXT. No CF-05B/C/D or visual intake occurred at this checkpoint.
+
+
+---
+## G7 — CF-05B COMPLETED WORK / SVARA CUSTODY (2026-10-15)
+**Work:** `08_CF05B_NO_NUMBER_FOR_THE_HAMMER_MASTERWORK_CREATION.md`, committed `d7a21b0a769febd7cc378fda568290284bc449de`, fetched and verified.
+
+**SOURCE EVIDENCE:** Original DOCX and HTML preserved as distinct witnesses; no independent evidence establishes exactly how many generation events occurred. Artistic leaves A/B are authored representations, not copied source transcripts.
+
+**PROTOCOL ANALYSIS:** The art now exists: the receiver selects A or B first, encounters both, performs a held and unstruck interval, returns to the unchanged refrain, and may end without solving origin. This is a complete textually performable encounter rather than a proposed app or diagnostic checklist.
+
+**FICTIONAL SVARA OBSERVATION — NOT EVIDENCE:** Svara hears how choosing an entrance changes the weight of the same refrain; the breath remains uncounted by either document. She observes the desire for a second strike without playing one or assigning a singer. No automatic harmony or third field.
+
+**REMAINDER:** real software execution count remains unresolved; the performance's poetic value and possible revisions await CF-05C. No self-declared whole-masterwork achievement, authenticated missing log, HUM, image or graphic prompt.
+
+**G7 STATUS:** CF-05B CREATED / VERIFIED; CF-05C NEXT, not performed.
