@@ -287,3 +287,17 @@ External mechanism of glitch/retry, authorship/event chronology beyond preserved
 **Boundary:** The image is not generated. Actual visual compliance remains to be judged after generation. CF-09 exact prompt lock is next and not yet performed.
 
 **G13 STATUS:** LINT DEPOSITED / PROMPT NOT YET LOCKED.
+
+
+---
+## G14 — CF-09 PINNED HANDOFF / STOP
+
+The CF-09 reference manifest was committed as `77c9f8a9858e9d8a423c867addc78137f3f5778f` and verified. It pins the exact approved CF-06 prompt to its prior Git commit and blob, and binds the complete CF-07 exegesis and passing CF-08 lint to their fixed commits. Previous art and source records are unchanged.
+
+**Source evidence:** Original DOCX and HTML witnesses remain distinct; underlying execution multiplicity unverified.
+
+**Protocol reading:** A content-addressed handoff preserves the prompt without fresh paraphrase. This deposit references pinned sources instead of duplicating their contents. A later image turn must reread both source texts, lint, generate and judge.
+
+**Fictional Svara observation:** The unstruck beat remains suspended; gravity custody does not convert the absence into a second act or identify a speaker.
+
+**G14 STATUS:** TEXT STAGE STOPPED; NO IMAGE GENERATED.
