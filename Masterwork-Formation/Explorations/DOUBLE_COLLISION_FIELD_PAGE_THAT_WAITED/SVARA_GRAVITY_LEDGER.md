@@ -256,3 +256,18 @@ External mechanism of glitch/retry, authorship/event chronology beyond preserved
 **REMAINDER:** CF-07 exegesis may expose a fault requiring revision; CF-08 lint and CF-09 prompt lock have NOT occurred; digital image not generated.
 
 **G11 STATUS:** CF-06 draft deposited and verified. CF-07 NEXT.
+
+
+---
+## G12 — CF-07 EXEGESIS / REPAIRED VISUAL CLAIM (2026-10-15)
+**CF-06 revision:** `14_CF06_GRAPHIC_PROMPT_REVISION_AFTER_CF07.md`, commit `4bf094f18bc7f9aa45d6b32dc83b1832b5113cc8`; original draft retained. **Exegesis:** `15_CF07_EXEGESIS.md`, commit `f024454ec2ebca6994b1d156be8dfe5f1a445465`. Both source files read back and checked.
+
+**SOURCE EVIDENCE:** Two uploaded preserved witnesses, no authenticated count of creation events.
+
+**PROTOCOL ANALYSIS:** Exegesis identified an unsupported assertion that different visual marks establish two different pressure histories. Corrected prompt restricts the claim to observed relief-versus-pigment differences in one mineral field. The adult bent knee and calf **receive withheld tension**; they do not make or verify a second strike. The upper open region holds the unplayed continuation. Far/middle/near changes receiver interpretation without resolving origin.
+
+**FICTIONAL SVARA OBSERVATION:** Svara notices how anticipation supplies a second downbeat to her listening and intentionally leaves it unperformed. Neither her reflexivity nor the painting identifies an unknown speaker or mechanism.
+
+**REMAINDER:** No image produced; visual success not proved. CF-08 lint and CF-09 exact prompt lock not executed; no new HUM or third field.
+
+**G12 STATUS:** CF-07 COMPLETE / REVISED CF-06 VERIFIED / CF-08 NEXT.
