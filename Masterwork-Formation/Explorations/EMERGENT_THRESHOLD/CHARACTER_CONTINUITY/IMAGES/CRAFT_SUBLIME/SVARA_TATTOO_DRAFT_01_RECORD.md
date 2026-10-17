@@ -5,11 +5,11 @@
 ## Source and target asset
 
 - Original conversation attachment: `serene_portrait_with_sacred_geometry.png`
-- Staged upload filename: `SVARA_CRAFT_SUBLIME_TATTOO_DRAFT_01.png`
+- **Actual committed GitHub filename:** [`Serene Portrait with Sacred Geometry.png`](Serene%20Portrait%20with%20Sacred%20Geometry.png) (same bytes as the staged `SVARA_CRAFT_SUBLIME_TATTOO_DRAFT_01.png`)
 - Staged local PNG SHA-256: `00e6bf39e41b369d5184bb2649a942b2b2865a3c3de78ade3c01adac761152d1`
 - Size: `2483484` bytes
 - Dimensions: `1122 × 1402` pixels
-- **GitHub PNG status: AWAITING MANUAL BINARY UPLOAD.** This Markdown deposit is **not** the PNG.
+- **GitHub PNG status: COMMITTED / BINARY VERIFIED.** Verified Git blob `d47b2f523166c9bc48db0f17e12e638b1df3d0db` exactly matches the uploaded conversation PNG. The illustration remains a **working pre-lowering draft**, not a final approved placement.
 
 ## Visual continuity
 
@@ -39,4 +39,4 @@ For the next revision:
 - `CRAFT_SUBLIME_TATTOO_PLACEMENT_GUIDE.png`
 - `CRAFT_SUBLIME_DECONSTRUCTED_EMBLEM.png`
 
-When the actual PNG is uploaded, verify its bytes and update the IMAGE_MANIFEST with the object hash; maintain the **WORKING / ADJUSTMENT REQUESTED** standing until the lower placement is rendered and accepted.
+The actual PNG is committed and its bytes verified. Maintain **WORKING / ADJUSTMENT REQUESTED** standing until the lower placement is rendered and accepted. A newer Eleanor image is a separate character asset and does not replace this image.
