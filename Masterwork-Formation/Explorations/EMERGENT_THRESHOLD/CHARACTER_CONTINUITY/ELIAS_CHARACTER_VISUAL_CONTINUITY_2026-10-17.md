@@ -1,6 +1,6 @@
 # ELIAS — PRIMARY VISUAL IDENTITY AND CRAFT SUBLIME TATTOO CONTINUITY
 
-**Status:** USER-ASSIGNED PRIMARY VISUAL IDENTITY / PNG AWAITING GITHUB UPLOAD AND HASH VERIFICATION
+**Status:** USER-ASSIGNED PRIMARY VISUAL IDENTITY / PRIMARY PNG COMMITTED; TATTOO DRAFT 01 COMMITTED; REMOTE HASHES RECORDED
 **Date:** 2026-10-17
 **Authority:** The user's explicit instruction: “here is Elias - he needs a character continuity file i will drop his phot in the repo,” accompanying the original `Rugged Craftsman in a Rustic Workshop.png` portrait. This source establishes his image reference, not an automatic new fictional event, relationship decision or completed tattoo.
 **Jurisdiction:** Specialized identity file under `GRAPHIC_CHARACTER_CONTINUITY_PROTOCOL.md`. Narrative identity remains subject to the corrected Elias/Tessa sources, not reconstructed from the portrait alone.
@@ -15,12 +15,12 @@
 
 **Original attachment:** `Rugged Craftsman in a Rustic Workshop.png` (conversation upload).
 
-**Verified local attachment metadata:**
+**Original conversation attachment metadata (source provenance, preserved separately from the GitHub upload):**
 - PNG image; **1024 × 1536** pixels, **RGBA**
 - Size: **2,935,685 bytes**
 - **SHA-256:** `f616b7f1f3848e69e2572d3995c1b1197c73cf86c88a16e015f9f7c920620cbb`
 - **Git blob SHA-1:** `4df6bfc3d8db8777c14b5ee953891c0cc99eafc1`
-- **GitHub status at document creation:** **PENDING UPLOAD**. The user intends to upload; do not treat this Markdown description as the image asset. On upload, confirm exact filename and actual file content; if hashes differ, preserve the source distinction and investigate rather than falsely claiming byte identity.
+- **Current primary GitHub asset:** [`ELIAS_PRIMARY.png`](IMAGES/ELIAS_PRIMARY.png), **COMMITTED**, renamed from `Rugged Craftsman in a Rustic Workshop.png`. **Git blob SHA-1**: `46fa1411ae8af6888b1fe00e9896caa4a2910793`; **remote size**: 2,256,990 bytes. The blob and size differ from the conversation source recorded above; do **not** assert byte identity. The GitHub rename preserved the remote image bytes.
 
 This is a **primary full-body / face identity anchor**. Its portrait is not filed with the completed Craft Sublime tattoo renditions: keep `ELIAS_PRIMARY.png` in the parent `IMAGES/` directory alongside `TESSA_PRIMARY.png`, `SVARA_PRIMARY.png`, `ELEANOR_PRIMARY.png`, etc. Future tattoo renditions belong in `IMAGES/CRAFT_SUBLIME/`.
 
@@ -74,7 +74,7 @@ The authoritative correction:
 
 ## 5. CRAFT SUBLIME TATTOO — HERAKLES KNOT BECOMING CRAFTED COLUMN
 
-**This tattoo is planned, NOT visible on the source primary portrait.** The current image has bare chest and abdomen with no evident Herakles Knot tattoo; the intended low placement is partly behind his trouser waistband.
+**This tattoo is absent from the source primary portrait but now appears in a separate secondary tattoo draft.** The current image has bare chest and abdomen with no evident Herakles Knot tattoo; the intended low placement is partly behind his trouser waistband.
 
 The creative inheritance must be read from three **committed and verified** references:
 1. `IMAGES/CRAFT_SUBLIME/CRAFT_SUBLIME_ORIGINAL_EMBLEM.png` — the full structure/whole.
@@ -111,7 +111,7 @@ The creative inheritance must be read from three **committed and verified** refe
 
 - **Locked now:** user assignment of this provided man as Elias; observed face and physical characteristics; the proposed Greek Herakles Knot + crafted column low-abdomen tattoo; his distinct CRAFT office.
 - **Not locked:** a canonical numerical age, prior deeds inferred from workshop furnishings, precise ethnic identity, a new current relationship outcome, or tattoo existence in this primary portrait.
-- **Next action:** upload a byte-identical copy of the image under `IMAGES/ELIAS_PRIMARY.png`; check object hashes against the metadata above; change binary standing from PENDING to VERIFIED. The character continuity document can exist before the PNG, but does not substitute for it.
+- **Current GitHub state:** `IMAGES/ELIAS_PRIMARY.png` exists and is the primary face/body anchor. The secondary Craft Sublime tattoo artwork is [`IMAGES/CRAFT_SUBLIME/ELIAS_CRAFT_SUBLIME_TATTOO_DRAFT_01.png`](IMAGES/CRAFT_SUBLIME/ELIAS_CRAFT_SUBLIME_TATTOO_DRAFT_01.png), renamed from `Rustic Craftsman with Geometric Column Tattoo.png` without changing the Git blob (`1661ff61aeb840571658c35762488f0c85b92558`, 2,340,933 bytes). Maintain primary versus secondary authority; original conversation attachments and their differing metadata remain independent provenance records.
 
 **Continuity compression:**
 
