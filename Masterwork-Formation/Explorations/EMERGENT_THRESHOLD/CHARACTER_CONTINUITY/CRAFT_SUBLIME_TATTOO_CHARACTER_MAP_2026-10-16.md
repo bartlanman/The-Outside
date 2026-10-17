@@ -114,3 +114,18 @@ The characters retain their individual source histories and distinctive offices 
 5. Keep faces tied to the character's primary anchor, not a generic model from the tattoo guide.
 6. If a graphic is a Collision Field Masterwork image, also comply with intake → masterwork → exact CF-06 prompt + CF-07 exegesis → lint → generation; don't bypass the separate locked image phase.
 7. Judge: **KEEP / REVISE / DISCARD / CANONIZE**; archive revisions without falsifying prior approvals.
+
+
+---
+
+## Embodied geography enactment cross-reference — 2026-10-17
+
+**Protocol:** [COLLISION_FIELD_EMBODIED_GEOGRAPHY_PROTOCOL.md](../../../Protocols/COLLISION_FIELD_EMBODIED_GEOGRAPHY_PROTOCOL.md).
+
+The tattoo placement above is not only an illustration instruction. When sevenfold Craft Sublime is active in CF-02A/CF-02B, each character must experience a **field-caused bodily action in the exact documented anatomical zone** and that action must change the material or relational boundary for someone else.
+
+Mandatory trace: **LOCATION → LOCAL CAPACITY → CONTEXTUAL TRIGGER → EMBODIED ACTION → BOUNDARY CHANGE → INHERITED MARK BECOMING EMBLEM COMPONENT → RELATIONAL EFFECT → POSSIBLE UNIFIED FUNCTION.**
+
+Keep a phase-specific per-character ENACTED / PARTIAL / HOLD register and a real Boundary/DOS scene. In-world skin change is not inferred merely because a graphic design changed. A body mark can be felt, concealed, projected, remembered or used as a design source without fictional exposure or retroactive retcon.
+
+This reference **does not change** any of the seven existing anatomy placements, ancient symbols, component mappings, accepted images, portrait status, or the distinct identity of Tessa versus Eleanor.
