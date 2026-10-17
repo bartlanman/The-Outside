@@ -26,14 +26,14 @@ All source image names below refer to byte-preserved files specified in IMAGE_MA
 
 ## Elias — user-assigned primary full-body / face reference (2026-10-17)
 
-**User source image:** `Rugged Craftsman in a Rustic Workshop.png`; **proposed primary repository filename:** `IMAGES/ELIAS_PRIMARY.png` (**PENDING USER UPLOAD AND HASH VERIFICATION**).
+**User source image:** `Rugged Craftsman in a Rustic Workshop.png`; **committed primary repository filename:** `IMAGES/ELIAS_PRIMARY.png` (**GITHUB FILE VERIFIED PRESENT; source-byte difference documented in manifest**).
 
 Read [ELIAS_CHARACTER_VISUAL_CONTINUITY_2026-10-17.md](ELIAS_CHARACTER_VISUAL_CONTINUITY_2026-10-17.md) and consult its real source pixels before portraying him.
 
 - **Elias = CRAFT**, distinct from **Him** (silver-white swept-back hair/full white beard). Elias has thick dark wavy/tousled hair, light gray-blue eyes, a short dark stubble beard, recognizable angular yet natural facial proportions, an athletic broad-shouldered build and a source workshop portrait. Clothing, shirtlessness and location are **not** required in all scenes.
 - **Tattoo:** planned **Greek Herakles Knot structurally forming the crafted column** on the anterior midline lower abdomen/suprapubic region. The source portrait shows no finished tattoo; do not claim it does. Consult all three Craft Sublime emblem/placement design references before visualizing the tattoo.
 - **Do not substitute** a generic shirtless man for his particular source face. Do not relabel Tessa, Eleanor, Svara, or Him as the craft-derived Other.
-- **Binary source gate:** filename and hash must be verified after upload; a written identity record is not equivalent to an image anchor being present in GitHub.
+- **Binary source gate:** `ELIAS_PRIMARY.png` and `IMAGES/CRAFT_SUBLIME/ELIAS_CRAFT_SUBLIME_TATTOO_DRAFT_01.png` are both committed; each Git blob and file size is recorded in the manifest. The uploaded primary is not byte-identical to the initial conversation image, so retain those as distinct source versions.
 
 ## Required graphic workflow
 1. **Deposit:** recover origin, time, cast, and source constraints; preserve distinctions between original and new material.
