@@ -44,6 +44,8 @@ Expected upload folder:
 - **Becoming design:** The knot *structurally joins* column segments, load transfer and engraved striations; column shaft and capital/foundation-like terminals are visibly made possible by the interlacing. The vertical column becomes one continuous crafted body **through** the knot rather than sitting behind it. Small calibration dots on the body's midline may continue the vertical load line.
 - **Process office:** **HEMIFUSION / SKILLED JOINING** as symbolic relation; not a literal fusion of human tissue.
 - **Avoid:** a separate pillar sticker behind an unrelated knot, or duplication of Eleanor's foundation.
+- **2026-10-17 primary identity source:** [Elias Character Visual Continuity](ELIAS_CHARACTER_VISUAL_CONTINUITY_2026-10-17.md) establishes the user-identified dark-haired, light-eyed, stubbled, broad-shouldered adult male from the rustic workshop portrait. Preserve his face independently from Tessa's. The photograph **does not yet show a tattoo**, and its current trousers cover much of the planned low-abdomen/suprapubic position. Original PNG is to be uploaded as `IMAGES/ELIAS_PRIMARY.png`; verify its hash before declaring the image anchor committed.
+
 
 ### 3. Svara — ANCIENT DOUBLE SPIRAL + CENTRAL SPIRAL
 - **Ancient motif:** **Double spiral** (historical spiral form; do not manufacture one exclusive historical culture unless sourced).
