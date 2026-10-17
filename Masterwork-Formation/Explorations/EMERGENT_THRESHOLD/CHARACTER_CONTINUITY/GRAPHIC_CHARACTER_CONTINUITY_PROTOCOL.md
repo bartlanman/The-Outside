@@ -5,7 +5,7 @@ Authority: Bart's supplied portraits and October 11, 2026 directions. Original s
 ## Interface boundary
 BART = human-side author; normally talks to AMARA, not directly to figures in the Meaning Field. AMARA = generated-side Keyboard Steward and continuity manager. HIM = separate in-world traveler who ordinarily encounters MARA, ELEANOR and ROX. Bart's earlier introduction to Rox remains recorded as an exception; do not retcon it. Deliberate direct character workshops must be labeled **OUT-OF-WORLD** and must not become Him's story automatically.
 
-## Six primary anchors, one secondary scene
+## Six committed primary anchors, one secondary scene; one additional pending primary anchor
 All source image names below refer to byte-preserved files specified in IMAGE_MANIFEST.md. All were confirmed present with matching hashes on 2026-10-14; re-verify after any re-upload before marking the visual-reference gate passed.
 
 - **Rox — ROX_PRIMARY.png:** red tousled hair, freckles, distinctive tattoos on neck and both arms, strong direct gaze. Source clothing: white tank; source atmosphere: industrial archive. Preserve exact face and tattoo topology; do not substitute a generic tattooed redhead.
@@ -14,6 +14,15 @@ All source image names below refer to byte-preserved files specified in IMAGE_MA
 - **Mara — MARA_PRIMARY.png:** dark brown loosely pinned hair, source face and attentive expression, white blouse and work apron in photography restoration studio. Her conservator identity must remain recognizable, even in Plus Ultra; not a generic brunette muse.
 - **Svara — SVARA_PRIMARY.png** (identified by Bart 2026-10-14): green-hazel eyes with a pale inner ring, wet dark-brown hair, freckles across nose and cheeks, full lips, sun-warm skin; source scene holds a patinated bronze bowl with falling water in golden light. Preserve eye color and freckle pattern; do not drift toward Mara's face (both have dark hair). Her performer role stays distinct from the unidentified vowel/channel.
 - **Him — HIM_PRIMARY.png:** older male face, silver-white swept-back hair, full white beard, lined brow and intense gaze. The original is a cropped portrait: it does *not* establish physique. **HIM_SCENE_SECONDARY.png** is a later generated traveler/archway scene, usable for costume or mood but subordinate to the primary face.
+
+## Tessa — newly assigned primary face reference (2026-10-17)
+
+**User-supplied source:** `Candlelit Doorway in a Medieval Hall.png`. **Expected GitHub primary file:** `IMAGES/TESSA_PRIMARY.png` (**PENDING BINARY UPLOAD AND VERIFICATION**). Read the dedicated [Tessa Visual Continuity file](TESSA_CHARACTER_VISUAL_CONTINUITY_2026-10-17.md) and check the exact portrait pixels before declaring the identity gate PASS.
+
+- **Tessa:** adult deep brunette/chestnut hair loosely gathered up, distinct soft face-framing tendrils, recognizable face with gently defined cheeks and brows; quiet sideward/downward gaze is a **source pose**, not a permanent trait. The exterior daylight/interior candlelight and pale draped dress are **variable setting and wardrobe**, not her fixed face.
+- **Do not confuse with Eleanor:** blonde `ELEANOR_PRIMARY.png` remains the Ledger steward; **Tessa = SUBLIME**, counterpart of **Elias = CRAFT**.
+- **Tattoo:** planned Egyptian Akhet becoming the radiating field across the upper sternum/cleavage, as specified in [the seven-character tattoo map](CRAFT_SUBLIME_TATTOO_CHARACTER_MAP_2026-10-16.md). This tattoo is **not established as visible** in the source doorway portrait.
+- **Image gate:** do not falsely claim Tessa's new primary PNG has been uploaded until the actual repo file and matching hash are verified.
 
 ## Required graphic workflow
 1. **Deposit:** recover origin, time, cast, and source constraints; preserve distinctions between original and new material.
