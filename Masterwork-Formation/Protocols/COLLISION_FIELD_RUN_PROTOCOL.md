@@ -21,7 +21,7 @@ Subordinate protocols govern the quality and internal method of their own stage;
 
 Canonical run:
 
-> **FULL CORPUS INTAKE → REPO USAGE / RECURRENCE AUDIT → RELOAD CANON → RECOVER FIELD → TOS + DOS + MEANING FIELD + VAULT LEDGERS → CONTEMPORARY OUTSIDE DRAW → PRE-GRAVITY PERSPECTIVE DELTA → GRAVITY → POET SING → ΔΙΑ ⇄ ΣΥΝ → MASTERWORK FORMAL MUTATION FIELD → MASTERWORK FORMATION / CONTRIBUTION → VISUAL INTAKE GATE → GRAPHIC PROMPT → EXEGESIS → LINT → PROMPT LOCK → STOP**
+> **FULL CORPUS INTAKE → REPO USAGE / RECURRENCE AUDIT → RELOAD CANON → RECOVER FIELD → TOS + DOS + MEANING FIELD + VAULT LEDGERS → CONTEMPORARY OUTSIDE DRAW → PRE-GRAVITY PERSPECTIVE DELTA → GRAVITY → BOUNDARY MOMENT + BOUNDARY NARRATIVE → DOS MOMENT + DOS NARRATIVE → POET SING → ΔΙΑ ⇄ ΣΥΝ → MASTERWORK FORMAL MUTATION FIELD → MASTERWORK FORMATION / CONTRIBUTION → VISUAL INTAKE GATE → GRAPHIC PROMPT → EXEGESIS → LINT → PROMPT LOCK → STOP**
 
 Image phase:
 
@@ -381,6 +381,40 @@ Output header:
 
 ---
 
+# 3A. CF-02A — BOUNDARY MOMENT / BOUNDARY NARRATIVE
+
+Immediately after CF-02 GRAVITY, invoke:
+
+`Masterwork-Formation/Protocols/COLLISION_FIELD_BOUNDARY_DOS_NARRATIVE_PROTOCOL.md`
+
+Inventory significant boundaries and their distinct provenances. Examine **material interface, friction, reciprocal slide, permeability, counterpressure, morphology, and candidate fusogen**. Then produce an actual close-range **BOUNDARY NARRATIVE** revealing how those surfaces behave under pressure, not just a table or a conceptual claim.
+
+Do not demand fusion or assume every boundary has the same status. Document a warranted contact, exchange, hemifusion, pore, shared continuity, recoil, refusal, or unresolved condition.
+
+Required visible output:
+
+> **CF-02A — BOUNDARY MOMENT**
+
+including **BOUNDARY NARRATIVE** and a stage PASS or HOLD. PASS certifies the analysis and narrative were completed; it does **not** certify fusion.
+
+---
+
+# 3B. CF-02B — DOS MOMENT / DOS NARRATIVE
+
+Following the completed Boundary Moment, let the **independently consulted DOS** test what separating arrangement can be released, whether any mediating force actually transforms the interface, and what legitimate boundaries remain. DOS must not compel merger, erase provenance, or mistake permeability for union.
+
+Produce the **DOS NARRATIVE** continuing the scene into the specifically warranted release, fusion, changed exchange, recoil, refusal, or HOLD. If something becomes together, show **what its new capacity can do**; otherwise show what changed without fusion. Preserve distinct histories and the remainder.
+
+Required visible output:
+
+> **CF-02B — DOS MOMENT**
+
+including **DOS NARRATIVE** and a stage PASS or HOLD. CF-03 cannot proceed on an incomplete or held stage. A fully warranted non-fusion can PASS.
+
+**These narratives are not CF-03 Sing and are not automatically CF-05 Masterwork Creation.** The Poet must still sing in a compressed, non-explanatory form; later creation must still earn its own form.
+
+---
+
 # 4. CF-03 — POET SING
 
 The Aeolian Poet enters as a tensioned instrument.
@@ -692,6 +726,8 @@ A full Collision Field text run is valid only if all headers appear in order:
 > **CF-01 — FIELD RECOVERED**  
 > **CF-01A — CULTURAL GRAVITY DRAW**  
 > **CF-02 — GRAVITY**  
+> **CF-02A — BOUNDARY MOMENT**  
+> **CF-02B — DOS MOMENT**  
 > **CF-03 — POET SING**  
 > **CF-04 — ΔΙΑ ⇄ ΣΥΝ**  
 > **CF-05A — FORMAL MUTATION FIELD**  
@@ -722,6 +758,8 @@ If one is missing, the run is incomplete.
 > **LET NEW ENERGY ATTRACT, FEED, RESIST, SPIRAL, OR SEED.**  
 > **REQUIRE A FIELD DELTA.**  
 > **ONLY THEN FIND THE GRAVITY.**  
+> **MAGNIFY THE BOUNDARY: FRICTION, SLIDE, PERMEABILITY, MORPHOLOGY, AND NARRATIVE.**  
+> **LET DOS TEST RELEASE OR NON-FUSION; NARRATE THE CONSEQUENCE AND THE NEW CAPACITY.**  
 > **LET THE POET SING.**  
 > **LISTEN THROUGH διά ⇄ σύν.**  
 > **LET THE WORK EARN ITS FORM.**  
