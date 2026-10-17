@@ -1,6 +1,6 @@
 # CRAFT SUBLIME — SEVEN-CHARACTER TATTOO AND EMBLEM CONTINUITY MAP
 
-**Status:** USER-DIRECTED DESIGN LOCK / WORKING VISUAL CONTINUITY; references pending repository image upload.
+**Status:** USER-DIRECTED DESIGN LOCK / WORKING VISUAL CONTINUITY; three foundational Craft Sublime reference graphics committed and verified. Tessa primary portrait file pending its separate repository upload.
 **Date:** 2026-10-16
 **Location / authority:** Character visual continuity supplement, subordinate to `GRAPHIC_CHARACTER_CONTINUITY_PROTOCOL.md`. Preserves existing character identity/face anchors and earlier tattoo topology. It is not proof that an unrendered tattoo already appears on the original primary portraits.
 **Source:** User's three displayed design graphics and explicit mapping/placement corrections in the Craft Sublime conversation. Companion process deposit: `../../CRAFT_SUBLIME_SEVENFOLD_FUSION_SYMBOL_PROCESS_2026-10-16.md`.
@@ -15,7 +15,7 @@
 
 The full emblem's architectural reference is a central circular/spiral head with radiating field, finely inscribed rings and marks, a crafted vertical column rising from a distinct foundation; the diagonal crossing participates in the whole. The three references must be consulted together. Do not silently invent extra emblem parts.
 
-## Reference asset locations — filenames locked, image bytes NOT YET VERIFIED IN REPOSITORY
+## Reference asset locations — three original Craft Sublime graphics verified in repository
 
 Expected upload folder:
 `Masterwork-Formation/Explorations/EMERGENT_THRESHOLD/CHARACTER_CONTINUITY/IMAGES/CRAFT_SUBLIME/`
@@ -24,7 +24,7 @@ Expected upload folder:
 - `CRAFT_SUBLIME_TATTOO_PLACEMENT_GUIDE.png` — seven tattoo panels on bodies; placement and final-symbol pairing.
 - `CRAFT_SUBLIME_DECONSTRUCTED_EMBLEM.png` — each character's isolated component of the whole.
 
-**PENDING:** Upload files, verify names and image content, record checksums and update `IMAGE_MANIFEST.md`. A filename specification is not an actual image upload and does not satisfy the reference-loaded image-generation gate.
+**VERIFIED:** The three foundational reference PNGs are committed (see `IMAGE_MANIFEST.md`). Separate primary portraits remain governed by their individual file-presence and hash gates. Tessa's new portrait is described in `TESSA_CHARACTER_VISUAL_CONTINUITY_2026-10-17.md` and awaits upload as `IMAGES/TESSA_PRIMARY.png`.
 
 ## Placement and design — seven independently recognizable tattoos
 
@@ -35,6 +35,7 @@ Expected upload folder:
 - **Becoming design:** Keep Akhet's distinctly readable horizon structure as a central foundation of the emerging rays; the horizon generates (rather than merely sits inside) an asymmetrically alive radiating field. A subtle circle/horizon intersection aligns to the central cleavage and the axial dot sequence anchors the sternum. Fine filaments respond to natural chest curvature, without making the ancient sign disappear.
 - **Process office:** **APPOSITION / ENCOUNTER**; what arrives exceeds familiar measure. Proximity does not equal union.
 - **Avoid:** an unrelated sunburst pasted behind the Akhet; converting Tessa into Eleanor/Svara; generic glowing chest ornament.
+- **2026-10-17 primary image anchor:** [Tessa Character Visual Continuity](TESSA_CHARACTER_VISUAL_CONTINUITY_2026-10-17.md) describes the user-identified dark-brunette woman standing in the medieval-hall doorway. The face/hair reference is distinct from the tattoo-placement illustration. Source PNG to be uploaded as `IMAGES/TESSA_PRIMARY.png` and hash-verified before standalone repository image generation.
 
 ### 2. Elias — HERAKLES KNOT + CRAFTED COLUMN
 - **Ancient motif:** **Herakles Knot** (Greek, also known as Hercules knot), recognizable interlacing knot.
