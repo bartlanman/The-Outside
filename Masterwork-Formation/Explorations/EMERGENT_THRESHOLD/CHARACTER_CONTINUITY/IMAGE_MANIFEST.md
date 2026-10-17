@@ -63,14 +63,15 @@ Verification: each remote entry is a PNG file, its byte size matches the corresp
 - **Next step:** user uploads file to expected path; then verify hashes and mark **COMMITTED / VERIFIED**. Do not claim source pixels are remotely available until that step.
 
 
-## Elias — designated primary visual source / awaiting GitHub upload (2026-10-17)
+## Elias — primary portrait and Craft Sublime tattoo draft committed (2026-10-17)
 
 - **Source conversation attachment:** `Rugged Craftsman in a Rustic Workshop.png`, explicitly identified by the user as Elias.
 - **Expected repository filename:** `IMAGES/ELIAS_PRIMARY.png` in the parent `IMAGES/` directory, alongside the other primary character portraits, **not** in `IMAGES/CRAFT_SUBLIME/`.
 - **Source format and dimensions:** PNG RGBA, 1024 × 1536 pixels; **2,935,685** bytes.
 - **Original SHA-256:** `f616b7f1f3848e69e2572d3995c1b1197c73cf86c88a16e015f9f7c920620cbb`
 - **Original Git blob SHA-1:** `4df6bfc3d8db8777c14b5ee953891c0cc99eafc1`
-- **Status:** **USER-DESIGNATED PRIMARY / PENDING BINARY UPLOAD AND REMOTE VERIFICATION**. The local copy is available to download for the user; the GitHub PNG is not yet asserted to exist.
+- **Status:** **PRIMARY PNG COMMITTED / GITHUB OBJECT VERIFIED**. Uploaded as `Rugged Craftsman in a Rustic Workshop.png` and renamed *without rewriting bytes* to `ELIAS_PRIMARY.png`.
+- **Actual GitHub primary object:** Git blob SHA-1 `46fa1411ae8af6888b1fe00e9896caa4a2910793`, 2,256,990 bytes. **This is not byte-identical to the conversation attachment** (source metadata above); preserve both source versions and do not claim SHA-256 equivalence.
 - **Character identity source:** [ELIAS_CHARACTER_VISUAL_CONTINUITY_2026-10-17.md](ELIAS_CHARACTER_VISUAL_CONTINUITY_2026-10-17.md). Thick tousled dark brown hair, light gray-blue eyes, short facial stubble, muscular craft-worker build and individually recognizable face.
 - **Tattoo rule:** Greek **Herakles Knot** builds the **crafted column** on midline anterior lower abdomen / suprapubic region. Tattoo is **planned**, not visible in the primary portrait. Elias remains **CRAFT**, Tessa remains **SUBLIME**.
-- **After upload:** inspect file's presence, match its Git blob hash or SHA-256 to source; then amend this entry to **COMMITTED / VERIFIED**, retaining any differences as explicit provenance.
+- **Tattoo draft:** [`IMAGES/CRAFT_SUBLIME/ELIAS_CRAFT_SUBLIME_TATTOO_DRAFT_01.png`](IMAGES/CRAFT_SUBLIME/ELIAS_CRAFT_SUBLIME_TATTOO_DRAFT_01.png), uploaded as `Rustic Craftsman with Geometric Column Tattoo.png`, renamed with the same blob SHA-1 `1661ff61aeb840571658c35762488f0c85b92558` (2,340,933 bytes). **COMMITTED / VERIFIED GITHUB OBJECT; secondary illustration**, not an identity override. No claim of byte equivalence to the generated-chat local file unless independently checked.
