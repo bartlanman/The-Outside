@@ -389,6 +389,8 @@ Immediately after CF-02 GRAVITY, invoke:
 
 Inventory significant boundaries and their distinct provenances. Examine **material interface, friction, reciprocal slide, permeability, counterpressure, morphology, and candidate fusogen**. Then produce an actual close-range **BOUNDARY NARRATIVE** revealing how those surfaces behave under pressure, not just a table or a conceptual claim.
 
+**Sevenfold CRAFT SUBLIME special-case gate:** If the active source uses the seven ancient/inherited character tattoos and corresponding emblem components, also load `Masterwork-Formation/Protocols/COLLISION_FIELD_EMBODIED_GEOGRAPHY_PROTOCOL.md` before completing CF-02A or CF-02B. The cast-specific protocol requires a phase-by-phase cell-boundary analogy, character tattoo placement → anatomically plausible embodied action → boundary consequence → ancient THERE mark becoming an individual HERE emblem component, an enactment register, and the new capacity's first consequential story act (or a warranted non-fusion). This does **not** require a sevenfold tattoo cast in other Collision Fields, dictate fusion as an outcome, or insert a new top-level CF stage.
+
 Do not demand fusion or assume every boundary has the same status. Document a warranted contact, exchange, hemifusion, pore, shared continuity, recoil, refusal, or unresolved condition.
 
 Required visible output:
