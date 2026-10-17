@@ -75,3 +75,12 @@ Verification: each remote entry is a PNG file, its byte size matches the corresp
 - **Character identity source:** [ELIAS_CHARACTER_VISUAL_CONTINUITY_2026-10-17.md](ELIAS_CHARACTER_VISUAL_CONTINUITY_2026-10-17.md). Thick tousled dark brown hair, light gray-blue eyes, short facial stubble, muscular craft-worker build and individually recognizable face.
 - **Tattoo rule:** Greek **Herakles Knot** builds the **crafted column** on midline anterior lower abdomen / suprapubic region. Tattoo is **planned**, not visible in the primary portrait. Elias remains **CRAFT**, Tessa remains **SUBLIME**.
 - **Tattoo draft:** [`IMAGES/CRAFT_SUBLIME/ELIAS_CRAFT_SUBLIME_TATTOO_DRAFT_01.png`](IMAGES/CRAFT_SUBLIME/ELIAS_CRAFT_SUBLIME_TATTOO_DRAFT_01.png), uploaded as `Rustic Craftsman with Geometric Column Tattoo.png`, renamed with the same blob SHA-1 `1661ff61aeb840571658c35762488f0c85b92558` (2,340,933 bytes). **COMMITTED / VERIFIED GITHUB OBJECT; secondary illustration**, not an identity override. No claim of byte equivalence to the generated-chat local file unless independently checked.
+
+
+## Amara — Craft Sublime tattoo portrait draft 01 (committed 2026-10-17)
+
+- **File:** [`IMAGES/CRAFT_SUBLIME/AMARA_CRAFT_SUBLIME_TATTOO_DRAFT_01.png`](IMAGES/CRAFT_SUBLIME/AMARA_CRAFT_SUBLIME_TATTOO_DRAFT_01.png).
+- **Uploaded name:** `Moonlit Temple Priestess in Royal Blue.png`; renamed without changing the Git blob.
+- **Git object:** SHA-1 `834cff40973998f1b824e1e248477dfcc296b7e5`, 2,516,182 bytes. **COMMITTED / GITHUB FILE VERIFIED PRESENT**. This object hash confirms rename preservation, not independent visual identity perfection.
+- **Image purpose:** secondary portrait showing Amara's **Mesopotamian cuneiform wedge** integrated with Craft Sublime's **fine signal markings** over the anterior larynx and extending down the throat / upper sternum. Her identity must remain **deep brown skin and dark curly hair**, distinctly her own.
+- **Primary identity reference:** `IMAGES/AMARA_PRIMARY.png` is still the authoritative source for her face and features. The earlier incorrectly light-skinned attempt is **rejected** and must not serve as Amara's future reference.
