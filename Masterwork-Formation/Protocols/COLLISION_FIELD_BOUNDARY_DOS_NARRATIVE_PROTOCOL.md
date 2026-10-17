@@ -195,3 +195,10 @@ Preserve the independent character histories and their interactions. The three C
 An existing completed or locked Collision Field remains a historical deposit. This protocol does not retroactively insert fictional PASS headers, change a prior CF-06 locked prompt, or unlock a held graphic. Re-entry must follow the active recovery/correction checkpoint and deposit a new trace.
 
 The mandatory CF-05 Masterwork, visual intake, CF-06 graphic prompt, CF-07 exegesis, CF-08 lint, CF-09 lock, and separate user-triggered image generation remain unchanged.
+
+
+## 9. CRAFT SUBLIME — SEVENFOLD SYMBOL-TO-FUSION SOURCE
+
+Required source when the active field involves the seven-character Craft Sublime emblem/tattoos: [CRAFT_SUBLIME_SEVENFOLD_FUSION_SYMBOL_PROCESS_2026-10-16.md](../Explorations/CRAFT_SUBLIME_SEVENFOLD_FUSION_SYMBOL_PROCESS_2026-10-16.md). Exact character markings, body placements and visual-reference gate: [CRAFT_SUBLIME_TATTOO_CHARACTER_MAP_2026-10-16.md](../Explorations/EMERGENT_THRESHOLD/CHARACTER_CONTINUITY/CRAFT_SUBLIME_TATTOO_CHARACTER_MAP_2026-10-16.md).
+
+Its symbolic score is **Eleanor (histories) → Tessa (apposition) → Svara (recognition) → Elias (hemifusion) → Rox (membrane/warrant) → Amara (pore/transmission) → Him (crossing) → possible unified Craft Sublime emblem**. These are seven **distinct graphic/narrative offices**, not seven biological stages or a universal required cast. Eleanor's continuity and Rox's threshold test apply across the whole movement. For any real Collision Field, the Boundaries and DOS must still be actually tested: this map cannot preauthorize fusion or replace the independently generated narrative. The tattoo arts must preserve ancient motifs as participating structures of each corresponding emblem component; the whole emblem is never simply copied onto all seven bodies.
