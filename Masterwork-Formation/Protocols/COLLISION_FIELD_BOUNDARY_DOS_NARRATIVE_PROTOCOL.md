@@ -202,3 +202,23 @@ The mandatory CF-05 Masterwork, visual intake, CF-06 graphic prompt, CF-07 exege
 Required source when the active field involves the seven-character Craft Sublime emblem/tattoos: [CRAFT_SUBLIME_SEVENFOLD_FUSION_SYMBOL_PROCESS_2026-10-16.md](../Explorations/CRAFT_SUBLIME_SEVENFOLD_FUSION_SYMBOL_PROCESS_2026-10-16.md). Exact character markings, body placements and visual-reference gate: [CRAFT_SUBLIME_TATTOO_CHARACTER_MAP_2026-10-16.md](../Explorations/EMERGENT_THRESHOLD/CHARACTER_CONTINUITY/CRAFT_SUBLIME_TATTOO_CHARACTER_MAP_2026-10-16.md).
 
 Its symbolic score is **Eleanor (histories) → Tessa (apposition) → Svara (recognition) → Elias (hemifusion) → Rox (membrane/warrant) → Amara (pore/transmission) → Him (crossing) → possible unified Craft Sublime emblem**. These are seven **distinct graphic/narrative offices**, not seven biological stages or a universal required cast. Eleanor's continuity and Rox's threshold test apply across the whole movement. For any real Collision Field, the Boundaries and DOS must still be actually tested: this map cannot preauthorize fusion or replace the independently generated narrative. The tattoo arts must preserve ancient motifs as participating structures of each corresponding emblem component; the whole emblem is never simply copied onto all seven bodies.
+
+
+---
+
+## 10. CRAFT SUBLIME — REQUIRED EMBODIED GEOGRAPHY / TATTOO ENACTMENT
+
+When the active field invokes the seven-character CRAFT SUBLIME symbol architecture, **also execute** [COLLISION_FIELD_EMBODIED_GEOGRAPHY_PROTOCOL.md](COLLISION_FIELD_EMBODIED_GEOGRAPHY_PROTOCOL.md) as a mandatory subordinate enactment during **both CF-02A and CF-02B**.
+
+The original Boundary/DOS narrative requirement remains in force. This specialized rule adds:
+- a **phase-by-phase cellular-fusion analogy and observed interface status**, from distinct membranes through apposition, adhesion, hemifusion, threshold test, pore, possible shared interior and possible complete fusion;
+- **each participating character's actual anatomical tattoo location**, local bodily capacity and field-specific trigger;
+- **visible character agency and friction / sliding contact / reciprocity** that changes what another character can do or experience;
+- the ancient/inherited **THERE mark becoming its own assigned HERE component** of the deconstructed Craft Sublime emblem, **not** two adjacent decorative images;
+- a **character-by-character enactment register**, including the actual boundary state and ENACTED / PARTIAL / HOLD;
+- a **DOS continuation narrative** proving or refusing the changed boundary and a first consequential act of the newly possible togetherness;
+- the preservation of historical identities, consent, original motif morphology, original graphic source assets, and incomplete/not-yet-warranted stages.
+
+**Execution test:** A symbolic list alone cannot pass. If the sevenfold mapping is active, CF-02A and CF-02B must each produce actual **story events** caused by the specific bodily geography, as well as the documentation register. The user-approved primary pairing remains **Elias = CRAFT; Tessa = SUBLIME**. Eleanor retains her independent **Living Ledger** office. The seven characters form a narrative/graphic score, not seven literal biochemical steps or a compulsory biological union.
+
+This additional protocol does **not** add new top-level Collision Field stage numbers, require tattoos in unrelated fields, override an already locked CF-06, or guarantee complete fusion.
