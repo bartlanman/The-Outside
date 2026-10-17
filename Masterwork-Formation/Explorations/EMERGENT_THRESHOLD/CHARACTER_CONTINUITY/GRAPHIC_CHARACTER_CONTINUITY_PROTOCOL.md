@@ -24,6 +24,17 @@ All source image names below refer to byte-preserved files specified in IMAGE_MA
 - **Tattoo:** planned Egyptian Akhet becoming the radiating field across the upper sternum/cleavage, as specified in [the seven-character tattoo map](CRAFT_SUBLIME_TATTOO_CHARACTER_MAP_2026-10-16.md). This tattoo is **not established as visible** in the source doorway portrait.
 - **Image gate:** do not falsely claim Tessa's new primary PNG has been uploaded until the actual repo file and matching hash are verified.
 
+## Elias — user-assigned primary full-body / face reference (2026-10-17)
+
+**User source image:** `Rugged Craftsman in a Rustic Workshop.png`; **proposed primary repository filename:** `IMAGES/ELIAS_PRIMARY.png` (**PENDING USER UPLOAD AND HASH VERIFICATION**).
+
+Read [ELIAS_CHARACTER_VISUAL_CONTINUITY_2026-10-17.md](ELIAS_CHARACTER_VISUAL_CONTINUITY_2026-10-17.md) and consult its real source pixels before portraying him.
+
+- **Elias = CRAFT**, distinct from **Him** (silver-white swept-back hair/full white beard). Elias has thick dark wavy/tousled hair, light gray-blue eyes, a short dark stubble beard, recognizable angular yet natural facial proportions, an athletic broad-shouldered build and a source workshop portrait. Clothing, shirtlessness and location are **not** required in all scenes.
+- **Tattoo:** planned **Greek Herakles Knot structurally forming the crafted column** on the anterior midline lower abdomen/suprapubic region. The source portrait shows no finished tattoo; do not claim it does. Consult all three Craft Sublime emblem/placement design references before visualizing the tattoo.
+- **Do not substitute** a generic shirtless man for his particular source face. Do not relabel Tessa, Eleanor, Svara, or Him as the craft-derived Other.
+- **Binary source gate:** filename and hash must be verified after upload; a written identity record is not equivalent to an image anchor being present in GitHub.
+
 ## Required graphic workflow
 1. **Deposit:** recover origin, time, cast, and source constraints; preserve distinctions between original and new material.
 2. **Reference:** load actual image pixels of every recurring figure; **no new image from text description alone** once anchored.
