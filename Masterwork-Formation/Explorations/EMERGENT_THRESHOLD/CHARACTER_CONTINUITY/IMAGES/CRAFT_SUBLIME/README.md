@@ -9,6 +9,8 @@ This directory holds the three source graphics that form one symbol-design syste
 1. `CRAFT_SUBLIME_ORIGINAL_EMBLEM.png` — full architectural image; the resulting whole.
 2. `CRAFT_SUBLIME_TATTOO_PLACEMENT_GUIDE.png` — character-specific body placements and ancient-to-becoming designs.
 3. `CRAFT_SUBLIME_DECONSTRUCTED_EMBLEM.png` — attribution of the seven structural emblem components.
+4. [`SVARA_CRAFT_SUBLIME_TATTOO_DRAFT_01.png`](SVARA_CRAFT_SUBLIME_TATTOO_DRAFT_01.png) — Svara with double-spiral/central-spiral tattoo; working draft, pending requested lower placement. [Draft record](SVARA_TATTOO_DRAFT_01_RECORD.md).
+5. [`ELEANOR_CRAFT_SUBLIME_TATTOO_DRAFT_02.png`](ELEANOR_CRAFT_SUBLIME_TATTOO_DRAFT_02.png) — corrected blonde-haired Eleanor with Shen Ring/foundation tattoo, user-approved rendition.
 
 **Source:** Three images uploaded directly in the Craft Sublime conversation on 2026-10-16. All three actual PNG image binaries are committed and verified against the original conversation files through matching Git blob hashes and SHA-256 provenance in `IMAGE_MANIFEST.md`.
 
