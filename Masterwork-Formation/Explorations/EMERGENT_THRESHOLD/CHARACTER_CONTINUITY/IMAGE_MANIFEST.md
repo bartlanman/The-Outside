@@ -30,3 +30,12 @@ Expected relative directory: `IMAGES/CRAFT_SUBLIME/`
 | `CRAFT_SUBLIME_DECONSTRUCTED_EMBLEM.png` | Seven emblem element attributions | `image(20261017-031845).png` | `3ae5e3a1bcd4af2e0a332b069e6bb154150a1f0e2e014f4e47637bc0a9e64a25` | **COMMITTED / VERIFIED** |
 
 Verification: each remote entry is a PNG file, its byte size matches the corresponding conversation upload, and the Git blob object ID equals the Git hash computed over the local original. Identity to the local source implies the recorded SHA-256 checksums correspond to the committed PNG bytes. Future re-uploads require re-verification.
+
+
+## Svara Craft Sublime portrait — working draft 01 (verified 2026-10-16)
+
+- **Repository:** [`IMAGES/CRAFT_SUBLIME/Serene Portrait with Sacred Geometry.png`](IMAGES/CRAFT_SUBLIME/Serene%20Portrait%20with%20Sacred%20Geometry.png)
+- **Status:** PNG COMMITTED / BINARY VERIFIED; **design status WORKING**, user requested tattoo slightly lower, not yet rendered in this file.
+- **SHA-256:** `00e6bf39e41b369d5184bb2649a942b2b2865a3c3de78ade3c01adac761152d1`
+- **Git blob SHA-1:** `d47b2f523166c9bc48db0f17e12e638b1df3d0db`
+- **Face authority:** `SVARA_PRIMARY.png` remains primary. See [`SVARA_TATTOO_DRAFT_01_RECORD.md`](IMAGES/CRAFT_SUBLIME/SVARA_TATTOO_DRAFT_01_RECORD.md) for the correction and positioning rule.
