@@ -49,3 +49,15 @@ Verification: each remote entry is a PNG file, its byte size matches the corresp
 - **Git blob SHA-1:** `94cc71e93bedfc979e0dfe96ed8153c5381ed838`
 - **Size:** 2213616 bytes; same blob ID and bytes after rename.
 - **Face authority:** `ELEANOR_PRIMARY.png` remains the primary identity reference. This is a secondary Craft Sublime tattoo illustration, not a replacement for the primary portrait.
+
+
+## Tessa — designated primary source / awaiting GitHub upload (2026-10-17)
+
+- **User-identified original conversation image:** `Candlelit Doorway in a Medieval Hall.png`
+- **Required GitHub path:** `IMAGES/TESSA_PRIMARY.png` (alongside other `*_PRIMARY.png` assets, not inside the Craft Sublime graphics subfolder).
+- **Status:** **USER-DESIGNATED PRIMARY / PENDING BINARY UPLOAD**; descriptive identity deposit is committed but repository PNG file is not yet verified.
+- **Source PNG:** 1122 × 1402, RGBA, 2,950,758 bytes.
+- **SHA-256:** `eb5cf45c122fd9d34d16085f22178ace9c94115896677444185a015379982c1a`
+- **Expected Git blob SHA-1:** `57d5a47873999c260943697af21a5cf6191491d2`
+- **Continuity file:** [TESSA_CHARACTER_VISUAL_CONTINUITY_2026-10-17.md](TESSA_CHARACTER_VISUAL_CONTINUITY_2026-10-17.md). Adult deep-brunette portrait; separate from Eleanor's blonde primary; no visible Akhet tattoo. Planned Akhet + radiating-field sternum design is in the seven-character tattoo map.
+- **Next step:** user uploads file to expected path; then verify hashes and mark **COMMITTED / VERIFIED**. Do not claim source pixels are remotely available until that step.
