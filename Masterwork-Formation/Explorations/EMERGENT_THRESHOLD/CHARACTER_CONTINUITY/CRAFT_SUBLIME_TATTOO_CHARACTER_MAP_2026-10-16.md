@@ -51,6 +51,7 @@ Expected upload folder:
 - **Becoming design:** Two distinguishable counter- or companion-moving spiral centers press toward a shared dynamic at their middle. The emblem's single central spiral arises out of their interaction, not by erasing either twin spiral. A restrained vertical axial pulse/cadence may travel into the sacral midline.
 - **Process office:** **RECOGNITION / ADHESION / ATTUNEMENT**, keeping Svara's bounded gravity custody distinct from consent, decision, or compulsory fusion.
 - **Avoid:** a single arbitrary swirl covering the double motif, or facial identity drift toward Mara.
+- **2026-10-16 portrait iteration and correction:** See [Svara tattoo draft 01 record](IMAGES/CRAFT_SUBLIME/SVARA_TATTOO_DRAFT_01_RECORD.md). A generated portrait depicts the correct *double-spiral plus central-spiral* motif but the user requested the tattoo **a little lower**. Revise its main spiral centers toward the **lower sacrum / upper gluteal junction** rather than accepting the original upper placement. The portrait is a WORKING illustration, not a substitute for SVARA_PRIMARY.png.
 
 ### 4. Amara — CUNEIFORM WEDGE + FINE SIGNAL MARKINGS
 - **Ancient motif:** **Cuneiform wedge** (Mesopotamian, graphic sign lineage rather than a claimed complete word or deciphered inscription).
