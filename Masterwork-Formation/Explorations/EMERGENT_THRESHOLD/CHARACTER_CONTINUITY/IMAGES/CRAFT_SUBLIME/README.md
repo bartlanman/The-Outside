@@ -26,3 +26,5 @@ This directory holds the three source graphics that form one symbol-design syste
 ## Future re-verification
 
 Verify all three filenames, actual PNG format, their visible correspondence to their documented functions, and compute/store a SHA-256 for each in the image manifest. Do not mark the visual reference gate PASS without inspecting the actual files.
+
+7. [`AMARA_CRAFT_SUBLIME_TATTOO_DRAFT_01.png`](AMARA_CRAFT_SUBLIME_TATTOO_DRAFT_01.png) — Amara with cuneiform-wedge/fine-signal throat tattoo; secondary working depiction. **Her original identity remains governed by [AMARA_PRIMARY.png](../AMARA_PRIMARY.png)** (deep brown skin, dark curls). The previous incorrectly light-skinned draft is not an accepted character reference.
