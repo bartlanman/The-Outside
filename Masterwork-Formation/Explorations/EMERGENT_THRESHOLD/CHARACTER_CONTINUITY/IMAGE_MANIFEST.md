@@ -34,8 +34,18 @@ Verification: each remote entry is a PNG file, its byte size matches the corresp
 
 ## Svara Craft Sublime portrait — working draft 01 (verified 2026-10-16)
 
-- **Repository:** [`IMAGES/CRAFT_SUBLIME/Serene Portrait with Sacred Geometry.png`](IMAGES/CRAFT_SUBLIME/Serene%20Portrait%20with%20Sacred%20Geometry.png)
+- **Repository:** [`IMAGES/CRAFT_SUBLIME/SVARA_CRAFT_SUBLIME_TATTOO_DRAFT_01.png`](IMAGES/CRAFT_SUBLIME/SVARA_CRAFT_SUBLIME_TATTOO_DRAFT_01.png)
 - **Status:** PNG COMMITTED / BINARY VERIFIED; **design status WORKING**, user requested tattoo slightly lower, not yet rendered in this file.
 - **SHA-256:** `00e6bf39e41b369d5184bb2649a942b2b2865a3c3de78ade3c01adac761152d1`
 - **Git blob SHA-1:** `d47b2f523166c9bc48db0f17e12e638b1df3d0db`
 - **Face authority:** `SVARA_PRIMARY.png` remains primary. See [`SVARA_TATTOO_DRAFT_01_RECORD.md`](IMAGES/CRAFT_SUBLIME/SVARA_TATTOO_DRAFT_01_RECORD.md) for the correction and positioning rule.
+
+
+## Eleanor Craft Sublime portrait — corrected blonde-haired draft 02 (verified 2026-10-17)
+
+- **Repository:** [`IMAGES/CRAFT_SUBLIME/ELEANOR_CRAFT_SUBLIME_TATTOO_DRAFT_02.png`](IMAGES/CRAFT_SUBLIME/ELEANOR_CRAFT_SUBLIME_TATTOO_DRAFT_02.png) — renamed in place from `Eleanor in the Golden Temple.png`.
+- **Status:** PNG COMMITTED / BINARY VERIFIED; artwork uses blonde hair and the Shen Ring integrated with the foundation on the anterior lower abdomen. User approved this corrected character depiction.
+- **SHA-256:** `e9869ff2b9a0560f7a901bf4fef9e9ebda5e83ecbd963821b8335ce430288697`
+- **Git blob SHA-1:** `94cc71e93bedfc979e0dfe96ed8153c5381ed838`
+- **Size:** 2213616 bytes; same blob ID and bytes after rename.
+- **Face authority:** `ELEANOR_PRIMARY.png` remains the primary identity reference. This is a secondary Craft Sublime tattoo illustration, not a replacement for the primary portrait.
