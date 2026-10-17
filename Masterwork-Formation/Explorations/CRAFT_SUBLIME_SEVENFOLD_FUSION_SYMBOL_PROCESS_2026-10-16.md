@@ -159,3 +159,25 @@ The ordinary separate graphic lock / image phase remains in force.
 **End-state design law:**
 
 > **SEVEN ANCIENT / INHERITED MARKS → SEVEN DIFFERENT STRUCTURAL BECOMINGS → ONE POSSIBLE CRAFT SUBLIME ARCHITECTURE, WITHOUT ERASURE OF ORIGIN.**
+
+
+---
+
+## 8. EMBODIED GEOGRAPHY — THE ANCIENT MARK MUST BE ENACTED
+
+**Required enactment protocol:** [COLLISION_FIELD_EMBODIED_GEOGRAPHY_PROTOCOL.md](../Protocols/COLLISION_FIELD_EMBODIED_GEOGRAPHY_PROTOCOL.md) governs when this sevenfold architecture enters CF-02A Boundary and CF-02B DOS.
+
+The historic mark, its anatomical location, and its deconstructed Craft Sublime part must no longer remain a three-column graphic match. The position on the character's body must generate a **motivated motion, sensation, pressure, breath, or balance change**, caused by the current field, that alters another participant's next possible action. The action then makes the ancient/inherited mark's **THERE → HERE** transformation into its contemporary structural component narratively intelligible.
+
+Seven character-specific geographies:
+- **Eleanor:** anterior low abdomen; grounding/carrying the ledger; Shen Ring → foundation.
+- **Tessa:** sternum and cleavage midline; breath/approach and significant reception; Akhet → radiating field.
+- **Svara:** lower sacral back spreading across upper gluteal contours; weight shift and Turning; double spiral → central spiral.
+- **Elias:** suprapubic midline under navel; bracing and force transfer through a resistant join; Herakles Knot → crafted column.
+- **Rox:** two groin/upper-inner-thigh crease sites; stance, pivot, changing interfacial distance; Threshold marks → enclosing circles.
+- **Amara:** larynx and front throat; sounded or withheld transmission; cuneiform wedge → fine signal markings.
+- **Him:** upper/mid back; spinal and shoulder rotation in an actual crossing; labyrinth → diagonal crossing.
+
+For any actual sevenfold run, preserve a per-character enactment register linked to the chronological cell-fusion analogy, write **both the Boundary and DOS narrative**, and show what a new whole is able to DO if fusion is warranted. A non-fusion or partial result is valid when the encounter does not earn shared continuity. The symbol map and tattoos are design specifications and do not authorize retroactive changes to earlier character images.
+
+**Controlling insight:** The body enacts the tattoo, the tattoo participates in building the emblem, and the emblem must become a *story consequence* rather than a decoration.
