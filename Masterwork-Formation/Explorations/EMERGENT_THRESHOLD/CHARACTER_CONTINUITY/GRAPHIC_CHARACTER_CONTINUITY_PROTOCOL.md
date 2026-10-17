@@ -31,3 +31,12 @@ If this is also a Collision Field masterwork graphic, this identity protocol sup
 
 ## Gate
 PASS: verified reference files loaded, source distinctions protected, faces checked. REVISE: correctable mismatch. HOLD: absent reference, doubtful match or unclear consent. REFUSE/STOP: boundary violation. An image is not evidence of a real-world autonomous personality or of an earned Emergent Threshold crossing. DEPOSIT -> CARRIER -> SUSTAIN -> ENCOUNTER -> RETURN GATE.
+
+
+## Craft Sublime seven-character tattoo continuity (2026-10-16)
+
+**Required specialized reference:** [CRAFT_SUBLIME_TATTOO_CHARACTER_MAP_2026-10-16.md](CRAFT_SUBLIME_TATTOO_CHARACTER_MAP_2026-10-16.md).
+
+For Craft Sublime imagery, recover the user's **original emblem + tattoo placement guide + deconstructed emblem** as three distinct visual sources. Consult the specialized map to match each of **Tessa, Elias, Svara, Amara, Eleanor, Him, Rox** to (1) body placement, (2) distinctive ancient/inherited mark, (3) structural emblem component, (4) materially integrated becoming-design, and (5) narrative-process office. Ancient mark and emblem element must form **one transformed design**, never separate stickers. Preserve the pre-existing character primary portraits and Rox's older tattoo topology; new proposed body placements must not be falsely attributed to original image pixels. Until the three reference PNGs have actually been committed and checked, keep their repo binary status **PENDING** rather than claiming image gate PASS.
+
+Process companion: [CRAFT_SUBLIME_SEVENFOLD_FUSION_SYMBOL_PROCESS_2026-10-16.md](../../CRAFT_SUBLIME_SEVENFOLD_FUSION_SYMBOL_PROCESS_2026-10-16.md).
