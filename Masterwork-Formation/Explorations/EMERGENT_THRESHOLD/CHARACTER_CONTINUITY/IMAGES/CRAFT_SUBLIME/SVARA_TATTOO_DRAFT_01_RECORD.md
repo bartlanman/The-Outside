@@ -5,7 +5,7 @@
 ## Source and target asset
 
 - Original conversation attachment: `serene_portrait_with_sacred_geometry.png`
-- **Actual committed GitHub filename:** [`Serene Portrait with Sacred Geometry.png`](Serene%20Portrait%20with%20Sacred%20Geometry.png) (same bytes as the staged `SVARA_CRAFT_SUBLIME_TATTOO_DRAFT_01.png`)
+- **Actual committed GitHub filename:** [`SVARA_CRAFT_SUBLIME_TATTOO_DRAFT_01.png`](SVARA_CRAFT_SUBLIME_TATTOO_DRAFT_01.png) (renamed in place from `Serene Portrait with Sacred Geometry.png` with the original Git blob preserved)
 - Staged local PNG SHA-256: `00e6bf39e41b369d5184bb2649a942b2b2865a3c3de78ade3c01adac761152d1`
 - Size: `2483484` bytes
 - Dimensions: `1122 × 1402` pixels
