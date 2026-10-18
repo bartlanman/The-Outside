@@ -34,3 +34,20 @@ After release: whatever entered the BETWEEN must be capable of modifying a subse
 ## Next action
 
 Resume the governing Collision Field at its first uncompleted gate, with this correction admitted as a source. All drawings, tattoo studies and prompts must treat Mara's wrist marks as bilateral and unfinished. Complete the field before proposing a final visual or name.
+
+## Authorial continuation — palms receive the emergent (October 17, 2026)
+
+**Source direction:** "and then she can 'hold the emergent in the palm of her hands'."
+
+The bilateral wrist operation acquires a consequential **third embodied phase**: after Mara uses the independent trajectories of the two wrists to shape the relational space between them, her hands may turn palm-up and move into a receiving posture. One wrist stands for the release of repair and the expectation of a prior photograph; the opposite wrist carries Plus Ultra's movement beyond the already represented. **Left/right assignment remains undecided** pending the fuller symbolic process. The two incomplete marks are not yet one finished tattoo.
+
+**Emergent movement, not predetermined success:**
+1. **Wrist I:** no prior photograph is required; restoration is not the condition of action.
+2. **Wrist II:** Plus Ultra; an approach toward what previous means could not contain.
+3. **BETWEEN:** the arms' independent motions generate an adjustable interval in which the new Black Hole protocol concentrates and transforms the encounter. Whatever enters it is not authored by Mara alone.
+4. **AFTER THE RELEASE — PALMS:** she turns both hands upward, allowing them to cup, shelter, support, carry or offer the emergent **if** something has survived. The palms' receptivity is distinct from the wrists' transformational action.
+5. **FIRST AFTER-ACT:** to earn emergence, what is held must be allowed its own consequential next relationship, rather than merely completing an impressive tableau. The possibility that nothing has yet survived remains an admissible outcome of the full field.
+
+The final physical grammar is **TWO WRISTS → ACTIVE BETWEEN → BLACK-HOLE INVERSION → SURVIVING EMERGENT → TWO OPEN PALMS**. Neither the final appearance of the tattoos, what actually survives, nor the precise new capacity is declared completed by this source note. Do not generate a completed mark or canonize a symbol until the full Collision Field and its emergence test have finished.
+
+**Fictional score seed:** Mara lifts her arms apart until each wrist holds a different edge of the field. The pressure that formerly joined the surfaces collapses their shared viewpoint; as the old interval disappears, she turns her hands upward. Her palms do not produce the returning thing. They are the first place it may be received—and, later, offered beyond her.
