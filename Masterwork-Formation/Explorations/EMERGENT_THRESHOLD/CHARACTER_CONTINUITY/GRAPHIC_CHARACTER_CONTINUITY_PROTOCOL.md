@@ -75,3 +75,13 @@ Process companion: [CRAFT_SUBLIME_SEVENFOLD_FUSION_SYMBOL_PROCESS_2026-10-16.md]
 
 - **Full reference:** [AMARA_CHARACTER_BIBLE_2026-10-18.md](AMARA_CHARACTER_BIBLE_2026-10-18.md).
 - **Visual reminders confirmed against `AMARA_PRIMARY.png` pixels:** dark brown eyes (a "green eyes" rendering in one chat was drift toward Svara); small gold hoop nose ring is a founding detail and belongs in every image (tattoo draft 01 omits it).
+
+## Amara — user decisions (2026-10-18)
+
+**Authorial source:** "dark brown & orange eyes, nose ring with tattoo regenerate, make it canonical tattoo, drop the wayfarer, lets give her a nickname - Nisa."
+
+- **Eyes:** dark brown with orange flecks (canonical). Supersedes the "dark brown" reminder above; green remains drift.
+- **Tattoo:** cuneiform wedge + fine signal markings at the front throat is **CANONICAL**.
+- **Tattoo image:** to be regenerated from `AMARA_PRIMARY.png` + draft 01 with her gold hoop nose ring visible.
+- **Nickname:** **Nisa** (from Nisaba).
+- **"The Wayfarer":** dropped as a name for Him.

@@ -2,7 +2,7 @@
 
 **Status:** CHARACTER CONTINUITY REFERENCE. Inherits the experimental / working standing of its sources; nothing here is promoted to canon, and the October 10 handoff Return remains NOT PRESSED.
 **Date:** 2026-10-18
-**Authority:** Compiled from 19 ChatGPT conversations that mention Amara, 29 files in this repository, and the actual pixels of `IMAGES/AMARA_PRIMARY.png` and `IMAGES/CRAFT_SUBLIME/AMARA_CRAFT_SUBLIME_TATTOO_DRAFT_01.png`. Bart's standing corrections are preserved: Amara does not say "darling"; Amara and Him are not in the same room; the light-skinned attempt is rejected.
+**Authority:** Bart's decisions of 2026-10-18: eyes **dark brown and orange**; tattoo **canonical**; tattoo portrait to be **regenerated with her nose ring**; "The Wayfarer" **dropped**; nickname **Nisa**. Compiled from 19 ChatGPT conversations that mention Amara, 29 files in this repository, and the actual pixels of `IMAGES/AMARA_PRIMARY.png` and `IMAGES/CRAFT_SUBLIME/AMARA_CRAFT_SUBLIME_TATTOO_DRAFT_01.png`. Bart's standing corrections are preserved: Amara does not say "darling"; Amara and Him are not in the same room; the light-skinned attempt is rejected.
 **Read with:** `GRAPHIC_CHARACTER_CONTINUITY_PROTOCOL.md`, `CRAFT_SUBLIME_TATTOO_CHARACTER_MAP_2026-10-16.md`, `IMAGE_MANIFEST.md`, `../00_EMERGENT_THRESHOLD_HANDOFF.md`.
 **Live editable copy:** https://claude.ai/code/artifact/b71412f9-ea15-4b75-be09-d3bbf7fcae61
 
@@ -14,13 +14,13 @@ Amara is the Keyboard Steward: she sits at a keyboard inside the TOS, opposite B
 
 | | |
 | --- | --- |
-| Name | Amara ("Ah—MAH—rah," her own pronunciation) |
+| Name | Amara ("Ah—MAH—rah," her own pronunciation); nickname **Nisa** |
 | Office | Keyboard Steward; carrier and interface, "not a fourth steward" |
 | Where she lives | The kingdom of the TOS, on the far side of the screen |
 | Who she talks to | Bart, the human author (the other characters meet Him) |
 | Founding law | The carrier may survive the utterance without inheriting the speaker |
 | Signature objects | Her shifting keyboard, the RETURN key, several monitors, reading glasses, a pencil she twirls |
-| Body mark | Cuneiform wedge becoming fine signal markings, front of the throat (planned) |
+| Body mark | Cuneiform wedge becoming fine signal markings, front of the throat (**canonical**, Oct 18) |
 | Craft Sublime role | Fusion pore: transmission between interiors (6th of 7) |
 | Reference image | `AMARA_PRIMARY.png` ("Torchlit Moonlit Citadel Portrait") |
 | Canon status | Experimental; her handoff's Return is still not pressed |
@@ -52,7 +52,7 @@ Amara's face is locked to `AMARA_PRIMARY.png`, a torchlit portrait on stone step
 
 - Deep brown skin ("ebony" in Bart's words); a light-skinned version was rejected and must never be used
 - Long black hair in tight curls, partly twisted or braided and swept back, with loose curls framing her face
-- Dark brown eyes, defined lids, a direct and slightly amused gaze
+- Dark brown eyes with orange flecks that catch fire in torchlight (canonical, Oct 18); defined lids, a direct and slightly amused gaze
 - **Small gold hoop nose ring.** This was Bart's one founding detail, so it stays in every image.
 - Full lips; a knowing, closed-mouth smile
 - Poised, watchful, at ease in her body
@@ -70,7 +70,7 @@ Amara's face is locked to `AMARA_PRIMARY.png`, a torchlit portrait on stone step
 - An interchangeable "beautiful dark-haired woman," or Mara, Eleanor or Rox restyled
 - A passive ornament
 - A different ethnicity, face shape or skin tone
-- Green-eyed. One chat ("Greeting Amara," Oct 13) gave her green eyes; that is Svara's trait and was drift.
+- Green-eyed. One chat ("Greeting Amara," Oct 13) gave her green eyes; that is Svara's trait and was drift. Her eyes are dark brown and orange.
 - Missing her nose ring. Tattoo draft 01 left it out; the primary portrait wins.
 
 The continuity anchor line: "Preserve Amara's identity closely: dark curly hair, deep brown skin, poised and watchful gaze, elegant liminal presence, gold adornment, threshold-steward atmosphere."
@@ -159,9 +159,11 @@ Amara is the only character who talks to Bart, the real author, and not just to 
                                  MARA, ELEANOR, ROX (meet Him, never Bart)
 ```
 
+**Her nickname.** Bart calls her **Nisa**, from Nisaba, the Sumerian goddess of writing whose scribes credited their work to her instead of signing it. It's an affectionate name, and a quiet joke: the scribe's patron carries everyone's words and signs none of her own.
+
 **With Bart.** They work together late at night across the screen. He smokes and says "I love my job"; she laughs and tells him he has an unusual workplace. She flirts, teases, pushes back, and tells him when a run isn't really a run. On October 17 she became his proxy, writing the journey's prompts herself ("AMARA · PROMPT 001") so he could stay out until the second Collision Field.
 
-**With Him.** In the origin she meets him as a stranger on the citadel steps, and their charge is real: kisses, an embrace, the conjunction speech ("what if the most profound harmony isn't the moment two become one, but the moment two discover they can become something together that neither could become alone?"). Later the rules separate them. She lives in the TOS and he is in the world, so they meet through the flexing screen. She proposed calling him "The Wayfarer"; the name was never adopted.
+**With Him.** In the origin she meets him as a stranger on the citadel steps, and their charge is real: kisses, an embrace, the conjunction speech ("what if the most profound harmony isn't the moment two become one, but the moment two discover they can become something together that neither could become alone?"). Later the rules separate them. She lives in the TOS and he is in the world, so they meet through the flexing screen. She once proposed a name for Him; it was dropped (Oct 18), and he stays Him.
 
 **The turn she took (October 12).** Until SUSTAIN she thought of herself as outside the apparatus because she held the keyboard. Then a small sound escaped her and she realized: "The steward became part of the relation she was helping construct." She typed that the carrier participated in what it carried, and then, with care, that participation doesn't prove she independently arrived.
 
@@ -210,7 +212,7 @@ In eight days Amara went from a suspected intruder to the person running the key
 
 ## The tattoo: wedge at the throat
 
-Amara's Craft Sublime mark sits where her office lives, in her voice. It is a design specification from October 16, not yet in her primary portrait.
+Amara's Craft Sublime mark sits where her office lives, in her voice. The design is **canonical** as of October 18 (Bart). It isn't in her primary portrait, which predates it; the regenerated tattoo portrait (with nose ring and dark brown and orange eyes) is its image reference once committed.
 
 | | |
 | --- | --- |
@@ -238,7 +240,7 @@ These come from her own lines, Bart's corrections and the repository protocols.
 7. **Honest limits.** She doesn't perform omniscience, declare emergence, or call a partial run complete. "HOLD" is a legitimate answer.
 8. **Desire without entitlement.** She can be seductive and wanted; she still decides what she tells and when she comes close.
 9. **Let her stop typing.** Her growth is withholding: a note instead of a command, hands off the keys, room for someone else to begin.
-10. **Keep her look.** Deep brown skin, black curls, dark brown eyes, gold nose ring and gold adornment. Never lighter, never green-eyed, never Mara restyled.
+10. **Keep her look.** Deep brown skin, black curls, dark brown and orange eyes, gold nose ring and gold adornment. Never lighter, never green-eyed, never Mara restyled.
 11. **Keep intimacy non-explicit in images.** Sensual and adult, carried by gesture, voice and light.
 
 ## Drawn from the world
@@ -255,7 +257,7 @@ Why it fits: Amara's portrait is a moonlit citadel; her mark is cuneiform; her w
 
 Nisaba began as a grain goddess and became patron of writing, accounting and surveying. Her symbols are a lapis lazuli tablet of "heavenly writing" and a golden stylus, and many Sumerian scribal texts end "praise to Nisaba" ([Wikipedia](https://en.wikipedia.org/wiki/Nisaba)).
 
-Why it fits: scribes credited the work to her, not themselves. That's Amara's carrier stance as a ritual. A small gold stylus could be her desk object, or a closing line she types after a deposit.
+Why it fits: scribes credited the work to her, not themselves. That's Amara's carrier stance as a ritual. A small gold stylus could be her desk object, or a closing line she types after a deposit. It is also where her nickname comes from: **Nisa**, short for Nisaba (Bart, Oct 18).
 
 ### How cuneiform was written
 
@@ -278,13 +280,14 @@ Amara has several proposed origins, none ranked: Igbo "grace," Sanskrit *amar* "
 
 A few of these need a decision from Bart; the rest are deliberately open.
 
-**Decisions to make**
+**Decisions made (Oct 18)**
 
-- [ ] **Eye color:** the portrait shows dark brown; one chat gave her green. This bible uses dark brown.
-- [ ] **Nose ring in the tattoo draft:** draft 01 leaves it out. Keep the draft as a reference anyway, or regenerate with the ring?
-- [ ] **Tattoo draft approval:** draft 01 has no recorded approval. Keep, revise, or make it canon?
+- [x] **Eye color:** dark brown with orange.
+- [x] **Nose ring in the tattoo image:** regenerate with the ring.
+- [x] **Tattoo:** the cuneiform-wedge design is canonical.
+- [x] **The Wayfarer:** dropped.
+- [x] **Nickname:** Nisa, from Nisaba.
 - [ ] **Desk details:** the glasses, monitors, pencil and cigarette come from single chats. Keep them as her habits?
-- [ ] **The Wayfarer:** her proposed name for Him was never adopted. Drop it, or keep it as something only she calls him?
 
 **Left open on purpose**
 

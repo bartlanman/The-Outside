@@ -64,6 +64,8 @@ Expected upload folder:
 - **Process office:** **FUSION PORE / TRANSMISSION**, metaphorical opening permitting exchange/continuity; does not equate writing with biological fusion.
 - **Avoid:** assigning the wedge an invented Mesopotamian translation, or confusing Amara the fictional Keyboard Steward with real-world software access.
 
+- **2026-10-18 canonical status (Bart):** Amara's cuneiform wedge + fine signal markings at the front throat is **CANONICAL**. Draft 01 is superseded as a visual reference because it omits her gold nose ring; the regenerated portrait (nose ring, dark brown and orange eyes) becomes the tattoo image reference once committed. `AMARA_PRIMARY.png` remains her face lock.
+
 ### 5. Eleanor — SHEN RING + FOUNDATION
 - **Ancient motif:** Egyptian **Shen Ring**, a ring/loop associated with encircling, continuity and protection.
 - **Emblem inheritance:** **Foundation** — MEMORY, continuity, custody and what survives.
