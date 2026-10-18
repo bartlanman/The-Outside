@@ -70,3 +70,8 @@ Process companion: [CRAFT_SUBLIME_SEVENFOLD_FUSION_SYMBOL_PROCESS_2026-10-16.md]
 - **Look:** settled by the actual pixels of `MARA_PRIMARY.png`: dark brown curly hair piled loosely up, warm brown eyes, light freckles, loose white linen shirt with sleeves rolled, fine gold chain with an open-circle pendant.
 - **Place:** associated with the repair shop; she does not live anywhere.
 - **Full reference:** [MARA_CHARACTER_BIBLE_2026-10-18.md](MARA_CHARACTER_BIBLE_2026-10-18.md). The two-wrist HOLD remains in force.
+
+## Amara — full character reference (2026-10-18)
+
+- **Full reference:** [AMARA_CHARACTER_BIBLE_2026-10-18.md](AMARA_CHARACTER_BIBLE_2026-10-18.md).
+- **Visual reminders confirmed against `AMARA_PRIMARY.png` pixels:** dark brown eyes (a "green eyes" rendering in one chat was drift toward Svara); small gold hoop nose ring is a founding detail and belongs in every image (tattoo draft 01 omits it).
