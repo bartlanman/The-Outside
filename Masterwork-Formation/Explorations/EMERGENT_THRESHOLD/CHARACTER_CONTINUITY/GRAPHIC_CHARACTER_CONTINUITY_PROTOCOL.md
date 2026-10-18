@@ -60,3 +60,13 @@ PASS: verified reference files loaded, source distinctions protected, faces chec
 For Craft Sublime imagery, recover the user's **original emblem + tattoo placement guide + deconstructed emblem** as three distinct visual sources. Consult the specialized map to match each of **Tessa, Elias, Svara, Amara, Eleanor, Him, Rox** to (1) body placement, (2) distinctive ancient/inherited mark, (3) structural emblem component, (4) materially integrated becoming-design, and (5) narrative-process office. Ancient mark and emblem element must form **one transformed design**, never separate stickers. Preserve the pre-existing character primary portraits and Rox's older tattoo topology; new proposed body placements must not be falsely attributed to original image pixels. Until the three reference PNGs have actually been committed and checked, keep their repo binary status **PENDING** rather than claiming image gate PASS.
 
 Process companion: [CRAFT_SUBLIME_SEVENFOLD_FUSION_SYMBOL_PROCESS_2026-10-16.md](../../CRAFT_SUBLIME_SEVENFOLD_FUSION_SYMBOL_PROCESS_2026-10-16.md).
+
+## Mara — user correction and full character reference (2026-10-18)
+
+**Authorial source:** "Mara Vale. canonical mara - she is associated with the repair shop & doesnt live anywhere - no apron."
+
+- **Name:** Mara Vale is canonical ("Vales" is a mishearing / the Ledgers slip).
+- **Wardrobe correction:** Mara wears **no apron**. The dark mottled garment in `MARA_PRIMARY.png` is a wrap skirt tied at the waist. The earlier line above ("white blouse and work apron") is retained as history but superseded on this point.
+- **Look:** settled by the actual pixels of `MARA_PRIMARY.png`: dark brown curly hair piled loosely up, warm brown eyes, light freckles, loose white linen shirt with sleeves rolled, fine gold chain with an open-circle pendant.
+- **Place:** associated with the repair shop; she does not live anywhere.
+- **Full reference:** [MARA_CHARACTER_BIBLE_2026-10-18.md](MARA_CHARACTER_BIBLE_2026-10-18.md). The two-wrist HOLD remains in force.
