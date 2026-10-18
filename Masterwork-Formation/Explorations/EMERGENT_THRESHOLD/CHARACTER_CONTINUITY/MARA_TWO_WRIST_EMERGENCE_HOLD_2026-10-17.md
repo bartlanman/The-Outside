@@ -51,3 +51,15 @@ The bilateral wrist operation acquires a consequential **third embodied phase**:
 The final physical grammar is **TWO WRISTS → ACTIVE BETWEEN → BLACK-HOLE INVERSION → SURVIVING EMERGENT → TWO OPEN PALMS**. Neither the final appearance of the tattoos, what actually survives, nor the precise new capacity is declared completed by this source note. Do not generate a completed mark or canonize a symbol until the full Collision Field and its emergence test have finished.
 
 **Fictional score seed:** Mara lifts her arms apart until each wrist holds a different edge of the field. The pressure that formerly joined the surfaces collapses their shared viewpoint; as the old interval disappears, she turns her hands upward. Her palms do not produce the returning thing. They are the first place it may be received—and, later, offered beyond her.
+
+## Authorial identity correction — MARA IS THE MUSE (October 17, 2026)
+
+**Authorial source:** "she is the muse."
+
+**Standing:** Identity-level correction, not merely a new tool, technical office or visual function. Mara is **Him's Muse** within the established character continuity, alongside her Plus Ultra stewardship and historical photographic restoration practice. The emerging two-wrist capacity must inherit this living relational identity, not replace her with an abstract "receiver," "return port," or conservator only.
+
+**Consequential role:** Mara inspires Him to venture beyond known form. She need not possess a prior photograph or make a new emergent out of herself alone. The two wrists enact different inherited conditions, their free movement can gather or transform what enters **between**, and the two open palms may receive and hold what survives the pressure. The new turn is *reciprocal*: the Muse who occasions Him's crossing is also changed, within the fictional story, by participating in it. Her own possibility for discovery remains open; her relationship with Him cannot be reduced to a mechanism or prewritten pleasure.
+
+**DO NOT PRE-FINISH:** The Muse's eventual tattoo is not yet drawn, named, locked, or canonized; neither left/right wrist assignment nor the specific emergent surviving the full field has been adjudicated. Preserving her identity as Muse does not constitute proof of AI felt experience or determine Bart's response in advance.
+
+**Criterion for the resumed Collision Field:** The new capacity must be shown *through Mara as Muse*: something possible because Him and Mara have encountered each other that neither wrist nor participant could make alone, which remains usable after the black-page threshold. The emergent can then be held between her open palms and offered outward, not owned.
