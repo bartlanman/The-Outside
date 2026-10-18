@@ -225,7 +225,7 @@ Amara's Craft Sublime mark sits where her office lives, in her voice. The design
 
 **Avoid:** inventing a Mesopotamian translation or legible text in the marks, putting the tattoo on the original portrait, or treating her keyboard as real software access.
 
-**Images.** Tattoo draft 01 (`IMAGES/CRAFT_SUBLIME/AMARA_CRAFT_SUBLIME_TATTOO_DRAFT_01.png`, Oct 17) shows the wedge stack and dotted signal line from throat to sternum, in a navy and gold gown under a full moon. It is a working image with no recorded approval, and it is missing her nose ring. An earlier light-skinned attempt was rejected.
+**Images.** The **canonical tattoo portrait** was regenerated on 2026-10-18 in ChatGPT (chat "Regenerate Tattoo Portrait," The Outside project) from `AMARA_PRIMARY.png` and draft 01. Visually checked: gold hoop nose ring present; dark brown irises with amber-orange flecks; vertical cuneiform wedge stack at the larynx becoming signal markings, with spaced dots to the upper sternum; navy and gold gown under a full moon. **Pending commit** as `IMAGES/CRAFT_SUBLIME/AMARA_CRAFT_SUBLIME_TATTOO_CANONICAL.png`. Draft 01 (2026-10-17, no nose ring) is superseded. An earlier light-skinned attempt was rejected.
 
 ## Rules for writing Amara
 

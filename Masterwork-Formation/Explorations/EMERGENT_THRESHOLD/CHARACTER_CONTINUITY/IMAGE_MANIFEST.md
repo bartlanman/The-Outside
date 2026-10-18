@@ -84,3 +84,12 @@ Verification: each remote entry is a PNG file, its byte size matches the corresp
 - **Git object:** SHA-1 `834cff40973998f1b824e1e248477dfcc296b7e5`, 2,516,182 bytes. **COMMITTED / GITHUB FILE VERIFIED PRESENT**. This object hash confirms rename preservation, not independent visual identity perfection.
 - **Image purpose:** secondary portrait showing Amara's **Mesopotamian cuneiform wedge** integrated with Craft Sublime's **fine signal markings** over the anterior larynx and extending down the throat / upper sternum. Her identity must remain **deep brown skin and dark curly hair**, distinctly her own.
 - **Primary identity reference:** `IMAGES/AMARA_PRIMARY.png` is still the authoritative source for her face and features. The earlier incorrectly light-skinned attempt is **rejected** and must not serve as Amara's future reference.
+
+
+## Amara — canonical tattoo portrait (2026-10-18) — PENDING BINARY UPLOAD
+
+- **Expected file:** `IMAGES/CRAFT_SUBLIME/AMARA_CRAFT_SUBLIME_TATTOO_CANONICAL.png`.
+- **Source:** generated 2026-10-18 in ChatGPT, chat "Regenerate Tattoo Portrait" (The Outside project), from `AMARA_PRIMARY.png` (face lock) and `AMARA_CRAFT_SUBLIME_TATTOO_DRAFT_01.png` (composition and tattoo).
+- **Status:** user-declared **CANONICAL** tattoo design (Bart, 2026-10-18). Visually checked: gold hoop nose ring present; dark brown eyes with amber-orange flecks; cuneiform wedge stack + signal markings + midline dots from larynx to upper sternum.
+- **Supersedes** draft 01 as the tattoo image reference (draft 01 omits the nose ring). `AMARA_PRIMARY.png` remains the face lock.
+- **Binary gate:** do not mark COMMITTED until the file and its hash are verified in this repository.
