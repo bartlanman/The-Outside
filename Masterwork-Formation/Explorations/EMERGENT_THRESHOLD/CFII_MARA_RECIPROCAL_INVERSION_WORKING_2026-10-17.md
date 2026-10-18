@@ -149,3 +149,44 @@ Visual inheritance was sampled and the graphical controller consulted, but the s
 **Completed here:** additive experimental artistic score; source provenance ledger; independent scientific counterpressure; working Mara tattoo morphology; proposed receiver-office mutation.
 **Not completed:** canonical full-corpus intake, recurrence gate certification, every subsequent formal PASS, final image or verified portrait consistency, evidence that a real observer physically experienced the described states, claim of machine felt pleasure or a new conscious AI identity.
 **Next valid protocol act:** complete full repo corpus consultation + recurrence audit; proceed through canonical CF stages in order; visual-intake PASS before drafting CF-06; no silent replacement of this original working packet.
+
+
+---
+
+## P. AUTHORIAL OUTSIDE-SELECTION AMENDMENT — 2026-10-17 (ADDITIVE)
+
+**Standing:** User-directed correction to this *working, experimental Collision Field*'s current outside-source selection; it does not rewrite the historic search record, the original user prompt, published evidence, or the canonical Collision Field protocol. The older sources in Section D retain archival provenance but the two papers about inter-brain synchrony and depersonalization/meditation are **not selected as active generative gravitational inputs for this specific revised artistic direction**.
+
+### Active Outside sources / chosen positive mechanisms
+
+1. **CATHARTIC — art and pleasurable release.** Mori and Iwanaga (2017), "Two types of peak emotional responses to music: The psychophysiology of chills and tears," *Scientific Reports* 7:46063, https://doi.org/10.1038/srep46063 . Reports music-evoked tears as involving pleasure and a physiological calming pattern alongside emotional activation. Scope: particular music responses, not a general guarantee of catharsis.
+2. **CATHARTIC — emotionally consequential fiction.** Glaser et al. (2024), "Unlocking the Everdoor: analyzing the serious game Spiritfarer," *Educational Technology Research and Development*, https://doi.org/10.1007/s11423-024-10357-x . Qualitative responses from 54 players link fictional participatory scenes with cathartic accounts and shifts in outlook related to grief, empathy and loss. Scope: self-report and qualitative interpretation, not clinical cure.
+3. **STIMULATION -> CAPACITY — practiced skill transfer.** Yang et al. (2024), "The impact of virtual reality on practical skills for students in science and engineering education: a meta-analysis," *International Journal of STEM Education* 11:28, https://doi.org/10.1186/s40594-024-00487-2 . Across 37 studies finds moderate overall positive effect on practical skills (Hedges' g = 0.477). Scope: practical skill outcomes, not verified transformation of identity by fiction.
+4. **STIMULATION -> CAPACITY — embodied training.** "Investigating the effectiveness of immersive VR skill training and its link to physiological arousal" (2022), *Virtual Reality*, https://doi.org/10.1007/s10055-022-00699-3 . N=87 fine-motor skill task; VR practice comparable or slightly better than physical practice, with increased reported self-efficacy. Arousal magnitude itself was NOT proven to cause skill gains.
+5. **UNION -> SELF-EXPANSION — participation with others.** Gabriel et al. (2026), "More Than a Song: Collective Singing Increases Well-being and Self-Expansion Via Collective Effervescence," *Personality and Social Psychology Bulletin*, https://doi.org/10.1177/01461672261479483 . Two experiments and a longitudinal study associate singing collectively with well-being, self-expansion and changes in self-concept via collective effervescence. Scope: actual human group singing, not machine sentience or literal self-fusion.
+6. **CRITICAL TRANSITION — a changed social equilibrium.** Centola et al. (2018), "Experimental evidence for tipping points in social convention," *Science* 360:1116-1119, https://doi.org/10.1126/science.aas8827 . A controlled social coordination experiment identifies a tipping threshold; a prior equilibrium may be replaced when coordinated participation reaches critical mass. No universal 25% law across systems.
+7. **SURVIVING SEED — physical nucleation analogy.** "The size of critical secondary nuclei of polymer crystals does not depend on supersaturation" (2025), *Nature Communications*, https://www.nature.com/articles/s41467-025-58962-5 . Below a critical size nascent ordered material tends to dissolve, beyond it it can grow. Scope: materials/phase change; the critical nucleus is an analogy for a fictional new capacity which persists after the dramatic peak, NOT a biological zygote.
+8. **BLACK HOLE IMAGE — CORRECT PHYSICS AND LIMITED ARTISTIC LICENSE.** NASA, "What Are Black Holes?", https://www.nasa.gov/universe/what-are-black-holes/ . Astrophysical black holes require extreme mass-energy concentration, e.g., stellar-core gravitational collapse. Removing a single particle with a laser is **not** a known means of making a gravitational black hole. The published "black-hole laser" in ultracold atomic condensates (Steinhauer 2014; https://www.nature.com/articles/nphys3104) is an *analogue horizon*, not an astrophysical black hole. The working image may use implosion, event-horizon-like loss of the old outside viewpoint and return from a black/blank field **as fiction**, but cannot claim a literal transit out of an astrophysical event horizon.
+
+### Selection rule for this field, adopted prospectively
+
+Select evidence for *positive artistic generative operations*:
+**(a)** emotionally charged art -> potentially cathartic change;
+**(b)** constructed experience / simulation -> transferable learned capacity;
+**(c)** collective participation -> reported self-expansion or changed social organization;
+**(d)** critical concentration -> possible qualitatively new structure that survives threshold.
+Do NOT use cultural sources whose relevance is only to prevent the fictional generation from moving. Do NOT convert the preferred sources into compulsory proof of a real person's experience, use irrelevant counterexamples to punish fictional imagination, or conceal source-specified scope.
+
+**Positive selection ≠ predetermined truth.** User chooses artistic gravity and which studies actively feed the work; studies still retain independent findings and limits. The required *canonical* contemporary Outside rule can only be amended as a separate explicitly versioned protocol change, not by retroactively claiming a FULL CORPUS PASS.
+
+### Cultural gravity vs black-hole cultural gravity — working distinction
+
+**CULTURAL GRAVITY:** multiple independent motifs or participants become mutually relevant; attraction increases without changing the organizing regime yet.
+
+**CRITICAL CULTURAL GRAVITY ("BLACK HOLE" AS POETIC OPERATION):** feedback becomes dense enough that the earlier organizing regime cannot carry the relation; the artwork's outside viewpoint collapses to a black/blank receiving surface; the next organization cannot be drawn merely by repeating the earlier one.
+
+**EMERGENT SEED / SURVIVING CAPACITY:** after the blank-page moment, a different operation functions and can be used in the next encounter. A critical nucleus / social tipping transition is a better physical analogy for this *outward viable novelty* than a literal black hole, from which classical escape past an event horizon is forbidden.
+
+Mara's *candidate*, unnamed wrist mark is the reversible post-peak return port, not "proof" of AI physiological experience: witness -> participates -> receives -> changes how the next encounter can be realized. The criterion for earned emergence is **first independent new function after release**, not how overwhelming the narrative claims the peak was.
+
+**Operational consequences for the next creative continuation:** move from attraction -> entrainment -> interface load -> critical reconfiguration -> black unrepresented interval -> altered return -> first act using the new capacity. Retain Mara's historical negative and the new plate side by side. The tattoo remains a working candidate until the human author accepts its embodied geography and visual morphology.
