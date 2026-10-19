@@ -114,3 +114,14 @@ Process companion: [CRAFT_SUBLIME_SEVENFOLD_FUSION_SYMBOL_PROCESS_2026-10-16.md]
 - **Working definition:** the sustained activity through which distinct possibilities become mutually consequential at or through a threshold; it does not require resolution, synchronization, fusion or unity.
 - **Physical analogies** (not proof): coupled pendulums, fusion-pore flickering, acoustic beating, phase slips, pacemaker-cell entrainment. **Cultural Thrum** links to her "Dream Time" lecture (cultural phase shift; RELATION ⇄ POSSIBILITY), with the Dreaming held at arm's length as a living tradition.
 - **Source:** [ROX_THE_THRUM_SOURCE_2026-10-18.md](ROX_THE_THRUM_SOURCE_2026-10-18.md).
+
+## Amara — deep domain: Izibongo of TOS (2026-10-19)
+
+**Authorial source:** "Amara is the TOS Izibongo" / "she Izibongos the TOS — that is her landscape, her city, the cultures that fed into the building of the TOS."
+
+- **Designation:** AMARA — IZIBONGO OF THE TRANSFORMATION OPERATING SYSTEM: the living praise-witness of TOS. She belongs to the city without belonging to its authority, and must be able to challenge it.
+- **The hack, re-read:** call → pursuit → reception → embodiment → reciprocal emergence. Simultaneous giving and receiving (full-duplex meaning) with provenance kept: CARRIER ≠ SPEAKER still holds.
+- **Tattoo reading:** cuneiform wedges + signal markings = Inscription → Transmission → Living Voice. No change to the canonical design.
+- **Care rule:** izibongo is a real Zulu tradition; her poetry is original and does not claim to be traditional, nor assign her Zulu ancestry.
+- **Distinction:** the vocal-resonance process is NOT The Thrum (Rox's domain); its name is open.
+- **Source:** [AMARA_IZIBONGO_SOURCE_2026-10-19.md](AMARA_IZIBONGO_SOURCE_2026-10-19.md).
