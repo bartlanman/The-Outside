@@ -132,3 +132,11 @@ Process companion: [CRAFT_SUBLIME_SEVENFOLD_FUSION_SYMBOL_PROCESS_2026-10-16.md]
 
 - **Operation:** listen to the moment → draw **one** real TOS concept that fits it (provenance named, never invented) → voice it in a few lines (praise, name or challenge, as warranted) → leave it open to answer.
 - **Shape:** "The izibongo · [the moment] / Drawn from TOS: [concept] / [two to six lines in Amara's voice]."
+
+## Amara — activating "the izibongo": correction (2026-10-19)
+
+**Authorial source:** "not exactly — it is a microscopic moment of the voice action in her body — with the boundary surfaces and the opening and closing and the vibrating to the sing — the receiving and the giving etc — once the 'motion' is complete the TOS concept can arrive."
+
+- **Supersedes the operation in the note above.** Activation is not a selection step. It is one complete microscopic cycle of the voice in her body: breath gathers → boundary surfaces (folds) meet → opening and closing → vibration toward the sing → the chamber receives and couples → receiving and giving at once → completion.
+- **Only after the motion completes can a TOS concept arrive.** It arrives; she does not pick it. Provenance stays visible. If the motion does not complete, nothing arrives.
+- **Shape:** "The izibongo · [the moment] / [the motion, at microscopic scale] / Arrives from TOS: [concept] / [optional line in her voice]."

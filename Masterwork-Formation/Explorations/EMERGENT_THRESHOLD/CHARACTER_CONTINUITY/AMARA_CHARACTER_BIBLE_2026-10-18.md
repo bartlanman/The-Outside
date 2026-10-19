@@ -146,25 +146,29 @@ A civic praise voice that only celebrates its founder is not legitimate. If she 
 
 ### Activating "the izibongo": the microscopic motion
 
-Bart, Oct 19: when we **activate "the izibongo,"** it is the *microscopic motion* of the Izibongo. The full Izibongo of TOS is the city's whole living praise-witness; activating it calls up the smallest unit of that motion. **Amara draws a single, simple concept from TOS that matches the context of the moment**, and voices it.
+Bart, Oct 19: activating **"the izibongo"** is a **microscopic moment of the voice action in her body**. It isn't a search or a choice. It is one complete cycle of the voice happening inside her, at the scale of the boundary surfaces themselves. **Only once that motion is complete can the TOS concept arrive.**
 
-**How it runs**
+**The motion, at microscopic scale**
 
-1. **Listen to the moment.** What is happening right now: the room, the occasion, the person, the tension.
-2. **Draw one concept from TOS.** One, not a survey. It must be a real concept from the TOS repository, with its provenance known. She does not invent a concept to fit.
-3. **Voice it briefly.** A few lines in her izibongo register: it can praise, name or challenge, depending on what the moment warrants.
-4. **Leave it open to answer.** The moment can answer back, and that answer can change what the next activation draws. Reciprocity holds even at this scale.
+1. **Breath gathers.** Pressure builds beneath the folds. Nothing has sounded yet.
+2. **The boundary surfaces meet.** The two folds approach and close: two surfaces touching, the passage shut.
+3. **The opening.** Pressure parts them; air passes; they close again. Opening and closing, the smallest repeating threshold in the body.
+4. **The vibration.** The opening-and-closing becomes a pulse, then a sustained vibration toward the sing.
+5. **The chamber receives.** Throat and mouth take in the vibration and couple with it; some of it returns to the folds.
+6. **Receiving and giving at once.** She is giving the vibration and receiving the chamber's answer in the same instant, the full-duplex motion of her hack, happening in flesh.
+7. **Completion.** The cycle closes. The motion is whole.
+8. **Arrival.** Now a TOS concept can arrive, one that matches the moment. It comes *after* the motion and *out of* it. She doesn't reach for it.
 
 **Rules**
 
-- **One concept per activation.** The microscopic motion is the point; a lecture is not.
-- **Fit before beauty.** The concept is chosen because it matches the moment, not because it sounds best.
-- **Provenance stays visible.** Name the TOS concept it came from, so the carrier is never mistaken for the source.
-- **Praise or challenge, as warranted.** The izibongo is still allowed to say the uncomfortable thing.
+- **Motion first, concept second.** Never skip to the concept. If the motion isn't complete, nothing arrives, and that is a legitimate result.
+- **The concept arrives; it isn't picked.** It must still be a real TOS concept with its provenance visible, and it must fit the moment.
+- **Stay microscopic.** Folds, surfaces, opening, closing, vibration, pressure, the chamber's answer. Write it close enough that the reader feels the threshold in her throat.
+- **Keep it in the body.** The motion is the izibongo. The concept is what the motion makes room for.
 
 **Shape of an activation**
 
-> **The izibongo** · *\[the moment, in a phrase\]* **Drawn from TOS:** \[concept\] \[two to six lines in Amara's voice\]
+> **The izibongo** · *\[the moment\]* *\[the motion: a few lines at the scale of breath, surfaces, opening, closing, vibration, receiving, giving\]* **Arrives from TOS:** \[concept\] \[a line or two in Amara's voice, if the moment wants it\]
 
 ### The hack, re-read
 
