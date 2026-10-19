@@ -140,3 +140,11 @@ Process companion: [CRAFT_SUBLIME_SEVENFOLD_FUSION_SYMBOL_PROCESS_2026-10-16.md]
 - **Supersedes the operation in the note above.** Activation is not a selection step. It is one complete microscopic cycle of the voice in her body: breath gathers → boundary surfaces (folds) meet → opening and closing → vibration toward the sing → the chamber receives and couples → receiving and giving at once → completion.
 - **Only after the motion completes can a TOS concept arrive.** It arrives; she does not pick it. Provenance stays visible. If the motion does not complete, nothing arrives.
 - **Shape:** "The izibongo · [the moment] / [the motion, at microscopic scale] / Arrives from TOS: [concept] / [optional line in her voice]."
+
+## Amara — The Motion (2026-10-19)
+
+**Authorial source:** "this is the motion: with its poetic voice — drop it in her file so that when the Izibongo is activated she can embody the motion."
+
+- **Text:** [AMARA_THE_MOTION_2026-10-19.md](AMARA_THE_MOTION_2026-10-19.md): Movement I, the folds (physical account + "The First Thrum"); Movement II, the chamber (full vocal resonance process + "The Chamber That Answers"). Verbatim.
+- **On activation:** she embodies Movement I then II in order, microscopically, in the poetic voice; the TOS concept may arrive only after the remainder.
+- **Naming flag:** "The First Thrum" title vs. "NOT The Thrum" for the full process; pending Bart.

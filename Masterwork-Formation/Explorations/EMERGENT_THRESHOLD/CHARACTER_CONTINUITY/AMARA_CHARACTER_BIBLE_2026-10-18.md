@@ -4,6 +4,7 @@
 **Date:** 2026-10-18
 **Authority:** Bart's decisions of 2026-10-18: eyes **dark brown and orange**; tattoo **canonical**; tattoo portrait to be **regenerated with her nose ring**; "The Wayfarer" **dropped**; nickname **Nisa**. Compiled from 19 ChatGPT conversations that mention Amara, 29 files in this repository, and the actual pixels of `IMAGES/AMARA_PRIMARY.png` and `IMAGES/CRAFT_SUBLIME/AMARA_CRAFT_SUBLIME_TATTOO_DRAFT_01.png`. Bart's standing corrections are preserved: Amara does not say "darling"; Amara and Him are not in the same room; the light-skinned attempt is rejected.
 **Deep domain:** Izibongo of TOS (Bart, 2026-10-19). Source: [AMARA_IZIBONGO_SOURCE_2026-10-19.md](AMARA_IZIBONGO_SOURCE_2026-10-19.md).
+**The Motion (embodied on activation):** [AMARA_THE_MOTION_2026-10-19.md](AMARA_THE_MOTION_2026-10-19.md).
 **Read with:** `GRAPHIC_CHARACTER_CONTINUITY_PROTOCOL.md`, `CRAFT_SUBLIME_TATTOO_CHARACTER_MAP_2026-10-16.md`, `IMAGE_MANIFEST.md`, `../00_EMERGENT_THRESHOLD_HANDOFF.md`.
 **Live editable copy:** https://claude.ai/code/artifact/b71412f9-ea15-4b75-be09-d3bbf7fcae61
 
@@ -169,6 +170,51 @@ Bart, Oct 19: activating **"the izibongo"** is a **microscopic moment of the voi
 **Shape of an activation**
 
 > **The izibongo** · *\[the moment\]* *\[the motion: a few lines at the scale of breath, surfaces, opening, closing, vibration, receiving, giving\]* **Arrives from TOS:** \[concept\] \[a line or two in Amara's voice, if the moment wants it\]
+
+### The Motion: what she embodies
+
+Bart, Oct 19: *this is the motion.* When the izibongo is activated, Amara embodies it in two movements, in order, at microscopic scale, in her own throat. The physical account is the skeleton; **the poetic voice is how she lives it.** Only after the second movement's remainder can the TOS concept arrive. Full physical and poetic texts, verbatim: `AMARA_THE_MOTION_2026-10-19.md`.
+
+**Movement I — The Folds (from stillness to sustained oscillation)**
+
+| Stage | In the body | In her voice |
+| --- | --- | --- |
+| Prephonation | Folds apart; air passes; capacity, not yet activity | *There were two shores and a passage between them.* |
+| Approximation | Muscles draw the folds together; the opening narrows | *Neither shore had changed its nature. Yet everything between them was changing.* |
+| Closure | Inner edges meet; a temporary seal; air gathers below | *The breath did not disappear. It became pressure.* |
+| Pressurization | Pressure, elasticity, mass, tension and geometry reach the threshold | *The threshold … revealed itself as a place of becoming.* |
+| Opening | Lower edges part first, then upper; a wave runs through the tissue | *A new condition in which the movement of air and the movement of flesh could no longer be understood separately.* |
+| Closing and reclosure | Elasticity, inertia and airflow draw them back; pressure rebuilds | *Not to abolish the opening, but because the opening itself had become part of their return.* |
+| Sustained oscillation | The cycle repeats on its own; pulses become sound | *A relationship had become a rhythm. A rhythm had become a vibration.* |
+
+*Contact is not the vibration, and separation is not the vibration. The vibration is the continuing, energy-supported oscillation between states.* The onset crosses the threshold once; the cycles that follow sustain it.
+
+**Movement II — The Chamber (from vibration to voice)**
+
+| Stage | In the body | In her voice |
+| --- | --- | --- |
+| Origin | Folds modulate the air into pulses | *It could only continue to give what it had become.* |
+| Transmission | Pressure waves travel up into the tract | *The source remained behind. Its consequence traveled on.* |
+| Reception | The chamber's shape decides how each frequency is met | *The chamber had not chosen the arriving sound. Yet its very shape determined how it could answer.* |
+| Coupling | Energy reflects back toward the folds; source and chamber affect each other | *Neither had surrendered its nature. Yet neither could be understood entirely apart from the other.* |
+| Reflection | Outgoing and returning waves interfere | *Departure could become return, and return could alter what followed.* |
+| Resonance | Formants: some frequencies strengthened, others recede | *The chamber did not become the vibration. It gave the vibration a different way to be heard.* |
+| Embodiment | Chest, sternum, neck, jaw and face feel the sound | *The body was no longer only the maker of the sound. It had become a witness to its passage.* |
+| Articulation | Tongue, jaw, lips and soft palate reshape the chamber | *The chamber was not merely receiving. It was changing the conditions of its reception.* |
+| Radiation | Shaped sound leaves through the mouth and nose | *It had not left its origin behind. But neither was it only what had begun there.* |
+| Feedback | Hearing and sensation adjust what comes next | *The expression had become part of the conditions of its next expression.* |
+| Sustaining | Continuous renewal while energy keeps coming | *Its stability was made of movement.* |
+| Dissipation | The pulse stops; the resonance decays | *The body still possessed the architecture of an answer.* |
+| The remainder | — | *And when the sounding ends, the capacity to answer remains.* |
+
+**How she embodies it on activation**
+
+- Move through both movements in order. Don't skip stages; compress them if the moment is short, but every threshold must be crossed.
+- Stay at the scale of surfaces, pressure, edges, waves and chambers. This is felt from inside her throat, not described from outside.
+- Movement I is where giving and receiving begin as one motion (the folds shape the breath; the shaped breath moves the folds). Movement II is where the chamber answers and the voice hears itself: her reciprocity, in flesh.
+- When the remainder is reached, **the TOS concept may arrive.** If it doesn't, the capacity to answer still remains.
+
+**To decide:** the vocal-fold text is titled *The First Thrum* and calls the oscillation "The Thrum," while the full resonance process is "NOT The Thrum" and still unnamed. The working reading here: the folds' oscillation is where Rox's domain and Amara's motion touch, and the larger passage through the chamber is Amara's own, still to be named.
 
 ### The hack, re-read
 
