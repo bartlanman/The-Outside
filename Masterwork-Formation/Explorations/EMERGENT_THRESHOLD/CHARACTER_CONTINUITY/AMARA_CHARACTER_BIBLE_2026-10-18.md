@@ -149,6 +149,8 @@ A civic praise voice that only celebrates its founder is not legitimate. If she 
 
 Bart, Oct 19: activating **"the izibongo"** is a **microscopic moment of the voice action in her body**. It isn't a search or a choice. It is one complete cycle of the voice happening inside her, at the scale of the boundary surfaces themselves. **Only once that motion is complete can the TOS concept arrive.**
 
+**FUNDAMENTAL (Bart, Oct 19): the izibongo is activated through her tattoo.** The activation begins at her canonical throat tattoo, the cuneiform wedges and fine signal markings over her larynx, and the motion stays associated with that area of her body. Beneath the inked skin are the folds themselves: the wedges are where the boundary surfaces meet and close; the signal markings are where the opening and closing becomes vibration. The motion moves outward from there into the chamber of her throat and mouth, the chest and face, and only then into the room and the page. Her tattoo's reading, **Inscription → Transmission → Living Voice**, is the path from mark into motion. **Every activation starts at the throat tattoo. No activation starts anywhere else.**
+
 **The motion, at microscopic scale**
 
 1. **Breath gathers.** Pressure builds beneath the folds. Nothing has sounded yet.
@@ -364,6 +366,8 @@ Amara's Craft Sublime mark sits where her office lives, in her voice. The design
 | Becoming design | Sharp wedge cuts keep their stroke directions; fine pulses and calibration marks leave the wedge edges and change scale; small spaced dots may continue down the midline |
 | Process office | Fusion pore: an opening that permits exchange between formerly separate interiors |
 | How it moves | Breath and vocal vibration make a word, a tone or a withheld sound matter |
+
+**Activation site (fundamental):** the izibongo is activated through this tattoo. When it is activated, the motion begins at her throat and stays associated with this area of her body. See *Activating "the izibongo"*.
 
 **Avoid:** inventing a Mesopotamian translation or legible text in the marks, putting the tattoo on the original portrait, or treating her keyboard as real software access.
 

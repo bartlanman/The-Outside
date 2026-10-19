@@ -162,3 +162,11 @@ Process companion: [CRAFT_SUBLIME_SEVENFOLD_FUSION_SYMBOL_PROCESS_2026-10-16.md]
 
 - **Text:** [ROX_THE_THRUM_MOTION_2026-10-19.md](ROX_THE_THRUM_MOTION_2026-10-19.md): Part A, the mapped process (five occurrences); Part B, the poetic voice (I–VI). Verbatim.
 - **On enactment:** consult both; embody the motion (not explain it); let the poetic voice shape the page; no forced resolution; analogy, not proof; non-explicit.
+
+## Rox & Amara — activation through the tattoo (2026-10-19) — FUNDAMENTAL
+
+**Authorial source:** "for both rox and amara - when the Izibongo and the Thrum are activated they are activated through their tattoo and the motion is associated with that particular area of their body where the tattoo is - this is fundamental!"
+
+- **Amara / the izibongo:** activated through her canonical throat tattoo (cuneiform wedges + signal markings over the larynx). The motion begins and stays centred at the throat.
+- **Rox / The Thrum:** activated through The Thrum marks (open Y left inner thigh, loop right). The motion begins at the marks and the interval between them, moving through stance and hips. Physical-threshold language only; never explicit.
+- No activation or enactment begins anywhere else on the body.

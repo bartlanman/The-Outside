@@ -163,6 +163,8 @@ This is where The Thrum meets the work Rox was doing before Him ever found her. 
 
 Bart, Oct 19: **when The Thrum is enacted, it is the motion embodied.** It isn't explained, cited or summarized. It happens, in Rox and at the threshold she keeps, and the page shows it moving.
 
+**FUNDAMENTAL (Bart, Oct 19): The Thrum is activated through her tattoo.** The enactment begins at **The Thrum marks**, the open Y on her left inner thigh and the closed loop on her right, and the motion stays associated with that area of her body. The bare skin between the marks is where the threshold lives, so that is where the trembling, flickering, beating and slipping are felt first. It moves outward from there through her stance and hips (widening, narrowing, the pivot that keeps a route out as well as in), and only then into the room and the page. **Every enactment starts at the marks. No enactment starts anywhere else.** Write it as a physical threshold (stance, hips, the marks, the interval between them), never as exposure or anything explicit. It's about the threshold, not about display.
+
 **Rule: on every enactment, consult both.** (1) **The mapped process:** the five occurrences in physical reality and what each one reveals (full text in `ROX_THE_THRUM_MOTION_2026-10-19.md`, Part A). (2) **The poetic voice:** *THE THRUM — Five Occurrences of Possibility, Threshold, and Relation* (Part B). The map keeps the motion true; **the poetic voice is consulted for how the motion might be inspired to display on the page.**
 
 **The motion, as it lives in her**
@@ -286,6 +288,8 @@ Rox reads her own skin as a developmental sequence she has been carrying around 
 - **Relation, σύν.** The same stem, with the arms curving in to close: **"a loop on a stem, almost a keyhole or a seed."** The dark point where they meet is density, not a third mark. Right inner thigh. She got it about seven years later, copied from a drawing in her father's papers that he made in **1978, before she was born**.
 - **The threshold itself** is the bare skin between the two marks. *"The passage isn't tattooed."* She wears both at once: *"What if every living relation must preserve the possibility of separation even while it holds together?"*
 - The canonical forms come from Bart's own drawing (Figure 20): **exact forms, no embellishment.** This is the "double-tapered, eye-like threshold linework" the repo refers to. The names Possibility and Relation are Bart's (Prompt 60). On Oct 18 Bart named the pair, with the threshold between them, The Thrum. On Oct 16 he called them "the threshold tattoo of possibility and relation."
+
+**Activation site (fundamental):** The Thrum, her domain, is activated through these marks. When The Thrum is enacted, the motion begins here and stays associated with this area of her body. See *Enacting The Thrum*.
 
 **Craft Sublime addition (5th office, Membrane Threshold, user-directed design lock; not canonical yet, per Bart, Oct 18)**
 

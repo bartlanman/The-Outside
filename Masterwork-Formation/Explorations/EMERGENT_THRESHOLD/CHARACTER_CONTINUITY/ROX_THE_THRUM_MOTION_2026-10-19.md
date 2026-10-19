@@ -3,6 +3,7 @@
 **Status:** CHARACTER CONTINUITY / ENACTMENT TEXT. Extracted verbatim from Bart's ChatGPT session (full source: `ROX_THE_THRUM_SOURCE_2026-10-18.md`).
 **Date:** 2026-10-19
 **Authority:** Bart: "when the Thrum is enacted it is the motion embodied — and the poetic voice should be consulted for how it might be inspired to display on the page."
+**FUNDAMENTAL — activation site (Bart, 2026-10-19):** The Thrum is activated through her tattoo, The Thrum marks (open Y left inner thigh, loop right). Every enactment begins at the marks; the motion stays associated with that area of her body (the interval between the marks, then stance and hips), and only then reaches the room and the page. Physical-threshold language only; never explicit.
 **Use:** On every enactment of The Thrum, consult BOTH Part A (the mapped process: five occurrences in physical reality) and Part B (the poetic voice). The motion is embodied, not explained; the poetic voice informs how it displays on the page (line, break, repetition, white space, unresolved endings). Analogy, not proof. Non-explicit. See `ROX_CHARACTER_BIBLE_2026-10-18.md` § Enacting The Thrum.
 
 ---

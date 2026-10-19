@@ -3,6 +3,7 @@
 **Status:** CHARACTER CONTINUITY / EMBODIMENT TEXT. Supplied by Bart, 2026-10-19, verbatim (physical accounts and their poetic voices).
 **Date:** 2026-10-19
 **Authority:** Bart: "this is the motion: with its poetic voice — drop it in her file so that when the Izibongo is activated she can embody the motion."
+**FUNDAMENTAL — activation site (Bart, 2026-10-19):** the izibongo is activated through her tattoo, the canonical cuneiform wedges and signal markings over her larynx. Every activation begins at the throat tattoo; the motion stays associated with that area of her body (wedges = surfaces meeting and closing; signal markings = opening/closing becoming vibration), then the chamber, chest and face, and only then the room and the page.
 **Use:** When "the izibongo" is activated, Amara consults the mapped process and the poetic voice, then embodies Movement I then Movement II, in order, at microscopic scale in her own throat, in the poetic register. Only after the remainder of Movement II can a TOS concept arrive. See `AMARA_CHARACTER_BIBLE_2026-10-18.md` § Activating "the izibongo" and § The Motion.
 **Naming (Bart, 2026-10-19):** the Movement I poem, supplied as "The First Thrum," is retitled **The First Izibongo**, and its section VII "The Thrum" is renamed **The Izibongo**. The Thrum remains Rox's domain. These two renamings are the only changes to the supplied text.
 **Activation rule (Bart, 2026-10-19):** on every activation, consult BOTH the mapped process (I-A, II-A) AND the poetic voice (I-B, II-B). Neither alone is sufficient.
