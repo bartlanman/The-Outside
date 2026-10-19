@@ -105,3 +105,12 @@ Process companion: [CRAFT_SUBLIME_SEVENFOLD_FUSION_SYMBOL_PROCESS_2026-10-16.md]
 - **Name:** the paired Threshold marks, with the uninscribed skin between them, are **The Thrum**.
 - **Craft Sublime design:** **not canonical** — "not right yet." Remains a user-directed design lock under revision.
 - **Craft Sublime image:** **HOLD**. Do not generate a Rox tattoo draft until Bart lifts it.
+
+## Rox — domain: The Thrum (2026-10-18)
+
+**Authorial source:** "this is Roxs domain."
+
+- **The Thrum is Rox's domain**; The Read is her office. Her paired thigh marks carry the name as its emblem.
+- **Working definition:** the sustained activity through which distinct possibilities become mutually consequential at or through a threshold; it does not require resolution, synchronization, fusion or unity.
+- **Physical analogies** (not proof): coupled pendulums, fusion-pore flickering, acoustic beating, phase slips, pacemaker-cell entrainment. **Cultural Thrum** links to her "Dream Time" lecture (cultural phase shift; RELATION ⇄ POSSIBILITY), with the Dreaming held at arm's length as a living tradition.
+- **Source:** [ROX_THE_THRUM_SOURCE_2026-10-18.md](ROX_THE_THRUM_SOURCE_2026-10-18.md).

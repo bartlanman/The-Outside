@@ -3,6 +3,7 @@
 **Status:** CHARACTER CONTINUITY REFERENCE. Inherits the experimental / working standing of its sources; nothing here is promoted to canon, and the October 10 handoff Return remains NOT PRESSED.
 **Date:** 2026-10-18
 **Authority:** Bart, 2026-10-18: Rox is **fully fictional**; "the real Rox" / "real-world person" wording in earlier files refers to "a different level" of Rox's story, not to a living person. Compiled from the full Journey transcript (`TRANSCRIPTS/Journey-with-the-Redhead-Tattooed-Woman/PART-001–005`), 18 ChatGPT conversations that mention Rox, 28 repository files, and the actual pixels of `IMAGES/ROX_PRIMARY.png`. Bart's decisions of 2026-10-18 are recorded under *Open questions*: open Y left / loop right; grey-green eyes locked; no face tattoo; the paired marks are named **The Thrum**; Craft Sublime design not yet canonical; Craft Sublime image on HOLD.
+**Domain:** The Thrum (Bart, 2026-10-18). Source: [ROX_THE_THRUM_SOURCE_2026-10-18.md](ROX_THE_THRUM_SOURCE_2026-10-18.md).
 **Read with:** `GRAPHIC_CHARACTER_CONTINUITY_PROTOCOL.md`, `CRAFT_SUBLIME_TATTOO_CHARACTER_MAP_2026-10-16.md`, `IMAGE_MANIFEST.md`, `../00_EMERGENT_THRESHOLD_HANDOFF.md`.
 **Live editable copy:** https://claude.ai/code/artifact/29bb432f-e0e4-470f-a4c3-96019e1537cf
 
@@ -15,7 +16,7 @@
 | **Name** | Roxanne. She goes by **Rox** ("And for the record, it's Rox. Not Roxanne.") |
 | **Status** | Fully fictional. She was generated in the Kingdom of Generation on Oct 10, 2026. The "real Rox" wording in some files means a different story level, not a living person. |
 | **Age** | Early thirties |
-| **Office** | **Steward of The Read**: warrant, relation and possibility |
+| **Office** | **Steward of The Read**: warrant, relation and possibility. Domain: The Thrum |
 | **Governing questions** | WHAT CAN THE REMAINDER WARRANT? · WHAT CAN BEGIN BECAUSE SOMETHING WAS LEFT? |
 | **Trade** | Academic in cultural transmission. Lecturer ("Dream Time: A Mechanism of Cultural Phase Shift"). Coined the **ordinary carrier**. |
 | **Look** | Copper-red hair, heavy freckles, light grey-green eyes, dense tattoos on her neck and both arms, motorcycle boots |
@@ -118,6 +119,44 @@ The apparatus is **LEDGER ⇄ READ ⇄ CROSSING**, and Rox sits in the middle. T
 
 - WHAT PRODUCED THE ENCOUNTER? / WHAT CAN THE ENCOUNTER PRODUCE?
 - WHAT BECAME POSSIBLE TO ASK AFTER THE ENCOUNTER THAT WASN'T AVAILABLE BEFORE IT?
+
+## Her domain: The Thrum
+
+Bart, Oct 18: **The Thrum is Rox's domain.** The Read is her office; The Thrum is the territory it works in. Her two thigh marks carry its name because they are its emblem: Possibility on one side, Relation on the other, and a live threshold between them.
+
+**Working definition.** *The sustained activity through which distinct possibilities become mutually consequential in relation to one another, at or through a threshold.* It may show up as oscillation, tremor, pulsation, flickering, interference or a changing phase relationship. It may live at the boundary, travel through the participants, or emerge as behaviour of the whole. **It does not require resolution, synchronization, fusion or unity.** What defines it is consequential movement that persists, keeping the possibilities of a relationship active and able to change.
+
+The deeper claim, and the reason it belongs to Rox: *the threshold need not be silent before transformation.* It can already be active, responsive and changing long before any decisive crossing. That is her whole stance. Don't close it. Keep the door real. Let the in-between do its work before anyone declares an outcome.
+
+### Five occurrences in physical reality
+
+These are analogies and possible mechanisms. They are **not** proof of a single universal process called The Thrum, and Rox would be the first to say so.
+
+| Occurrence | What happens | Where the motion lives | The Thrum here |
+| --- | --- | --- | --- |
+| **The sympathy of two pendulums** (Huygens, 1665) | Two clocks on one support exchange tiny forces through it and settle into a stable phase relationship, in step or opposed. | Throughout a mechanically coupled system | The shared support is not a separator but the medium that makes the relationship possible. Both stay two. |
+| **The flickering membrane** (fusion-pore flickering) | A pore between a vesicle and a cell membrane opens, narrows, closes and reopens before widening or vanishing. | At the boundary itself | Activity concentrated in the threshold. The boundary keeps difference and becomes a passage at once. |
+| **The beat between two tones** | 440 Hz and 442 Hz together swell and fade at 2 beats per second, a rhythm neither source produces. | In overlapping waves | Difference that doesn't disappear but becomes rhythm. (Interference, not mutual influence.) |
+| **The phase slip** | Coupled oscillators hold near-synchrony, then one slips a full cycle ahead, then near-synchrony resumes. | In the relative dynamics | The relationship changes abruptly while both participants keep moving and stay themselves. |
+| **The heart's collective rhythm** | Electrically coupled rabbit pacemaker cells, past a critical coupling, entrain to a shared interval belonging to neither alone. | Across coupled cells | The many sustaining a pulse that none of them sets alone. The threshold is measurable. |
+
+**Five capacities a theory of The Thrum would examine:** to influence; to tremble (sustain motion without resolving it); to produce an emergent pattern; to shift phase; to reorganize. **There is no universal outcome.** Pendulums may lock, a pore may close, two tones may beat forever, oscillators may keep slipping.
+
+### The Cultural Thrum, and her lecture
+
+This is where The Thrum meets the work Rox was doing before Him ever found her. Her lecture, "Dream Time: A Mechanism of Cultural Phase Shift," argued that cultures *rehearse possible futures before they have the structures to inhabit them*.
+
+*The sustained activity through which a living culture encounters the tension between its inherited relationships and emerging possibilities.* At a consequential threshold, the organization of those relationships may change: a **cultural phase shift**. That shift need not abandon continuity. What endures may find new forms, and what was unrecognized may become consequential.
+
+- **Tipping points are real but conditional.** Centola et al. (2018) showed an established convention displaced past a critical minority in experimental networks. It is not a universal law of culture, and not every change is good.
+- **The spiral, not the cycle.** Yolŋu songspiral scholarship (*Wukun*, the Gathering of the Clouds) describes return that is not repetition. A culture can come back to enduring relationships and live them differently.
+- **The reversal Rox's marks already hold:** not only Possibility → Threshold → Relation, but **RELATION ⇄ POSSIBILITY**. Inherited relations create the conditions for new possibilities, which change how those relations are lived. The Thrum is the motion that keeps their threshold active. A phase shift doesn't end it; it reorganizes it.
+
+**Her caution, which is part of the domain.** The Aboriginal Dreaming traditions (Tjukurrpa and others, Stanner's "Everywhen") are living spiritual and cultural realities with their own custodians and protocols. They are a point of comparison because they challenge the idea that the ancestral past must be left behind for a future to arrive. They are **not** an early version of complexity theory, a stage to be superseded, or a generic metaphor. Some songline knowledge is restricted. Rox's younger lecture brushed close to that line; the Rox of The Thrum knows exactly where it is. *"You're making a beautiful metaphor out of somebody else's living world."*
+
+**How the domain sounds in her mouth:** "It's a beat, not a third note. Nobody has to give up their frequency for it to happen." / "It's flickering. That's not failure. That's the boundary thinking." / "Near-synchrony isn't a promise. Watch for the slip."
+
+**Lines from the source** (Bart's ChatGPT session, Oct 18), for use in scenes: *"The Thrum is what can be felt when difference does not disappear, but becomes rhythm."* · *"The Thrum is the persistence of relation through a change in the way its movements meet."* · *"The Thrum is the motion of the between, alive with what has not yet become—and already changed by what has begun."*
 
 ## Personality and voice
 
@@ -286,7 +325,7 @@ Why it fits: a creature that leaves its old skin behind but stays itself. In her
 1. **Thigh placement: locked.** Open Y (Possibility) on the **left** inner thigh, closed loop (Relation) on the **right**. This follows Bart's Figure 20 drawing. The opposite placement in Prompt 60 is superseded.
 2. **Eye colour: locked.** Light grey-green, from ROX\_PRIMARY.
 3. **No face tattoo.** Neck and both arms only. The tattoo map's "face/neck/arms" wording is corrected.
-4. **The marks are named The Thrum.** The pair of Threshold marks, Possibility and Relation, together with the bare skin between them, is **The Thrum**.
+4. **The marks are named The Thrum.** The Thrum is Rox's domain (see Her domain: The Thrum). The pair of Threshold marks, Possibility and Relation, with the bare skin between them, carries its name: **The Thrum**.
 5. **Canonical status: not yet.** Bart: the Craft Sublime design "isn't right yet." It stays a user-directed design lock, still being worked out.
 6. **Craft Sublime image: HOLD.** Don't generate a Rox tattoo draft until Bart lifts the hold.
 
