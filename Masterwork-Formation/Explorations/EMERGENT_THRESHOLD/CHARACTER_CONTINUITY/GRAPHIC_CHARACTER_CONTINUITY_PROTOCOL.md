@@ -85,3 +85,12 @@ Process companion: [CRAFT_SUBLIME_SEVENFOLD_FUSION_SYMBOL_PROCESS_2026-10-16.md]
 - **Tattoo image:** to be regenerated from `AMARA_PRIMARY.png` + draft 01 with her gold hoop nose ring visible.
 - **Nickname:** **Nisa** (from Nisaba).
 - **"The Wayfarer":** dropped as a name for Him.
+
+## Rox — full character reference (2026-10-18)
+
+**Authorial source:** "no real person - just a different level in the of Rox."
+
+- **Full reference:** [ROX_CHARACTER_BIBLE_2026-10-18.md](ROX_CHARACTER_BIBLE_2026-10-18.md).
+- **Fiction status:** Rox is wholly fictional. "The real Rox" (PART-005) and "the real-world person" (ET/03) mark a different level of her story; they are retained as source wording and never license inferring anyone's identity.
+- **Visual reminders confirmed against `ROX_PRIMARY.png` pixels:** copper-red hair loosely pinned up, heavy freckles, light grey-green eyes (the text never gives a colour), tattoos on neck and both arms (right-arm floral sleeve with a woman's face; left-forearm black-and-grey serpent), **no face tattoo**. The "face/neck/arms" wording in the tattoo map's Avoid line is unverified drift pending Bart's confirmation; this protocol's "neck and both arms" stands.
+- **Threshold marks:** the inner-thigh Possibility (open Y, διά) and Relation (loop on a stem, σύν) marks per Bart's Figure 20 drawing are the "existing Threshold tattoo" the Craft Sublime map builds on. Laterality is an open decision (working assumption: open Y left, loop right). No Rox Craft Sublime image exists yet.
