@@ -89,6 +89,7 @@ Expected upload folder:
 - **Becoming design:** Each original threshold mark becomes a functional aperture within its concentric enclosure. The circles curve, overlap, approach or reorganize as membrane conditions shift, while the bilateral existing motifs remain identifiable. Pairing is integral to the tattoo's logic.
 - **Process office:** **THE MEMBRANE ITSELF**: before (two enclosures / selective passage), threshold (local hemifusion), opening (new passage), after (reorganized shared enclosure). Rox tests warrants and protected differences; she does not authorize compulsory joining.
 - **Avoid:** replacing Rox's pre-existing tattoos on her face/neck/arms or claiming these new bilateral placements appeared in `ROX_PRIMARY.png`. Do not replace her specific Threshold motif with a generic vesica piscis.
+- **Correction (2026-10-18, Bart):** Rox has **no face tattoo**; read the line above as neck/arms. Her paired Threshold marks are named **The Thrum** (open Y left, loop right). This design is **not yet canonical** and Rox's Craft Sublime image is on **HOLD**.
 
 ## Relational assembly — seven symbolic offices, not seven biochemical steps
 

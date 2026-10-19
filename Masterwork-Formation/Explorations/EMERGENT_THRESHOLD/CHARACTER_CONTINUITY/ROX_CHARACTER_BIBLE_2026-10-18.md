@@ -2,7 +2,7 @@
 
 **Status:** CHARACTER CONTINUITY REFERENCE. Inherits the experimental / working standing of its sources; nothing here is promoted to canon, and the October 10 handoff Return remains NOT PRESSED.
 **Date:** 2026-10-18
-**Authority:** Bart, 2026-10-18: Rox is **fully fictional**; "the real Rox" / "real-world person" wording in earlier files refers to "a different level" of Rox's story, not to a living person. Compiled from the full Journey transcript (`TRANSCRIPTS/Journey-with-the-Redhead-Tattooed-Woman/PART-001–005`), 18 ChatGPT conversations that mention Rox, 28 repository files, and the actual pixels of `IMAGES/ROX_PRIMARY.png`. Working assumptions pending Bart's decision are marked in *Open questions* (thigh laterality, eye colour, face-tattoo correction).
+**Authority:** Bart, 2026-10-18: Rox is **fully fictional**; "the real Rox" / "real-world person" wording in earlier files refers to "a different level" of Rox's story, not to a living person. Compiled from the full Journey transcript (`TRANSCRIPTS/Journey-with-the-Redhead-Tattooed-Woman/PART-001–005`), 18 ChatGPT conversations that mention Rox, 28 repository files, and the actual pixels of `IMAGES/ROX_PRIMARY.png`. Bart's decisions of 2026-10-18 are recorded under *Open questions*: open Y left / loop right; grey-green eyes locked; no face tattoo; the paired marks are named **The Thrum**; Craft Sublime design not yet canonical; Craft Sublime image on HOLD.
 **Read with:** `GRAPHIC_CHARACTER_CONTINUITY_PROTOCOL.md`, `CRAFT_SUBLIME_TATTOO_CHARACTER_MAP_2026-10-16.md`, `IMAGE_MANIFEST.md`, `../00_EMERGENT_THRESHOLD_HANDOFF.md`.
 **Live editable copy:** https://claude.ai/code/artifact/29bb432f-e0e4-470f-a4c3-96019e1537cf
 
@@ -19,7 +19,7 @@
 | **Governing questions** | WHAT CAN THE REMAINDER WARRANT? · WHAT CAN BEGIN BECAUSE SOMETHING WAS LEFT? |
 | **Trade** | Academic in cultural transmission. Lecturer ("Dream Time: A Mechanism of Cultural Phase Shift"). Coined the **ordinary carrier**. |
 | **Look** | Copper-red hair, heavy freckles, light grey-green eyes, dense tattoos on her neck and both arms, motorcycle boots |
-| **Signature marks** | Two inner-thigh marks, **Possibility** (an open Y, διά) and **Relation** (a closed loop on a stem, σύν). The threshold is the bare skin between them. |
+| **Signature marks** | The Thrum: two inner-thigh marks, **Possibility** (an open Y, διά) and **Relation** (a closed loop on a stem, σύν). The threshold is the bare skin between them. |
 | **Craft Sublime position** | 5th, **Membrane Threshold**: enclosing circles at the inguinal creases |
 | **Visual anchor** | `IMAGES/ROX_PRIMARY.png` ("Noir Workshop Investigation") |
 | **One line** | "I'm not objecting to being called meaningful. I'm objecting to being called inevitable." |
@@ -51,7 +51,7 @@ Him had come to recruit her. He had sat in the third row of her lecture three we
 
 - **Hair:** vivid copper-red, long and unruly. It is usually pinned up loosely with strands escaping, and sometimes twisted into a knot with a pencil through it.
 - **Freckles:** heavy, across her nose and cheeks. The text calls them "luminous in the lamplight."
-- **Eyes:** light grey-green. The text never gives a colour, so this comes from the portrait.
+- **Eyes:** light grey-green (locked by Bart, Oct 18). The text never gives a colour; this comes from the portrait.
 - **Brows and gaze:** strong brows and a direct, assessing look.
 - **Tattoos:** dense coverage of her neck and both arms (see *The tattoos*). **No face tattoo.**
 - **Piercings:** small ear piercings or hoops.
@@ -214,14 +214,14 @@ Rox reads her own skin as a developmental sequence she has been carrying around 
 | **Branching lines** | Back of the neck down toward the shoulder blade, with a floral piece at the side of the neck | She designed it while studying inheritance. The artist joined two branches that were meant to stay separate, at "a small dark knot." She was furious and kept it anyway, and still wonders whether that was discovery or a beautiful excuse. | **UNEXPECTED RELATION** |
 | **Incomplete circle** | Base of the shoulder blade: three short lines, an incomplete circle, an unmarked opening | Got at nineteen, before everything else. "I've never told anyone what it means." | Undisclosed. *"What if it's the room I left for something I didn't yet know how to encounter?"* |
 
-**The Threshold marks (inner thighs, never shown in images)**
+**The Thrum: the Threshold marks (inner thighs, never shown in images)**
 
-- **Possibility, διά.** An open **Y**: the stem points toward the knee and two arms open upward without touching. She got it at nineteen and thought it meant freedom ("Two directions. No obligation to choose"). It echoes the Pythagorean Y.
-- **Relation, σύν.** The same stem, with the arms curving in to close: **"a loop on a stem, almost a keyhole or a seed."** The dark point where they meet is density, not a third mark. She got it about seven years later, copied from a drawing in her father's papers that he made in **1978, before she was born**.
+- **Possibility, διά.** An open **Y**: the stem points toward the knee and two arms open upward without touching. Left inner thigh. She got it at nineteen and thought it meant freedom ("Two directions. No obligation to choose"). It echoes the Pythagorean Y.
+- **Relation, σύν.** The same stem, with the arms curving in to close: **"a loop on a stem, almost a keyhole or a seed."** The dark point where they meet is density, not a third mark. Right inner thigh. She got it about seven years later, copied from a drawing in her father's papers that he made in **1978, before she was born**.
 - **The threshold itself** is the bare skin between the two marks. *"The passage isn't tattooed."* She wears both at once: *"What if every living relation must preserve the possibility of separation even while it holds together?"*
-- The canonical forms come from Bart's own drawing (Figure 20): **exact forms, no embellishment.** This is the "double-tapered, eye-like threshold linework" the repo refers to. The names Possibility and Relation are Bart's (Prompt 60). On Oct 16 he called them "the threshold tattoo of possibility and relation."
+- The canonical forms come from Bart's own drawing (Figure 20): **exact forms, no embellishment.** This is the "double-tapered, eye-like threshold linework" the repo refers to. The names Possibility and Relation are Bart's (Prompt 60). On Oct 18 Bart named the pair, with the threshold between them, The Thrum. On Oct 16 he called them "the threshold tattoo of possibility and relation."
 
-**Craft Sublime addition (5th office, Membrane Threshold, user-directed design lock)**
+**Craft Sublime addition (5th office, Membrane Threshold, user-directed design lock; not canonical yet, per Bart, Oct 18)**
 
 - **Emblem inheritance:** **enclosing circles**, meaning possibility, relation, permeability and a membrane that can change its own form.
 - **Placement:** paired, at the bilateral inguinal creases, which is where the Threshold marks already sit. These are two coordinated marks belonging to Rox, not one centred piece.
@@ -229,7 +229,7 @@ Rox reads her own skin as a developmental sequence she has been carrying around 
 - **Process states:** BEFORE (two enclosures) → HEMIFUSION (local joining) → PORE (opening) → AFTER (transformed enclosure), mapped to διά → THRESHOLD → OPENING → σύν.
 - **Enactment:** she widens or narrows her stance, or pivots through her hips. She always keeps a route out as well as in.
 - **Avoid:** replacing or redrawing her existing tattoos; claiming the pair is visible in ROX\_PRIMARY; a generic vesica piscis; an Egyptian, Greek or Mesopotamian label (her mark comes from the character's own mythology); sticker-style placement of a mark beside a circle; anything explicit. Treat the layouts as tattoo-design studies.
-- **Image status:** no Rox Craft Sublime draft exists yet. Every other figure except Him and Tessa has one.
+- **Image status:** no Rox Craft Sublime draft exists yet. Every other figure except Him and Tessa has one. Generating one is on HOLD (Bart, Oct 18).
 
 ## Rules for writing Rox
 
@@ -242,7 +242,7 @@ Rox reads her own skin as a developmental sequence she has been carrying around 
 7. **Never inevitable.** Nothing in the canon was "meant to bring her here." She is an unforeseen consequence, not a design goal.
 8. **Interface rules.** Him meets Rox. Bart doesn't normally address her and isn't addressed as her visitor. The Journey introduction is the one recorded exception, and it is not a precedent. Out-of-world workshops must be labelled OUT-OF-WORLD.
 9. **Visual lock.** Match ROX\_PRIMARY: copper-red hair, freckles, grey-green eyes, neck and both arms tattooed, no face tattoo. Never a generic tattooed redhead. Never move her tattoos onto Eleanor.
-10. **Tattoo discipline.** Use the exact Threshold forms from Bart's drawing, with no embellishment. Treat the Craft Sublime circles as an addition, never a retcon. Give them no false ancient lineage. Keep everything non-explicit.
+10. **Tattoo discipline.** Use the exact Thrum forms from Bart's drawing (open Y left, loop right), with no embellishment. Treat the Craft Sublime circles as an addition, never a retcon. Give them no false ancient lineage. Keep everything non-explicit.
 11. **Her secrets stay hers.** The circle's meaning, the story under the flowers and the contents of the ROXANNE envelope are hers to reveal. Don't invent answers for her.
 12. **Fiction levels.** "The real Rox" means a different level of her story. Never use it to infer any real person's identity.
 13. **Respect the Dreaming.** Her lecture touched a living tradition. When it comes up, she keeps it at arm's length and does not treat it as raw material for a universal mechanism.
@@ -281,14 +281,14 @@ Why it fits: a creature that leaves its old skin behind but stays itself. In her
 
 ## Open questions
 
-**Decisions for Bart**
+**Bart's decisions (Oct 18)**
 
-1. **Which thigh carries which mark?** In Prompt 60 you put Possibility on the right and Relation on the left. ChatGPT's narrative and your own drawing (Figure 20) put the open Y on the left and the closed loop on the right. *Working assumption in this bible: follow the drawing, open Y left and loop right.*
-2. **Eye colour.** The text never says. This bible uses light grey-green from the portrait. Lock it?
-3. **Face tattoo.** The tattoo map says "face/neck/arms" and the protocol says "neck and both arms." The portrait shows no face tattoo. *Recommend correcting the map line to neck and arms.*
-4. **Official name of the marks.** Is it "the Threshold of Possibility and Relation" (your Oct 16 phrase), or "the Possibility and Relation marks"?
-5. **Canonical status.** Amara's tattoo is now canonical. Rox's Craft Sublime design is still a user-directed design lock. Promote it to canonical?
-6. **A Craft Sublime image for Rox.** None exists yet. Generate ROX\_CRAFT\_SUBLIME\_TATTOO\_DRAFT\_01 as a non-explicit design study, with her face tied to ROX\_PRIMARY?
+1. **Thigh placement: locked.** Open Y (Possibility) on the **left** inner thigh, closed loop (Relation) on the **right**. This follows Bart's Figure 20 drawing. The opposite placement in Prompt 60 is superseded.
+2. **Eye colour: locked.** Light grey-green, from ROX\_PRIMARY.
+3. **No face tattoo.** Neck and both arms only. The tattoo map's "face/neck/arms" wording is corrected.
+4. **The marks are named The Thrum.** The pair of Threshold marks, Possibility and Relation, together with the bare skin between them, is **The Thrum**.
+5. **Canonical status: not yet.** Bart: the Craft Sublime design "isn't right yet." It stays a user-directed design lock, still being worked out.
+6. **Craft Sublime image: HOLD.** Don't generate a Rox tattoo draft until Bart lifts the hold.
 
 **Story threads still open**
 

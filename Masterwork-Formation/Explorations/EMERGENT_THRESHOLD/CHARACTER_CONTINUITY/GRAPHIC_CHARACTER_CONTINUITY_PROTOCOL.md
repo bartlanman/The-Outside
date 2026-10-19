@@ -94,3 +94,14 @@ Process companion: [CRAFT_SUBLIME_SEVENFOLD_FUSION_SYMBOL_PROCESS_2026-10-16.md]
 - **Fiction status:** Rox is wholly fictional. "The real Rox" (PART-005) and "the real-world person" (ET/03) mark a different level of her story; they are retained as source wording and never license inferring anyone's identity.
 - **Visual reminders confirmed against `ROX_PRIMARY.png` pixels:** copper-red hair loosely pinned up, heavy freckles, light grey-green eyes (the text never gives a colour), tattoos on neck and both arms (right-arm floral sleeve with a woman's face; left-forearm black-and-grey serpent), **no face tattoo**. The "face/neck/arms" wording in the tattoo map's Avoid line is unverified drift pending Bart's confirmation; this protocol's "neck and both arms" stands.
 - **Threshold marks:** the inner-thigh Possibility (open Y, διά) and Relation (loop on a stem, σύν) marks per Bart's Figure 20 drawing are the "existing Threshold tattoo" the Craft Sublime map builds on. Laterality is an open decision (working assumption: open Y left, loop right). No Rox Craft Sublime image exists yet.
+
+## Rox — user decisions (2026-10-18)
+
+**Authorial source:** "1. open Y left and loop right. 2. lock it 3. no face tattoo 4. The Thrum 5. i dont think it is right yet 6. hold"
+
+- **Thrum laterality:** open Y (Possibility, διά) on the **left** inner thigh; closed loop (Relation, σύν) on the **right**. Follows Bart's Figure 20 drawing; the reversed placement in Journey Prompt 60 is superseded.
+- **Eyes:** light grey-green, **locked**.
+- **Tattoo topology:** neck and both arms; **no face tattoo**. The tattoo map's "face/neck/arms" wording is corrected by a dated note in that file.
+- **Name:** the paired Threshold marks, with the uninscribed skin between them, are **The Thrum**.
+- **Craft Sublime design:** **not canonical** — "not right yet." Remains a user-directed design lock under revision.
+- **Craft Sublime image:** **HOLD**. Do not generate a Rox tattoo draft until Bart lifts it.
