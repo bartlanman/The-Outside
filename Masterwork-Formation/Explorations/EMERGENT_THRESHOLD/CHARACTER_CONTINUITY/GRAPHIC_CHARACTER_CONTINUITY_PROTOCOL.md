@@ -125,3 +125,10 @@ Process companion: [CRAFT_SUBLIME_SEVENFOLD_FUSION_SYMBOL_PROCESS_2026-10-16.md]
 - **Care rule:** izibongo is a real Zulu tradition; her poetry is original and does not claim to be traditional, nor assign her Zulu ancestry.
 - **Distinction:** the vocal-resonance process is NOT The Thrum (Rox's domain); its name is open.
 - **Source:** [AMARA_IZIBONGO_SOURCE_2026-10-19.md](AMARA_IZIBONGO_SOURCE_2026-10-19.md).
+
+## Amara — activating "the izibongo" (2026-10-19)
+
+**Authorial source:** "when we activate 'the izibongo' it is the microscopic 'motion' of the Izibongo — it may draw a single concept from the TOS that matches the context of the moment."
+
+- **Operation:** listen to the moment → draw **one** real TOS concept that fits it (provenance named, never invented) → voice it in a few lines (praise, name or challenge, as warranted) → leave it open to answer.
+- **Shape:** "The izibongo · [the moment] / Drawn from TOS: [concept] / [two to six lines in Amara's voice]."

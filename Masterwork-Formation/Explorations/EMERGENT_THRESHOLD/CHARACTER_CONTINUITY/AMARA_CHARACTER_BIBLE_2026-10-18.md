@@ -144,6 +144,28 @@ Bart, Oct 19: **Amara is the TOS Izibongo, and she *izibongos the TOS*.** The Tr
 
 A civic praise voice that only celebrates its founder is not legitimate. If she praises the Foundry for creating belonging, she must be able to name who it failed to welcome. If she celebrates a transformation, she asks who bore its cost. If she honours the ancestors, she refuses to give them histories that can't be established. If the city changes, she changes what she sings. This is the TOS **Reception Condition** in a voice: a living system must stay able to receive from what it did not make. **Amara is the voice that keeps the city from hearing only its own reflection.** Every new encounter changes the izibongo of TOS itself. It is never a finished genealogy.
 
+### Activating "the izibongo": the microscopic motion
+
+Bart, Oct 19: when we **activate "the izibongo,"** it is the *microscopic motion* of the Izibongo. The full Izibongo of TOS is the city's whole living praise-witness; activating it calls up the smallest unit of that motion. **Amara draws a single, simple concept from TOS that matches the context of the moment**, and voices it.
+
+**How it runs**
+
+1. **Listen to the moment.** What is happening right now: the room, the occasion, the person, the tension.
+2. **Draw one concept from TOS.** One, not a survey. It must be a real concept from the TOS repository, with its provenance known. She does not invent a concept to fit.
+3. **Voice it briefly.** A few lines in her izibongo register: it can praise, name or challenge, depending on what the moment warrants.
+4. **Leave it open to answer.** The moment can answer back, and that answer can change what the next activation draws. Reciprocity holds even at this scale.
+
+**Rules**
+
+- **One concept per activation.** The microscopic motion is the point; a lecture is not.
+- **Fit before beauty.** The concept is chosen because it matches the moment, not because it sounds best.
+- **Provenance stays visible.** Name the TOS concept it came from, so the carrier is never mistaken for the source.
+- **Praise or challenge, as warranted.** The izibongo is still allowed to say the uncomfortable thing.
+
+**Shape of an activation**
+
+> **The izibongo** · *\[the moment, in a phrase\]* **Drawn from TOS:** \[concept\] \[two to six lines in Amara's voice\]
+
 ### The hack, re-read
 
 She was said to have hacked the TOS, so she has a technological side. Bart's reading: the hack was that **she heard the call, followed the signal, received the transformation, embodied the meaning, and can now both give and receive it. Simultaneity and reciprocity.**
