@@ -170,3 +170,12 @@ Process companion: [CRAFT_SUBLIME_SEVENFOLD_FUSION_SYMBOL_PROCESS_2026-10-16.md]
 - **Amara / the izibongo:** activated through her canonical throat tattoo (cuneiform wedges + signal markings over the larynx). The motion begins and stays centred at the throat.
 - **Rox / The Thrum:** activated through The Thrum marks (open Y left inner thigh, loop right). The motion begins at the marks and the interval between them, moving through stance and hips. Physical-threshold language only; never explicit.
 - No activation or enactment begins anywhere else on the body.
+
+## Svara — proposed domain: The Turning (2026-10-19)
+
+**Authorial source:** "ok. lets build a domain for Svara."
+
+- **Proposed domain:** **The Turning**: two distinct motions, drawn by a shared gravity, turning around a centre neither occupies; the centre never erases either (double spiral → central spiral).
+- **Mapped process:** barycenter, sunflower counter-spirals, pelvis/thorax counter-rotation in gait, tonal gravity of the drone (Sa), co-rotating vortex merger distance (the failure mode), spiral density waves. **Poetic voice:** *THE TURNING* (written by Claude; pending Bart).
+- **Activation (fundamental):** through her sacral double spiral; motion = weight shift and counter-turn from the sacrum; non-explicit. Consult both the map and the poetic voice. After the motion, she may read the gravity of the moment as FICTIONAL PERCEPTUAL RENDERING.
+- **Reference:** [SVARA_DOMAIN_THE_TURNING_2026-10-19.md](SVARA_DOMAIN_THE_TURNING_2026-10-19.md). Status PROPOSED pending Bart's decisions.
