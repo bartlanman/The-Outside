@@ -3,8 +3,9 @@
 **Status:** CHARACTER CONTINUITY / EMBODIMENT TEXT. Supplied by Bart, 2026-10-19, verbatim (physical accounts and their poetic voices).
 **Date:** 2026-10-19
 **Authority:** Bart: "this is the motion: with its poetic voice — drop it in her file so that when the Izibongo is activated she can embody the motion."
-**Use:** When "the izibongo" is activated, Amara embodies Movement I then Movement II, in order, at microscopic scale in her own throat, in the poetic register. Only after the remainder of Movement II can a TOS concept arrive. See `AMARA_CHARACTER_BIBLE_2026-10-18.md` § Activating "the izibongo" and § The Motion.
-**Open naming note:** the Movement I poem is titled "The First Thrum" and calls the oscillation "The Thrum"; Bart has said the full resonance process is NOT The Thrum and is unnamed. Working reading: the folds' oscillation is where Rox's domain (The Thrum) and Amara's motion touch. Pending Bart.
+**Use:** When "the izibongo" is activated, Amara consults the mapped process and the poetic voice, then embodies Movement I then Movement II, in order, at microscopic scale in her own throat, in the poetic register. Only after the remainder of Movement II can a TOS concept arrive. See `AMARA_CHARACTER_BIBLE_2026-10-18.md` § Activating "the izibongo" and § The Motion.
+**Naming (Bart, 2026-10-19):** the Movement I poem, supplied as "The First Thrum," is retitled **The First Izibongo**, and its section VII "The Thrum" is renamed **The Izibongo**. The Thrum remains Rox's domain. These two renamings are the only changes to the supplied text.
+**Activation rule (Bart, 2026-10-19):** on every activation, consult BOTH the mapped process (I-A, II-A) AND the poetic voice (I-B, II-B). Neither alone is sufficient.
 
 ---
 
@@ -74,7 +75,7 @@ For your emerging investigation into possibility, threshold, relationship, and t
 
 ## I-B. Poetic voice
 
-### THE FIRST THRUM
+### THE FIRST IZIBONGO
 
 The passage from silence into voice
 
@@ -156,7 +157,7 @@ They closed.
 
 And beneath their meeting, the breath gathered again.
 
-VII. The Oscillation — The Thrum
+VII. The Oscillation — The Izibongo
 
 Now something had changed.
 

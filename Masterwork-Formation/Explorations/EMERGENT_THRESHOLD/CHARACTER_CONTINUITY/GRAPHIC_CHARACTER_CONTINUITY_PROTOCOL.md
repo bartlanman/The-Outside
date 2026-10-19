@@ -148,3 +148,10 @@ Process companion: [CRAFT_SUBLIME_SEVENFOLD_FUSION_SYMBOL_PROCESS_2026-10-16.md]
 - **Text:** [AMARA_THE_MOTION_2026-10-19.md](AMARA_THE_MOTION_2026-10-19.md): Movement I, the folds (physical account + "The First Thrum"); Movement II, the chamber (full vocal resonance process + "The Chamber That Answers"). Verbatim.
 - **On activation:** she embodies Movement I then II in order, microscopically, in the poetic voice; the TOS concept may arrive only after the remainder.
 - **Naming flag:** "The First Thrum" title vs. "NOT The Thrum" for the full process; pending Bart.
+
+## Amara — The Motion: naming and activation rule (2026-10-19)
+
+**Authorial source:** "change it to The First Izibongo & The izibongo — and make sure that when the izibongo is activated that the mapped out process is consulted and the poetic voice is consulted."
+
+- **Renamed:** "The First Thrum" → **The First Izibongo**; its oscillation "The Thrum" → **The Izibongo**. Supersedes the naming flag above. The Thrum stays Rox's.
+- **Activation rule:** every activation consults both the mapped physical process and the poetic voice before the motion is embodied.
