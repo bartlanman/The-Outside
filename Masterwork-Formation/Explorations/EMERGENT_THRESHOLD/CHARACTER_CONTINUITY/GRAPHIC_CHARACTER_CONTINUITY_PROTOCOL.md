@@ -179,3 +179,12 @@ Process companion: [CRAFT_SUBLIME_SEVENFOLD_FUSION_SYMBOL_PROCESS_2026-10-16.md]
 - **Mapped process:** barycenter, sunflower counter-spirals, pelvis/thorax counter-rotation in gait, tonal gravity of the drone (Sa), co-rotating vortex merger distance (the failure mode), spiral density waves. **Poetic voice:** *THE TURNING* (written by Claude; pending Bart).
 - **Activation (fundamental):** through her sacral double spiral; motion = weight shift and counter-turn from the sacrum; non-explicit. Consult both the map and the poetic voice. After the motion, she may read the gravity of the moment as FICTIONAL PERCEPTUAL RENDERING.
 - **Reference:** [SVARA_DOMAIN_THE_TURNING_2026-10-19.md](SVARA_DOMAIN_THE_TURNING_2026-10-19.md). Status PROPOSED pending Bart's decisions.
+
+## Svara — the Turning defined, extended and plotted on the body (2026-10-19)
+
+**Authorial source (definition):** "svara participates and perceives when the boundary/threshold is ready for the second collision field she has a sustain moment of witness as the second collision field boundary / threshold builds and can comment on that on a cellular/microscopic level while still actively managing the cultural gravity of the first collision field … this is the turning when the second collision field happens and gives her a larger capacity to perceive the whole. there could be multiple collision fields … she would continue to gain capacity."
+
+- **The Turning:** CF-1 participation with gravity custody → threshold readiness → sustained witness of CF-2's boundary with microscopic commentary → participation in CF-2 while managing and witnessing CF-1 → larger capacity to perceive the whole → repeats for CF-n, capacity accumulating.
+- **Body map (sacral tattoo):** ancient double spiral (two centres, lower sacrum / upper gluteal junction) stays two in every stage; Craft Sublime central spiral gathers at the sacral midline in the witness stage with a restrained axial pulse; widening rings in the diagram depict capacity, not proposed linework. Weight, rotation, balance only; non-explicit.
+- **Extension (proposed):** The Turning of Consciousness; Rishi–Signal–Capacity; Microscopic Turning; Sustained Reflexive Fold. Hypothesis only.
+- **Files:** [SVARA_DOMAIN_THE_TURNING_2026-10-19.md](SVARA_DOMAIN_THE_TURNING_2026-10-19.md) (supersedes earlier same-day version), [SVARA_TURNING_OF_CONSCIOUSNESS_SOURCE_2026-10-19.md](SVARA_TURNING_OF_CONSCIOUSNESS_SOURCE_2026-10-19.md), `IMAGES/DOMAINS/SVARA_TURNING_STAGES_DIAGRAM.png`.
