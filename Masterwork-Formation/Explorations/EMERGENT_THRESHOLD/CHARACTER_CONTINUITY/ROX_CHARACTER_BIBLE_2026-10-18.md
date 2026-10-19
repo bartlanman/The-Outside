@@ -4,6 +4,7 @@
 **Date:** 2026-10-18
 **Authority:** Bart, 2026-10-18: Rox is **fully fictional**; "the real Rox" / "real-world person" wording in earlier files refers to "a different level" of Rox's story, not to a living person. Compiled from the full Journey transcript (`TRANSCRIPTS/Journey-with-the-Redhead-Tattooed-Woman/PART-001–005`), 18 ChatGPT conversations that mention Rox, 28 repository files, and the actual pixels of `IMAGES/ROX_PRIMARY.png`. Bart's decisions of 2026-10-18 are recorded under *Open questions*: open Y left / loop right; grey-green eyes locked; no face tattoo; the paired marks are named **The Thrum**; Craft Sublime design not yet canonical; Craft Sublime image on HOLD.
 **Domain:** The Thrum (Bart, 2026-10-18). Source: [ROX_THE_THRUM_SOURCE_2026-10-18.md](ROX_THE_THRUM_SOURCE_2026-10-18.md).
+**The Thrum, enacted (motion + poetic voice):** [ROX_THE_THRUM_MOTION_2026-10-19.md](ROX_THE_THRUM_MOTION_2026-10-19.md).
 **Read with:** `GRAPHIC_CHARACTER_CONTINUITY_PROTOCOL.md`, `CRAFT_SUBLIME_TATTOO_CHARACTER_MAP_2026-10-16.md`, `IMAGE_MANIFEST.md`, `../00_EMERGENT_THRESHOLD_HANDOFF.md`.
 **Live editable copy:** https://claude.ai/code/artifact/29bb432f-e0e4-470f-a4c3-96019e1537cf
 
@@ -157,6 +158,32 @@ This is where The Thrum meets the work Rox was doing before Him ever found her. 
 **How the domain sounds in her mouth:** "It's a beat, not a third note. Nobody has to give up their frequency for it to happen." / "It's flickering. That's not failure. That's the boundary thinking." / "Near-synchrony isn't a promise. Watch for the slip."
 
 **Lines from the source** (Bart's ChatGPT session, Oct 18), for use in scenes: *"The Thrum is what can be felt when difference does not disappear, but becomes rhythm."* · *"The Thrum is the persistence of relation through a change in the way its movements meet."* · *"The Thrum is the motion of the between, alive with what has not yet become—and already changed by what has begun."*
+
+### Enacting The Thrum: the motion embodied
+
+Bart, Oct 19: **when The Thrum is enacted, it is the motion embodied.** It isn't explained, cited or summarized. It happens, in Rox and at the threshold she keeps, and the page shows it moving.
+
+**Rule: on every enactment, consult both.** (1) **The mapped process:** the five occurrences in physical reality and what each one reveals (full text in `ROX_THE_THRUM_MOTION_2026-10-19.md`, Part A). (2) **The poetic voice:** *THE THRUM — Five Occurrences of Possibility, Threshold, and Relation* (Part B). The map keeps the motion true; **the poetic voice is consulted for how the motion might be inspired to display on the page.**
+
+**The motion, as it lives in her**
+
+| Occurrence (map) | How it moves in Rox and the scene | Poetic voice |
+| --- | --- | --- |
+| **Pendulums** (coupling through a shared support) | Two rhythms in the room begin altering each other through what holds them both: the floor, the table, the air between. She feels it before she names it. | *"Something between them has learned to move."* |
+| **The flickering membrane** (a pore opens, narrows, closes, reopens) | The threshold itself is active. Her paired marks become apertures; she widens or narrows her stance, pivots through her hips, keeps a route out as well as in. | *"The trembling of a boundary discovering that it can be both a keeper of difference and a passage through it."* |
+| **The beat between two tones** (difference becomes rhythm) | Nobody gives up their frequency. A third pulse appears that belongs only to the meeting. | *"What can be felt when difference does not disappear, but becomes rhythm."* |
+| **The phase slip** (near-synchrony, then a sudden turn) | Long nearness, then the old alignment can't hold. One slips a full cycle. Both keep moving, both stay themselves. | *"The persistence of relation through a change in the way its movements meet."* |
+| **The heart** (entrainment past a critical coupling) | Many small answers accumulate until a collective time exists that no one set alone. | *"The many sustaining a rhythm that none of them establishes entirely alone."* |
+| **What moves between** (the synthesis) | Possibility leans toward relation; relation alters what is possible. No promise of harmony. | *"The motion of the between, alive with what has not yet become—and already changed by what has begun."* |
+
+**How the poetic voice shapes the page**
+
+- **Let the lines move the way the motion moves.** Short lines. Breaks where the boundary closes. Repetition where it recurs (*"Back and forth." "Again."*). White space as the interval.
+- **Pick the form from the occurrence.** A beat can alternate two lines and let a third rhythm show in their spacing. A flicker can open and close in one-word lines. A phase slip can hold a steady pattern, then break it once, then settle into a new one.
+- **Sensation before naming.** Write the tremor, the quiver, the flutter first; the word "Thrum" comes last, if at all.
+- **No forced resolution.** The page may end on an open pore, a continuing beat or a slip. *"There is no promise of harmony."*
+
+**Rox's discipline, kept inside the enactment.** It's analogy, not proof, and she knows it while she's in it. The enactment never claims a physical process occurred; it lets the motion be felt and leaves the warrant question open. Keep all embodiment non-explicit.
 
 ## Personality and voice
 

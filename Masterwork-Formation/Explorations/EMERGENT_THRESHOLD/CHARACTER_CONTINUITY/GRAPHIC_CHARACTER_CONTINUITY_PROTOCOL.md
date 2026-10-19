@@ -155,3 +155,10 @@ Process companion: [CRAFT_SUBLIME_SEVENFOLD_FUSION_SYMBOL_PROCESS_2026-10-16.md]
 
 - **Renamed:** "The First Thrum" → **The First Izibongo**; its oscillation "The Thrum" → **The Izibongo**. Supersedes the naming flag above. The Thrum stays Rox's.
 - **Activation rule:** every activation consults both the mapped physical process and the poetic voice before the motion is embodied.
+
+## Rox — enacting The Thrum (2026-10-19)
+
+**Authorial source:** "when the Thrum is enacted it is the motion embodied — and the poetic voice should be consulted for how it might be inspired to display on the page."
+
+- **Text:** [ROX_THE_THRUM_MOTION_2026-10-19.md](ROX_THE_THRUM_MOTION_2026-10-19.md): Part A, the mapped process (five occurrences); Part B, the poetic voice (I–VI). Verbatim.
+- **On enactment:** consult both; embody the motion (not explain it); let the poetic voice shape the page; no forced resolution; analogy, not proof; non-explicit.
