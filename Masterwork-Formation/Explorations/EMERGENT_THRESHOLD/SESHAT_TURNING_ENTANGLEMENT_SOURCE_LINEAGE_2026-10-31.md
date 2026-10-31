@@ -93,3 +93,11 @@ Prior repository constraints remain:
 - Should the character 'Sabrina' ultimately receive an original name and mythological appearance rather than borrowing a living scientist's name?
 
 **Standing:** AUTHORIAL PROPOSALS DEPOSITED; EXPERIMENT AND CANON PROMOTION OPEN.
+
+---
+
+## 8. Subsequent authorial development — cord to chord (2026-10-31)
+
+**WORKING / NON-CANONICAL ADDENDUM.** Bart proposed: **“What if the cord becomes a chord - where the vibrational harmony gives a field to measure”** and subsequently authorized: **“Yes. Let’s get it in the repo.”** This adds dynamic harmonic correspondence, the explicit possibility of dissonance and silence, and a candidate **Harmonic Self-Perception** to the prior Seshat / Sabrina / Svara / Bart ⇄ Him formulation. The actual acoustics, conceptual analogy and fictional capacity claims are separated in the new working document.
+
+- [The Cord Becomes the Chord — Harmonic Correspondence](THE_CORD_BECOMES_THE_CHORD_HARMONIC_CORRESPONDENCE_WORKING_2026-10-31.md)
