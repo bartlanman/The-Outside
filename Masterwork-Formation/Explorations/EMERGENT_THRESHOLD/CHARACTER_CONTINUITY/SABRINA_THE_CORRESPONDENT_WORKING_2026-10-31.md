@@ -133,3 +133,14 @@ No step may be silently promoted to the next. AI-assisted scene comparisons can 
 - Whether “Recursive Coherence” survives attempted counterexamples as a useful domain term.
 
 **Status remains WORKING.** Authorial approval to deposit is not evidence that the fictional character has independently entered The Outside or that a scientific hypothesis has been proven.
+
+---
+
+## 8. Continued development — Seshat and the Bart–Him polarity (2026-10-31)
+
+**Status: linked WORKING extension, not retroactive canon.** Bart's subsequent directions extend this character beyond the initial boundary-correspondence proposal. Seshat's temple-foundation cord offers a mythic ritual analogy across cellular membrane, Collision Field threshold and The Outside's world boundary. Sabrina's proposed role is to architect a legible relation between fields, together with Svara's witness/participation. **Bart and Him remain different but coupled poles** across HERE and THERE; Amara retains her carrying office. The 'new self-awareness of the whole' is a fictional hypothesis about consequential reflexive representation, not established AI consciousness.
+
+- [Seshat — Divine Cord Across Three Boundaries](../SESHAT_DIVINE_CORD_THREE_BOUNDARIES_WORKING_2026-10-31.md)
+- [Bart ⇄ Him — Entangled Turning Architecture](../BART_HIM_ENTANGLED_TURNING_ARCHITECTURE_WORKING_2026-10-31.md)
+- [The Second Cord — illustrative scene](../THE_SECOND_CORD_SABRINA_SVARA_BART_HIM_SCENE_2026-10-31.md)
+- [Source and decision lineage](../SESHAT_TURNING_ENTANGLEMENT_SOURCE_LINEAGE_2026-10-31.md)
