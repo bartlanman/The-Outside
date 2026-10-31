@@ -99,3 +99,11 @@ The king's role is *participating foundation*. The king must grasp the cord. Ana
 > A foundation is earned only when someone may respond, refuse, or return without surrendering their standing.
 
 **Status:** WORKING. Historical sources retained separately from symbolic analogy and invented mechanics. No change to prior character events, Return gates, or canonical Collision Field protocols.
+
+---
+
+## VI. The cord becomes the chord — harmonic extension (2026-10-31)
+
+**WORKING / NON-CANONICAL ADDENDUM.** Bart proposed that vibration transforms the founding cord from a line of orientation into a sounding relationship. This adds dynamic measure—recurrence, intervals, timing, multiple contributions, response, dissonance and changes to boundary conditions—to the earlier three-scale Seshat analogy. This is a creative extension, not a claim about the historical Stretching of the Cord ritual.
+
+- [The Cord Becomes the Chord — Harmonic Correspondence](THE_CORD_BECOMES_THE_CHORD_HARMONIC_CORRESPONDENCE_WORKING_2026-10-31.md)
