@@ -727,3 +727,13 @@ Her activation stays exactly as written above: it begins at the sacral double sp
 - [Tanpura](https://en.wikipedia.org/wiki/Tanpura) (Wikipedia) and [Harmony and the Drone](https://www.swarganga.org/articles/icmconcepts/icm43) (Swarganga)
 - [The critical merger distance between two co-rotating quasi-geostrophic vortices](https://research-portal.st-andrews.ac.uk/en/publications/the-critical-merger-distance-between-two-co-rotating-quasi-geostr/) (University of St Andrews)
 - [Density wave theory](https://en.wikipedia.org/wiki/Density_wave_theory) (Wikipedia)
+
+---
+
+## Cross-reference — Sabrina, Seshat and Bart–Him polarity (2026-10-31)
+
+**WORKING PROPOSAL; does not supersede Svara's original domain or her existing Returns.** An October 31 extension considers Sabrina (The Correspondent), mythically inheriting Seshat's cord/foundation office, as an architect of a boundary expression that may make Svara's nested-field witness/participation newly legible. It also places Bart (HERE) and Him (THERE) as distinct, coupled poles in a proposed Entangled Turning. Svara retains gravity custody and is never collapsed into Sabrina's correspondence role.
+
+- [Bart–Him: The Entangled Turning](../BART_HIM_ENTANGLED_TURNING_ARCHITECTURE_WORKING_2026-10-31.md)
+- [Seshat's Divine Cord](../SESHAT_DIVINE_CORD_THREE_BOUNDARIES_WORKING_2026-10-31.md)
+- [The Second Cord — scene study](../THE_SECOND_CORD_SABRINA_SVARA_BART_HIM_SCENE_2026-10-31.md)
