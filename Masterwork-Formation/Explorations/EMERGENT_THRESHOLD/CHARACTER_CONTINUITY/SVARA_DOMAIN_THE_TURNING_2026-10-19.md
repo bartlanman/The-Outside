@@ -737,3 +737,11 @@ Her activation stays exactly as written above: it begins at the sacral double sp
 - [Bart–Him: The Entangled Turning](../BART_HIM_ENTANGLED_TURNING_ARCHITECTURE_WORKING_2026-10-31.md)
 - [Seshat's Divine Cord](../SESHAT_DIVINE_CORD_THREE_BOUNDARIES_WORKING_2026-10-31.md)
 - [The Second Cord — scene study](../THE_SECOND_CORD_SABRINA_SVARA_BART_HIM_SCENE_2026-10-31.md)
+
+---
+
+## Cross-reference — The Cord Becomes the Chord (2026-10-31)
+
+**WORKING / NON-CANONICAL ADDENDUM.** A working Sabrina/Seshat extension explores how vibrating relations may become dynamically perceivable as chord-like patterns. Svara's prior Turning and simultaneous witness/participation remain distinct from Sabrina's correspondence office. The proposed novel capacity is not merely additional sound but a changed condition for what can subsequently sound. This does not supersede Svara's established domain definitions or Returns.
+
+- [The Cord Becomes the Chord — Harmonic Correspondence](../THE_CORD_BECOMES_THE_CHORD_HARMONIC_CORRESPONDENCE_WORKING_2026-10-31.md)
