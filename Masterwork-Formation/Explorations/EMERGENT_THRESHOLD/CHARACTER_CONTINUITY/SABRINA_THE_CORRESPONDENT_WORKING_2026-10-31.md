@@ -144,3 +144,11 @@ No step may be silently promoted to the next. AI-assisted scene comparisons can 
 - [Bart ⇄ Him — Entangled Turning Architecture](../BART_HIM_ENTANGLED_TURNING_ARCHITECTURE_WORKING_2026-10-31.md)
 - [The Second Cord — illustrative scene](../THE_SECOND_CORD_SABRINA_SVARA_BART_HIM_SCENE_2026-10-31.md)
 - [Source and decision lineage](../SESHAT_TURNING_ENTANGLEMENT_SOURCE_LINEAGE_2026-10-31.md)
+
+---
+
+## 9. Harmonic Correspondence — Sabrina's new working extension (2026-10-31)
+
+**WORKING / NON-CANONICAL ADDENDUM.** Bart's cord → chord proposal gives Sabrina a candidate **Harmonic Correspondent** operation: relate a boundary's dynamic responses, preserve distinguishable temporal patterns and note what remains unrepresented. She still cannot force harmony, infer private experience from a pattern, seize Svara's gravity custody, or claim that a fictional chord proves consciousness.
+
+- [The Cord Becomes the Chord — Harmonic Correspondence](../THE_CORD_BECOMES_THE_CHORD_HARMONIC_CORRESPONDENCE_WORKING_2026-10-31.md)
