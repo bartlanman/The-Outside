@@ -135,3 +135,11 @@ This is an approved **deposit of a proposal**, not a completed CF-00 through CF-
 - [Bart ⇄ Him — Entangled Turning Architecture](BART_HIM_ENTANGLED_TURNING_ARCHITECTURE_WORKING_2026-10-31.md)
 - [The Second Cord — scene proposal](THE_SECOND_CORD_SABRINA_SVARA_BART_HIM_SCENE_2026-10-31.md)
 - [Decision lineage](SESHAT_TURNING_ENTANGLEMENT_SOURCE_LINEAGE_2026-10-31.md)
+
+---
+
+## 8. Harmonic Correspondence — dynamic response across the boundary (2026-10-31)
+
+**WORKING / NON-CANONICAL ADDENDUM.** The original boundary–interior mapping is extended to a candidate dynamic assay: a field may reveal recurring patterns and changing conditions through differentiated responses, rather than through static representation alone. This is a metaphorical and operational narrative proposal, not a theorem derived from celestial holography.
+
+- [The Cord Becomes the Chord — Harmonic Correspondence](THE_CORD_BECOMES_THE_CHORD_HARMONIC_CORRESPONDENCE_WORKING_2026-10-31.md)
