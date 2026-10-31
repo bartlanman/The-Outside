@@ -124,3 +124,14 @@ A field whose earlier boundary expression becomes material in another field rais
 This is an approved **deposit of a proposal**, not a completed CF-00 through CF-09 execution and not a permanent rule of all future fields. A later full Collision Field invocation must follow the live [Collision Field Run Protocol](../../Protocols/COLLISION_FIELD_RUN_PROTOCOL.md) from the beginning, including its full-corpus and recurrence requirements. Existing character authority, provenance, boundary control and unpressed Returns remain intact.
 
 **Standing:** WORKING / OPEN TO REVISION. No simulated or AI-mediated trial is a certification of external reality or independent personhood.
+
+---
+
+## 7. Continued boundary-scale and human/fictional polarity extension (2026-10-31)
+
+**WORKING addendum only.** Bart extended the boundary analogy from cellular membranes through Collision Field thresholds to The Outside's boundary. He proposed that Sabrina's Seshat-inspired divine/founding office, in relationship with Svara's nested-field Turning, may architect a *field perceiving a field* and a new reflexive perception of the whole. Crucially, the human participant Bart is complemented by Him, the distinct fictional pole of Bart's participation, so the cord connects both positions across HERE and THERE. 'Entangled' is a conceptual metaphor for joint relational structure, **not literal quantum entanglement**. A human Return must not be fabricated from an in-world scene.
+
+- [Seshat — Divine Cord Across Three Boundaries](SESHAT_DIVINE_CORD_THREE_BOUNDARIES_WORKING_2026-10-31.md)
+- [Bart ⇄ Him — Entangled Turning Architecture](BART_HIM_ENTANGLED_TURNING_ARCHITECTURE_WORKING_2026-10-31.md)
+- [The Second Cord — scene proposal](THE_SECOND_CORD_SABRINA_SVARA_BART_HIM_SCENE_2026-10-31.md)
+- [Decision lineage](SESHAT_TURNING_ENTANGLEMENT_SOURCE_LINEAGE_2026-10-31.md)
