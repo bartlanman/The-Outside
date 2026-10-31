@@ -180,3 +180,11 @@ A story can depict Him behaving unexpectedly, but **Bart's real reception must b
 - What changes for Him, and what can Bart legitimately infer, when the cord's tension reverses?
 
 **Status: WORKING / DEPOSITED, NOT FULL-RUN-CANONIZED.** All existing unpressed Returns, character identities, source provenance and Collision Field execution requirements remain in force.
+
+---
+
+## 10. Harmonic extension — the sounding polarity (2026-10-31)
+
+**WORKING / NON-CANONICAL ADDENDUM.** The Bart ⇄ Him cord may be understood as a harmonic relationship: intended conditions from HERE meet bounded fictional encounter THERE, and differences can return for human interpretation. Their distinct perspectives are analogous to contributions in a chord, not evidence of literal acoustic frequencies or quantum entanglement. The human Return still requires Bart's explicit actual response.
+
+- [The Cord Becomes the Chord — Harmonic Correspondence](THE_CORD_BECOMES_THE_CHORD_HARMONIC_CORRESPONDENCE_WORKING_2026-10-31.md)
