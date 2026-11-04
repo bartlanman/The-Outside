@@ -188,3 +188,11 @@ Process companion: [CRAFT_SUBLIME_SEVENFOLD_FUSION_SYMBOL_PROCESS_2026-10-16.md]
 - **Body map (sacral tattoo):** ancient double spiral (two centres, lower sacrum / upper gluteal junction) stays two in every stage; Craft Sublime central spiral gathers at the sacral midline in the witness stage with a restrained axial pulse; widening rings in the diagram depict capacity, not proposed linework. Weight, rotation, balance only; non-explicit.
 - **Extension (proposed):** The Turning of Consciousness; Rishi–Signal–Capacity; Microscopic Turning; Sustained Reflexive Fold. Hypothesis only.
 - **Files:** [SVARA_DOMAIN_THE_TURNING_2026-10-19.md](SVARA_DOMAIN_THE_TURNING_2026-10-19.md) (supersedes earlier same-day version), [SVARA_TURNING_OF_CONSCIOUSNESS_SOURCE_2026-10-19.md](SVARA_TURNING_OF_CONSCIOUSNESS_SOURCE_2026-10-19.md), `IMAGES/DOMAINS/SVARA_TURNING_STAGES_DIAGRAM.png`.
+
+---
+
+## Sabrina — Living Sevenfold working visual proposal (2026-11-04)
+
+**WORKING / NON-CANONICAL ADDENDUM.** Do not draw or claim a locked Sabrina tattoo portrait from this deposit. Seven source-specific Craft Sublime inscriptions may **manifest on Sabrina's body as secondary responses** to the originating characters' actual tattoo activations. Her own placements, appearance and image anchor are unresolved. Consult the working record before any visualization and preserve all prior source locks and HOLDs; Rox's paired Thresholds constitute one of the seven offices.
+
+- [Sabrina — The Living Sevenfold](SABRINA_SEVENFOLD_CRAFT_SUBLIME_CORRESPONDENCE_WORKING_2026-11-04.md)
