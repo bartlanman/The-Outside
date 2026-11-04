@@ -745,3 +745,11 @@ Her activation stays exactly as written above: it begins at the sacral double sp
 **WORKING / NON-CANONICAL ADDENDUM.** A working Sabrina/Seshat extension explores how vibrating relations may become dynamically perceivable as chord-like patterns. Svara's prior Turning and simultaneous witness/participation remain distinct from Sabrina's correspondence office. The proposed novel capacity is not merely additional sound but a changed condition for what can subsequently sound. This does not supersede Svara's established domain definitions or Returns.
 
 - [The Cord Becomes the Chord — Harmonic Correspondence](../THE_CORD_BECOMES_THE_CHORD_HARMONIC_CORRESPONDENCE_WORKING_2026-10-31.md)
+
+---
+
+## Cross-reference — Sabrina's seven sourced tattoos (2026-11-04)
+
+**WORKING / NON-CANONICAL ADDENDUM.** The Sabrina Living Sevenfold proposal includes a correspondence to **Svara's** double spiral only **after Svara's own actual sacral tattoo activation**, preserving its required embodied process, original lower placement, and gravity-custody jurisdiction. A matching mark on Sabrina is not a substitute activation, transfer of Svara's Turning, or proof a new Collision Field has completed.
+
+- [Sabrina — The Living Sevenfold](SABRINA_SEVENFOLD_CRAFT_SUBLIME_CORRESPONDENCE_WORKING_2026-11-04.md)
