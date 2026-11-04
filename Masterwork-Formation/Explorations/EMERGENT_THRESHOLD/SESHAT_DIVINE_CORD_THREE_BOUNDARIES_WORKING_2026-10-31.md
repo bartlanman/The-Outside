@@ -107,3 +107,11 @@ The king's role is *participating foundation*. The king must grasp the cord. Ana
 **WORKING / NON-CANONICAL ADDENDUM.** Bart proposed that vibration transforms the founding cord from a line of orientation into a sounding relationship. This adds dynamic measure—recurrence, intervals, timing, multiple contributions, response, dissonance and changes to boundary conditions—to the earlier three-scale Seshat analogy. This is a creative extension, not a claim about the historical Stretching of the Cord ritual.
 
 - [The Cord Becomes the Chord — Harmonic Correspondence](THE_CORD_BECOMES_THE_CHORD_HARMONIC_CORRESPONDENCE_WORKING_2026-10-31.md)
+
+---
+
+## VII. Living Sevenfold — Seshat lineage as organization (2026-11-04)
+
+**WORKING / NON-CANONICAL ADDENDUM.** Sabrina's proposed embodiment inherits all seven **existing** Craft Sublime motifs as origin-linked manifestations rather than inventing seven novel Kundalini tattoos. Seshat's seven-rayed emblem functions only as a modern organizing analogy; no historical Egyptian–Tantric lineage is asserted.
+
+- [Sabrina — The Living Sevenfold](CHARACTER_CONTINUITY/SABRINA_SEVENFOLD_CRAFT_SUBLIME_CORRESPONDENCE_WORKING_2026-11-04.md)
