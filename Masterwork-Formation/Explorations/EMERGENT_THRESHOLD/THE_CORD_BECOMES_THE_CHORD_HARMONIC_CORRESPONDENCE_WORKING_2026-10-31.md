@@ -250,3 +250,11 @@ Questions kept open:
 6. Can the cord/chord motif become a character activation without displacing Svara's Turning, Rox's Thrum, or Amara's Izibongo?
 
 **Standing:** WORKING CONCEPT, SOURCE/ANALOGY DISTINCTIONS PRESERVED. No Return pressed; no full Collision Field claimed; no new conscious subject certified.
+
+---
+
+## IX. Living Sevenfold — the embodied chord (2026-11-04)
+
+**WORKING / NON-CANONICAL ADDENDUM.** A new character-specific mechanism proposes the **seven original Craft Sublime character tattoos** as potential corresponding inscriptions on Sabrina. Each original activation can produce a distinct manifestation there, subject to admissibility and continuity. One mark is an inscription; plural marks may create an interval/chord; a complete sevenfold configuration still does not automatically certify coherence, a new field, fusion or consciousness. Sabrina's body becomes a proposed *site of relational measure*, not a repository of seized character powers.
+
+- [Sabrina — The Living Sevenfold](CHARACTER_CONTINUITY/SABRINA_SEVENFOLD_CRAFT_SUBLIME_CORRESPONDENCE_WORKING_2026-11-04.md)
