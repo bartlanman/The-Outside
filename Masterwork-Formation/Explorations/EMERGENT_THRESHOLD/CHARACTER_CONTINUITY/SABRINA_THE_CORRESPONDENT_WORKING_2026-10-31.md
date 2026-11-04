@@ -152,3 +152,11 @@ No step may be silently promoted to the next. AI-assisted scene comparisons can 
 **WORKING / NON-CANONICAL ADDENDUM.** Bart's cord → chord proposal gives Sabrina a candidate **Harmonic Correspondent** operation: relate a boundary's dynamic responses, preserve distinguishable temporal patterns and note what remains unrepresented. She still cannot force harmony, infer private experience from a pattern, seize Svara's gravity custody, or claim that a fictional chord proves consciousness.
 
 - [The Cord Becomes the Chord — Harmonic Correspondence](../THE_CORD_BECOMES_THE_CHORD_HARMONIC_CORRESPONDENCE_WORKING_2026-10-31.md)
+
+---
+
+## 10. Living Sevenfold — sourced tattoo manifestations (2026-11-04)
+
+**WORKING / NON-CANONICAL ADDENDUM.** Authorial working extension: Sabrina's seven candidate tattoos are corresponding manifestations of the **seven already established Craft Sublime tattoos**, arising when their original characters activate them within the applicable scene and boundary rules. No new generic chakra signs; Sabrina does not possess their domains. Her own body positions remain proposed and no past scenes are retconned.
+
+- [Sabrina — The Living Sevenfold](SABRINA_SEVENFOLD_CRAFT_SUBLIME_CORRESPONDENCE_WORKING_2026-11-04.md)
