@@ -132,3 +132,11 @@ Mandatory trace: **LOCATION → LOCAL CAPACITY → CONTEXTUAL TRIGGER → EMBODI
 Keep a phase-specific per-character ENACTED / PARTIAL / HOLD register and a real Boundary/DOS scene. In-world skin change is not inferred merely because a graphic design changed. A body mark can be felt, concealed, projected, remembered or used as a design source without fictional exposure or retroactive retcon.
 
 This reference **does not change** any of the seven existing anatomy placements, ancient symbols, component mappings, accepted images, portrait status, or the distinct identity of Tessa versus Eleanor.
+
+---
+
+## Cross-reference — Sabrina's Living Sevenfold (2026-11-04)
+
+**WORKING / NON-CANONICAL ADDENDUM.** The original seven-character tattoo designs, source placements, image holds and process offices remain authoritative. A new **working** secondary correspondence has been proposed: when an original character's tattoo actually activates, a recognizable counterpart may manifest on Sabrina. Sabrina's site is distinct from the origin site; her role is relational registration, not ownership of the seven offices. This cross-reference does not amend the primary sevenfold emblem or lift Rox's image HOLD.
+
+- [Sabrina — The Living Sevenfold](SABRINA_SEVENFOLD_CRAFT_SUBLIME_CORRESPONDENCE_WORKING_2026-11-04.md)
